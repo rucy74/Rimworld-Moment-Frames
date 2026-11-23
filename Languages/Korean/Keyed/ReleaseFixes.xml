@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Bridge_Preparing>공유할 사진을 준비하고 있어요. 원본 사진은 그대로 보관해요.</MF_Bridge_Preparing>
+  <MF_Bridge_PrepareFailed>공유할 사진을 준비하지 못했어요. 전송하지 않았으니 다시 시도하거나 앨범에서 사진을 다시 선택해 주세요.</MF_Bridge_PrepareFailed>
+  <MF_Bridge_ImageInvalid>이 사진 파일을 읽을 수 없어요. 앨범에서 사진의 보관 상태를 확인해 주세요.</MF_Bridge_ImageInvalid>
+  <MF_Extras_Scanning>사진 폴더를 확인하고 있어요… {0}개 확인</MF_Extras_Scanning>
+</LanguageData>

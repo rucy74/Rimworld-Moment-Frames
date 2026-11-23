@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>marco de foto</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Un pequeño marco de pared para una fotografía de la colonia. Selecciónalo para elegir o cambiar la foto; conserva la foto al desinstalarlo y moverlo. Debe colgarse de un muro. Se fabrica en el banco artístico; la calidad determina su belleza.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>marco de foto ancho</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Un marco de pared de dos casillas, más ancho que el pequeño: pensado para fotografías anchas. Solo se cuelga en muros horizontales. Conserva su foto al moverlo. Se fabrica en el banco artístico; la calidad determina su belleza.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>caballete de foto</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Un caballete independiente (2x2) que muestra una fotografía de la colonia lo bastante grande como para distinguir a la gente que aparece en ella. Se puede colocar en cualquier lugar y mover después sin perder la foto. Se fabrica en el banco artístico; la calidad determina su belleza.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>panel expositor de foto</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Un gran panel expositor independiente (3x2) para una fotografía de la colonia, la forma más grande de mostrar un momento. Se puede mover sin perder la foto. Se fabrica en el banco artístico; la calidad determina su belleza.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>tablero de collage fotográfico</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Un tablero independiente con paspartú (3x2) y cuatro ventanas iguales para fotografías de la colonia; cada foto se recorta para llenar su ventana. Elige una foto para cada ventana; las ventanas vacías se quedan en blanco. Se puede mover sin perder las fotos. Se fabrica en el banco artístico.</MF_PhotoCollage.description>
+  <MF_Projector.label>proyector de diapositivas</MF_Projector.label>
+  <MF_Projector.description>Proyecta fotografías de la colonia delante de él. Elige una fotografía fija o una película, y un tamaño predefinido o un ancho y un alto personalizados. El control de orden de dibujo coloca la imagen detrás o delante de los objetos. Las películas normales cambian en tiempo real; las de la noche de recuerdos cambian con el reloj de juego del evento. Los colonos pueden verlo como recreación. No necesita electricidad. Colócalo desde Varios, junto a las herramientas de fotos; los colonos lo construyen con el material elegido.</MF_Projector.description>
+  <MF_MemorialFrame.label>soporte conmemorativo de foto</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Un pequeño marco de pie para poner junto a una tumba o un sarcófago. Por sí solo muestra la última fotografía de la persona enterrada a su lado; también puedes elegir una foto a mano. Está vacío hasta que haya al lado una tumba con un cuerpo. Se fabrica en el banco artístico.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>punto de foto</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Marca dónde se toman las fotos grupales. Selecciónalo y presiona 'Foto grupal': todos los colonos del mapa que estén despiertos y libres se colocan en fila detrás de él (al norte, los más jóvenes delante), miran a la cámara y la foto se toma cuando todos están quietos. Deja piso libre detrás del punto para las filas. Se coloca al instante y no cuesta nada.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>árbol de recuerdos</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Un expositor de madera para 35 fotografías de la colonia. Las fotos nuevas llenan las ramas vacías y después sustituyen a la foto no fijada más antigua. Elige y fija tus favoritas o filtra las fotos automáticas por tipo. Se fabrica en el banco artístico; conserva sus fotografías al moverlo.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fondo de estudio fotográfico</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Un fondo de lona para retratos familiares y grupales. Selecciónalo para elegir a los participantes. Todos se reúnen delante del fondo y se toma una fotografía automáticamente. El encuadre automático incluye tanto a las personas como el fondo. Hasta quince participantes de pie; los bebés van en brazos de un tutor. Gíralo antes de construirlo para fijar la dirección de la pose.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>arco de jardín fotográfico</MF_StudioArch.label>
+  <MF_StudioArch.description>Un arco circular para retratos al aire libre. Usa la misma selección de participantes y el mismo encuadre automático que el fondo de estudio. Deja libre la zona de pose marcada. Los bebés van con un tutor. Gíralo antes de construirlo para fijar la dirección de la pose.</MF_StudioArch.description>
+  <MF_StudioSofa.label>sofá de estudio fotográfico (utilería)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Un sofá de retrato de tres plazas. Colócalo dentro de la zona de pose de un estudio, mirando en la misma dirección que el fondo. Los participantes ocupan estas plazas antes que las filas de pie. Usa el dibujo habitual de los personajes, sin una animación nueva de sentarse. Es utilería para posar, no un asiento para comer o para la recreación diaria.</MF_StudioSofa.description>
+  <MF_StudioBench.label>banco de estudio fotográfico (utilería)</MF_StudioBench.label>
+  <MF_StudioBench.description>Un banco acolchado de tres plazas para retratos. Colócalo en la zona de pose mirando en la misma dirección que el fondo. Es utilería para posar, no un asiento para comer o para la recreación diaria.</MF_StudioBench.description>
+  <MF_StudioChair.label>sillón de estudio fotográfico (utilería)</MF_StudioChair.label>
+  <MF_StudioChair.description>Un sillón individual para retratos. Colócalo en el centro, delante, para quien cumple años, o agrégalo a la zona de pose del estudio. Es utilería para posar, no un asiento para comer o para la recreación diaria.</MF_StudioChair.description>
+  <MF_StudioLamp.label>foco de estudio fotográfico</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Un foco de retrato eléctrico. El modo automático lo enciende mientras el estudio más cercano de la misma habitación (a diez casillas como máximo) reúne al grupo o espera para repetir la foto. Al disolver el grupo se apaga. Los modos Encendido y Apagado anulan el control automático. Las fotografías de estudio conservan esta iluminación.</MF_StudioLamp.description>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>valokuvakehys</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Pieni seinälle ripustettava kehys yhdelle yhdyskunnan valokuvalle. Valitse kehys, kun haluat valita tai vaihtaa kuvan; kuva säilyy, kun kehys irrotetaan ja siirretään. Täytyy ripustaa seinälle. Valmistetaan veistäjän pöydällä; laatu määrää sen kauneuden.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>leveä valokuvakehys</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Kahden ruudun levyinen seinälle ripustettava kehys, pientä leveämpi: tehty leveille valokuville. Ripustetaan vain vaakasuorille seinille. Kuva säilyy siirrettäessä. Valmistetaan veistäjän pöydällä; laatu määrää sen kauneuden.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>valokuvateline</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Vapaasti seisova teline (2x2), jossa yhdyskunnan valokuva näkyy niin suurena, että ihmiset erottaa. Voidaan sijoittaa minne tahansa ja siirtää myöhemmin kuvaa menettämättä. Valmistetaan veistäjän pöydällä; laatu määrää sen kauneuden.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>valokuvataulu</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Suuri vapaasti seisova taulu (3x2) yhdyskunnan valokuvalle, suurin tapa esittää hetki. Siirrettävissä kuvaa menettämättä. Valmistetaan veistäjän pöydällä; laatu määrää sen kauneuden.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>kollaasitaulu</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Vapaasti seisova paspatuuritaulu (3x2), jossa on neljä samankokoista ikkunaa yhdyskunnan valokuville; kukin kuva rajataan täyttämään ikkunansa. Valitse kuva jokaiseen ikkunaan; valitsematta jääneet ikkunat pysyvät tyhjinä. Siirrettävissä kuvia menettämättä. Valmistetaan veistäjän pöydällä.</MF_PhotoCollage.description>
+  <MF_Projector.label>diaprojektori</MF_Projector.label>
+  <MF_Projector.description>Heijastaa yhdyskunnan valokuvia eteensä. Valitse yksi kiinteä kuva tai filmi sekä valmis tai oma leveys ja korkeus. Järjestys-säädin sijoittaa kuvan esineiden taakse tai eteen. Tavalliset filmit vaihtuvat reaaliajassa; muistoillan filmit vaihtuvat tapahtuman pelinsisäisen kellon mukaan. Yhdyskuntalaiset voivat katsella sitä hupina. Ei tarvitse energiaa. Sijoita se Sekalaiset-valikosta valokuvatyökalujen vierestä; yhdyskuntalaiset rakentavat sen valitusta materiaalista.</MF_Projector.description>
+  <MF_MemorialFrame.label>muistoteline</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Pieni seisova kehys haudan tai sarkofagin viereen. Se näyttää itsestään tuoreimman kuvan vieressä haudatusta henkilöstä; kuvan voi myös valita käsin. Tyhjä, kunnes vieressä on hauta, jossa on ruumis. Valmistetaan veistäjän pöydällä.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>kuvauspaikka</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Merkitsee paikan, jossa ryhmäkuvat otetaan. Valitse se ja paina 'Ryhmäkuva': jokainen kartalla oleva hereillä ja vapaana oleva yhdyskuntalainen asettuu riviin sen taakse (pohjoiseen, nuorimmat edessä) ja kääntyy kameraan päin, ja kuva otetaan, kun kaikki seisovat paikoillaan. Jätä paikan taakse avointa lattiaa riveille. Sijoitetaan heti, ei maksa mitään.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>muistopuu</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Puinen teline 35 yhdyskunnan valokuvalle. Uudet kuvat täyttävät tyhjät oksat ja korvaavat sitten vanhimman kiinnittämättömän kuvan. Valitse ja kiinnitä suosikit tai suodata automaattisia kuvia lajin mukaan. Valmistetaan veistäjän pöydällä; kuvat säilyvät siirrettäessä.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>studiotausta</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Kangastausta perhe- ja ryhmämuotokuville. Valitse se, kun haluat valita osallistujat. Kaikki kokoontuvat taustan eteen ja kuva otetaan automaattisesti. Automaattinen rajaus sisältää sekä ihmiset että taustan. Enintään viisitoista seisovaa osallistujaa; vauvat kulkevat huoltajan sylissä. Kierrä ennen rakentamista, niin asetat poseeraussuunnan.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>puutarhakaari</MF_StudioArch.label>
+  <MF_StudioArch.description>Pyöreä kaari ulkomuotokuville. Käyttää samaa osallistujien valintaa ja automaattista rajausta kuin studiotausta. Pidä merkitty poseerausalue vapaana. Vauvat kulkevat huoltajan mukana. Kierrä ennen rakentamista, niin asetat poseeraussuunnan.</MF_StudioArch.description>
+  <MF_StudioSofa.label>studiosohva (rekvisiitta)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Kolmen paikan muotokuvasohva. Sijoita se studion poseerausalueelle samaan suuntaan kuin tausta. Osallistujat käyttävät näitä paikkoja ennen seisovia rivejä. Käyttää tavallista hahmopiirtoa ilman uutta istumisanimaatiota. Poseerausrekvisiitta, ei istuin jokapäiväiseen ruokailuun tai hupiin.</MF_StudioSofa.description>
+  <MF_StudioBench.label>studiopenkki (rekvisiitta)</MF_StudioBench.label>
+  <MF_StudioBench.description>Kolmen paikan pehmustettu penkki muotokuville. Sijoita se poseerausalueelle samaan suuntaan kuin tausta. Poseerausrekvisiitta, ei istuin jokapäiväiseen ruokailuun tai hupiin.</MF_StudioBench.description>
+  <MF_StudioChair.label>studionojatuoli (rekvisiitta)</MF_StudioChair.label>
+  <MF_StudioChair.description>Yksittäinen muotokuvatuoli. Sijoita se eteen keskelle syntymäpäiväsankarille tai lisää se studion poseerausalueelle. Poseerausrekvisiitta, ei istuin jokapäiväiseen ruokailuun tai hupiin.</MF_StudioChair.description>
+  <MF_StudioLamp.label>studiovalaisin</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Sähkökäyttöinen muotokuvavalaisin. Automaattitilassa se syttyy, kun lähin samassa huoneessa (enintään kymmenen ruudun päässä) oleva studio kokoaa ryhmää tai odottaa uusintakuvia. Ryhmän poistaminen sammuttaa sen. Päällä- ja Pois-tilat ohittavat automaattisen ohjauksen. Studiokuvat säilyttävät tämän valaistuksen.</MF_StudioLamp.description>
+</LanguageData>

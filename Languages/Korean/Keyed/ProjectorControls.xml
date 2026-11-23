@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ProjectorFilmButton>필름 고르기\n{0}</MF_ProjectorFilmButton>
+  <MF_ProjectorCurrentFilm>현재 상영: {0}</MF_ProjectorCurrentFilm>
+  <MF_ProjectorFilmChosen>{0} (선택됨)</MF_ProjectorFilmChosen>
+  <MF_ProjectorFilmAfterNight>진행 중인 추억의 밤은 시작할 때 고른 필름을 끝까지 사용합니다. 여기서 바꾼 필름은 행사가 끝난 뒤 상영합니다.</MF_ProjectorFilmAfterNight>
+  <MF_ProjectorOpenAlbum>앨범에서 보기</MF_ProjectorOpenAlbum>
+  <MF_ProjectorOpenAlbumDesc>현재 투사 중인 사진을 앨범에서 엽니다. 지도 위 사진 크기는 ‘투사 크기’에서 조절하세요.</MF_ProjectorOpenAlbumDesc>
+  <MF_ProjectorNightWhen>직접 여는 행사는 낮과 밤 언제든 가능합니다. 필름에 사진 {0}장 이상과 참석 가능한 정착민이 필요하며, 같은 지도에서 두 행사를 동시에 열 수는 없습니다.</MF_ProjectorNightWhen>
+  <MF_ProjectionCustomTitle>투사 크기 직접 입력</MF_ProjectionCustomTitle>
+  <MF_ProjectionCustomInput>직접 입력…</MF_ProjectionCustomInput>
+  <MF_ProjectionCustomSize>직접 · {0}×{1}칸</MF_ProjectionCustomSize>
+  <MF_ProjectionWidth>가로 (칸)</MF_ProjectionWidth>
+  <MF_ProjectionHeight>세로 (칸)</MF_ProjectionHeight>
+  <MF_ProjectionCustomHelp>각 {0}~{1}칸, 소수점 입력 가능. 사진은 원래 비율을 유지해 이 영역 안에 맞춥니다. 크기를 늘려도 원본 사진이나 해상도는 바뀌지 않습니다.</MF_ProjectionCustomHelp>
+  <MF_ProjectionInvalid>올바른 범위의 가로·세로 숫자를 입력해 주세요.</MF_ProjectionInvalid>
+  <MF_ProjectionOffMap>투사 영역이 지도 밖으로 나갑니다. 크기를 줄이거나 영사기를 옮겨 주세요.</MF_ProjectionOffMap>
+  <MF_ProjectionCustomReady>적용하면 범위 미리보기와 추억의 밤 관객 자리도 갱신합니다.</MF_ProjectionCustomReady>
+  <MF_ProjectionApply>적용</MF_ProjectionApply>
+  <MF_ProjectionDepth>표시 위치: {0}</MF_ProjectionDepth>
+  <MF_ProjectionDepthHelp>사진을 바닥처럼 사물 뒤에 표시하거나 아이템·가구·림 앞에 표시합니다. 게임 창과 메뉴의 표시 순서는 바꾸지 않습니다.</MF_ProjectionDepthHelp>
+  <MF_ProjectionBehind>사물 뒤</MF_ProjectionBehind>
+  <MF_ProjectionFront>사물 앞</MF_ProjectionFront>
+  <MF_ProjectionLegacy>기존 표시 유지</MF_ProjectionLegacy>
+</LanguageData>

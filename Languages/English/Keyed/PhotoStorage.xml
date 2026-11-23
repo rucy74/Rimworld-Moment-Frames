@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_StorageTitle>Check photo files</MF_StorageTitle>
+  <MF_StorageSummary>{0} photos / {1} with missing files / {2} files can be reconnected</MF_StorageSummary>
+  <MF_StorageProgress>Checking files {0} / {1}</MF_StorageProgress>
+  <MF_StorageSearching>Searching the other folder for identical photos.</MF_StorageSearching>
+  <MF_StorageRestoring>Restoring the verified photo as a new copy.</MF_StorageRestoring>
+  <MF_StorageStateFound>Identical photo found in the other folder</MF_StorageStateFound>
+  <MF_StorageHint>Checks originals and edits. Events that never had a photo are excluded. Protected copies are inside the photo folder; take them along when moving it.</MF_StorageHint>
+  <MF_StorageRescan>Check again</MF_StorageRescan>
+  <MF_StorageFind>Find in another folder</MF_StorageFind>
+  <MF_StorageFolderHint>Paste the path to a photo folder to search.</MF_StorageFolderHint>
+  <MF_StorageSearch>Search folder</MF_StorageSearch>
+  <MF_StorageSearchHint>Searches this folder and its protected copies for identical content, even with a different filename. Old photos without verification information are not automatically linked.</MF_StorageSearchHint>
+  <MF_StorageProblems>Only photos needing attention</MF_StorageProblems>
+  <MF_StorageAll>Show normal photos too</MF_StorageAll>
+  <MF_StorageNoProblems>No missing photo files were found.</MF_StorageNoProblems>
+  <MF_StorageOriginal>Original</MF_StorageOriginal>
+  <MF_StorageEdit>Edit</MF_StorageEdit>
+  <MF_StorageStateReady>File found</MF_StorageStateReady>
+  <MF_StorageStateProtectedCopy>A verified copy can be reconnected</MF_StorageStateProtectedCopy>
+  <MF_StorageStateMissing>Photo file not found</MF_StorageStateMissing>
+  <MF_StorageStateUnreadable>Could not read the file</MF_StorageStateUnreadable>
+  <MF_StorageRestore>Restore a new copy</MF_StorageRestore>
+  <MF_StorageFound>Found {0} identical photos. Choose which to restore in the list.</MF_StorageFound>
+  <MF_StorageRestored>Connected a new copy. Existing files were kept.</MF_StorageRestored>
+  <MF_StorageChanged>The photo record or storage folder changed. Reopen this window to check again.</MF_StorageChanged>
+  <MF_StorageFailed>Could not check the files. Check the folder path and access permissions.</MF_StorageFailed>
+  <MF_StorageCancelled>Check cancelled.</MF_StorageCancelled>
+  <MF_StorageUnavailable>Could not display this photo.\nIts title and date are still recorded.</MF_StorageUnavailable>
+</LanguageData>

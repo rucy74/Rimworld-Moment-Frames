@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_UI12_Screen>Display settings</MF_UI12_Screen>
+  <MF_UI12_Reset>Reset size and position</MF_UI12_Reset>
+  <MF_UI12_Expand>Search / filters</MF_UI12_Expand>
+  <MF_UI12_Collapse>Hide filters</MF_UI12_Collapse>
+  <MF_UI12_AllFilters>Kind / person / year: all</MF_UI12_AllFilters>
+  <MF_UI12_WithBirthdays>Birthdays included</MF_UI12_WithBirthdays>
+  <MF_UI12_WithoutBirthdays>Birthdays excluded</MF_UI12_WithoutBirthdays>
+  <MF_UI12_BirthdaysHidden>Birthdays hidden: {0}</MF_UI12_BirthdaysHidden>
+  <MF_UI12_WithManual>Manual photos included</MF_UI12_WithManual>
+  <MF_UI12_WithoutManual>Manual photos excluded</MF_UI12_WithoutManual>
+  <MF_UI12_SearchSummary>Search: {0}</MF_UI12_SearchSummary>
+  <MF_Archive_Tab>Archive</MF_Archive_Tab>
+  <MF_Archive_Move>Remove from album</MF_Archive_Move>
+  <MF_Archive_MoveBurst>Remove the whole burst from album ({0} photos)</MF_Archive_MoveBurst>
+  <MF_Archive_Confirm>Remove this photo from the album?\n\nIt moves to the Archive tab and stops appearing in the album, the gallery and on displays. The file stays in the photo folder, and restoring puts it back where it was.</MF_Archive_Confirm>
+  <MF_Archive_ConfirmBurst>Remove these {0} photos from the album?\n\nThey move to the Archive tab and stop appearing in the album, the gallery and on displays. The files stay in the photo folder, and restoring puts them back where they were.</MF_Archive_ConfirmBurst>
+  <MF_Archive_ConfirmLine>Events stay in each person's chronicle as a line of text.</MF_Archive_ConfirmLine>
+  <MF_Archive_ConfirmUses>In use right now: {0}. Those places stay empty until you restore it.</MF_Archive_ConfirmUses>
+  <MF_Archive_UsesFrames>frames {0}</MF_Archive_UsesFrames>
+  <MF_Archive_UsesProjectors>projectors {0}</MF_Archive_UsesProjectors>
+  <MF_Archive_UsesTrees>memory trees {0}</MF_Archive_UsesTrees>
+  <MF_Archive_InNight>in use by a memory night</MF_Archive_InNight>
+  <MF_Archive_Moved>Moved to the Archive tab. You can restore it there.</MF_Archive_Moved>
+  <MF_Archive_Note>Photos taken out of the album: {0} ({1}). Restoring puts a photo back where it was. The files stay in the photo folder.</MF_Archive_Note>
+  <MF_Archive_Restore>Restore</MF_Archive_Restore>
+  <MF_Archive_Restored>Back in the album.</MF_Archive_Restored>
+  <MF_Archive_Delete>Delete</MF_Archive_Delete>
+  <MF_Archive_Empty>Empty archive</MF_Archive_Empty>
+  <MF_Archive_DeleteOne>Delete this photo for good?</MF_Archive_DeleteOne>
+  <MF_Archive_DeleteAll>Delete all {0} photos in the archive for good?</MF_Archive_DeleteAll>
+  <MF_Archive_DeleteWarning>The files are removed from the photo folder, protected copies included, and cannot be brought back. Older saves of this colony share that folder and will show the photos as missing.</MF_Archive_DeleteWarning>
+  <MF_Archive_Deleted>Deleted for good. {0} freed.</MF_Archive_Deleted>
+  <MF_Archive_RecordLine>Event record, photo in the archive</MF_Archive_RecordLine>
+  <MF_Archive_InArchive>In the archive</MF_Archive_InArchive>
+  <MF_Archive_MoveHint>Moves this photo to the Archive tab. The file is kept, and restoring puts it back where it was.</MF_Archive_MoveHint>
+  <MF_Archive_SurveyHint>Settlement surveys stay in the album. You can change how often they are taken in the mod settings.</MF_Archive_SurveyHint>
+</LanguageData>

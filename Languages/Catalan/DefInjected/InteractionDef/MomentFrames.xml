@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_RememberWhen.label>evocar records</MF_RememberWhen.label>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] [reminisced] amb [RECIPIENT_nameDef] davant d’una fotografia de la paret.</MF_RememberWhen.logRulesInitiator.rulesStrings.0>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] va assenyalar una fotografia antiga i [reminisced] amb [RECIPIENT_nameDef].</MF_RememberWhen.logRulesInitiator.rulesStrings.1>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.2>reminisced(p=3)-&gt;va recordar vells temps</MF_RememberWhen.logRulesInitiator.rulesStrings.2>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.3>reminisced-&gt;va riure dels vells temps</MF_RememberWhen.logRulesInitiator.rulesStrings.3>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.4>reminisced-&gt;va intercanviar records</MF_RememberWhen.logRulesInitiator.rulesStrings.4>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.5>reminisced-&gt;va recordar aquell dia</MF_RememberWhen.logRulesInitiator.rulesStrings.5>
+</LanguageData>

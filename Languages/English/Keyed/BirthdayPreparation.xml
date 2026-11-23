@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PreparationCapacity>{0} attending · Spaces {1} / {2}</MF_PreparationCapacity>
+  <MF_PreparationNoRoom>Not enough space. Change the direction or guest list.</MF_PreparationNoRoom>
+  <MF_BabyCarryMode>Carry to photo spot</MF_BabyCarryMode>
+  <MF_BabyHereMode>Stay here</MF_BabyHereMode>
+  <MF_BabyGuardian>Holding the baby: {0}</MF_BabyGuardian>
+  <MF_BabyChooseGuardian>Choose a caregiver</MF_BabyChooseGuardian>
+  <MF_BabyGuardianRole>Holding the baby</MF_BabyGuardianRole>
+  <MF_BabyCarryHelp>The caregiver carries the baby to the photo spot. The photo is taken automatically once everyone arrives. After the photo or cancellation, the caregiver returns the baby to a bed or safe place.</MF_BabyCarryHelp>
+  <MF_BabyHereHelp>The baby stays here, and the selected guests gather nearby.</MF_BabyHereHelp>
+  <MF_BirthdayAtBedHelp>A subject unable to walk stays here. Sleeping guests are woken when called, and a caregiver can carry a baby to the photo spot.</MF_BirthdayAtBedHelp>
+  <MF_BabyNoGuardian>No adult can carry the baby right now. Choose another caregiver or take the photo here.</MF_BabyNoGuardian>
+  <MF_BabyUnsafePlace>This spot is too cold or too hot for the baby. Choose a photo spot with a comfortable temperature.</MF_BabyUnsafePlace>
+  <MF_PreparationSettings>+ Photo settings</MF_PreparationSettings>
+  <MF_PreparationSettingsClose>- Close settings</MF_PreparationSettingsClose>
+  <MF_PreparationHere>Current location</MF_PreparationHere>
+  <MF_PreparationSpot>Photo spot</MF_PreparationSpot>
+  <MF_PreparationGuests>Photo guests ({0})</MF_PreparationGuests>
+  <MF_PreparationChoose>Quick selection</MF_PreparationChoose>
+  <MF_PreparationGuardianRole>Caregiver (required)</MF_PreparationGuardianRole>
+  <MF_PreparationReady>The photo is taken automatically once everyone arrives. Sleeping guests are woken when called.</MF_PreparationReady>
+  <MF_PreparationStay>The subject stays here</MF_PreparationStay>
+  <MF_PreparationSubjectRole>Birthday person (required)</MF_PreparationSubjectRole>
+  <MF_PreparationAll>Select all</MF_PreparationAll>
+  <MF_PreparationRandom>Random</MF_PreparationRandom>
+  <MF_PreparationMore>More</MF_PreparationMore>
+  <MF_PreparationRandomCount>Random {0} people total</MF_PreparationRandomCount>
+  <MF_PreparationUndo>Undo selection</MF_PreparationUndo>
+  <MF_PreparationGuardianProblem>{0}: Cannot carry the baby right now. Choose another caregiver.</MF_PreparationGuardianProblem>
+  <MF_PreparationPawnProblem>{0}: {1}. Adjust the guest list or wait until they are available.</MF_PreparationPawnProblem>
+  <MF_PreparationCannotReach>{0}: Cannot reach their assigned photo position. Clear the route or choose another location.</MF_PreparationCannotReach>
+  <MF_PreparationRemoveHint>Try leaving this person out.</MF_PreparationRemoveHint>
+  <MF_PreparationSpaceProblem>{0} attending / {1} standing spaces ({2} needed). Change the guests, direction or location.</MF_PreparationSpaceProblem>
+  <MF_PreparationNotEditing>This gathering is already taking a photo or has ended. Close this window and check again.</MF_PreparationNotEditing>
+  <MF_PreparationGuardianShort>Cannot carry right now</MF_PreparationGuardianShort>
+  <MF_PreparationReachShort>Cannot reach photo position</MF_PreparationReachShort>
+  <MF_PreparationTemperatureShort>Unsafe temperature for baby</MF_PreparationTemperatureShort>
+  <MF_PreparationRandomHelp>The count includes the birthday person and any required caregiver. Only available guests are drawn. You can adjust the selection afterwards.</MF_PreparationRandomHelp>
+</LanguageData>

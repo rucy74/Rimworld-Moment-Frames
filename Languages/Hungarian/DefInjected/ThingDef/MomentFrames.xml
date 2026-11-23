@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>fotókeret</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Kis, falra akasztható keret a kolónia egy fényképének. Jelöld ki a fotó kiválasztásához vagy cseréjéhez; leszereléskor és áthelyezéskor megtartja a fotót. Falra kell akasztani. Szobrász asztalon készül; a minősége határozza meg a szépségét.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>széles fotókeret</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Két cellás, falra akasztható keret, szélesebb a kicsinél: széles fényképekhez készült. Csak vízszintes falra akasztható. Áthelyezéskor megtartja a fotót. Szobrász asztalon készül; a minősége határozza meg a szépségét.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>képállvány</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Önállóan álló képállvány (2x2), amelyen a kolónia egy fényképe akkora, hogy kivehetők rajta az emberek. Bárhová letehető, és később a fotó elvesztése nélkül áthelyezhető. Szobrász asztalon készül; a minősége határozza meg a szépségét.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>fotótábla</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Nagy, önállóan álló tábla (3x2) a kolónia egy fényképének: ez a pillanatok megmutatásának legnagyobb módja. A fotó elvesztése nélkül áthelyezhető. Szobrász asztalon készül; a minősége határozza meg a szépségét.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>fotókollázs-tábla</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Önállóan álló, paszpartus tábla (3x2) négy egyforma ablakkal a kolónia fényképeinek; minden fotót az ablakához vág. Minden ablakhoz válassz fotót; az üres ablakok üresen maradnak. A fotók elvesztése nélkül áthelyezhető. Szobrász asztalon készül.</MF_PhotoCollage.description>
+  <MF_Projector.label>diavetítő</MF_Projector.label>
+  <MF_Projector.description>A kolónia fényképeit vetíti maga elé. Válassz egy rögzített fényképet vagy egy filmet, és egy előre beállított vagy egyéni szélességet és magasságot. A rajzsorrend vezérlője a tárgyak mögé vagy elé helyezi a képet. A szokásos filmek valós időben váltanak; az emlékesti filmek az esemény játékbeli órájához igazodnak. A gyarmatosok szórakozásból nézhetik. Nem kell hozzá energia. Az Egyéb menüből helyezd le a fotós eszközök mellől; a gyarmatosok a kiválasztott anyagból építik meg.</MF_Projector.description>
+  <MF_MemorialFrame.label>emlékfotó-tartó</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Kis álló keret sír vagy szarkofág mellé. Magától a mellette nyugvó ember legutóbbi fényképét mutatja; kézzel is választhatsz fotót. Üres, amíg nincs mellette holttestet tartalmazó sír. Szobrász asztalon készül.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>fotóhely</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Ez jelöli a csoportképek helyét. Jelöld ki, és nyomd meg a 'Csoportkép' gombot: a térkép minden ébren lévő és szabad gyarmatosa mögé áll (észak felé, elöl a legfiatalabbak), a kamera felé fordul, és a fotó elkészül, amint mindenki megállt. Hagyj szabad padlót a hely mögött a soroknak. Azonnal lerakható, és semmibe sem kerül.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>emlékfa</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Fából készült állvány a kolónia 35 fényképének. Az új fotók az üres ágakra kerülnek, aztán a legrégebbi nem rögzített fotót váltják fel. Válaszd ki és rögzítsd a kedvenceidet, vagy szűrd típus szerint az automatikus fotókat. Szobrász asztalon készül; áthelyezéskor megtartja a fényképeit.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fotóstúdió-háttér</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Vászonháttér családi és csoportos portrékhoz. Jelöld ki a résztvevők kiválasztásához. Mindenki a háttér elé gyűlik, és a fénykép automatikusan elkészül. Az automatikus képkivágásban az emberek és a háttér is benne van. Legfeljebb tizenöt álló résztvevő; a babákat egy gondviselő hozza a karjában. Építés előtt forgasd el a pózolás irányának beállításához.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>kerti fotóboltív</MF_StudioArch.label>
+  <MF_StudioArch.description>Kör alakú boltív szabadtéri portrékhoz. Ugyanazt a résztvevőválasztást és automatikus képkivágást használja, mint a stúdióháttér. A kijelölt pózolási területet hagyd szabadon. A babákat egy gondviselő hozza. Építés előtt forgasd el a pózolás irányának beállításához.</MF_StudioArch.description>
+  <MF_StudioSofa.label>fotóstúdió-kanapé (kellék)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Háromszemélyes portrékanapé. Helyezd a stúdió pózolási területére, a háttérrel azonos irányba fordítva. A résztvevők ezeket a helyeket az álló sorok előtt foglalják el. A megszokott figurarajzolást használja, új ülő animáció nélkül. Pózolási kellék, nem hétköznapi étkezésre vagy szórakozásra való ülőhely.</MF_StudioSofa.description>
+  <MF_StudioBench.label>fotóstúdió-pad (kellék)</MF_StudioBench.label>
+  <MF_StudioBench.description>Háromszemélyes, párnázott pad portrékhoz. Helyezd a pózolási területre, a háttérrel azonos irányba fordítva. Pózolási kellék, nem hétköznapi étkezésre vagy szórakozásra való ülőhely.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotóstúdió-karosszék (kellék)</MF_StudioChair.label>
+  <MF_StudioChair.description>Egyszemélyes portrészék. Tedd elöl középre az ünnepeltnek, vagy add hozzá a stúdió pózolási területéhez. Pózolási kellék, nem hétköznapi étkezésre vagy szórakozásra való ülőhely.</MF_StudioChair.description>
+  <MF_StudioLamp.label>fotóstúdió-lámpa</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Energiával működő portrélámpa. Automatikus módban akkor világít, amikor az ugyanabban a szobában lévő legközelebbi stúdió (tíz cellán belül) gyülekeztet vagy újrafelvételre vár. A csoport elbocsátásakor kikapcsol. A Be és Ki mód felülírja az automatikát. A stúdiófényképek megőrzik ezt a világítást.</MF_StudioLamp.description>
+</LanguageData>

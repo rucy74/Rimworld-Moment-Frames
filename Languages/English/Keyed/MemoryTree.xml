@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_TreeManage>Manage photos</MF_TreeManage>
+  <MF_TreeManageDesc>Choose and pin photographs, or filter the kinds of photos added automatically.</MF_TreeManageDesc>
+  <MF_TreeInspect>Photos {0}/{1} · {2}</MF_TreeInspect>
+  <MF_TreeAutoOn>Automatic filling</MF_TreeAutoOn>
+  <MF_TreeAutoOff>Manual choices</MF_TreeAutoOff>
+  <MF_Tree_Title>Memory tree photographs</MF_Tree_Title>
+  <MF_Tree_Summary>{0} / 35 photos · {1} pinned</MF_Tree_Summary>
+  <MF_Tree_AutoFill>Add new photos automatically</MF_Tree_AutoFill>
+  <MF_Tree_AutoFillTip>New photos fill empty branches. When full, the oldest unpinned photo is replaced.</MF_Tree_AutoFillTip>
+  <MF_Tree_Filters>Photo kinds: {0}</MF_Tree_Filters>
+  <MF_Tree_AllKinds>All kinds</MF_Tree_AllKinds>
+  <MF_Tree_SelectedKinds>{0} selected</MF_Tree_SelectedKinds>
+  <MF_Tree_FilterTip>Choose which kinds are added automatically. Manually pinned photos stay in place.</MF_Tree_FilterTip>
+  <MF_Tree_Slot>Photo {0}</MF_Tree_Slot>
+  <MF_Tree_EmptySlot>Empty branch</MF_Tree_EmptySlot>
+  <MF_Tree_MissingPhoto>Photo file missing</MF_Tree_MissingPhoto>
+  <MF_Tree_NoPhotos>Choose a photograph from the album for this branch.</MF_Tree_NoPhotos>
+  <MF_Tree_Choose>Choose a photo</MF_Tree_Choose>
+  <MF_Tree_Open>View larger</MF_Tree_Open>
+  <MF_Tree_Pin>Pin photo</MF_Tree_Pin>
+  <MF_Tree_Unpin>Unpin photo</MF_Tree_Unpin>
+  <MF_Tree_Remove>Take down</MF_Tree_Remove>
+  <MF_Tree_RemoveTip>Removes it from this tree. The original remains in the album.</MF_Tree_RemoveTip>
+  <MF_Tree_FullPinned>Every photo is pinned. Unpin one to make room for new photos.</MF_Tree_FullPinned>
+  <MF_Tree_Policy>Choosing a photo pins it. Automatic photos change as new photos arrive.</MF_Tree_Policy>
+</LanguageData>

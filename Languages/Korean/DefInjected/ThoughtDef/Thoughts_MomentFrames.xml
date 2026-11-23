@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>내가 나온 사진을 봤음</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>내가 찍힌 사진 앞에 서서 그날을 떠올렸다.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>{0}와(과) 추억을 나눔</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>둘이 함께 찍힌 옛 사진을 보며 그날 이야기를 나눴다.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>추억의 밤</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>환등기로 정착지의 사진들을 함께 보며 여기까지 온 길을 떠올렸다.</MF_MemoryNight.stages.0.description>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Feedback_ReshootShort>Retake same framing</MF_Feedback_ReshootShort>
+  <MF_Feedback_ReunionShort>Gather again</MF_Feedback_ReunionShort>
+  <MF_Feedback_Compare>Compare</MF_Feedback_Compare>
+  <MF_Feedback_CompareHint>Compare with a previous birthday or a photograph taken at the same place.</MF_Feedback_CompareHint>
+  <MF_Feedback_Text>Title · caption</MF_Feedback_Text>
+  <MF_Feedback_Decorate>Decorate</MF_Feedback_Decorate>
+  <MF_Feedback_PhotoTools>Tools for this photo</MF_Feedback_PhotoTools>
+  <MF_Feedback_PhotoToolsHint>Zoom, choose the displayed version, retake history, manage edits, folder, and remembrance.</MF_Feedback_PhotoToolsHint>
+  <MF_Feedback_AlbumToolsHint>HTML export, photo folder, old and external photographs, and remembrance.</MF_Feedback_AlbumToolsHint>
+  <MF_Feedback_LocalHint>Publish the selected photograph locally to your RimGram colony account. A separate RimGram window opens on that post while the album stays open. RimGram's posting interval and reaction rules apply.</MF_Feedback_LocalHint>
+  <MF_Feedback_ExportOpen>Export files ▸</MF_Feedback_ExportOpen>
+  <MF_Feedback_ExportFiles>Export files…</MF_Feedback_ExportFiles>
+  <MF_Feedback_ExportTitle>Export selected photograph</MF_Feedback_ExportTitle>
+  <MF_Feedback_ExportCaption>Accompanying caption</MF_Feedback_ExportCaption>
+  <MF_Feedback_ExportClose>Export files ▾</MF_Feedback_ExportClose>
+  <MF_Feedback_ExportHint>Use these tools to bring the photograph into another program. They are optional for local RimGram publishing.</MF_Feedback_ExportHint>
+  <MF_Feedback_RimGramWindowUnavailable>This RimGram version cannot open a separate window. The album stays open.</MF_Feedback_RimGramWindowUnavailable>
+  <MF_Feedback_PostedWindowUnavailable>The local post was published, but its RimGram window could not open. Check the post in RimGram.</MF_Feedback_PostedWindowUnavailable>
+  <MF_Feedback_Zoom>Zoom view</MF_Feedback_Zoom>
+  <MF_Feedback_ZoomOriginal>View at original resolution</MF_Feedback_ZoomOriginal>
+  <MF_Feedback_ZoomFit>Fit whole image</MF_Feedback_ZoomFit>
+  <MF_Feedback_ZoomPixels>Original pixels</MF_Feedback_ZoomPixels>
+  <MF_Feedback_ZoomHelp>Zoom: mouse wheel or − / + · Pan: middle-button drag or Space + left-button drag</MF_Feedback_ZoomHelp>
+</LanguageData>

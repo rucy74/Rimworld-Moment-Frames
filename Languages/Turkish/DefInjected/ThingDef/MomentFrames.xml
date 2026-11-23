@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>fotoğraf çerçevesi</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Tek bir koloni fotoğrafı için duvara asılan küçük bir çerçeve. Fotoğrafı seçmek veya değiştirmek için çerçeveyi seç; sökülüp taşındığında fotoğrafını korur. Duvara asılmalıdır. Heykeltıraş tezgâhında yapılır; kalitesi güzelliğini belirler.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>geniş fotoğraf çerçevesi</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Duvara asılan iki karelik bir çerçeve, küçüğünden daha geniştir: geniş fotoğraflar için yapılmıştır. Yalnızca yatay duvarlara asılır. Taşındığında fotoğrafını korur. Heykeltıraş tezgâhında yapılır; kalitesi güzelliğini belirler.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>fotoğraf şövalesi</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Bir koloni fotoğrafını içindeki insanlar seçilebilecek kadar büyük gösteren, kendi başına duran bir şövale (2x2). Her yere konulabilir ve fotoğraf kaybolmadan sonradan taşınabilir. Heykeltıraş tezgâhında yapılır; kalitesi güzelliğini belirler.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>fotoğraf panosu</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Bir koloni fotoğrafı için kendi başına duran büyük bir pano (3x2), bir anı göstermenin en büyük yolu. Fotoğraf kaybolmadan taşınabilir. Heykeltıraş tezgâhında yapılır; kalitesi güzelliğini belirler.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>fotoğraf kolaj panosu</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Koloni fotoğrafları için dört eşit pencereli, paspartulu, kendi başına duran bir pano (3x2); her fotoğraf penceresini dolduracak şekilde kırpılır. Her pencere için bir fotoğraf seç; boş pencereler boş kalır. Fotoğraflar kaybolmadan taşınabilir. Heykeltıraş tezgâhında yapılır.</MF_PhotoCollage.description>
+  <MF_Projector.label>slayt projektörü</MF_Projector.label>
+  <MF_Projector.description>Koloni fotoğraflarını önüne yansıtır. Sabit bir fotoğraf veya bir film seç, ayrıca hazır ya da özel bir genişlik ve yükseklik belirle. Çizim sırası ayarı resmi nesnelerin arkasına veya önüne yerleştirir. Sıradan filmler gerçek zamanlı değişir; anı gecesi filmleri etkinliğin oyun içi saatiyle değişir. Koloniciler eğlence için izleyebilir. Güç gerektirmez. Çeşitli sekmesinden, fotoğraf araçlarının yanından yerleştir; koloniciler seçilen malzemeyle inşa eder.</MF_Projector.description>
+  <MF_MemorialFrame.label>anma fotoğrafı standı</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Bir mezarın veya lahdin yanına konulan küçük, ayakta duran bir çerçeve. Kendiliğinden, yanında gömülü kişinin son fotoğrafını gösterir; fotoğrafı elle de seçebilirsin. İçinde ceset olan bir mezar bitişiğinde olana dek boş kalır. Heykeltıraş tezgâhında yapılır.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>fotoğraf noktası</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Grup fotoğraflarının çekileceği yeri işaretler. Seç ve 'Grup fotoğrafı' düğmesine bas: haritadaki uyanık ve boşta olan her kolonici arkasında sıraya girer (kuzeye doğru, en gençler önde), kameraya döner ve herkes durunca fotoğraf çekilir. Noktanın arkasında sıralar için boş zemin bırak. Anında yerleştirilir, bedavadır.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>anı ağacı</MF_MemoryTree.label>
+  <MF_MemoryTree.description>35 koloni fotoğrafı için ahşap bir sergi. Yeni fotoğraflar boş dalları doldurur, sonra iğnelenmemiş en eski fotoğrafın yerine geçer. Sevdiklerini seçip iğnele veya otomatik fotoğrafları türe göre süz. Heykeltıraş tezgâhında yapılır; taşındığında fotoğraflarını korur.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fotoğraf stüdyosu fonu</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Aile ve grup portreleri için tuval bir fon. Katılımcıları belirlemek için bunu seç. Herkes fonun önünde toplanır ve fotoğraf otomatik çekilir. Otomatik kadraj hem insanları hem fonu içine alır. En çok on beş ayakta katılımcı; bebekler bir büyüğün kucağında gelir. Poz yönünü ayarlamak için inşa etmeden önce döndür.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>fotoğraf bahçe kemeri</MF_StudioArch.label>
+  <MF_StudioArch.description>Dış mekân portreleri için dairesel bir kemer. Stüdyo fonuyla aynı katılımcı seçimini ve otomatik kadrajı kullanır. İşaretli poz alanını boş bırak. Bebekler bir büyüğün kucağında gelir. Poz yönünü ayarlamak için inşa etmeden önce döndür.</MF_StudioArch.description>
+  <MF_StudioSofa.label>fotoğraf stüdyosu kanepesi (aksesuar)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Üç kişilik bir portre kanepesi. Bir stüdyonun poz alanına, fonla aynı yöne bakacak şekilde yerleştir. Katılımcılar ayakta duran sıralardan önce bu yerleri kullanır. Normal karakter çizimini kullanır, yeni bir oturma animasyonu yoktur. Poz aksesuarıdır; günlük yemek veya eğlence için oturma yeri değildir.</MF_StudioSofa.description>
+  <MF_StudioBench.label>fotoğraf stüdyosu bankı (aksesuar)</MF_StudioBench.label>
+  <MF_StudioBench.description>Portreler için üç kişilik minderli bir bank. Poz alanına, fonla aynı yöne bakacak şekilde yerleştir. Poz aksesuarıdır; günlük yemek veya eğlence için oturma yeri değildir.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotoğraf stüdyosu tekli koltuğu (aksesuar)</MF_StudioChair.label>
+  <MF_StudioChair.description>Tek kişilik bir portre koltuğu. Doğum günü sahibi için ön ortaya koy veya stüdyonun poz alanına ekle. Poz aksesuarıdır; günlük yemek veya eğlence için oturma yeri değildir.</MF_StudioChair.description>
+  <MF_StudioLamp.label>fotoğraf stüdyosu lambası</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Güçle çalışan bir portre lambası. Otomatik modda, aynı odadaki en yakın stüdyo (on kare içinde) toplanırken veya yeniden çekim için beklerken yanar. Grubu dağıtmak lambayı söndürür. Açık ve Kapalı modları otomatik denetimi geçersiz kılar. Stüdyo fotoğrafları bu ışığı korur.</MF_StudioLamp.description>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_GalleryRevision_Text>제목 / 설명</MF_GalleryRevision_Text>
+  <MF_GalleryRevision_TextHint>지금 보고 있는 사진의 제목과 설명을 바꿔요. 편집본을 보고 있으면 그 편집본의 제목과 메모를 바꿔요.</MF_GalleryRevision_TextHint>
+  <MF_GalleryRevision_EditHint>자르기와 필터, 사진 안 아이콘, 종이 여백 스티커를 여기에서 골라요. 사진의 원본 파일은 그대로 남아요.</MF_GalleryRevision_EditHint>
+  <MF_GalleryRevision_CropFilter>자르기 / 필터</MF_GalleryRevision_CropFilter>
+  <MF_GalleryRevision_Reunion>같은 사람들 부르기</MF_GalleryRevision_Reunion>
+  <MF_GalleryRevision_ReshootHint>사람을 부르지 않고, 원래 사진의 장소와 촬영 범위를 지금 모습으로 다시 찍어요. 그 지도를 보고 있을 때 촬영해요.</MF_GalleryRevision_ReshootHint>
+  <MF_GalleryRevision_ReunionHint>원래 사진에 찍힌 정착민의 명단을 확인하고, 선택한 사람을 같은 자리로 불러 모인 뒤 다시 찍어요. 원래 촬영 범위를 유지해요.</MF_GalleryRevision_ReunionHint>
+  <MF_GalleryRevision_ReunionUnavailable>사람을 다시 부르려면 원래 지도와 촬영 범위, 사진 속 정착민의 기록이 있어야 해요. 동물 사진은 이 모임의 대상이 아니에요.</MF_GalleryRevision_ReunionUnavailable>
+  <MF_GalleryRevision_CompareHint>같은 사람의 이전 생일 사진이나, 위치와 촬영 범위가 같은 이전 사진을 나란히 봐요. 사진을 새로 찍지는 않아요.</MF_GalleryRevision_CompareHint>
+  <MF_GalleryRevision_CompareUnavailable>나란히 볼 이전 생일 사진이나, 같은 위치와 촬영 범위의 이전 사진이 아직 없어요.</MF_GalleryRevision_CompareUnavailable>
+  <MF_GalleryRevision_Integrations>다른 모드 연동</MF_GalleryRevision_Integrations>
+  <MF_GalleryRevision_IntegrationsHint>설치된 연동 모드를 골라요. RimGram의 로컬 게시와 RimTalk의 회상 대화 창은 이 메뉴에서 열어요. 메뉴를 여는 것만으로 게시하거나 AI를 호출하지 않아요.</MF_GalleryRevision_IntegrationsHint>
+  <MF_GalleryRevision_NoIntegrations>사용할 수 있는 연동 모드가 없어요</MF_GalleryRevision_NoIntegrations>
+</LanguageData>

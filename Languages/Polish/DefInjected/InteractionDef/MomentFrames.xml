@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_RememberWhen.label>wspominanie</MF_RememberWhen.label>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] i [RECIPIENT_nameDef] przy zdjęciu na ścianie: [reminisced].</MF_RememberWhen.logRulesInitiator.rulesStrings.0>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] wskazuje stare zdjęcie, obok [RECIPIENT_nameDef]: [reminisced].</MF_RememberWhen.logRulesInitiator.rulesStrings.1>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.2>reminisced(p=3)-&gt;wspólne wspominanie</MF_RememberWhen.logRulesInitiator.rulesStrings.2>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.3>reminisced-&gt;śmiech z dawnych czasów</MF_RememberWhen.logRulesInitiator.rulesStrings.3>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.4>reminisced-&gt;wymiana wspomnień</MF_RememberWhen.logRulesInitiator.rulesStrings.4>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.5>reminisced-&gt;powrót do tamtego dnia</MF_RememberWhen.logRulesInitiator.rulesStrings.5>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>večer vzpomínek</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Večer vzpomínek</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} pořádá u projektoru večer vzpomínek. Všichni, kdo přijdou, si společně prohlédnou fotografie kolonie a získají dlouhotrvající dobrou náladu.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Večer vzpomínek byl zrušen.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Večer vzpomínek skončil.</MF_MemoryNight.finishedMessage>
+</LanguageData>

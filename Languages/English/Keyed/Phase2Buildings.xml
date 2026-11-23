@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BuildingNewSpaceTitle>A new space takes shape</MF_BuildingNewSpaceTitle>
+  <MF_BuildingRoomTitle>A new space: {0}</MF_BuildingRoomTitle>
+  <MF_BuildingCaption>After construction settled, this photograph recorded {0} roofed cells with space ready for use.</MF_BuildingCaption>
+  <MF_Kind_building>Building</MF_Kind_building>
+</LanguageData>

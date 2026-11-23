@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>minneskväll</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Minneskväll</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} håller en minneskväll vid projektorn. Alla som kommer tittar på kolonins fotografier tillsammans och får ett varaktigt bra humör.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Minneskvällen har ställts in.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Minneskvällen är över.</MF_MemoryNight.finishedMessage>
+</LanguageData>

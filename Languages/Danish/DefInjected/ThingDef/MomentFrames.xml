@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>fotoramme</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>En lille ramme til væggen med ét foto fra kolonien. Vælg den for at vælge eller skifte foto; den beholder fotoet, når den afmonteres og flyttes. Skal hænge på en væg. Laves ved billedhugger bordet; kvaliteten bestemmer dens beauty.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>bred fotoramme</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>En ramme til væggen over to felter, bredere end den lille: lavet til brede fotos. Hænger kun på vandrette vægge. Beholder sit foto, når den flyttes. Laves ved billedhugger bordet; kvaliteten bestemmer dens beauty.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>fotostaffeli</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Et fritstående staffeli (2x2), der viser et foto fra kolonien så stort, at man kan kende personerne på det. Kan placeres hvor som helst og flyttes senere uden at miste fotoet. Laves ved billedhugger bordet; kvaliteten bestemmer dets beauty.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>fototavle</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>En stor fritstående tavle (3x2) til et foto fra kolonien, den største måde at vise et øjeblik på. Kan flyttes uden at miste fotoet. Laves ved billedhugger bordet; kvaliteten bestemmer dens beauty.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>collagetavle til fotos</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>En fritstående tavle med passepartout (3x2) og fire lige store vinduer til fotos fra kolonien, hvor hvert foto beskæres, så det fylder sit vindue. Vælg et foto til hvert vindue; tomme vinduer forbliver blanke. Kan flyttes uden at miste fotoene. Laves ved billedhugger bordet.</MF_PhotoCollage.description>
+  <MF_Projector.label>diasprojektor</MF_Projector.label>
+  <MF_Projector.description>Projicerer fotos fra kolonien foran sig. Vælg ét fast foto eller en film og en forudindstillet eller selvvalgt bredde og højde. Tegneorden placerer billedet bag eller foran genstande. Almindelige film skifter i realtid; mindeaftenens film skifter efter begivenhedens spilur. Kolonister kan se den for glædens skyld. Kræver ingen elektricitet. Placeres fra Diverse ved siden af fotoværktøjerne; kolonister bygger den af det valgte materiale.</MF_Projector.description>
+  <MF_MemorialFrame.label>mindestativ til foto</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>En lille stående ramme, der skal stå ved siden af en grav eller sarkofag. Af sig selv viser den det seneste foto af den person, der ligger begravet ved siden af; du kan også selv vælge et foto. Tom, indtil en grav med et lig står op ad den. Laves ved billedhugger bordet.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>fotoplads</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Markerer, hvor gruppefotos tages. Vælg den og tryk på 'Gruppefoto': alle kolonister på kortet, der er vågne og ledige, stiller sig i rækker bag den (mod nord, yngste forrest), ser mod kameraet, og fotoet tages, når alle står stille. Lad der være frit gulv bag pladsen til rækkerne. Placeres med det samme og koster intet.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>mindetræ</MF_MemoryTree.label>
+  <MF_MemoryTree.description>En opstilling i træ til 35 fotos fra kolonien. Nye fotos fylder de tomme grene og afløser derefter det ældste ikke-fastgjorte foto. Vælg og fastgør favoritter, eller filtrér automatiske fotos efter slags. Laves ved billedhugger bordet; beholder sine fotos, når det flyttes.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>studiebaggrund til fotos</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>En lærredsbaggrund til familie- og gruppeportrætter. Vælg den for at vælge deltagere. Alle samles foran baggrunden, og der tages automatisk et foto. Den automatiske indramning omfatter både personerne og baggrunden. Op til femten stående deltagere; babyer bæres i en omsorgspersons arme. Rotér før byggeriet for at bestemme poseringsretningen.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>havebue til fotos</MF_StudioArch.label>
+  <MF_StudioArch.description>En rund bue til udendørs portrætter. Bruger samme valg af deltagere og automatiske indramning som studiebaggrunden. Hold det markerede poseringsområde frit. Babyer følger med en omsorgsperson. Rotér før byggeriet for at bestemme poseringsretningen.</MF_StudioArch.description>
+  <MF_StudioSofa.label>studiesofa til fotos (rekvisit)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>En portrætsofa med tre pladser. Placér den i et studies poseringsområde, vendt samme vej som baggrunden. Deltagerne bruger disse pladser før de stående rækker. Her bruges den almindelige tegning af personen uden en ny siddeanimation. En rekvisit til posering, ikke en plads til daglige måltider eller glæde.</MF_StudioSofa.description>
+  <MF_StudioBench.label>studiebænk til fotos (rekvisit)</MF_StudioBench.label>
+  <MF_StudioBench.description>En polstret bænk med tre pladser til portrætter. Placér den i poseringsområdet, vendt samme vej som baggrunden. En rekvisit til posering, ikke en plads til daglige måltider eller glæde.</MF_StudioBench.description>
+  <MF_StudioChair.label>studielænestol til fotos (rekvisit)</MF_StudioChair.label>
+  <MF_StudioChair.description>En enkelt portrætstol. Placér den forrest i midten til fødselsdagsbarnet, eller føj den til studiets poseringsområde. En rekvisit til posering, ikke en plads til daglige måltider eller glæde.</MF_StudioChair.description>
+  <MF_StudioLamp.label>studielampe til fotos</MF_StudioLamp.label>
+  <MF_StudioLamp.description>En elektrisk portrætlampe. I automatisk tilstand tændes den, mens det nærmeste studie i samme rum (inden for ti felter) samler folk eller venter på omtagninger. Når gruppen sendes væk, slukker den. Tilstandene Til og Fra tilsidesætter den automatiske styring. Studiefotos bevarer denne belysning.</MF_StudioLamp.description>
+</LanguageData>

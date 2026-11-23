@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>minnekveld</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Minnekveld</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} holder minnekveld ved fremviseren. Alle som kommer, ser koloniens bilder sammen og får et varig godt humør.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Minnekvelden er avlyst.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Minnekvelden er over.</MF_MemoryNight.finishedMessage>
+</LanguageData>

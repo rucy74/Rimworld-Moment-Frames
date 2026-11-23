@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_RememberWhen.label>Erinnerungen teilen</MF_RememberWhen.label>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] [reminisced] mit [RECIPIENT_nameDef] vor einem Foto an der Wand.</MF_RememberWhen.logRulesInitiator.rulesStrings.0>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] zeigte auf ein altes Foto und [reminisced] mit [RECIPIENT_nameDef].</MF_RememberWhen.logRulesInitiator.rulesStrings.1>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.2>reminisced(p=3)-&gt;schwelgte in Erinnerungen</MF_RememberWhen.logRulesInitiator.rulesStrings.2>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.3>reminisced-&gt;lachte über alte Zeiten</MF_RememberWhen.logRulesInitiator.rulesStrings.3>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.4>reminisced-&gt;teilte Erinnerungen</MF_RememberWhen.logRulesInitiator.rulesStrings.4>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.5>reminisced-&gt;erinnerte sich an jenen Tag</MF_RememberWhen.logRulesInitiator.rulesStrings.5>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BuildingNewSpaceTitle>새 공간이 자리 잡은 날</MF_BuildingNewSpaceTitle>
+  <MF_BuildingRoomTitle>새 공간: {0}</MF_BuildingRoomTitle>
+  <MF_BuildingCaption>공사가 잠잠해진 뒤, 지붕과 사용할 공간을 갖춘 {0}칸의 모습을 남겼다.</MF_BuildingCaption>
+  <MF_Kind_building>건물</MF_Kind_building>
+</LanguageData>

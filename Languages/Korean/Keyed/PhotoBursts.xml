@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BurstCount>{0}장</MF_BurstCount>
+  <MF_BurstTitle>같은 단체 촬영 · {0}장</MF_BurstTitle>
+  <MF_BurstRepresentative>대표 사진</MF_BurstRepresentative>
+  <MF_BurstSetRepresentative>대표로 쓰기</MF_BurstSetRepresentative>
+  <MF_BurstLoading>사진 불러오는 중…</MF_BurstLoading>
+</LanguageData>

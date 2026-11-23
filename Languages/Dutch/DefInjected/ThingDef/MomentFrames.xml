@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>fotolijst</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Een kleine lijst aan de muur voor één foto van de kolonie. Selecteer de lijst om de foto te kiezen of te vervangen; de foto blijft erin zitten als de lijst wordt losgemaakt en verplaatst. Moet aan een muur hangen. Gemaakt aan de kunsttafel; de kwaliteit bepaalt de schoonheid.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>brede fotolijst</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Een lijst van twee cellen aan de muur, breder dan de kleine: gemaakt voor brede foto's. Hangt alleen aan horizontale muren. Houdt de foto bij verplaatsen. Gemaakt aan de kunsttafel; de kwaliteit bepaalt de schoonheid.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>foto-ezel</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Een vrijstaande ezel (2x2) met een foto van de kolonie, groot genoeg om de mensen erop te herkennen. Kan overal staan en later worden verplaatst zonder de foto te verliezen. Gemaakt aan de kunsttafel; de kwaliteit bepaalt de schoonheid.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>fotobord</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Een groot vrijstaand bord (3x2) voor een foto van de kolonie, de grootste manier om een moment te tonen. Verplaatsbaar zonder de foto te verliezen. Gemaakt aan de kunsttafel; de kwaliteit bepaalt de schoonheid.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>fotocollagebord</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Een vrijstaand bord (3x2) met passe-partout en vier gelijke vensters voor foto's van de kolonie; elke foto wordt bijgesneden tot die het venster vult. Kies een foto voor elk venster; lege vensters blijven leeg. Verplaatsbaar zonder de foto's te verliezen. Gemaakt aan de kunsttafel.</MF_PhotoCollage.description>
+  <MF_Projector.label>diaprojector</MF_Projector.label>
+  <MF_Projector.description>Projecteert foto's van de kolonie vóór zich. Kies één vaste foto of een film, en een vaste of eigen breedte en hoogte. Met de knop Laagvolgorde komt het beeld achter of vóór voorwerpen te staan. Gewone films wisselen in echte tijd; films van een dia-avond wisselen met de speltijd van het evenement. Kolonisten kunnen ernaar kijken voor plezier. Heeft geen elektriciteit nodig. Plaats hem via Andere naast de fotogereedschappen; kolonisten bouwen hem van het gekozen materiaal.</MF_Projector.description>
+  <MF_MemorialFrame.label>gedenkfoto-standaard</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Een kleine staande lijst om naast een graf of sarcofaag te zetten. Vanzelf toont hij de laatste foto van de persoon die ernaast begraven ligt; je kunt ook zelf een foto kiezen. Leeg tot er een graf met een lichaam naast staat. Gemaakt aan de kunsttafel.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>fotoplek</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Markeert waar groepsfoto's worden gemaakt. Selecteer de plek en druk op 'Groepsfoto': elke kolonist op de kaart die wakker en vrij is, gaat erachter staan (aan de noordkant, jongsten vooraan), kijkt naar de camera, en de foto wordt gemaakt zodra iedereen stilstaat. Laat achter de plek open vloer vrij voor de rijen. Wordt meteen geplaatst, kost niets.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>herinneringsboom</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Een houten rek voor 35 foto's van de kolonie. Nieuwe foto's vullen lege takken en vervangen daarna de oudste niet-vastgezette foto. Kies favorieten en zet ze vast, of filter automatische foto's op soort. Gemaakt aan de kunsttafel; houdt de foto's bij verplaatsen.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fotostudiodoek</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Een canvas achtergronddoek voor familie- en groepsportretten. Selecteer het om deelnemers te kiezen. Iedereen verzamelt zich voor het doek en er wordt automatisch een foto gemaakt. Het automatische kader omvat zowel de mensen als het doek. Maximaal vijftien staande deelnemers; baby's komen in de armen van een voogd mee. Draai het voor het bouwen om de poseerrichting te bepalen.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>fototuinboog</MF_StudioArch.label>
+  <MF_StudioArch.description>Een ronde boog voor portretten buiten. Gebruikt dezelfde deelnemerskeuze en automatische kadrering als het studiodoek. Houd het gemarkeerde poseergebied vrij. Baby's komen mee met een voogd. Draai de boog voor het bouwen om de poseerrichting te bepalen.</MF_StudioArch.description>
+  <MF_StudioSofa.label>fotostudiosofa (rekwisiet)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Een portretsofa met drie plaatsen. Zet hem in het poseergebied van een studio, in dezelfde richting als het doek. Deelnemers nemen eerst deze plaatsen in, vóór de staande rijen. Hij gebruikt de gewone weergave van personages, zonder nieuwe zitanimatie. Een rekwisiet om op te poseren, geen zitplaats om dagelijks te eten of te ontspannen.</MF_StudioSofa.description>
+  <MF_StudioBench.label>fotostudiobank (rekwisiet)</MF_StudioBench.label>
+  <MF_StudioBench.description>Een gestoffeerde bank met drie plaatsen voor portretten. Zet hem in het poseergebied, in dezelfde richting als het doek. Een rekwisiet om op te poseren, geen zitplaats om dagelijks te eten of te ontspannen.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotostudioleunstoel (rekwisiet)</MF_StudioChair.label>
+  <MF_StudioChair.description>Eén portretstoel. Zet hem vooraan in het midden voor de jarige, of voeg hem toe aan het poseergebied van de studio. Een rekwisiet om op te poseren, geen zitplaats om dagelijks te eten of te ontspannen.</MF_StudioChair.description>
+  <MF_StudioLamp.label>fotostudiolamp</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Een portretlamp op elektriciteit. In de stand Automatisch gaat hij aan zolang de dichtstbijzijnde studio in dezelfde kamer (binnen tien cellen) mensen verzamelt of wacht op nieuwe opnamen. De groep wegsturen zet hem uit. De standen Aan en Uit gaan boven de automatische bediening. Studiofoto's behouden deze belichting.</MF_StudioLamp.description>
+</LanguageData>

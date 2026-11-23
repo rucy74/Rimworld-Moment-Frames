@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>思い出の夜</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>思い出の夜</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort}が映写機の前で思い出の夜を開きます。集まった人はコロニーの写真をみんなで眺め、長く続く良い気分を得ます。</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>思い出の夜は中止になりました。</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>思い出の夜が終わりました。</MF_MemoryNight.finishedMessage>
+</LanguageData>

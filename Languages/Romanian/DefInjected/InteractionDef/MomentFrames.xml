@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_RememberWhen.label>depănare de amintiri</MF_RememberWhen.label>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] și [RECIPIENT_nameDef] s-au oprit în fața unei fotografii de pe perete, [reminisced].</MF_RememberWhen.logRulesInitiator.rulesStrings.0>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] a arătat spre o fotografie veche, [reminisced] cu [RECIPIENT_nameDef].</MF_RememberWhen.logRulesInitiator.rulesStrings.1>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.2>reminisced(p=3)-&gt;depănând amintiri</MF_RememberWhen.logRulesInitiator.rulesStrings.2>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.3>reminisced-&gt;râzând de vremurile de demult</MF_RememberWhen.logRulesInitiator.rulesStrings.3>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.4>reminisced-&gt;schimbând amintiri</MF_RememberWhen.logRulesInitiator.rulesStrings.4>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.5>reminisced-&gt;amintindu-și de ziua aceea</MF_RememberWhen.logRulesInitiator.rulesStrings.5>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ConcertHost>연주회: {0} 연주</MF_ConcertHost>
+  <MF_ConcertPlain>연주회</MF_ConcertPlain>
+  <MF_EventAfterward>{0}의 기록 사진. 행사가 끝난 뒤 촬영되어 당시 모습과 다를 수 있다.</MF_EventAfterward>
+  <MF_ConcertAfterwardInstrument>{0}의 기록 사진. 확인한 악기는 {1}였다. 연주회가 끝난 뒤 촬영되어 당시 모습과 다를 수 있다.</MF_ConcertAfterwardInstrument>
+</LanguageData>

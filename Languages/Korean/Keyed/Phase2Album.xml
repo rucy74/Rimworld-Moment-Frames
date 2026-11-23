@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Phase2_AlbumTools>앨범 전체 도구</MF_Phase2_AlbumTools>
+  <MF_Phase2_SettlementTab>정착지 / 건물</MF_Phase2_SettlementTab>
+  <MF_Phase2_IncludeBirthdays>생일 포함</MF_Phase2_IncludeBirthdays>
+  <MF_Phase2_AlbumSearch>제목·인물·설명 검색</MF_Phase2_AlbumSearch>
+  <MF_Phase2_HighlightHelp>선정 기준</MF_Phase2_HighlightHelp>
+  <MF_Phase2_HighlightCriteria>그해의 중요한 사건을 먼저 고르고, 종류와 인물, 시점이 겹치지 않도록 대표 사진을 최대 3장 고릅니다. 결과는 같은 기록에서 항상 같으며 무작위로 바뀌지 않습니다.</MF_Phase2_HighlightCriteria>
+  <MF_Phase2_BirthdayCompare>이전 생일과 나란히 보기</MF_Phase2_BirthdayCompare>
+  <MF_Phase2_ViewCompare>같은 구도의 이전 사진과 비교</MF_Phase2_ViewCompare>
+  <MF_Phase2_PreviousBirthday>이전 생일</MF_Phase2_PreviousBirthday>
+  <MF_Phase2_CurrentBirthday>이번 생일</MF_Phase2_CurrentBirthday>
+  <MF_Phase2_Age>{0}살</MF_Phase2_Age>
+  <MF_Phase2_EditPhotoTab>사진 다듬기</MF_Phase2_EditPhotoTab>
+  <MF_Phase2_EditIconTab>사진 안 아이콘</MF_Phase2_EditIconTab>
+  <MF_Phase2_EditIconOpen>사진 안에 아이콘 넣기</MF_Phase2_EditIconOpen>
+  <MF_Phase2_MarginStickers>앨범 여백에 스티커 붙이기</MF_Phase2_MarginStickers>
+  <MF_Phase2_IconHelp>도형을 고른 뒤 사진 안에서 끌어 옮기세요. 직접 붙이는 장식이며 림의 실제 감정 기록이 아닙니다.</MF_Phase2_IconHelp>
+  <MF_Phase2_IconMoveHint>아이콘: 왼쪽 드래그로 이동 · 크기는 오른쪽에서 조절 · Delete로 제거</MF_Phase2_IconMoveHint>
+  <MF_Phase2_IconSize>선택한 아이콘 크기</MF_Phase2_IconSize>
+  <MF_Phase2_IconSelect>사진에서 아이콘을 누르면 크기와 위치를 바꿀 수 있어요.</MF_Phase2_IconSelect>
+  <MF_Phase2_IconRemove>선택한 아이콘 제거</MF_Phase2_IconRemove>
+  <MF_Phase2_IconClear>아이콘 모두 지우기</MF_Phase2_IconClear>
+  <MF_Phase2_IconOriginalSafe>저장하면 새 편집본에만 들어갑니다. 원본 사진은 그대로 보존됩니다.</MF_Phase2_IconOriginalSafe>
+</LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PetJoinedTitle>새로 함께하게 된 {0}</MF_PetJoinedTitle>
+  <MF_PetJoinedDesc>정착지에 합류한 {0}의 모습을 한 장으로 남겼다.</MF_PetJoinedDesc>
+  <MF_PetPairTitle>{0}, {1} — 함께 남긴 한 장</MF_PetPairTitle>
+  <MF_PetPairDesc>사진에는 {0}, {1}의 모습이 함께 남았다.</MF_PetPairDesc>
+  <MF_PetPairStarted>사진 준비: {0}, {1}. 촬영 자리에 모입니다.</MF_PetPairStarted>
+  <MF_PetMissingSubject>사진에 담을 필수 대상이 실제 구도 안에 있어야 합니다.</MF_PetMissingSubject>
+  <MF_PetSubjects>함께한 이들: {0}</MF_PetSubjects>
+  <MF_Set_PetArrivals>새로 합류한 반려 동물 사진</MF_Set_PetArrivals>
+  <MF_Set_PetArrivalsDesc>반려 동물이나 이름·유대·주인이 있는 동물이 새로 합류하면 한 번 촬영합니다. 기존 동물을 저장 불러오기 때 새로 기록하지 않습니다.</MF_Set_PetArrivalsDesc>
+  <MF_Kind_petjoined>동물 합류</MF_Kind_petjoined>
+  <MF_Kind_petphoto>동물과 함께</MF_Kind_petphoto>
+  <MF_PetSetupTitle>동물과 함께 사진 준비</MF_PetSetupTitle>
+  <MF_PetSetupHelp>동물 한 마리와 함께 찍을 정착민 한 명을 골라주세요. 이 촬영 스팟에서 나란히 찍고 해산해요.</MF_PetSetupHelp>
+  <MF_PetSetupAnimal>함께 찍을 동물</MF_PetSetupAnimal>
+  <MF_PetSetupOwner>함께 찍을 정착민</MF_PetSetupOwner>
+  <MF_PetSetupStart>둘을 부르기</MF_PetSetupStart>
+  <MF_PetSetupCancel>취소</MF_PetSetupCancel>
+  <MF_Pet_NoAnimals>이 지도에 함께 찍을 동물이 없습니다.</MF_Pet_NoAnimals>
+  <MF_Pet_NoOwners>이 지도에 함께 찍을 정착민이 없습니다.</MF_Pet_NoOwners>
+  <MF_Pet_Unavailable>지금은 함께 찍을 수 없습니다.</MF_Pet_Unavailable>
+  <MF_Pet_SelectBoth>동물 한 마리와 정착민 한 명을 골라주세요.</MF_Pet_SelectBoth>
+  <MF_Pet_Roped>줄을 잡거나 줄에 묶인 동안은 부를 수 없습니다.</MF_Pet_Roped>
+  <MF_Pet_NoRoom>둘이 나란히 설 자리가 부족합니다.</MF_Pet_NoRoom>
+  <MF_Pet_NoPath>둘이 안전하게 도착할 수 있는 촬영 자리가 필요합니다.</MF_Pet_NoPath>
+  <MF_Pet_WaitAll>둘이 촬영 자리에 도착하면 자동으로 찍고 해산해요.</MF_Pet_WaitAll>
+  <MF_PetPairGizmo>동물과 함께 사진</MF_PetPairGizmo>
+  <MF_PetPairGizmoDesc>동물과 함께 찍을 정착민을 고르고, 이 촬영 스팟에 둘을 불러 사진을 찍습니다.</MF_PetPairGizmoDesc>
+  <MF_Caption_petjoined_1>{4}, 정착지에서 함께하게 된 첫날.</MF_Caption_petjoined_1>
+  <MF_Caption_petjoined_2>새로 합류한 {4}의 모습을 사진으로 남겼다.</MF_Caption_petjoined_2>
+  <MF_Caption_petjoined_3>{4}의 합류를 알리는 한 장이 앨범에 더해졌다.</MF_Caption_petjoined_3>
+  <MF_Caption_petjoined_4>정착지의 새 동물, {4}. 함께하게 된 날의 기록이다.</MF_Caption_petjoined_4>
+  <MF_Caption_petjoined_5>{4}의 정착지 합류를 사진 한 장으로 기록했다.</MF_Caption_petjoined_5>
+  <MF_Caption_petjoined_6>이날 {4}의 모습은 정착지에 새로 합류한 동물의 기록으로 남았다.</MF_Caption_petjoined_6>
+  <MF_Caption_petjoined_7>{4}, 정착지의 동물이 된 날을 앨범에 남겼다.</MF_Caption_petjoined_7>
+  <MF_Caption_petjoined_8>새로 함께하게 된 {4}. 합류한 날의 모습을 한 장으로 남겼다.</MF_Caption_petjoined_8>
+  <MF_Caption_petphoto_1>{1}, {4}. 함께 찍은 한 장을 앨범에 남겼다.</MF_Caption_petphoto_1>
+  <MF_Caption_petphoto_2>{1} 그리고 {4}, 촬영 자리에서 나란히 남긴 모습이다.</MF_Caption_petphoto_2>
+  <MF_Caption_petphoto_3>이 사진에는 {1}, {4}의 모습이 함께 담겼다.</MF_Caption_petphoto_3>
+  <MF_Caption_petphoto_4>{1}, {4}. 둘이 모인 촬영 자리의 기록이다.</MF_Caption_petphoto_4>
+  <MF_Caption_petphoto_5>촬영 자리에 모인 {1}, {4}의 모습을 한 장으로 남겼다.</MF_Caption_petphoto_5>
+  <MF_Caption_petphoto_6>{1} 그리고 {4}의 함께한 모습을 사진으로 기록했다.</MF_Caption_petphoto_6>
+  <MF_Caption_petphoto_7>한 장의 사진에 {1}, {4}의 모습을 나란히 담았다.</MF_Caption_petphoto_7>
+  <MF_Caption_petphoto_8>{1}, {4}. 정착지 앨범에 둘의 사진이 더해졌다.</MF_Caption_petphoto_8>
+</LanguageData>

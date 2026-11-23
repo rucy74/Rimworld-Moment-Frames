@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>bilderamme</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>En liten veggramme til ett bilde fra kolonien. Merk den for å velge eller bytte bilde; den beholder bildet når den avinstalleres og flyttes. Må henge på en vegg. Lages på skulptørbenken; kvaliteten avgjør skjønnheten.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>bred bilderamme</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>En veggramme over to ruter, bredere enn den lille: laget for brede bilder. Henger bare på horisontale vegger. Beholder bildet når den flyttes. Lages på skulptørbenken; kvaliteten avgjør skjønnheten.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>fotostaffeli</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Et frittstående staffeli (2x2) som viser et bilde fra kolonien, stort nok til at man kan kjenne igjen folkene på det. Kan plasseres hvor som helst og flyttes senere uten at bildet går tapt. Lages på skulptørbenken; kvaliteten avgjør skjønnheten.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>fototavle</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>En stor frittstående tavle (3x2) til et bilde fra kolonien, den største måten å vise et øyeblikk på. Kan flyttes uten at bildet går tapt. Lages på skulptørbenken; kvaliteten avgjør skjønnheten.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>fotocollagetavle</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>En frittstående tavle med passepartout (3x2) og fire like vinduer til bilder fra kolonien, der hvert bilde beskjæres så det fyller vinduet. Velg et bilde til hvert vindu; tomme vinduer forblir blanke. Kan flyttes uten at bildene går tapt. Lages på skulptørbenken.</MF_PhotoCollage.description>
+  <MF_Projector.label>lysbildefremviser</MF_Projector.label>
+  <MF_Projector.description>Projiserer bilder fra kolonien foran seg. Velg ett fast bilde eller en film, og en forhåndsinnstilt eller egendefinert bredde og høyde. Bildelag-valget legger bildet bak eller foran gjenstander. Vanlige filmer skifter i sanntid; minnekveldsfilmer skifter etter hendelsens spilltidsklokke. Kolonister kan se på den som fornøyelse. Trenger ikke elektrisitet. Plasseres fra Diverse ved siden av fotoverktøyene; kolonister bygger den av det valgte materialet.</MF_Projector.description>
+  <MF_MemorialFrame.label>minnefotostativ</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>En liten stående ramme til å sette ved et gravsted eller en sarkofag. Av seg selv viser den det siste bildet av den som er gravlagt ved siden av; du kan også velge et bilde selv. Tom til et gravsted med et lik ligger inntil. Lages på skulptørbenken.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>fotoplass</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Markerer hvor gruppebilder tas. Merk den og trykk på «Gruppebilde»: alle kolonister på kartet som er våkne og ledige, stiller seg opp bak den (mot nord, yngst foran), ser mot kameraet, og bildet tas når alle står stille. La det være åpent gulv bak plassen til radene. Plasseres umiddelbart og koster ingenting.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>minnetre</MF_MemoryTree.label>
+  <MF_MemoryTree.description>En utstilling i tre med plass til 35 bilder fra kolonien. Nye bilder fyller tomme grener og erstatter deretter det eldste bildet som ikke er festet. Velg og fest favoritter, eller filtrer automatiske bilder etter type. Lages på skulptørbenken; beholder bildene når det flyttes.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fotostudiobakgrunn</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>En lerretsbakgrunn til familie- og gruppeportretter. Merk den for å velge deltakere. Alle samles foran bakgrunnen, og et bilde tas automatisk. Den automatiske rammen tar med både folkene og bakgrunnen. Opptil femten stående deltakere; bebier kommer i armene til en foresatt. Roter før bygging for å bestemme poseringsretningen.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>fotohagebue</MF_StudioArch.label>
+  <MF_StudioArch.description>En rund bue til utendørsportretter. Bruker samme deltakervalg og automatiske innramming som studiobakgrunnen. Hold det merkede poseringsområdet fritt. Bebier kommer sammen med en foresatt. Roter før bygging for å bestemme poseringsretningen.</MF_StudioArch.description>
+  <MF_StudioSofa.label>fotostudiosofa (rekvisitt)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>En portrettsofa med tre plasser. Plasser den innenfor poseringsområdet til et studio, vendt samme vei som bakgrunnen. Deltakerne bruker disse plassene før de stående radene. Her brukes den vanlige figurtegningen, uten noen ny sitteanimasjon. En poseringsrekvisitt, ikke et sete til daglige måltider eller fornøyelser.</MF_StudioSofa.description>
+  <MF_StudioBench.label>fotostudiobenk (rekvisitt)</MF_StudioBench.label>
+  <MF_StudioBench.description>En polstret portrettbenk med tre plasser. Plasser den i poseringsområdet, vendt samme vei som bakgrunnen. En poseringsrekvisitt, ikke et sete til daglige måltider eller fornøyelser.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotostudiolenestol (rekvisitt)</MF_StudioChair.label>
+  <MF_StudioChair.description>En enkel portrettstol. Plasser den midt foran til den som har bursdag, eller legg den til i poseringsområdet til studioet. En poseringsrekvisitt, ikke et sete til daglige måltider eller fornøyelser.</MF_StudioChair.description>
+  <MF_StudioLamp.label>fotostudiolys</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Et elektrisk portrettlys. Automatisk modus slår det på mens nærmeste studio i samme rom (innen ti ruter) samler folk eller venter på omtak. Når gruppen sendes bort, slås det av. Modusene På og Av overstyrer den automatiske styringen. Studiobilder bevarer denne belysningen.</MF_StudioLamp.description>
+</LanguageData>

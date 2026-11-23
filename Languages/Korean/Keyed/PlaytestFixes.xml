@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BirthdayShoot>생일 사진 촬영 ({0}명)</MF_BirthdayShoot>
+  <MF_BirthdayShootDesc>선택한 참석자와 생일 당사자가 모두 준비되면 촬영합니다. 사진 저장 후 자동으로 해산합니다.</MF_BirthdayShootDesc>
+  <MF_BirthdayMoveAnchor>다른 위치 선택</MF_BirthdayMoveAnchor>
+  <MF_RecordOnly>사건 기록\n사진 없음</MF_RecordOnly>
+  <MF_Why_Asleep>잠자는 중</MF_Why_Asleep>
+  <MF_Why_Baby>아기 — 혼자 걸어올 수 없음</MF_Why_Baby>
+  <MF_BirthdayReady>모두 자리에 섰습니다. 자동으로 생일 사진을 찍습니다.</MF_BirthdayReady>
+  <MF_BirthdayWaitAll>선택한 참석자가 모두 자리에 설 때까지 기다리거나 참석자 명단을 수정하세요.</MF_BirthdayWaitAll>
+  <MF_BirthdaySubjectMissing>생일 당사자가 촬영 위치에 없습니다. 당사자를 포함해 다시 준비하세요.</MF_BirthdaySubjectMissing>
+  <MF_BirthdayRetryCapture>사진이 저장되지 않았습니다. 준비를 확인하고 다시 촬영할 수 있습니다.</MF_BirthdayRetryCapture>
+  <MF_BirthdayEditGuests>생일 참석자 변경</MF_BirthdayEditGuests>
+  <MF_BirthdaySetupHelp>참석자와 대형 방향을 고릅니다. 모두 모이면 자동으로 촬영하며, 저장에 성공하면 자동으로 해산합니다. 잠든 참석자는 깨워 부릅니다. 취소해도 생일 편지에서 다시 준비할 수 있습니다.</MF_BirthdaySetupHelp>
+  <MF_BirthdayAtBed>당사자는 현재 위치 ({0}, {1})에 그대로 있고 참석자가 주변으로 모입니다.</MF_BirthdayAtBed>
+  <MF_BirthdayPlace>대형 기준 위치: ({0}, {1})</MF_BirthdayPlace>
+  <MF_BirthdayRecommended>가까운 사람 추천</MF_BirthdayRecommended>
+  <MF_BirthdayAllGuests>가능한 사람 전체</MF_BirthdayAllGuests>
+  <MF_BirthdayOnlySelf>당사자만 선택</MF_BirthdayOnlySelf>
+  <MF_DirectionNorth>북쪽에 서기</MF_DirectionNorth>
+  <MF_DirectionEast>동쪽에 서기</MF_DirectionEast>
+  <MF_DirectionSouth>남쪽에 서기</MF_DirectionSouth>
+  <MF_DirectionWest>서쪽에 서기</MF_DirectionWest>
+  <MF_BirthdaySubject>생일 당사자 · 필수</MF_BirthdaySubject>
+  <MF_BirthdayCapacity>선택 {0}명 · 이동 참석자 {2}명 중 {1}명 자리 확보. 자리 부족 시 방향이나 명단을 바꿔 주세요.</MF_BirthdayCapacity>
+  <MF_BirthdayPreview>지도에서 자리 확인</MF_BirthdayPreview>
+  <MF_BirthdayPreviewInfo>푸른 칸이 참석자 위치입니다. 확인 후 참석자 창으로 돌아오세요.</MF_BirthdayPreviewInfo>
+  <MF_BirthdayApplyGuests>명단·대형 적용</MF_BirthdayApplyGuests>
+  <MF_BirthdayStartGather>선택한 사람 부르기</MF_BirthdayStartGather>
+  <MF_BirthdayGuestsChanged>선택한 사람의 상태가 달라졌습니다. 참석 가능 여부를 다시 확인하세요.</MF_BirthdayGuestsChanged>
+  <MF_BattleNoSubject>위협이 물러난 사건을 기록했다. 촬영할 적이나 잔해가 남아 있지 않아 사진은 찍지 않았다.</MF_BattleNoSubject>
+  <MF_PhotoFactPeople>{0}. 사진에는 {1}명이 담겼다.</MF_PhotoFactPeople>
+  <MF_PhotoFactScene>{0}. 당시 장소의 모습을 담았다.</MF_PhotoFactScene>
+  <MF_Adoption>입양: {0}</MF_Adoption>
+  <MF_BabyArrival>아이의 합류: {0}</MF_BabyArrival>
+  <MF_Kind_adoption>입양</MF_Kind_adoption>
+  <MF_Kind_babyarrival>아이의 합류</MF_Kind_babyarrival>
+  <MF_Life_adopted>입양되어 정착지의 가족이 되다</MF_Life_adopted>
+  <MF_Caption_colonystart_1>아직 정착지의 이름보다 사람들의 짐이 먼저 자리를 차지하던 날이었다.</MF_Caption_colonystart_1>
+  <MF_Caption_colonystart_2>이 땅에서 살아갈 사람들의 첫 모습을 남겼다.</MF_Caption_colonystart_2>
+  <MF_Caption_colonystart_3>풀과 돌 사이에 새로운 생활의 자리가 생겼다.</MF_Caption_colonystart_3>
+  <MF_Caption_colonystart_4>그날의 발밑에서 정착지의 시간이 시작됐다.</MF_Caption_colonystart_4>
+  <MF_Caption_colonystart_5>어디에 집을 세울지, 아직 선택할 수 있는 날이었다.</MF_Caption_colonystart_5>
+  <MF_Caption_colonystart_6>함께 내려놓은 짐들이 작은 시작을 이루었다.</MF_Caption_colonystart_6>
+  <MF_Caption_colonystart_7>익숙해지기 전의 땅은 이런 모습이었다.</MF_Caption_colonystart_7>
+  <MF_Caption_colonystart_8>첫날의 풍경을 한 장 남겨 두었다.</MF_Caption_colonystart_8>
+  <MF_Caption_mechlink_1>몸에 더해진 연결 하나가 새로운 일을 가능하게 했다.</MF_Caption_mechlink_1>
+  <MF_Caption_mechlink_2>기계와 이어진 삶의 한 지점을 남겼다.</MF_Caption_mechlink_2>
+  <MF_Caption_mechlink_3>새로운 연결이 생긴 날의 모습을 보관했다.</MF_Caption_mechlink_3>
+  <MF_Caption_mechlink_4>그 전과 다른 가능성이 조용히 열렸다.</MF_Caption_mechlink_4>
+  <MF_Caption_mechlink_5>사진은 그 변화가 시작된 자리를 보여 준다.</MF_Caption_mechlink_5>
+  <MF_Caption_mechlink_6>메크링크가 더해진 뒤의 모습을 남겼다.</MF_Caption_mechlink_6>
+  <MF_Caption_mechlink_7>이날부터 사용할 수 있는 능력이 하나 늘었다.</MF_Caption_mechlink_7>
+  <MF_Caption_mechlink_8>연결의 시작도 한 사람의 시간에 속했다.</MF_Caption_mechlink_8>
+  <MF_Caption_ending_1>정착지의 시간이 큰 갈림길에 닿았다.</MF_Caption_ending_1>
+  <MF_Caption_ending_2>오래 이어 온 생활 너머의 선택이 눈앞에 놓였다.</MF_Caption_ending_2>
+  <MF_Caption_ending_3>이 장면까지 이어진 날들은 사진 밖에도 남아 있다.</MF_Caption_ending_3>
+  <MF_Caption_ending_4>다음 장으로 넘어가는 길목의 모습을 보관했다.</MF_Caption_ending_4>
+  <MF_Caption_ending_5>처음의 풍경과는 다른 시간이 이곳에 쌓였다.</MF_Caption_ending_5>
+  <MF_Caption_ending_6>여기에 이르렀다는 사실을 한 장으로 남겼다.</MF_Caption_ending_6>
+  <MF_Caption_ending_7>남은 풍경에도 지나온 날들이 배어 있었다.</MF_Caption_ending_7>
+  <MF_Caption_ending_8>긴 여정의 한 경계가 사진에 남았다.</MF_Caption_ending_8>
+  <MF_Caption_adoption_1>새 가족의 합류를 남겼다.</MF_Caption_adoption_1>
+  <MF_Caption_adoption_2>이날부터 같은 정착지에서 살아가게 됐다.</MF_Caption_adoption_2>
+  <MF_Caption_adoption_3>아이를 맞은 날의 모습을 보관했다.</MF_Caption_adoption_3>
+  <MF_Caption_adoption_4>가족의 새로운 시작이 한 장에 남았다.</MF_Caption_adoption_4>
+  <MF_Caption_babyarrival_1>아이가 정착지에 합류한 날의 모습이다.</MF_Caption_babyarrival_1>
+  <MF_Caption_babyarrival_2>새로 온 아이를 기록에 남겼다.</MF_Caption_babyarrival_2>
+  <MF_Caption_babyarrival_3>처음 함께 머문 장소를 담았다.</MF_Caption_babyarrival_3>
+  <MF_Caption_babyarrival_4>정착지에 한 사람이 더해졌다.</MF_Caption_babyarrival_4>
+</LanguageData>

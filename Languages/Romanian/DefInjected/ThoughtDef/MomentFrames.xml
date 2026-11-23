@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>m-am uitat la o fotografie cu mine</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Am stat în fața unei fotografii în care apar și mi-am amintit ziua aceea.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>am depănat amintiri cu {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Ne-am uitat la o fotografie veche în care apărem amândoi și am vorbit despre ziua aceea.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>seară de amintiri</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Am privit împreună fotografiile coloniei la proiector și ne-am amintit cum am ajuns aici.</MF_MemoryNight.stages.0.description>
+</LanguageData>

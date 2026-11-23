@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Moment Frames</name>
+  <author>rucy74</author>
+  <packageId>rucy74.momentframes</packageId>
+  <modVersion>2.6.0</modVersion>
+  <modIconPath>UI/MomentFrames/AlbumTab</modIconPath>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>Your colony takes its own photographs.
+
+Play as usual: important moments become real PNG photographs. Open the album to revisit them or hang them on your walls. For your first portrait, open How to use in the album: real pictures, short steps and direct actions. Studios and extra settings are optional.
+
+WHAT GETS PHOTOGRAPHED
+- Gatherings, while they are still happening: weddings, parties, festivals, concerts, funerals and ideoligion rituals at the moment that matters — the executioner at the altar, the sky lanterns once they have risen, the speaker holding the floor. Not at the end, when everyone is already walking away.
+- Milestones: births, deaths, recruits, legendary work, ship and gravship launches, mech boss kills, resurrections, relics, monolith stages, the colony's first day, a mechlink fitted, a rare beast met or tamed, anomalies on sight.
+- Endings, step by step: the royal ascent, the archonexus and its countdown, the mechhive and the cerebrex core falling silent.
+- Fights you won: the photo is taken at the first exchange of attacks and joins the album once the danger has passed — the first raid, siege, infestation, mech cluster or manhunter pack, then the hard fights. If that moment can't be photographed, the album keeps a record of the fight.
+- Disasters and the sky, while they last: toxic fallout, volcanic winter, flashstorms and the expansions' own, an aurora or an eclipse when your colonists are out under it. In their own light, not brightened.
+- Journeys: the first time your colonists reach a new biome or landmark, on foot, by shuttle or by gravship — the moment they land, and a wider shot once they look around. The route is drawn on the world map, with a small print pinned to every place that has a photo.
+- New pets: an animal that joins the family gets its first photo.
+- Anniversaries and population milestones, as a wide shot of the whole colony.
+- Whatever you point at: drag a box on the map and it is photographed at that framing.
+
+Optional speech-bubble emotes — hearts, waves and more — can appear at the shutter, on the map only or saved in the photo. The default is none.
+
+GROUP PHOTOS AND BIRTHDAYS
+Place a photo spot and pick people by portrait: everyone, a random few or one by one, with undo. Caregivers carry babies and sleepers are woken. Choose each person's emote or use automatic selection. Ordinary groups hold their places for retakes until dismissed; birthdays and baby sessions finish after the shot. You can also call an animal and a colonist for a photo together.
+Birthdays, if you like: a letter asks whether to take the picture, who comes, and where. Birthday photos stay in that colonist's own chronicle instead of filling the album.
+
+PHOTO STUDIO
+Build a backdrop or garden arch, then furnish it with a sofa, bench or chair and powered studio lights. Choose a plain, garden or birthday backdrop; scenery and furniture can be mixed. Lights turn on for the gathering and off when it ends. Pick a family, gather, and the camera fits people and backdrop into the shot. Birthday guests stand behind the child's front seat.
+
+With supported [NL] Facial Animation faces, pick a smile, closed-eye smile, surprise or sadness for the shot and preview it in the portrait; the face is released afterwards. Available poses depend on the installed face textures. Without Facial Animation the face controls are hidden and photography still works.
+
+WHERE THE PHOTOS GO
+Every photo is a PNG in a MomentFrames folder inside RimWorld's save data folder (you can choose another), named by date and event, with a short caption written for that moment — a baby in a parent's arms, a song still playing, the quiet after a fight — picked from hundreds per language, so they rarely repeat. The image files stay usable outside the save; the album's records belong to the colony save.
+
+The album (bottom tab) is a window of its own: move it, resize it, make it see-through. Polaroid cards, a chronicle by year, a gallery, search, and filters by kind, person, year and favorites (mark a heart). Several shots of the same group session stack into one card, with the cover you choose. Dress it in one of eleven themes (leather album, field notebook, pencil sketchbook, watercolour scrapbook and more), six font options including handwriting, and four text sizes. If photo files go missing, the album lists them and finds them again in a folder you choose.
+
+Each colonist's info window gains a Chronicle tab: their life in photographs, and between them the moments nobody photographed — joining, falling in love, a wedding, a bond with an animal, losing a limb.
+
+Export the album as a web page: album.html in the colony's photo folder opens in any browser, offline, as a bound album with a chapter for each year, filters by moment and colonist, and a slideshow.
+
+YOUR SETTLEMENT OVER TIME
+Every quarter, the whole settlement is photographed from above, with its four quadrants up close, and a new building is photographed once it is finished and in use. In the album's settlement tab, pick a year and quarter, or flip through the same corner from the first photo to now.
+Turn on the camera toggle at the bottom right of the colony map and photos are pinned where they were taken, nearby ones stacked together: hover to see it, open then and now side by side, or shoot that place again.
+
+EDIT YOUR PHOTOS
+Crop (free, the original shape, square, 3:2 or 2:3), zoom in up to 800%, and give it a look: black and white, sepia, warm, cool or faded. Every edit is its own file beside the original, which is never touched, with its own title and note; you choose which version the album, the frames and the projector show. Up to six stickers can decorate the album page around a photo.
+
+ON YOUR WALLS
+Photo frames in four shapes, a four-window collage board, a memorial stand for the grave beside it, and a memory tree with thirty-five photos on its branches. Frames come in five looks: material colour, black mat, gilded, polaroid or canvas print.
+
+Build a slide projector from Misc. Cycle through photos or pin one family portrait. Enter its width and height (0.5–40 tiles each), and choose whether it appears in front of or behind objects. It preserves the photo's proportions; a bigger projection does not increase the original resolution.
+
+Colonists come to look at hung photographs in their free time, and two people in the same picture will stop and remember the day together.
+
+MEMORY NIGHT
+Gather the colony in front of a slide projector and watch your film together — all of it, only your favorites, or photos you pick. Press the projector's button, or now and then a colonist calls one on an evening. The colony's music fades out for a song of its own, those who stay to watch take home a good mood, and the evening itself is photographed.
+
+When the year turns, a letter looks back on it: how many photos and its biggest moments. It opens the album on that year, or a memory night with that year's film.
+
+RIMTALK
+If RimTalk is running, the latest photos a colonist is in are added to what RimTalk knows about them, so the day can come up when they talk. No extra AI calls, and nothing changes without RimTalk.
+
+SETTINGS
+Grouped and searchable. Choose how much to photograph in one click — major moments, balanced or abundant — or switch automatic photos off and take only your own. Then fine-tune: resolution, each kind of moment, birthdays, the chronicle, memory nights, the year's letter, the shutter, the album's look, and photos yellowing with age.
+
+NOTES
+- RimWorld 1.6 and 1.7. Harmony is required. Optional face preview was tested with a supported 1.6 Facial Animation setup; 1.7 Facial Animation remains unverified. No other photo mod is needed.
+- Safe to add to a running colony. Removing it mid-game is not recommended (its frames and saved photo list go with it), but the photos already taken stay as files.
+- In all 29 languages the game ships with: menus, guides and photo captions.</description>
+</ModMetaData>

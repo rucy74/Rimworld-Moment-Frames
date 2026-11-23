@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BurstCount>{0} photos</MF_BurstCount>
+  <MF_BurstTitle>Same group session · {0} photos</MF_BurstTitle>
+  <MF_BurstRepresentative>Cover photo</MF_BurstRepresentative>
+  <MF_BurstSetRepresentative>Use as cover</MF_BurstSetRepresentative>
+  <MF_BurstLoading>Loading photo…</MF_BurstLoading>
+</LanguageData>

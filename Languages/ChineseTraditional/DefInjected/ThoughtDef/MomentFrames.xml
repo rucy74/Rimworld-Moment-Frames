@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>看了自己的照片</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>我站在一張有我的照片前，想起了那一天。</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>與{0}追憶往事</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>我們看著一張兩人都在的舊照片，聊起了那一天。</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>回憶之夜</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>我們一起在幻燈機前看殖民地的照片，想起了我們是怎麼走到今天的。</MF_MemoryNight.stages.0.description>
+</LanguageData>

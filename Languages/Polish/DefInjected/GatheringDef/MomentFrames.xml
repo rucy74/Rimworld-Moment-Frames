@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>wieczór wspomnień</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Wieczór wspomnień</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort}: wieczór wspomnień przy projektorze. Każdy, kto przyjdzie, obejrzy razem z innymi zdjęcia kolonii i zyska trwały dobry nastrój.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Wieczór wspomnień został odwołany.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Wieczór wspomnień dobiegł końca.</MF_MemoryNight.finishedMessage>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_GroupSetupTitle>Group photo preparation</MF_GroupSetupTitle>
+  <MF_GroupSetupReady>The photo is taken automatically once everyone arrives. The group stays for retakes.</MF_GroupSetupReady>
+  <MF_GroupSetupEmpty>Select at least one person for the photo.</MF_GroupSetupEmpty>
+  <MF_GroupSetupNoPlace>Check the photo location.</MF_GroupSetupNoPlace>
+  <MF_GroupSetupClear>Clear selection</MF_GroupSetupClear>
+  <MF_GroupSetupApply>Apply guests</MF_GroupSetupApply>
+  <MF_GroupSetupEdit>Change guests</MF_GroupSetupEdit>
+  <MF_GroupSetupHelp>Choose guests by their portraits and change the formation direction in photo settings.</MF_GroupSetupHelp>
+  <MF_GroupSetupReturn>Return to guests</MF_GroupSetupReturn>
+  <MF_ReunionGuests>{0} selected / {1} available / {2} in the original</MF_ReunionGuests>
+  <MF_ReunionEmptySelection>Select at least one person for the reunion photo.</MF_ReunionEmptySelection>
+  <MF_ReunionSelectionChanged>Some guests cannot join right now: {0}</MF_ReunionSelectionChanged>
+  <MF_ReunionFrameHelp>Take the photo with the original framing.</MF_ReunionFrameHelp>
+  <MF_PhotoPickerCurrent>Current photo</MF_PhotoPickerCurrent>
+  <MF_PhotoPickerTitle>Choose a photo / {0}</MF_PhotoPickerTitle>
+  <MF_ProgressBirthday>Birthday photo</MF_ProgressBirthday>
+  <MF_ProgressGroup>Group photo</MF_ProgressGroup>
+  <MF_ProgressReunion>Reunion photo</MF_ProgressReunion>
+  <MF_ProgressLine>{0}: {1}/{2} arrived / {3}</MF_ProgressLine>
+  <MF_ProgressGathering>Gathering</MF_ProgressGathering>
+  <MF_ProgressReady>Ready to take the photo</MF_ProgressReady>
+  <MF_ProgressAutoReady>Ready for automatic photo</MF_ProgressAutoReady>
+  <MF_ProgressShooting>Saving the photo</MF_ProgressShooting>
+  <MF_ProgressHolding>Waiting for retakes</MF_ProgressHolding>
+  <MF_ProgressWaiting>Waiting for: {0}</MF_ProgressWaiting>
+  <MF_ProgressOthers>{0} and {1} more</MF_ProgressOthers>
+</LanguageData>

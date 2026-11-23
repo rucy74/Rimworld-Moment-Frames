@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Kind_settlement-overview>정착지 전체지도</MF_Kind_settlement-overview>
+  <MF_Kind_settlement-quarter>정착지 구역</MF_Kind_settlement-quarter>
+  <MF_Phase2_WorldDisplay>세계지도 추억 표시</MF_Phase2_WorldDisplay>
+  <MF_Phase2_WorldPhotos>세계지도 사진</MF_Phase2_WorldPhotos>
+  <MF_Phase2_WorldLines>첫 방문 순서선</MF_Phase2_WorldLines>
+  <MF_Phase2_WorldPhotosHelp>세계지도 사진 핀만 표시하거나 숨깁니다. 방문 기록과 자동 촬영은 계속 유지됩니다.</MF_Phase2_WorldPhotosHelp>
+  <MF_Phase2_WorldLinesHelp>모든 일행의 첫 방문 순서를 잇습니다. 실제 이동 경로가 아니며, 서로 다른 원정대의 방문도 시간순으로 연결됩니다. 재방문은 포함하지 않습니다. 다른 모드와 기본 게임의 선은 그대로입니다.</MF_Phase2_WorldLinesHelp>
+  <MF_Phase2_DragCapture>클릭: 이 범위로 촬영 · 드래그: 원하는 범위 지정</MF_Phase2_DragCapture>
+  <MF_Phase2_DragRelease>마우스를 놓으면 선택한 범위로 촬영해요</MF_Phase2_DragRelease>
+  <MF_Phase2_SettlementFrequency>정착지 전체 기록</MF_Phase2_SettlementFrequency>
+  <MF_Phase2_SettlementFrequencyHelp>분기 또는 연말에 전체지도 1장과 구역 4장을 남깁니다. 보고 있는 정착지 지도에서만 촬영하고, 다른 지도는 돌아왔을 때 실제 촬영 날짜를 표시합니다. 자동 촬영을 끄면 중단되며 직접 전체 촬영은 계속 가능합니다.</MF_Phase2_SettlementFrequencyHelp>
+  <MF_Phase2_FrequencyOff>자동 전경 끄기</MF_Phase2_FrequencyOff>
+  <MF_Phase2_FrequencyQuarter>매 분기</MF_Phase2_FrequencyQuarter>
+  <MF_Phase2_FrequencyYear>매년</MF_Phase2_FrequencyYear>
+  <MF_Phase2_BuildingPhotos>새 건물 기록</MF_Phase2_BuildingPhotos>
+  <MF_Phase2_BuildingPhotosHelp>연구실·도서관·작업장·주방·병원·신전 등 실제 시설이 있는 새 실내 공간이 지붕·미완공 없음·6000틱 안정 조건을 만족하면 기록해요. 빈 방·통로·침실·바닥이나 저장구역만 있는 공간은 제외해요. 플레이어가 계획한 공사의 끝을 정확히 알 수는 없어요.</MF_Phase2_BuildingPhotosHelp>
+  <MF_Phase2_Period>{0}년 {1}분기</MF_Phase2_Period>
+  <MF_Phase2_Map>정착지 지도 {0}</MF_Phase2_Map>
+  <MF_Phase2_SurveyNow>지금 전체 촬영</MF_Phase2_SurveyNow>
+  <MF_Phase2_SurveyHint>전체지도 1장 + 구역 4장. 배속과 일시정지는 바꾸지 않아요.</MF_Phase2_SurveyHint>
+  <MF_Phase2_WholeMap>전체지도</MF_Phase2_WholeMap>
+  <MF_Phase2_Quarter0>북서 구역</MF_Phase2_Quarter0>
+  <MF_Phase2_Quarter1>북동 구역</MF_Phase2_Quarter1>
+  <MF_Phase2_Quarter2>남서 구역</MF_Phase2_Quarter2>
+  <MF_Phase2_Quarter3>남동 구역</MF_Phase2_Quarter3>
+  <MF_Phase2_SurveyTitle>{0}년 {1}분기 / {2}</MF_Phase2_SurveyTitle>
+  <MF_Phase2_SurveyNote>{0} 기록 · 지도 범위 {1} × {2}칸.</MF_Phase2_SurveyNote>
+  <MF_Phase2_SurveyDone>정착지 전체와 구역 사진 5장을 남겼습니다.</MF_Phase2_SurveyDone>
+  <MF_Phase2_SurveyCaptured>실제 촬영: {0} / 네 구역을 이어 찍어 전체를 구성했어요.</MF_Phase2_SurveyCaptured>
+  <MF_Phase2_SurveySchedule>분기나 연말에 전경이 추가돼요. 기존 시기의 사진을 소급해서 만들지는 않아요.</MF_Phase2_SurveySchedule>
+  <MF_Phase2_SurveyEmpty>이 시기의 전체지도 사진은 아직 없어요.</MF_Phase2_SurveyEmpty>
+  <MF_Phase2_SurveyMissing>이 사진의 기록이나 이미지 파일을 찾지 못했어요.</MF_Phase2_SurveyMissing>
+  <MF_Phase2_SurveyQueued>전체지도 촬영 대기 중이에요. 해당 정착지 지도를 보면 촬영해요.</MF_Phase2_SurveyQueued>
+  <MF_Phase2_SurveyFailed>전체지도 촬영을 완료하지 못했어요. 현재 지도를 다시 촬영할 수 있어요.</MF_Phase2_SurveyFailed>
+  <MF_Phase2_QuartersOpen>구역 사진 4장 펼치기</MF_Phase2_QuartersOpen>
+  <MF_Phase2_QuartersClose>구역 사진 접기</MF_Phase2_QuartersClose>
+  <MF_Phase2_PeriodPhotos>이 시기의 사진 / {0}장</MF_Phase2_PeriodPhotos>
+</LanguageData>

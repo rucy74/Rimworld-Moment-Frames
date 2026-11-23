@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Extras_Remembrance>사진으로 돌아보기</MF_Extras_Remembrance>
+  <MF_Extras_ColonyRemembrance>우리 정착지, 남겨 둔 순간들</MF_Extras_ColonyRemembrance>
+  <MF_Extras_PersonRemembrance>{0}의 남겨진 순간들</MF_Extras_PersonRemembrance>
+  <MF_Extras_ChooseRemembrance>정착지·사람 고르기</MF_Extras_ChooseRemembrance>
+  <MF_Extras_RemembranceHint>사건 종류와 시간 간격을 고려해 실제 사진을 최대 5장 골라 보여줘요. 재생을 누르면 한 장씩 12초 동안 감상해요. 게임 배속은 바뀌지 않아요.</MF_Extras_RemembranceHint>
+  <MF_Extras_NoRemembrance>아직 돌아볼 사진이 없어요.</MF_Extras_NoRemembrance>
+  <MF_Extras_StopSlides>잠시 멈추기</MF_Extras_StopSlides>
+  <MF_Extras_PlaySlides>한 장씩 감상하기</MF_Extras_PlaySlides>
+  <MF_Extras_OpenInAlbum>앨범에서 보기</MF_Extras_OpenInAlbum>
+  <MF_Extras_OtherDays>다른 날의 사진</MF_Extras_OtherDays>
+  <MF_Extras_RefreshFolder>사진 폴더 다시 살펴보기</MF_Extras_RefreshFolder>
+  <MF_Extras_ScanHint>이 정착지의 사진 폴더와 현재 세이브의 목록을 비교해요. 원하는 사진을 확인하고 체크한 것만 가져오세요. 외부에서 바뀐 사진은 새 편집본으로 복사하며, 원본 파일은 지우거나 덮어쓰지 않아요. 예전 사진의 기준은 처음 확인한 파일 상태이므로, 그 이전의 외부 수정 여부는 알 수 없어요.</MF_Extras_ScanHint>
+  <MF_Extras_OtherDay>현재 세이브 목록에 없는 사진</MF_Extras_OtherDay>
+  <MF_Extras_NewImage>새로 발견한 사진</MF_Extras_NewImage>
+  <MF_Extras_ChangedImage>외부에서 바뀐 사진 · 새 편집본으로</MF_Extras_ChangedImage>
+  <MF_Extras_MissingImage>폴더에서 찾을 수 없음 · 기록 유지</MF_Extras_MissingImage>
+  <MF_Extras_Duplicate>이미 등록한 사진과 내용이 같아요</MF_Extras_Duplicate>
+  <MF_Extras_KnownHistory>이 모드가 저장한 사진 정보가 있어요. 현재 세이브에 없는 이유나 다른 시간선인지 여부는 확인할 수 없어요.</MF_Extras_KnownHistory>
+  <MF_Extras_UncertainHistory>촬영 날짜·사건을 확실히 확인할 수 없어요. 파일명에서 얻은 정보가 있어도 실제 기록으로 단정하지 않아요.</MF_Extras_UncertainHistory>
+  <MF_Extras_NoCandidates>가져올 사진이 없어요. 원본과 기존 기록은 그대로 보관돼요.</MF_Extras_NoCandidates>
+  <MF_Extras_SelectPreview>왼쪽에서 사진을 눌러 크게 확인해 보세요.</MF_Extras_SelectPreview>
+  <MF_Extras_Rescan>다시 읽기</MF_Extras_Rescan>
+  <MF_Extras_ImportSelected>선택한 {0}장 가져오기</MF_Extras_ImportSelected>
+  <MF_Extras_ImportResult>{0}장 가져옴 · {1}장 가져오지 못함</MF_Extras_ImportResult>
+  <MF_Extras_ImportUnavailable>현재 정착지에 가져올 수 없는 사진이에요.</MF_Extras_ImportUnavailable>
+  <MF_Extras_ImageTooLarge>사진은 파일 크기 64MB 이하, 가로·세로 각각 8192px 이하까지 가져올 수 있어요. 원본은 변경하지 않았어요.</MF_Extras_ImageTooLarge>
+  <MF_Extras_ImageChanged>확인하는 동안 파일이 바뀌었어요. 다시 읽고 선택해 주세요.</MF_Extras_ImageChanged>
+  <MF_Extras_InvalidPng>읽을 수 없는 PNG예요. 이미지 편집기에서 정상적으로 열리는지 확인해 주세요. 원본은 변경하지 않았어요.</MF_Extras_InvalidPng>
+  <MF_Extras_ImportedNote>현재 세이브의 사건 사진으로 확인할 수 없는, 사용자가 선택해 가져온 사진입니다.</MF_Extras_ImportedNote>
+  <MF_Extras_UnknownDate>촬영 시점 미확인</MF_Extras_UnknownDate>
+  <MF_Extras_EventPeople>당시 사건의 사람: {0}</MF_Extras_EventPeople>
+  <MF_Kind_otherday>다른 날의 사진</MF_Kind_otherday>
+  <MF_Kind_external>가져온 사진</MF_Kind_external>
+</LanguageData>

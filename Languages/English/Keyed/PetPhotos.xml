@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PetJoinedTitle>Welcoming {0}</MF_PetJoinedTitle>
+  <MF_PetJoinedDesc>A photograph of {0}, newly welcomed into the colony.</MF_PetJoinedDesc>
+  <MF_PetPairTitle>{0}, {1} — one photograph together</MF_PetPairTitle>
+  <MF_PetPairDesc>{0} and {1} appear together in this photograph.</MF_PetPairDesc>
+  <MF_PetPairStarted>Photo gathering: {0} and {1} are coming to their places.</MF_PetPairStarted>
+  <MF_PetMissingSubject>The required subjects must be present in the photo.</MF_PetMissingSubject>
+  <MF_PetSubjects>In the photo: {0}</MF_PetSubjects>
+  <MF_Set_PetArrivals>Photograph newly joined pets</MF_Set_PetArrivals>
+  <MF_Set_PetArrivalsDesc>Photograph a new pet, or an animal with a name, bond or master, once when it joins. Loading a save does not create arrival records for existing animals.</MF_Set_PetArrivalsDesc>
+  <MF_Kind_petjoined>Animal arrival</MF_Kind_petjoined>
+  <MF_Kind_petphoto>With an animal</MF_Kind_petphoto>
+  <MF_PetSetupTitle>A photograph with an animal</MF_PetSetupTitle>
+  <MF_PetSetupHelp>Choose one animal and one colonist. They will pose together at this photo spot, then return to their day.</MF_PetSetupHelp>
+  <MF_PetSetupAnimal>Animal to photograph</MF_PetSetupAnimal>
+  <MF_PetSetupOwner>Colonist to photograph with</MF_PetSetupOwner>
+  <MF_PetSetupStart>Gather the pair</MF_PetSetupStart>
+  <MF_PetSetupCancel>Cancel</MF_PetSetupCancel>
+  <MF_Pet_NoAnimals>No animals on this map to photograph with.</MF_Pet_NoAnimals>
+  <MF_Pet_NoOwners>No colonists on this map to photograph with.</MF_Pet_NoOwners>
+  <MF_Pet_Unavailable>They cannot pose together right now.</MF_Pet_Unavailable>
+  <MF_Pet_SelectBoth>Choose one animal and one colonist.</MF_Pet_SelectBoth>
+  <MF_Pet_Roped>A pawn holding a rope or tied to one cannot join the photo.</MF_Pet_Roped>
+  <MF_Pet_NoRoom>There is not enough room for the pair to stand together.</MF_Pet_NoRoom>
+  <MF_Pet_NoPath>Both need a safe path to their assigned photo places.</MF_Pet_NoPath>
+  <MF_Pet_WaitAll>Both arrive, the photograph is taken, and the pair is dismissed.</MF_Pet_WaitAll>
+  <MF_PetPairGizmo>Photo with an animal</MF_PetPairGizmo>
+  <MF_PetPairGizmoDesc>Choose an animal and a colonist, then gather them at this photo spot for a photograph together.</MF_PetPairGizmoDesc>
+  <MF_Caption_petjoined_1>{4}, on the first day of joining the colony.</MF_Caption_petjoined_1>
+  <MF_Caption_petjoined_2>A photograph of {4}, newly arrived in the colony.</MF_Caption_petjoined_2>
+  <MF_Caption_petjoined_3>A record of {4}'s arrival was added to the album.</MF_Caption_petjoined_3>
+  <MF_Caption_petjoined_4>The colony's new animal, {4}. A record of the day it joined.</MF_Caption_petjoined_4>
+  <MF_Caption_petjoined_5>{4}'s arrival in the colony was recorded in one photograph.</MF_Caption_petjoined_5>
+  <MF_Caption_petjoined_6>This image of {4} marks an animal newly joining the colony.</MF_Caption_petjoined_6>
+  <MF_Caption_petjoined_7>{4}, photographed on the day it became one of the colony's animals.</MF_Caption_petjoined_7>
+  <MF_Caption_petjoined_8>Newly arrived, {4}. One photograph records the day.</MF_Caption_petjoined_8>
+  <MF_Caption_petphoto_1>{1}, {4}. A photograph together was added to the album.</MF_Caption_petphoto_1>
+  <MF_Caption_petphoto_2>{1} and {4}, posing side by side at the photo spot.</MF_Caption_petphoto_2>
+  <MF_Caption_petphoto_3>This photograph includes both {1} and {4}.</MF_Caption_petphoto_3>
+  <MF_Caption_petphoto_4>{1}, {4}. A record of the pair gathered for a photograph.</MF_Caption_petphoto_4>
+  <MF_Caption_petphoto_5>A photograph of {1} and {4}, gathered at the photo spot.</MF_Caption_petphoto_5>
+  <MF_Caption_petphoto_6>{1} and {4} were photographed together.</MF_Caption_petphoto_6>
+  <MF_Caption_petphoto_7>One image shows {1} and {4} side by side.</MF_Caption_petphoto_7>
+  <MF_Caption_petphoto_8>{1}, {4}. A photograph of the pair was added to the colony's album.</MF_Caption_petphoto_8>
+</LanguageData>

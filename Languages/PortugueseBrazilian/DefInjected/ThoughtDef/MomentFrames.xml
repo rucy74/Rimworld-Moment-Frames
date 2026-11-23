@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>olhei uma foto minha</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Parei diante de uma fotografia em que apareço e me lembrei daquele dia.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>relembrei o passado com {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Olhamos uma fotografia antiga em que aparecemos e conversamos sobre aquele dia.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>noite de memórias</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Vimos as fotografias da colônia no projetor e lembramos como chegamos até aqui.</MF_MemoryNight.stages.0.description>
+</LanguageData>

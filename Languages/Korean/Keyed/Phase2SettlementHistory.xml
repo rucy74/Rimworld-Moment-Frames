@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Phase2_PeriodView>분기별 사진</MF_Phase2_PeriodView>
+  <MF_Phase2_HistoryView>변화 보기</MF_Phase2_HistoryView>
+  <MF_Phase2_SelectYear>연도 선택: {0}년</MF_Phase2_SelectYear>
+  <MF_Phase2_SelectQuarter>분기 선택: {0}분기</MF_Phase2_SelectQuarter>
+  <MF_Phase2_YearOption>{0}년</MF_Phase2_YearOption>
+  <MF_Phase2_QuarterOption>{0}분기</MF_Phase2_QuarterOption>
+  <MF_Phase2_HistoryWhole>전체 전경</MF_Phase2_HistoryWhole>
+  <MF_Phase2_HistorySummary>{0} / {1}부터 {2}까지 / {3}장</MF_Phase2_HistorySummary>
+  <MF_Phase2_HistoryHint>같은 지도에서 촬영을 마친 사진만 오래된 순서로 보여요. 누르면 크게 볼 수 있어요.</MF_Phase2_HistoryHint>
+  <MF_Phase2_HistoryEmpty>이 구역의 전경 사진은 아직 없어요. 촬영을 마치면 이곳에 차례로 쌓여요.</MF_Phase2_HistoryEmpty>
+  <MF_Phase2_HistoryOne>전경 기록이 한 번 있어요. 다음 기록부터 같은 구역의 변화를 함께 볼 수 있어요.</MF_Phase2_HistoryOne>
+  <MF_Phase2_HistoryCaptureDate>실제 촬영: {0}</MF_Phase2_HistoryCaptureDate>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>ramă foto</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>O ramă mică de agățat pe perete, pentru o fotografie a coloniei. Selecteaz-o ca să alegi sau să înlocuiești fotografia; își păstrează fotografia când e demontată și mutată. Trebuie agățată pe un perete. Se face la banca de artă; calitatea îi stabilește frumusețea.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>ramă foto lată</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>O ramă de perete pe două celule, mai lată decât cea mică: făcută pentru fotografii late. Se agață doar pe pereți orizontali. Își păstrează fotografia când e mutată. Se face la banca de artă; calitatea îi stabilește frumusețea.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>șevalet foto</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Un șevalet de sine stătător (2x2) care arată o fotografie a coloniei destul de mare încât să deslușești oamenii din ea. Poate fi pus oriunde și mutat mai târziu fără să piardă fotografia. Se face la banca de artă; calitatea îi stabilește frumusețea.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>panou foto</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Un panou mare de sine stătător (3x2) pentru o fotografie a coloniei, cel mai mare mod de a arăta un moment. Poate fi mutat fără să piardă fotografia. Se face la banca de artă; calitatea îi stabilește frumusețea.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>panou de colaj foto</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Un panou cu paspartu, de sine stătător (3x2), cu patru ferestre egale pentru fotografiile coloniei, fiecare fotografie decupată ca să-și umple fereastra. Alege câte o fotografie pentru fiecare fereastră; ferestrele goale rămân albe. Poate fi mutat fără să piardă fotografiile. Se face la banca de artă.</MF_PhotoCollage.description>
+  <MF_Projector.label>proiector de diapozitive</MF_Projector.label>
+  <MF_Projector.description>Proiectează fotografii ale coloniei în fața lui. Alege o fotografie fixă sau un film și o lățime și o înălțime prestabilite sau personalizate. Controlul ordinii de desenare așază imaginea în spatele obiectelor sau în fața lor. Filmele obișnuite se schimbă în timp real; filmele de la seara de amintiri se schimbă după ceasul evenimentului, în timp de joc. Coloniștii îl pot privi ca recreere. Nu are nevoie de energie. Pune-l din meniul Diverse, lângă uneltele foto; coloniștii îl construiesc din materialul ales.</MF_Projector.description>
+  <MF_MemorialFrame.label>suport foto memorial</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>O ramă mică în picioare, de pus lângă un mormânt sau un sarcofag. Singură arată cea mai recentă fotografie a persoanei îngropate alături; poți alege și manual o fotografie. Rămâne goală până când lângă ea e un mormânt cu un corp. Se face la banca de artă.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>loc de fotografie</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Marchează locul unde se fac pozele de grup. Selectează-l și apasă 'Poză de grup': toți coloniștii de pe hartă care sunt treji și liberi se aliniază în spatele lui (spre nord, cei mai tineri în față), privesc spre aparat, iar poza se face când toți stau nemișcați. Lasă podea liberă în spatele locului pentru rânduri. Se pune instantaneu și nu costă nimic.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>copac de amintiri</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Un suport de lemn pentru 35 de fotografii ale coloniei. Fotografiile noi umplu ramurile goale, apoi o înlocuiesc pe cea mai veche nefixată. Alege și fixează-ți favoritele sau filtrează fotografiile automate după tip. Se face la banca de artă; își păstrează fotografiile când e mutat.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fundal de studio foto</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Un fundal de pânză pentru portrete de familie și de grup. Selectează-l ca să alegi participanții. Toți se adună în fața fundalului, iar fotografia se face automat. Cadrul automat cuprinde atât oamenii, cât și fundalul. Până la cincisprezece participanți în picioare; bebelușii vin în brațele unui tutore. Rotește-l înainte de construire ca să stabilești direcția de pozat.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>arcadă foto de grădină</MF_StudioArch.label>
+  <MF_StudioArch.description>O arcadă circulară pentru portrete în aer liber. Folosește aceeași alegere a participanților și aceeași încadrare automată ca fundalul de studio. Lasă liberă zona de pozat marcată. Bebelușii vin cu un tutore. Rotește-o înainte de construire ca să stabilești direcția de pozat.</MF_StudioArch.description>
+  <MF_StudioSofa.label>canapea de studio foto (recuzită)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>O canapea de portret cu trei locuri. Pune-o în zona de pozat a unui studio, orientată în aceeași direcție ca fundalul. Participanții ocupă aceste locuri înaintea rândurilor în picioare. Se folosește desenul obișnuit al personajelor, fără o animație nouă de șezut. Recuzită de pozat, nu un loc pentru masa sau recreerea de zi cu zi.</MF_StudioSofa.description>
+  <MF_StudioBench.label>bancă de studio foto (recuzită)</MF_StudioBench.label>
+  <MF_StudioBench.description>O bancă tapițată cu trei locuri, pentru portrete. Pune-o în zona de pozat, orientată în aceeași direcție ca fundalul. Recuzită de pozat, nu un loc pentru masa sau recreerea de zi cu zi.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotoliu de studio foto (recuzită)</MF_StudioChair.label>
+  <MF_StudioChair.description>Un singur fotoliu de portret. Pune-l în centru, în față, pentru sărbătorit sau adaugă-l în zona de pozat a studioului. Recuzită de pozat, nu un loc pentru masa sau recreerea de zi cu zi.</MF_StudioChair.description>
+  <MF_StudioLamp.label>lampă de studio foto</MF_StudioLamp.label>
+  <MF_StudioLamp.description>O lampă de portret cu energie. Modul automat o aprinde cât timp cel mai apropiat studio din aceeași cameră (pe o rază de zece celule) adună oamenii sau îi ține pentru refaceri. Când grupul e lăsat liber, se stinge. Modurile Aprinsă și Stinsă au prioritate față de controlul automat. Fotografiile de studio păstrează această lumină.</MF_StudioLamp.description>
+</LanguageData>

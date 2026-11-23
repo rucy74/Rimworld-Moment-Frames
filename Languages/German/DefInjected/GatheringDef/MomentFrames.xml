@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>Fotoabend</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Fotoabend</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} veranstaltet einen Fotoabend am Projektor. Alle, die kommen, sehen sich gemeinsam die Fotos der Kolonie an und bekommen dauerhaft gute Stimmung.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Der Fotoabend wurde abgesagt.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Der Fotoabend ist vorbei.</MF_MemoryNight.finishedMessage>
+</LanguageData>

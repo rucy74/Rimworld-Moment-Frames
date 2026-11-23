@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="MF_StudioSeatBase" ParentName="BuildingBase" Abstract="True">
+    <thingClass>MomentFrames.Building_PhotoSeat</thingClass>
+    <drawerType>RealtimeOnly</drawerType><altitudeLayer>Building</altitudeLayer>
+    <size>(3,1)</size><rotatable>true</rotatable><passability>Standable</passability><fillPercent>0.2</fillPercent>
+    <castEdgeShadows>false</castEdgeShadows><designationCategory>Misc</designationCategory><uiOrder>2008</uiOrder>
+    <minifiedDef>MinifiedThing</minifiedDef><thingCategories><li>BuildingsFurniture</li></thingCategories>
+    <building><isEdifice>true</isEdifice><canBuildNonEdificesUnder>true</canBuildNonEdificesUnder><ai_chillDestination>false</ai_chillDestination></building>
+    <!-- Portrait places are not ordinary sittable furniture. Exclude them explicitly from
+         Sense Of Depth's tall-building overlay, which would cover the seated subjects. -->
+    <modExtensions>
+      <li MayRequire="sicefe.senseofdepth" Class="SenseOfDepthForTallBuilding.AddBackSideLayer"><apply>False</apply></li>
+    </modExtensions>
+    <statBases><MaxHitPoints>120</MaxHitPoints><WorkToBuild>240</WorkToBuild><Mass>8</Mass><Flammability>0.8</Flammability><Beauty>5</Beauty></statBases>
+  </ThingDef>
+  <ThingDef ParentName="MF_StudioSeatBase">
+    <defName>MF_StudioSofa</defName><label>photo studio sofa (prop)</label>
+    <description>A three-place portrait sofa. Place it within a studio's posing area, facing the same direction as the backdrop. Participants use these places before the standing rows. This uses the usual pawn drawing, without a new sitting animation. A posing prop, not a seat for everyday dining or recreation.</description>
+    <costList><WoodLog>35</WoodLog><Cloth>45</Cloth></costList>
+    <!-- Move the artwork toward its front so the occupied cells sit over the cushions, not the front edge. -->
+    <graphicData><texPath>Things/Building/MomentFrames/StudioSofa</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(3.6,1.5)</drawSize><drawRotated>true</drawRotated>
+      <drawOffsetNorth>(0,0,-0.30)</drawOffsetNorth><drawOffsetEast>(-0.30,0,0)</drawOffsetEast><drawOffsetSouth>(0,0,0.30)</drawOffsetSouth><drawOffsetWest>(0.30,0,0)</drawOffsetWest>
+    </graphicData>
+  </ThingDef>
+  <ThingDef ParentName="MF_StudioSeatBase">
+    <defName>MF_StudioBench</defName><label>photo studio bench (prop)</label>
+    <description>A three-place cushioned bench for portraits. Place it in the posing area facing the same direction as the backdrop. A posing prop, not a seat for everyday dining or recreation.</description>
+    <costList><WoodLog>40</WoodLog><Cloth>15</Cloth></costList>
+    <graphicData><texPath>Things/Building/MomentFrames/StudioBench</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(3.5,1.3)</drawSize><drawRotated>true</drawRotated>
+      <drawOffsetNorth>(0,0,-0.42)</drawOffsetNorth><drawOffsetEast>(-0.42,0,0)</drawOffsetEast><drawOffsetSouth>(0,0,0.42)</drawOffsetSouth><drawOffsetWest>(0.42,0,0)</drawOffsetWest>
+    </graphicData>
+  </ThingDef>
+  <ThingDef ParentName="MF_StudioSeatBase">
+    <defName>MF_StudioChair</defName><label>photo studio armchair (prop)</label><size>(1,1)</size>
+    <description>A single portrait chair. Place it at the front center for the birthday subject, or add it to the studio's posing area. A posing prop, not a seat for everyday dining or recreation.</description>
+    <costList><WoodLog>20</WoodLog><Cloth>25</Cloth></costList>
+    <graphicData><texPath>Things/Building/MomentFrames/StudioChair</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(1.5,1.5)</drawSize><drawRotated>true</drawRotated>
+      <drawOffsetNorth>(0,0,-0.18)</drawOffsetNorth><drawOffsetEast>(-0.18,0,0)</drawOffsetEast><drawOffsetSouth>(0,0,0.18)</drawOffsetSouth><drawOffsetWest>(0.18,0,0)</drawOffsetWest>
+    </graphicData>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>MF_StudioLamp</defName><label>photo studio light</label>
+    <description>A powered portrait light. Automatic mode turns it on while the nearest studio in the same room (within ten cells) gathers or holds for retakes. Dismissing the group turns it off. On and Off modes override automatic control. Studio photographs preserve this lighting.</description>
+    <thingClass>MomentFrames.Building_PhotoStudioLamp</thingClass><drawerType>RealtimeOnly</drawerType><altitudeLayer>Building</altitudeLayer>
+    <size>(1,1)</size><rotatable>true</rotatable><passability>PassThroughOnly</passability><fillPercent>0.2</fillPercent>
+    <castEdgeShadows>false</castEdgeShadows><designationCategory>Misc</designationCategory><uiOrder>2009</uiOrder>
+    <minifiedDef>MinifiedThing</minifiedDef><thingCategories><li>BuildingsFurniture</li></thingCategories>
+    <building><isEdifice>true</isEdifice><canBuildNonEdificesUnder>true</canBuildNonEdificesUnder></building>
+    <statBases><MaxHitPoints>100</MaxHitPoints><WorkToBuild>240</WorkToBuild><Mass>5</Mass><Flammability>0.4</Flammability><Beauty>1</Beauty></statBases>
+    <costList><Steel>35</Steel><ComponentIndustrial>1</ComponentIndustrial></costList>
+    <graphicData><texPath>Things/Building/MomentFrames/StudioLamp</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(1.4,2.2)</drawSize><drawRotated>true</drawRotated></graphicData>
+    <comps>
+      <li Class="CompProperties_Power"><compClass>CompPowerTrader</compClass><basePowerConsumption>80</basePowerConsumption></li>
+      <li Class="CompProperties_Flickable"><compClass>MomentFrames.CompStudioFlickable</compClass></li>
+      <li Class="CompProperties_Glower"><glowRadius>9</glowRadius><glowColor>(255,244,224,0)</glowColor></li>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+  </ThingDef>
+</Defs>

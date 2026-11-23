@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>diaprojector maken</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Maak een diaprojector. Dit oude recept blijft bestaan voor opgeslagen opdrachten; nieuwe projectors worden gebouwd via Andere.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Diaprojector aan het maken.</Make_MF_Projector.jobString>
+</LanguageData>

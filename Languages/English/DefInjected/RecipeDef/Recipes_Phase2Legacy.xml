@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>make slide projector</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Make a slide projector. This legacy recipe remains for existing saved bills; new projectors are built from Misc.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Making slide projector.</Make_MF_Projector.jobString>
+</LanguageData>

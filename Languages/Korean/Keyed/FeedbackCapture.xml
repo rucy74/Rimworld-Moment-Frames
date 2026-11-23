@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_CaptureExpression>촬영 이모티콘</MF_CaptureExpression>
+  <MF_CaptureExpressionAuto>자동 선택</MF_CaptureExpressionAuto>
+  <MF_CaptureExpressionNone>이모티콘 없음</MF_CaptureExpressionNone>
+  <MF_CaptureExpressionHeart>하트</MF_CaptureExpressionHeart>
+  <MF_CaptureExpressionHand>손 흔들기</MF_CaptureExpressionHand>
+  <MF_CaptureExpressionSmile>웃는 얼굴</MF_CaptureExpressionSmile>
+  <MF_CaptureExpressionStar>별</MF_CaptureExpressionStar>
+  <MF_CaptureExpressionMusic>음표</MF_CaptureExpressionMusic>
+  <MF_CaptureExpressionPeace>브이</MF_CaptureExpressionPeace>
+  <MF_CaptureExpressionClap>박수</MF_CaptureExpressionClap>
+  <MF_CaptureExpressionShy>수줍음</MF_CaptureExpressionShy>
+  <MF_CaptureExpressionSurprise>놀람</MF_CaptureExpressionSurprise>
+  <MF_CaptureExpressionHelp>새 촬영 준비에서는 이모티콘 없음으로 시작해요. 이 림이 사진을 찍을 때 머리 위에 내보낼 말풍선 그림을 골라요. 하트·손·미소·별·음표·브이·박수·수줍음·놀람 중 림마다 다르게 고를 수 있어요. 실제 기분·관계나 몸 동작은 바뀌지 않아요. '사진에도'를 선택하면 같은 표현이 새 사진 안에도 남아요. 자동 선택을 고르면 촬영 상황에 맞춰 일부 사람에게만 표현을 무작위로 배정해요.</MF_CaptureExpressionHelp>
+  <MF_CaptureRememberMode>다음 촬영의 기본 모드로 저장</MF_CaptureRememberMode>
+  <MF_CaptureModeHelp>지도에서만: 새 사진을 찍은 뒤 머리 위 표현을 보여줘요. 사진에도: 같은 표현을 사진 안에도 저장해요. 끔: 표현을 내보내지 않아요. 기본 모드 저장은 이 세 가지 선택만 기억해요. 림마다 고른 표현은 아래 '표현 저장'으로 여러 이름을 붙여 보관할 수 있어요.</MF_CaptureModeHelp>
+  <MF_CapturePresetLoad>표정·이모티콘 불러오기</MF_CapturePresetLoad>
+  <MF_CapturePresetSave>표정·이모티콘 저장</MF_CapturePresetSave>
+  <MF_CapturePresetReplace>같은 이름에 덮어쓰기</MF_CapturePresetReplace>
+  <MF_CapturePresetName>표정·이모티콘 조합 이름</MF_CapturePresetName>
+  <MF_CapturePresetNameHelp>선택한 림과 각 림의 표현을 이 정착지의 저장 파일에 보관해요. 여러 묶음을 만들 수 있어요. 같은 이름은 덮어씁니다.</MF_CapturePresetNameHelp>
+  <MF_CapturePresetHelp>각 사람의 얼굴 표정과 촬영 이모티콘만 저장해요. 참석자·자리·구도까지 저장하려면 아래 촬영 구성을 사용하세요.</MF_CapturePresetHelp>
+  <MF_CaptureSavedFrame>촬영 스팟에서 직접 저장한 범위를 사용해요.</MF_CaptureSavedFrame>
+  <MF_CaptureSavedFrameHelp>직접 지정한 촬영 범위가 인물 중심·배경 함께보다 우선해요. 자동 구도를 사용하려면 촬영 스팟의 '범위 자동으로'를 눌러주세요. 같은 구도로 다시 찍기는 이전 사진의 범위를 유지해요.</MF_CaptureSavedFrameHelp>
+  <MF_CaptureSpotDragHint>왼쪽 버튼으로 원하는 만큼 드래그하세요. 사각형은 고정 범위가 아닌 미리보기예요. 한 번 클릭하면 기본 범위를 저장해요.</MF_CaptureSpotDragHint>
+  <MF_CaptureSpotDragRelease>드래그 중인 범위가 촬영 구도예요. 왼쪽 버튼을 놓으면 이 촬영 스팟에 저장돼요.</MF_CaptureSpotDragRelease>
+</LanguageData>

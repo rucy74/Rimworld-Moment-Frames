@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PreparationCapacity>참석 {0}명 · 자리 {1} / {2}</MF_PreparationCapacity>
+  <MF_PreparationNoRoom>자리가 부족합니다. 방향이나 명단을 바꿔주세요.</MF_PreparationNoRoom>
+  <MF_BabyCarryMode>안고 촬영 장소로</MF_BabyCarryMode>
+  <MF_BabyHereMode>현재 자리에서</MF_BabyHereMode>
+  <MF_BabyGuardian>안아줄 사람: {0}</MF_BabyGuardian>
+  <MF_BabyChooseGuardian>보호자 선택</MF_BabyChooseGuardian>
+  <MF_BabyGuardianRole>아기를 안아줄 사람</MF_BabyGuardianRole>
+  <MF_BabyCarryHelp>보호자가 아기를 안고 촬영 장소로 옵니다. 모두 모이면 자동으로 찍습니다. 촬영이나 취소 뒤에는 아기를 침대 또는 안전한 자리로 데려다줍니다.</MF_BabyCarryHelp>
+  <MF_BabyHereHelp>아기는 현재 자리에 있고, 선택한 사람들이 곁으로 모입니다.</MF_BabyHereHelp>
+  <MF_BirthdayAtBedHelp>걸어올 수 없는 주인공은 현재 자리에 있습니다. 잠든 참석자는 깨워 부르고, 아기는 보호자가 안고 촬영 장소로 올 수 있습니다.</MF_BirthdayAtBedHelp>
+  <MF_BabyNoGuardian>지금 아기를 안고 올 수 있는 성인이 없습니다. 다른 보호자를 선택하거나 현재 자리에서 촬영해주세요.</MF_BabyNoGuardian>
+  <MF_BabyUnsafePlace>아기에게 너무 춥거나 더운 자리입니다. 편안한 온도의 촬영 장소를 골라주세요.</MF_BabyUnsafePlace>
+  <MF_PreparationSettings>+ 촬영 설정</MF_PreparationSettings>
+  <MF_PreparationSettingsClose>- 설정 접기</MF_PreparationSettingsClose>
+  <MF_PreparationHere>지금 있는 곳</MF_PreparationHere>
+  <MF_PreparationSpot>촬영 스팟</MF_PreparationSpot>
+  <MF_PreparationGuests>함께 찍을 사람 ({0}명)</MF_PreparationGuests>
+  <MF_PreparationChoose>빠른 선택</MF_PreparationChoose>
+  <MF_PreparationGuardianRole>보호자 (필수)</MF_PreparationGuardianRole>
+  <MF_PreparationReady>모두 모이면 자동으로 찍어요. 잠든 참석자는 깨워 불러요.</MF_PreparationReady>
+  <MF_PreparationStay>주인공은 현재 자리에 머물러요</MF_PreparationStay>
+  <MF_PreparationSubjectRole>생일 주인공 (필수)</MF_PreparationSubjectRole>
+  <MF_PreparationAll>전체 선택</MF_PreparationAll>
+  <MF_PreparationRandom>랜덤 선택</MF_PreparationRandom>
+  <MF_PreparationMore>기타 선택</MF_PreparationMore>
+  <MF_PreparationRandomCount>랜덤 총 {0}명</MF_PreparationRandomCount>
+  <MF_PreparationUndo>선택 되돌리기</MF_PreparationUndo>
+  <MF_PreparationGuardianProblem>{0}: 지금 아기를 안고 올 수 없습니다. 보호자를 바꿔주세요.</MF_PreparationGuardianProblem>
+  <MF_PreparationPawnProblem>{0}: {1}. 명단을 바꾸거나 상태가 나아진 뒤 불러 주세요.</MF_PreparationPawnProblem>
+  <MF_PreparationCannotReach>{0}: 배정된 촬영 자리까지 갈 수 없습니다. 통로나 촬영 장소를 바꿔주세요.</MF_PreparationCannotReach>
+  <MF_PreparationRemoveHint>이 사람을 빼 보세요.</MF_PreparationRemoveHint>
+  <MF_PreparationSpaceProblem>참석 {0}명 / 서 있는 자리 {1}개 (필요 {2}개). 인원이나 방향, 촬영 장소를 바꿔주세요.</MF_PreparationSpaceProblem>
+  <MF_PreparationNotEditing>이미 촬영 중이거나 끝난 모임입니다. 준비 창을 닫고 다시 확인해주세요.</MF_PreparationNotEditing>
+  <MF_PreparationGuardianShort>지금 안을 수 없음</MF_PreparationGuardianShort>
+  <MF_PreparationReachShort>촬영 자리로 갈 수 없음</MF_PreparationReachShort>
+  <MF_PreparationTemperatureShort>아기에게 위험한 온도</MF_PreparationTemperatureShort>
+  <MF_PreparationRandomHelp>인원 수에는 생일 주인공과 필요한 보호자가 포함됩니다. 지금 참여할 수 있는 사람 중에서 뽑으며, 선택 뒤 직접 바꿀 수 있습니다.</MF_PreparationRandomHelp>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>dia-avond</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Dia-avond</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} houdt een dia-avond bij de projector. Iedereen die komt, bekijkt samen de foto's van de kolonie en krijgt er een blijvend goed humeur van.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>De dia-avond is afgelast.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>De dia-avond is voorbij.</MF_MemoryNight.finishedMessage>
+</LanguageData>

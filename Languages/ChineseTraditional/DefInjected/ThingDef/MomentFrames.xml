@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>相框</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>掛在牆上的小相框，可放一張殖民地照片。選取後可選擇或更換照片；拆下移動後照片仍在。必須掛在牆上。在雕刻桌製作；品質決定其美觀度。</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>寬幅相框</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>佔兩格的壁掛相框，比小相框更寬，專為寬幅照片而設。只能掛在水平的牆上。移動時保留照片。在雕刻桌製作；品質決定其美觀度。</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>照片畫架</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>獨立擺放的畫架（2x2），展示的殖民地照片夠大，能看清裡面的人。可放在任何地方，之後移動也不會遺失照片。在雕刻桌製作；品質決定其美觀度。</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>照片展示板</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>獨立擺放的大型展示板（3x2），用於展示殖民地照片，是呈現一個瞬間最大的方式。移動時不會遺失照片。在雕刻桌製作；品質決定其美觀度。</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>照片拼貼板</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>獨立擺放的襯紙展板（3x2），有四個等大的窗格放殖民地照片，每張照片都會裁切以填滿窗格。為每個窗格選擇一張照片；空窗格保持空白。移動時不會遺失照片。在雕刻桌製作。</MF_PhotoCollage.description>
+  <MF_Projector.label>幻燈機</MF_Projector.label>
+  <MF_Projector.description>將殖民地照片投射到自身前方。可選擇一張固定照片或一部影片，並使用預設或自定義的寬度和高度。繪製順序控制項決定畫面位於物體之後或之前。一般影片依現實時間切換；回憶之夜的影片依活動的遊戲內時鐘切換。殖民者可以觀看它來獲得娛樂。無需電力。從「其它」中放置，就在照片工具旁邊；殖民者會用所選材料建造。</MF_Projector.description>
+  <MF_MemorialFrame.label>紀念照片架</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>放在墳墓或棺材旁的小型立式相框。它會自動顯示葬在旁邊之人的最新照片；也可以手動選擇照片。在旁邊有葬著遺體的墳墓之前，它是空的。在雕刻桌製作。</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>拍照點</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>標記拍攝合照的位置。選取後按「合照」：地圖上所有清醒且空閒的殖民者都會在它後方（北側，年齡最小的在前）排好隊，面向鏡頭，等所有人站定後拍下照片。請在拍照點後方留出空地供人排隊。立即放置，無需成本。</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>回憶樹</MF_MemoryTree.label>
+  <MF_MemoryTree.description>木製展示架，可展示35張殖民地照片。新照片先填滿空枝，再替換最舊的未固定照片。可選擇並固定喜愛的照片，或依類型篩選自動照片。在雕刻桌製作；移動時保留照片。</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>攝影棚背景布</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>用於家庭和團體肖像的帆布背景。選取後可選擇參與者。所有人聚集到背景布前，照片會自動拍下。自動取景同時包含人物和背景布。最多十五名站立的參與者；嬰兒由監護人抱著前來。建造前旋轉以設定擺姿勢的方向。</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>攝影花園拱門</MF_StudioArch.label>
+  <MF_StudioArch.description>用於室外肖像的圓形拱門。與攝影棚背景布使用相同的參與者選擇和自動取景。請保持標記的擺姿勢區域空曠。嬰兒由監護人帶來。建造前旋轉以設定擺姿勢的方向。</MF_StudioArch.description>
+  <MF_StudioSofa.label>攝影棚沙發（道具）</MF_StudioSofa.label>
+  <MF_StudioSofa.description>三人座肖像沙發。放在攝影棚的擺姿勢區域內，朝向與背景布相同。參與者會先使用這些位置，再站成排。這裡沿用一般的人物繪製，沒有新的坐姿動畫。這是擺拍道具，不是日常用餐或娛樂的座位。</MF_StudioSofa.description>
+  <MF_StudioBench.label>攝影棚長椅（道具）</MF_StudioBench.label>
+  <MF_StudioBench.description>三人座軟墊肖像長椅。放在擺姿勢區域內，朝向與背景布相同。這是擺拍道具，不是日常用餐或娛樂的座位。</MF_StudioBench.description>
+  <MF_StudioChair.label>攝影棚扶手椅（道具）</MF_StudioChair.label>
+  <MF_StudioChair.description>單人肖像椅。放在前排中央給過生日的人坐，或加入攝影棚的擺姿勢區域。這是擺拍道具，不是日常用餐或娛樂的座位。</MF_StudioChair.description>
+  <MF_StudioLamp.label>攝影棚燈</MF_StudioLamp.label>
+  <MF_StudioLamp.description>需要通電的肖像燈。自動模式下，同一房間內最近的攝影棚（十格以內）集合或等待重拍時亮起。解散隊伍時熄滅。「開」和「關」模式會覆蓋自動控制。攝影棚照片會保留這種光照。</MF_StudioLamp.description>
+</LanguageData>

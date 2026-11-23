@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_FavoriteOff>Favorite</MF_FavoriteOff>
+  <MF_FavoriteOn>Favorited</MF_FavoriteOn>
+  <MF_FavoriteHint>Keep photos you love with a heart. This choice is separate from pinning a photo on a memory tree.</MF_FavoriteHint>
+  <MF_FavoritesOnly>Favorites only</MF_FavoritesOnly>
+  <MF_FavoriteAllPhotos>Choose from all photos</MF_FavoriteAllPhotos>
+  <MF_FavoriteChooseFilm>Choose from favorites…</MF_FavoriteChooseFilm>
+  <MF_FavoriteSelectedFilm>Hand-picked photos</MF_FavoriteSelectedFilm>
+  <MF_FavoriteFilmTitle>Choose photos to watch together</MF_FavoriteFilmTitle>
+  <MF_FavoriteFilmHint>{0} selected · at least {1}. Try 6–12 for a short evening. Photos play in date order.</MF_FavoriteFilmHint>
+  <MF_FavoriteFilmApply>Use {0} selected photos</MF_FavoriteFilmApply>
+  <MF_FavoriteClearSelection>Clear selection</MF_FavoriteClearSelection>
+  <MF_FavoriteEmpty>No favorite photos yet. Mark hearts in the album, or use the button above to choose from all photos.</MF_FavoriteEmpty>
+  <MF_FavoriteSurveyGroup>Year {0}, quadrum {1} · {2} settlement views</MF_FavoriteSurveyGroup>
+  <MF_FavoriteBackPhoto>Back to the photo</MF_FavoriteBackPhoto>
+  <MF_FavoritePersonHint>See photos featuring {0}</MF_FavoritePersonHint>
+  <MF_FavoriteSequence>Flip through changes</MF_FavoriteSequence>
+  <MF_FavoriteSequenceZoom>Click the photo to zoom in.</MF_FavoriteSequenceZoom>
+  <MF_FavoritePrevious>Previous photo</MF_FavoritePrevious>
+  <MF_FavoriteNext>Next photo</MF_FavoriteNext>
+  <MF_FavoritePlay>Play</MF_FavoritePlay>
+  <MF_FavoritePause>Pause</MF_FavoritePause>
+  <MF_FavoriteFrameWarning>The saved frame may crop {0} ({1} people). Check the composition with the map preview.</MF_FavoriteFrameWarning>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_DesignNav_Search>Search</MF_DesignNav_Search>
+  <MF_DesignNav_SearchTip>Find a photo by its title, note or the names of the people in it.</MF_DesignNav_SearchTip>
+  <MF_DesignNav_Clear>Clear</MF_DesignNav_Clear>
+  <MF_DesignNav_SearchCount>{0} / {1} photos</MF_DesignNav_SearchCount>
+  <MF_DesignNav_NoMatches>No photos match this search. Clear the search to see them all.</MF_DesignNav_NoMatches>
+  <MF_DesignNav_PlaceViewAll>Browse all {0} photos here…</MF_DesignNav_PlaceViewAll>
+  <MF_DesignNav_PlacePhotos>Photos from this place — {0}</MF_DesignNav_PlacePhotos>
+  <MF_DesignNav_ChronicleCounts>{0} photos · {1} records</MF_DesignNav_ChronicleCounts>
+  <MF_DesignNav_MilestonePhotosOnly>Milestone photos only</MF_DesignNav_MilestonePhotosOnly>
+</LanguageData>

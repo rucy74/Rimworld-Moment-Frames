@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Group photo: walk to my cell behind the photo spot, then stand there facing south. Medium-priority lord hook, like a party: above normal
+       work, below emergencies (fire, rescue, tending, starving, temperature) — a member leaves for those and comes back. -->
+  <DutyDef>
+    <defName>MF_PoseForPhoto</defName>
+    <hook>MediumPriority</hook>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <li Class="MomentFrames.JobGiver_MFCarryBaby" />
+        <li Class="JobGiver_GotoTravelDestination">
+          <exactCell>true</exactCell>
+          <locomotionUrgency>Jog</locomotionUrgency>
+        </li>
+        <li Class="ThinkNode_ConditionalAtDutyLocation">
+          <subNodes>
+            <li Class="MomentFrames.JobGiver_MFPose" />
+          </subNodes>
+        </li>
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+
+  <!-- Memory night: stand (or sit) facing the projected picture, like spectating a ceremony. Medium priority like a party. -->
+  <DutyDef>
+    <defName>MF_WatchSlides</defName>
+    <hook>MediumPriority</hook>
+    <socialModeMax>Quiet</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <li Class="JobGiver_SpectateDutySpectateRect" />
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+
+</Defs>

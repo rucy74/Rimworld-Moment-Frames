@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>フォトフレーム</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>壁に掛ける小さなフレームで、コロニーの写真を1枚飾れます。選択して写真を選んだり差し替えたりできます。取り外して移動しても写真はそのままです。壁に掛ける必要があります。彫刻台で製作し、品質が美しさを左右します。</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>ワイドフォトフレーム</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>壁に掛ける2マス幅のフレームで、小さいものより横に広く、横長の写真に向いています。水平な壁にのみ掛けられます。移動しても写真はそのままです。彫刻台で製作し、品質が美しさを左右します。</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>フォトイーゼル</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>コロニーの写真を、写っている人が見分けられるほど大きく飾れる自立式のイーゼル (2x2) です。どこにでも置け、後で移動しても写真は失われません。彫刻台で製作し、品質が美しさを左右します。</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>写真展示ボード</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>コロニーの写真を飾る大きな自立式の展示ボード (3x2) で、瞬間を見せる最大の手段です。移動しても写真は失われません。彫刻台で製作し、品質が美しさを左右します。</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>写真コラージュボード</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>コロニーの写真用の同じ大きさの窓が4つある、マット張りの自立式ボード (3x2) です。写真は窓いっぱいに切り抜かれます。窓ごとに写真を選べ、空の窓は空白のままです。移動しても写真は失われません。彫刻台で製作します。</MF_PhotoCollage.description>
+  <MF_Projector.label>スライド映写機</MF_Projector.label>
+  <MF_Projector.description>コロニーの写真を前方に映し出します。固定した1枚の写真かフィルムを選び、プリセットまたは任意の幅と高さを指定します。描画順の設定で、映像を物の後ろにも前にも置けます。通常のフィルムは実時間で切り替わり、思い出の夜のフィルムはイベントのゲーム内時間で切り替わります。入植者は娯楽として鑑賞できます。電力は不要です。写真用ツールと並んで「その他」から配置でき、選んだ素材を使って入植者が建設します。</MF_Projector.description>
+  <MF_MemorialFrame.label>追悼写真立て</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>墓や石棺のそばに置く小さな写真立てです。隣に葬られた人の最新の写真を自動で表示します。手動で写真を選ぶこともできます。遺体の入った墓が隣にあるまでは空のままです。彫刻台で製作します。</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>撮影スポット</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>集合写真を撮る場所を示します。選択して「集合写真」を押すと、マップ上で起きていて手の空いた入植者全員がその後ろ (北側、年少者が前) に並んでカメラの方を向き、全員が静止したところで撮影されます。スポットの後ろには列のための空き床を残してください。即座に配置でき、費用はかかりません。</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>思い出の木</MF_MemoryTree.label>
+  <MF_MemoryTree.description>コロニーの写真を35枚飾れる木製の展示台です。新しい写真は空いた枝を埋め、その後はピン留めされていない最も古い写真と入れ替わります。お気に入りを選んでピン留めしたり、自動写真を種類で絞り込んだりできます。彫刻台で製作し、移動しても写真はそのままです。</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>写真スタジオの背景幕</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>家族写真や集合写真用のキャンバス地の背景幕です。選択して参加者を選びます。全員が背景幕の前に集まり、自動で撮影されます。自動フレームには人物と背景幕の両方が収まります。立って並ぶ参加者は最大15人まで、赤ん坊は保護者に抱かれて移動します。建設前に回転してポーズの向きを決めてください。</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>写真用ガーデンアーチ</MF_StudioArch.label>
+  <MF_StudioArch.description>屋外のポートレート用の円形アーチです。スタジオの背景幕と同じ参加者選択と自動フレーミングを使います。マークされたポーズ範囲は空けておいてください。赤ん坊は保護者と一緒に移動します。建設前に回転してポーズの向きを決めてください。</MF_StudioArch.description>
+  <MF_StudioSofa.label>写真スタジオのソファ (小道具)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>3人掛けのポートレート用ソファです。スタジオのポーズ範囲内に、背景幕と同じ向きで配置します。参加者は立ち列より先にこの席を使います。描画は通常のポーンのもので、新しい座りアニメーションはありません。撮影用の小道具で、普段の食事や娯楽には座れません。</MF_StudioSofa.description>
+  <MF_StudioBench.label>写真スタジオのベンチ (小道具)</MF_StudioBench.label>
+  <MF_StudioBench.description>3人掛けのクッション付きポートレート用ベンチです。ポーズ範囲内に、背景幕と同じ向きで配置します。撮影用の小道具で、普段の食事や娯楽には座れません。</MF_StudioBench.description>
+  <MF_StudioChair.label>写真スタジオのアームチェア (小道具)</MF_StudioChair.label>
+  <MF_StudioChair.description>1人掛けのポートレート用の椅子です。誕生日の主役のために前列中央に置くか、スタジオのポーズ範囲に加えてください。撮影用の小道具で、普段の食事や娯楽には座れません。</MF_StudioChair.description>
+  <MF_StudioLamp.label>写真スタジオの照明</MF_StudioLamp.label>
+  <MF_StudioLamp.description>電力で動くポートレート用の照明です。自動モードでは、同じ部屋の最寄りのスタジオ (10マス以内) が人を集めているときや撮り直しで待機しているときに点灯します。グループを解散すると消灯します。オン・オフのモードは自動制御より優先されます。スタジオ写真にはこの照明が反映されます。</MF_StudioLamp.description>
+</LanguageData>

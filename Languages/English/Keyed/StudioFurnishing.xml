@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_StudioDecorate>Decorate studio</MF_StudioDecorate><MF_StudioDecorateHelp>Choose backdrop artwork and place seat and light blueprints.</MF_StudioDecorateHelp>
+  <MF_StudioSet0>Family</MF_StudioSet0><MF_StudioSet1>Garden</MF_StudioSet1><MF_StudioSet2>Birthday</MF_StudioSet2>
+  <MF_StudioSetHelp>Family uses a three-place sofa; Garden a three-place bench; Birthday one armchair. Each set adds two lights at the sides. Participants use seats before standing rows. Artwork and furniture can be selected separately.</MF_StudioSetHelp>
+  <MF_StudioApplyBackdrop>Use this artwork</MF_StudioApplyBackdrop><MF_StudioPlaceSet>Place furniture blueprints</MF_StudioPlaceSet>
+  <MF_StudioSetCost>Furniture needs materials and construction. Existing furniture is not moved or replaced. Lights require power. Automatic lights stay on from gathering to dismissal. Photographs preserve the studio lighting.</MF_StudioSetCost>
+  <MF_StudioLight>Studio light</MF_StudioLight><MF_StudioLight0>Automatic</MF_StudioLight0><MF_StudioLight1>Always on</MF_StudioLight1><MF_StudioLight2>Off</MF_StudioLight2>
+  <MF_StudioLightHelp>Connects to the nearest studio in the same room, within ten cells. Automatic lights stay on while gathering and holding for retakes, then turn off on dismissal.</MF_StudioLightHelp>
+  <MF_StudioOwnBackdrop>Use my own backdrop image</MF_StudioOwnBackdrop>
+</LanguageData>

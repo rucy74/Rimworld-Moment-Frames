@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Phase2_PeriodView>Quarter photos</MF_Phase2_PeriodView>
+  <MF_Phase2_HistoryView>View changes</MF_Phase2_HistoryView>
+  <MF_Phase2_SelectYear>Select year: {0}</MF_Phase2_SelectYear>
+  <MF_Phase2_SelectQuarter>Select quarter: {0}</MF_Phase2_SelectQuarter>
+  <MF_Phase2_YearOption>{0}</MF_Phase2_YearOption>
+  <MF_Phase2_QuarterOption>Quarter {0}</MF_Phase2_QuarterOption>
+  <MF_Phase2_HistoryWhole>Whole overview</MF_Phase2_HistoryWhole>
+  <MF_Phase2_HistorySummary>{0} / {1} to {2} / {3} photos</MF_Phase2_HistorySummary>
+  <MF_Phase2_HistoryHint>Completed photos of this map are shown oldest first. Click a photo to view it larger.</MF_Phase2_HistoryHint>
+  <MF_Phase2_HistoryEmpty>No overview photos of this area yet. Completed captures will appear here in order.</MF_Phase2_HistoryEmpty>
+  <MF_Phase2_HistoryOne>There is one recorded overview. The next capture will let you compare this area over time.</MF_Phase2_HistoryOne>
+  <MF_Phase2_HistoryCaptureDate>Actual capture: {0}</MF_Phase2_HistoryCaptureDate>
+</LanguageData>

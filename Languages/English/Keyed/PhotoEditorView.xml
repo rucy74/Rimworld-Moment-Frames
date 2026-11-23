@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_EditViewFit>Fit photo</MF_EditViewFit>
+  <MF_EditViewHint>Zoom: Mouse wheel or - / + buttons</MF_EditViewHint>
+  <MF_EditViewPanHint>Move view: Middle-button drag or Space + left-button drag</MF_EditViewPanHint>
+  <MF_EditViewCropHint>Crop: Left-drag a corner to resize; left-drag inside to move</MF_EditViewCropHint>
+  <MF_EditViewHelp>Use the mouse wheel or - / + buttons to zoom the preview. Drag with the middle mouse button, or hold Space and drag with the left button to pan. Left drag adjusts the crop. Fit photo resets only the view and keeps your crop and look.</MF_EditViewHelp>
+  <MF_EditViewScaleHelp>100% fits the whole photo in the preview. View zoom and panning do not change the saved photograph.</MF_EditViewScaleHelp>
+</LanguageData>

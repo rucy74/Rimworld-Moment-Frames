@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>κοίταξα μια φωτογραφία μου</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Στάθηκα μπροστά σε μια φωτογραφία όπου είμαι κι εγώ και θυμήθηκα εκείνη τη μέρα.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>αναπόλησα τα παλιά με: {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Κοιτάξαμε μια παλιά φωτογραφία όπου είμαστε και οι δύο και μιλήσαμε για εκείνη τη μέρα.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>βραδιά αναμνήσεων</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Είδαμε μαζί τις φωτογραφίες της αποικίας στον προβολέα και θυμηθήκαμε πώς φτάσαμε ως εδώ.</MF_MemoryNight.stages.0.description>
+</LanguageData>

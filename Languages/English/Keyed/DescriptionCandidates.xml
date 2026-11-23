@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Complete prewritten sentences: eligible unused candidates are drawn by a per-save bag. -->
+  <!-- Photo slots: 0 recorded people, 1 first recorded person, 2 season, 3 photo map, 4 explicit event detail. -->
+  <!-- Life slots: 0 other person/animal/faction/part, 1 cause, 2 this viewer's recorded name, 3 recorded date. -->
+  <!-- Keys 1..3 retain the prior text so saved life notes stay unchanged. -->
+  <!-- MF_Caption_anniversary: 8 candidates -->
+  <MF_Caption_anniversary_1>Another anniversary for the colony. How much has changed since the beginning?</MF_Caption_anniversary_1>
+  <MF_Caption_anniversary_2>In {3}, on the occasion of the colony anniversary.</MF_Caption_anniversary_2>
+  <MF_Caption_anniversary_3>A picture from the colony anniversary, ready to return to after time has passed.</MF_Caption_anniversary_3>
+  <MF_Caption_anniversary_4>Part of {2}: the colony anniversary.</MF_Caption_anniversary_4>
+  <MF_Caption_anniversary_5>The colony as it looked at the time of the colony anniversary.</MF_Caption_anniversary_5>
+  <MF_Caption_anniversary_6>When looking back at {3}, this is one of its moments: the colony anniversary.</MF_Caption_anniversary_6>
+  <MF_Caption_anniversary_7>A photograph to remember the colony anniversary.</MF_Caption_anniversary_7>
+  <MF_Caption_anniversary_8>A day kept in a picture: the colony anniversary.</MF_Caption_anniversary_8>
+  <!-- MF_Caption_baby: 8 candidates -->
+  <MF_Caption_baby_1>A new life in the colony. The beginning of photographs still to come.</MF_Caption_baby_1>
+  <MF_Caption_baby_2>In {3}, on the occasion of the arrival of a new life.</MF_Caption_baby_2>
+  <MF_Caption_baby_3>A picture from the arrival of a new life, ready to return to after time has passed.</MF_Caption_baby_3>
+  <MF_Caption_baby_4>Part of {2}: the arrival of a new life.</MF_Caption_baby_4>
+  <MF_Caption_baby_5>The colony as it looked at the time of the arrival of a new life.</MF_Caption_baby_5>
+  <MF_Caption_baby_6>When looking back at {3}, this is one of its moments: the arrival of a new life.</MF_Caption_baby_6>
+  <MF_Caption_baby_7>A photograph to remember the arrival of a new life.</MF_Caption_baby_7>
+  <MF_Caption_baby_8>A day kept in a picture: the arrival of a new life.</MF_Caption_baby_8>
+  <!-- MF_Caption_battle: 8 candidates -->
+  <MF_Caption_battle_1>A fight the colony survived, with a scene from that day kept here.</MF_Caption_battle_1>
+  <MF_Caption_battle_2>A scene from the battle in {3}.</MF_Caption_battle_2>
+  <MF_Caption_battle_3>The place on a day of fighting, with traces of the conflict in view.</MF_Caption_battle_3>
+  <MF_Caption_battle_4>This battle was part of the colony's {2}.</MF_Caption_battle_4>
+  <MF_Caption_battle_5>A photograph to return to when remembering this fight.</MF_Caption_battle_5>
+  <MF_Caption_battle_6>The fighting around {3} has become part of the colony's past.</MF_Caption_battle_6>
+  <MF_Caption_battle_7>A scene kept from the day of the battle.</MF_Caption_battle_7>
+  <MF_Caption_battle_8>After the fighting passes, this photograph keeps its date.</MF_Caption_battle_8>
+  <!-- MF_Caption_bestow: 8 candidates -->
+  <MF_Caption_bestow_1>A photograph from the day a title was bestowed, with its surroundings kept too.</MF_Caption_bestow_1>
+  <MF_Caption_bestow_2>In {3}, on the occasion of the day a title was bestowed.</MF_Caption_bestow_2>
+  <MF_Caption_bestow_3>A picture from the day a title was bestowed, ready to return to after time has passed.</MF_Caption_bestow_3>
+  <MF_Caption_bestow_4>Part of {2}: the day a title was bestowed.</MF_Caption_bestow_4>
+  <MF_Caption_bestow_5>The colony as it looked at the time of the day a title was bestowed.</MF_Caption_bestow_5>
+  <MF_Caption_bestow_6>When looking back at {3}, this is one of its moments: the day a title was bestowed.</MF_Caption_bestow_6>
+  <MF_Caption_bestow_7>A photograph to remember the day a title was bestowed.</MF_Caption_bestow_7>
+  <MF_Caption_bestow_8>A day kept in a picture: the day a title was bestowed.</MF_Caption_bestow_8>
+  <!-- MF_Caption_birthday: 12 candidates -->
+  <MF_Caption_birthday_1>Another birthday. What will have changed by the next one?</MF_Caption_birthday_1>
+  <MF_Caption_birthday_2>This year's birthday photograph. The date returns; the picture changes.</MF_Caption_birthday_2>
+  <MF_Caption_birthday_3>A birthday in {2}, with the surroundings kept in the frame.</MF_Caption_birthday_3>
+  <MF_Caption_birthday_4>A photograph before this birthday passes.</MF_Caption_birthday_4>
+  <MF_Caption_birthday_5>A birthday in {3}, and another year spent here.</MF_Caption_birthday_5>
+  <MF_Caption_birthday_6>This year's picture, between birthdays past and birthdays still to come.</MF_Caption_birthday_6>
+  <MF_Caption_birthday_7>Today's birthday photograph will become a way to count the years.</MF_Caption_birthday_7>
+  <MF_Caption_birthday_8>This birthday's date now has a picture beside it.</MF_Caption_birthday_8>
+  <MF_Caption_birthday_9>The day returns each year, but people do not stay quite the same.</MF_Caption_birthday_9>
+  <MF_Caption_birthday_10>Another birthday kept in a photograph, ready to look at again.</MF_Caption_birthday_10>
+  <MF_Caption_birthday_11>A birthday scene to place beside the photograph taken next year.</MF_Caption_birthday_11>
+  <MF_Caption_birthday_12>The colony on a birthday. People and their surroundings change together.</MF_Caption_birthday_12>
+  <!-- MF_Caption_celebration: 8 candidates -->
+  <MF_Caption_celebration_1>A photograph from the celebration, with its surroundings kept too.</MF_Caption_celebration_1>
+  <MF_Caption_celebration_2>In {3}, on the occasion of the celebration.</MF_Caption_celebration_2>
+  <MF_Caption_celebration_3>A picture from the celebration, ready to return to after time has passed.</MF_Caption_celebration_3>
+  <MF_Caption_celebration_4>Part of {2}: the celebration.</MF_Caption_celebration_4>
+  <MF_Caption_celebration_5>The colony as it looked at the time of the celebration.</MF_Caption_celebration_5>
+  <MF_Caption_celebration_6>When looking back at {3}, this is one of its moments: the celebration.</MF_Caption_celebration_6>
+  <MF_Caption_celebration_7>A photograph to remember the celebration.</MF_Caption_celebration_7>
+  <MF_Caption_celebration_8>A day kept in a picture: the celebration.</MF_Caption_celebration_8>
+  <!-- MF_Caption_death: 8 candidates -->
+  <MF_Caption_death_1>A life has ended. The photographs reach back to the days before it.</MF_Caption_death_1>
+  <MF_Caption_death_2>In {3}, on the occasion of the end of a life.</MF_Caption_death_2>
+  <MF_Caption_death_3>A picture from the end of a life, ready to return to after time has passed.</MF_Caption_death_3>
+  <MF_Caption_death_4>Part of {2}: the end of a life.</MF_Caption_death_4>
+  <MF_Caption_death_5>The colony as it looked at the time of the end of a life.</MF_Caption_death_5>
+  <MF_Caption_death_6>When looking back at {3}, this is one of its moments: the end of a life.</MF_Caption_death_6>
+  <MF_Caption_death_7>A photograph to remember the end of a life.</MF_Caption_death_7>
+  <MF_Caption_death_8>A day kept in a picture: the end of a life.</MF_Caption_death_8>
+  <!-- MF_Caption_disaster: 8 candidates -->
+  <MF_Caption_disaster_1>The colony on an unusual day, photographed during a disaster.</MF_Caption_disaster_1>
+  <MF_Caption_disaster_2>In {3}, on the occasion of the disaster.</MF_Caption_disaster_2>
+  <MF_Caption_disaster_3>A picture from the disaster, ready to return to after time has passed.</MF_Caption_disaster_3>
+  <MF_Caption_disaster_4>Part of {2}: the disaster.</MF_Caption_disaster_4>
+  <MF_Caption_disaster_5>The colony as it looked at the time of the disaster.</MF_Caption_disaster_5>
+  <MF_Caption_disaster_6>When looking back at {3}, this is one of its moments: the disaster.</MF_Caption_disaster_6>
+  <MF_Caption_disaster_7>A photograph to remember the disaster.</MF_Caption_disaster_7>
+  <MF_Caption_disaster_8>A day kept in a picture: the disaster.</MF_Caption_disaster_8>
+  <!-- MF_Caption_funeral: 8 candidates -->
+  <MF_Caption_funeral_1>A day of farewell, photographed at the time of the funeral.</MF_Caption_funeral_1>
+  <MF_Caption_funeral_2>In {3}, on the occasion of the funeral.</MF_Caption_funeral_2>
+  <MF_Caption_funeral_3>A picture from the funeral, ready to return to after time has passed.</MF_Caption_funeral_3>
+  <MF_Caption_funeral_4>Part of {2}: the funeral.</MF_Caption_funeral_4>
+  <MF_Caption_funeral_5>The colony as it looked at the time of the funeral.</MF_Caption_funeral_5>
+  <MF_Caption_funeral_6>When looking back at {3}, this is one of its moments: the funeral.</MF_Caption_funeral_6>
+  <MF_Caption_funeral_7>A photograph to remember the funeral.</MF_Caption_funeral_7>
+  <MF_Caption_funeral_8>A day kept in a picture: the funeral.</MF_Caption_funeral_8>
+  <!-- MF_Caption_gravship: 8 candidates -->
+  <MF_Caption_gravship_1>A photograph from the gravship journey, with its surroundings kept too.</MF_Caption_gravship_1>
+  <MF_Caption_gravship_2>In {3}, on the occasion of the gravship journey.</MF_Caption_gravship_2>
+  <MF_Caption_gravship_3>A picture from the gravship journey, ready to return to after time has passed.</MF_Caption_gravship_3>
+  <MF_Caption_gravship_4>Part of {2}: the gravship journey.</MF_Caption_gravship_4>
+  <MF_Caption_gravship_5>The colony as it looked at the time of the gravship journey.</MF_Caption_gravship_5>
+  <MF_Caption_gravship_6>When looking back at {3}, this is one of its moments: the gravship journey.</MF_Caption_gravship_6>
+  <MF_Caption_gravship_7>A photograph to remember the gravship journey.</MF_Caption_gravship_7>
+  <MF_Caption_gravship_8>A day kept in a picture: the gravship journey.</MF_Caption_gravship_8>
+  <!-- MF_Caption_group: 12 candidates -->
+  <MF_Caption_group_1>One photograph together. The faces of this day: {0}.</MF_Caption_group_1>
+  <MF_Caption_group_2>{0}, sharing the same photograph.</MF_Caption_group_2>
+  <MF_Caption_group_3>A moment to look at one person at a time, or all together.</MF_Caption_group_3>
+  <MF_Caption_group_4>People and place in the same frame, in {3}: {0}.</MF_Caption_group_4>
+  <MF_Caption_group_5>The same day, the same picture. In time, this scene will look different.</MF_Caption_group_5>
+  <MF_Caption_group_6>A photograph together in {2}. In the frame: {0}.</MF_Caption_group_6>
+  <MF_Caption_group_7>The people of today, with the place as it looks today.</MF_Caption_group_7>
+  <MF_Caption_group_8>A group photograph of {0}, to return to another day.</MF_Caption_group_8>
+  <MF_Caption_group_9>A day does not need a special occasion to be worth keeping.</MF_Caption_group_9>
+  <MF_Caption_group_10>The setting belongs here too. A group photograph in {3}.</MF_Caption_group_10>
+  <MF_Caption_group_11>If these people pose again, what will have changed first?</MF_Caption_group_11>
+  <MF_Caption_group_12>Names sharing a single photograph: {0}.</MF_Caption_group_12>
+  <!-- MF_Caption_journey: 8 candidates -->
+  <MF_Caption_journey_1>A photograph from the arrival at a new place, with its surroundings kept too.</MF_Caption_journey_1>
+  <MF_Caption_journey_2>In {3}, on the occasion of the arrival at a new place.</MF_Caption_journey_2>
+  <MF_Caption_journey_3>A picture from the arrival at a new place, ready to return to after time has passed.</MF_Caption_journey_3>
+  <MF_Caption_journey_4>Part of {2}: the arrival at a new place.</MF_Caption_journey_4>
+  <MF_Caption_journey_5>The colony as it looked at the time of the arrival at a new place.</MF_Caption_journey_5>
+  <MF_Caption_journey_6>When looking back at {3}, this is one of its moments: the arrival at a new place.</MF_Caption_journey_6>
+  <MF_Caption_journey_7>A photograph to remember the arrival at a new place.</MF_Caption_journey_7>
+  <MF_Caption_journey_8>A day kept in a picture: the arrival at a new place.</MF_Caption_journey_8>
+  <!-- MF_Caption_landing: 8 candidates -->
+  <MF_Caption_landing_1>A landing on the journey, with a view of the place reached.</MF_Caption_landing_1>
+  <MF_Caption_landing_2>In {3}, on the occasion of the landing.</MF_Caption_landing_2>
+  <MF_Caption_landing_3>A picture from the landing, ready to return to after time has passed.</MF_Caption_landing_3>
+  <MF_Caption_landing_4>Part of {2}: the landing.</MF_Caption_landing_4>
+  <MF_Caption_landing_5>The colony as it looked at the time of the landing.</MF_Caption_landing_5>
+  <MF_Caption_landing_6>When looking back at {3}, this is one of its moments: the landing.</MF_Caption_landing_6>
+  <MF_Caption_landing_7>A photograph to remember the landing.</MF_Caption_landing_7>
+  <MF_Caption_landing_8>A day kept in a picture: the landing.</MF_Caption_landing_8>
+  <!-- MF_Caption_legendary: 8 candidates -->
+  <MF_Caption_legendary_1>A legendary work is complete, made by someone in this colony.</MF_Caption_legendary_1>
+  <MF_Caption_legendary_2>In {3}, on the occasion of the completion of a legendary work.</MF_Caption_legendary_2>
+  <MF_Caption_legendary_3>A picture from the completion of a legendary work, ready to return to after time has passed.</MF_Caption_legendary_3>
+  <MF_Caption_legendary_4>Part of {2}: the completion of a legendary work.</MF_Caption_legendary_4>
+  <MF_Caption_legendary_5>The colony as it looked at the time of the completion of a legendary work.</MF_Caption_legendary_5>
+  <MF_Caption_legendary_6>When looking back at {3}, this is one of its moments: the completion of a legendary work.</MF_Caption_legendary_6>
+  <MF_Caption_legendary_7>A photograph to remember the completion of a legendary work.</MF_Caption_legendary_7>
+  <MF_Caption_legendary_8>A day kept in a picture: the completion of a legendary work.</MF_Caption_legendary_8>
+  <!-- MF_Caption_mechboss: 8 candidates -->
+  <MF_Caption_mechboss_1>A photograph from the defeat of a mech boss, with its surroundings kept too.</MF_Caption_mechboss_1>
+  <MF_Caption_mechboss_2>In {3}, on the occasion of the defeat of a mech boss.</MF_Caption_mechboss_2>
+  <MF_Caption_mechboss_3>A picture from the defeat of a mech boss, ready to return to after time has passed.</MF_Caption_mechboss_3>
+  <MF_Caption_mechboss_4>Part of {2}: the defeat of a mech boss.</MF_Caption_mechboss_4>
+  <MF_Caption_mechboss_5>The colony as it looked at the time of the defeat of a mech boss.</MF_Caption_mechboss_5>
+  <MF_Caption_mechboss_6>When looking back at {3}, this is one of its moments: the defeat of a mech boss.</MF_Caption_mechboss_6>
+  <MF_Caption_mechboss_7>A photograph to remember the defeat of a mech boss.</MF_Caption_mechboss_7>
+  <MF_Caption_mechboss_8>A day kept in a picture: the defeat of a mech boss.</MF_Caption_mechboss_8>
+  <!-- MF_Caption_memorynight: 8 candidates -->
+  <MF_Caption_memorynight_1>The evening spent looking back at photographs became a new photograph itself.</MF_Caption_memorynight_1>
+  <MF_Caption_memorynight_2>In {3}, on the occasion of the evening of looking back through photographs.</MF_Caption_memorynight_2>
+  <MF_Caption_memorynight_3>A picture from the evening of looking back through photographs, ready to return to after time has passed.</MF_Caption_memorynight_3>
+  <MF_Caption_memorynight_4>Part of {2}: the evening of looking back through photographs.</MF_Caption_memorynight_4>
+  <MF_Caption_memorynight_5>The colony as it looked at the time of the evening of looking back through photographs.</MF_Caption_memorynight_5>
+  <MF_Caption_memorynight_6>When looking back at {3}, this is one of its moments: the evening of looking back through photographs.</MF_Caption_memorynight_6>
+  <MF_Caption_memorynight_7>A photograph to remember the evening of looking back through photographs.</MF_Caption_memorynight_7>
+  <MF_Caption_memorynight_8>A day kept in a picture: the evening of looking back through photographs.</MF_Caption_memorynight_8>
+  <!-- MF_Caption_monolith: 8 candidates -->
+  <MF_Caption_monolith_1>A photograph from the change in the monolith, with its surroundings kept too.</MF_Caption_monolith_1>
+  <MF_Caption_monolith_2>In {3}, on the occasion of the change in the monolith.</MF_Caption_monolith_2>
+  <MF_Caption_monolith_3>A picture from the change in the monolith, ready to return to after time has passed.</MF_Caption_monolith_3>
+  <MF_Caption_monolith_4>Part of {2}: the change in the monolith.</MF_Caption_monolith_4>
+  <MF_Caption_monolith_5>The colony as it looked at the time of the change in the monolith.</MF_Caption_monolith_5>
+  <MF_Caption_monolith_6>When looking back at {3}, this is one of its moments: the change in the monolith.</MF_Caption_monolith_6>
+  <MF_Caption_monolith_7>A photograph to remember the change in the monolith.</MF_Caption_monolith_7>
+  <MF_Caption_monolith_8>A day kept in a picture: the change in the monolith.</MF_Caption_monolith_8>
+  <!-- MF_Caption_party: 8 candidates -->
+  <MF_Caption_party_1>A photograph from the party, with its surroundings kept too.</MF_Caption_party_1>
+  <MF_Caption_party_2>In {3}, on the occasion of the party.</MF_Caption_party_2>
+  <MF_Caption_party_3>A picture from the party, ready to return to after time has passed.</MF_Caption_party_3>
+  <MF_Caption_party_4>Part of {2}: the party.</MF_Caption_party_4>
+  <MF_Caption_party_5>The colony as it looked at the time of the party.</MF_Caption_party_5>
+  <MF_Caption_party_6>When looking back at {3}, this is one of its moments: the party.</MF_Caption_party_6>
+  <MF_Caption_party_7>A photograph to remember the party.</MF_Caption_party_7>
+  <MF_Caption_party_8>A day kept in a picture: the party.</MF_Caption_party_8>
+  <!-- MF_Caption_population: 8 candidates -->
+  <MF_Caption_population_1>The colony has grown. This picture keeps the place its people share.</MF_Caption_population_1>
+  <MF_Caption_population_2>In {3}, on the occasion of the colony population milestone.</MF_Caption_population_2>
+  <MF_Caption_population_3>A picture from the colony population milestone, ready to return to after time has passed.</MF_Caption_population_3>
+  <MF_Caption_population_4>Part of {2}: the colony population milestone.</MF_Caption_population_4>
+  <MF_Caption_population_5>The colony as it looked at the time of the colony population milestone.</MF_Caption_population_5>
+  <MF_Caption_population_6>When looking back at {3}, this is one of its moments: the colony population milestone.</MF_Caption_population_6>
+  <MF_Caption_population_7>A photograph to remember the colony population milestone.</MF_Caption_population_7>
+  <MF_Caption_population_8>A day kept in a picture: the colony population milestone.</MF_Caption_population_8>
+  <!-- MF_Caption_recruit: 12 candidates -->
+  <MF_Caption_recruit_1>The day a new colonist joined. Future photographs have one more person to include.</MF_Caption_recruit_1>
+  <MF_Caption_recruit_2>Life in the colony begins for {1}. This is the first day's picture.</MF_Caption_recruit_2>
+  <MF_Caption_recruit_3>A new name in the colony: {1}.</MF_Caption_recruit_3>
+  <MF_Caption_recruit_4>{1} on arrival day. A first picture to set beside later ones.</MF_Caption_recruit_4>
+  <MF_Caption_recruit_5>A new colonist in {3}. Their time here starts on this day.</MF_Caption_recruit_5>
+  <MF_Caption_recruit_6>A new companion in {2}, with the surroundings of their arrival kept too.</MF_Caption_recruit_6>
+  <MF_Caption_recruit_7>A photograph to remember the beginning of life together.</MF_Caption_recruit_7>
+  <MF_Caption_recruit_8>The colony on the day {1} joined: a first view of a place that may become familiar.</MF_Caption_recruit_8>
+  <MF_Caption_recruit_9>{1}, on the day they became a colonist.</MF_Caption_recruit_9>
+  <MF_Caption_recruit_10>A new colonist's first photograph also shows the colony of that time.</MF_Caption_recruit_10>
+  <MF_Caption_recruit_11>With {1}'s arrival, another person's story joins the colony's.</MF_Caption_recruit_11>
+  <MF_Caption_recruit_12>Before the photographs still to come, one from arrival day.</MF_Caption_recruit_12>
+  <!-- MF_Caption_reliquary: 8 candidates -->
+  <MF_Caption_reliquary_1>A photograph from the installation of a relic, with its surroundings kept too.</MF_Caption_reliquary_1>
+  <MF_Caption_reliquary_2>In {3}, on the occasion of the installation of a relic.</MF_Caption_reliquary_2>
+  <MF_Caption_reliquary_3>A picture from the installation of a relic, ready to return to after time has passed.</MF_Caption_reliquary_3>
+  <MF_Caption_reliquary_4>Part of {2}: the installation of a relic.</MF_Caption_reliquary_4>
+  <MF_Caption_reliquary_5>The colony as it looked at the time of the installation of a relic.</MF_Caption_reliquary_5>
+  <MF_Caption_reliquary_6>When looking back at {3}, this is one of its moments: the installation of a relic.</MF_Caption_reliquary_6>
+  <MF_Caption_reliquary_7>A photograph to remember the installation of a relic.</MF_Caption_reliquary_7>
+  <MF_Caption_reliquary_8>A day kept in a picture: the installation of a relic.</MF_Caption_reliquary_8>
+  <!-- MF_Caption_resurrect: 8 candidates -->
+  <MF_Caption_resurrect_1>A life thought finished has another day. A photograph from the return from death.</MF_Caption_resurrect_1>
+  <MF_Caption_resurrect_2>In {3}, on the occasion of the return from death.</MF_Caption_resurrect_2>
+  <MF_Caption_resurrect_3>A picture from the return from death, ready to return to after time has passed.</MF_Caption_resurrect_3>
+  <MF_Caption_resurrect_4>Part of {2}: the return from death.</MF_Caption_resurrect_4>
+  <MF_Caption_resurrect_5>The colony as it looked at the time of the return from death.</MF_Caption_resurrect_5>
+  <MF_Caption_resurrect_6>When looking back at {3}, this is one of its moments: the return from death.</MF_Caption_resurrect_6>
+  <MF_Caption_resurrect_7>A photograph to remember the return from death.</MF_Caption_resurrect_7>
+  <MF_Caption_resurrect_8>A day kept in a picture: the return from death.</MF_Caption_resurrect_8>
+  <!-- MF_Caption_ritual: 8 candidates -->
+  <MF_Caption_ritual_1>A photograph from the ritual, with its surroundings kept too.</MF_Caption_ritual_1>
+  <MF_Caption_ritual_2>In {3}, on the occasion of the ritual.</MF_Caption_ritual_2>
+  <MF_Caption_ritual_3>A picture from the ritual, ready to return to after time has passed.</MF_Caption_ritual_3>
+  <MF_Caption_ritual_4>Part of {2}: the ritual.</MF_Caption_ritual_4>
+  <MF_Caption_ritual_5>The colony as it looked at the time of the ritual.</MF_Caption_ritual_5>
+  <MF_Caption_ritual_6>When looking back at {3}, this is one of its moments: the ritual.</MF_Caption_ritual_6>
+  <MF_Caption_ritual_7>A photograph to remember the ritual.</MF_Caption_ritual_7>
+  <MF_Caption_ritual_8>A day kept in a picture: the ritual.</MF_Caption_ritual_8>
+  <!-- MF_Caption_role: 8 candidates -->
+  <MF_Caption_role_1>A photograph from the appointment to a new role, with its surroundings kept too.</MF_Caption_role_1>
+  <MF_Caption_role_2>In {3}, on the occasion of the appointment to a new role.</MF_Caption_role_2>
+  <MF_Caption_role_3>A picture from the appointment to a new role, ready to return to after time has passed.</MF_Caption_role_3>
+  <MF_Caption_role_4>Part of {2}: the appointment to a new role.</MF_Caption_role_4>
+  <MF_Caption_role_5>The colony as it looked at the time of the appointment to a new role.</MF_Caption_role_5>
+  <MF_Caption_role_6>When looking back at {3}, this is one of its moments: the appointment to a new role.</MF_Caption_role_6>
+  <MF_Caption_role_7>A photograph to remember the appointment to a new role.</MF_Caption_role_7>
+  <MF_Caption_role_8>A day kept in a picture: the appointment to a new role.</MF_Caption_role_8>
+  <!-- MF_Caption_ship: 8 candidates -->
+  <MF_Caption_ship_1>A photograph from the ship launch, with its surroundings kept too.</MF_Caption_ship_1>
+  <MF_Caption_ship_2>In {3}, on the occasion of the ship launch.</MF_Caption_ship_2>
+  <MF_Caption_ship_3>A picture from the ship launch, ready to return to after time has passed.</MF_Caption_ship_3>
+  <MF_Caption_ship_4>Part of {2}: the ship launch.</MF_Caption_ship_4>
+  <MF_Caption_ship_5>The colony as it looked at the time of the ship launch.</MF_Caption_ship_5>
+  <MF_Caption_ship_6>When looking back at {3}, this is one of its moments: the ship launch.</MF_Caption_ship_6>
+  <MF_Caption_ship_7>A photograph to remember the ship launch.</MF_Caption_ship_7>
+  <MF_Caption_ship_8>A day kept in a picture: the ship launch.</MF_Caption_ship_8>
+  <!-- MF_Caption_sky: 8 candidates -->
+  <MF_Caption_sky_1>A different sky over the colony, kept in a photograph.</MF_Caption_sky_1>
+  <MF_Caption_sky_2>In {3}, on the occasion of the change in the sky.</MF_Caption_sky_2>
+  <MF_Caption_sky_3>A picture from the change in the sky, ready to return to after time has passed.</MF_Caption_sky_3>
+  <MF_Caption_sky_4>Part of {2}: the change in the sky.</MF_Caption_sky_4>
+  <MF_Caption_sky_5>The colony as it looked at the time of the change in the sky.</MF_Caption_sky_5>
+  <MF_Caption_sky_6>When looking back at {3}, this is one of its moments: the change in the sky.</MF_Caption_sky_6>
+  <MF_Caption_sky_7>A photograph to remember the change in the sky.</MF_Caption_sky_7>
+  <MF_Caption_sky_8>A day kept in a picture: the change in the sky.</MF_Caption_sky_8>
+  <!-- MF_Caption_wedding: 8 candidates -->
+  <MF_Caption_wedding_1>The day two lives became a marriage.</MF_Caption_wedding_1>
+  <MF_Caption_wedding_2>In {3}, on the occasion of the wedding.</MF_Caption_wedding_2>
+  <MF_Caption_wedding_3>A picture from the wedding, ready to return to after time has passed.</MF_Caption_wedding_3>
+  <MF_Caption_wedding_4>Part of {2}: the wedding.</MF_Caption_wedding_4>
+  <MF_Caption_wedding_5>The colony as it looked at the time of the wedding.</MF_Caption_wedding_5>
+  <MF_Caption_wedding_6>When looking back at {3}, this is one of its moments: the wedding.</MF_Caption_wedding_6>
+  <MF_Caption_wedding_7>A photograph to remember the wedding.</MF_Caption_wedding_7>
+  <MF_Caption_wedding_8>A day kept in a picture: the wedding.</MF_Caption_wedding_8>
+  <!-- MF_Caption_group_solo: 12 candidates -->
+  <MF_Caption_group_solo_1>A portrait of {1}, with the setting kept in the frame.</MF_Caption_group_solo_1>
+  <MF_Caption_group_solo_2>{1} in {3}. This is how they looked on this day.</MF_Caption_group_solo_2>
+  <MF_Caption_group_solo_3>{1} in {2}. A photograph to place beside the next one.</MF_Caption_group_solo_3>
+  <MF_Caption_group_solo_4>{1} in the picture; the colony of this time in the background.</MF_Caption_group_solo_4>
+  <MF_Caption_group_solo_5>{1}, just as they were that day.</MF_Caption_group_solo_5>
+  <MF_Caption_group_solo_6>A portrait does not need a great event behind it.</MF_Caption_group_solo_6>
+  <MF_Caption_group_solo_7>{1} and the surroundings of {3}, together in a photograph.</MF_Caption_group_solo_7>
+  <MF_Caption_group_solo_8>A picture of {1} to compare with one taken later.</MF_Caption_group_solo_8>
+  <MF_Caption_group_solo_9>{1}, on a day in {2}.</MF_Caption_group_solo_9>
+  <MF_Caption_group_solo_10>A face to return to when remembering this day: {1}.</MF_Caption_group_solo_10>
+  <MF_Caption_group_solo_11>This photograph of {1} also keeps a little of the place around them.</MF_Caption_group_solo_11>
+  <MF_Caption_group_solo_12>{1}. A face to keep beside the name.</MF_Caption_group_solo_12>
+  <!-- MF_Caption_group_group: 12 candidates -->
+  <MF_Caption_group_group_1>One photograph together. The faces of this day: {0}.</MF_Caption_group_group_1>
+  <MF_Caption_group_group_2>{0}, sharing the same photograph.</MF_Caption_group_group_2>
+  <MF_Caption_group_group_3>A moment to look at one person at a time, or all together.</MF_Caption_group_group_3>
+  <MF_Caption_group_group_4>People and place in the same frame, in {3}: {0}.</MF_Caption_group_group_4>
+  <MF_Caption_group_group_5>The same day, the same picture. In time, this scene will look different.</MF_Caption_group_group_5>
+  <MF_Caption_group_group_6>A photograph together in {2}. In the frame: {0}.</MF_Caption_group_group_6>
+  <MF_Caption_group_group_7>The people of today, with the place as it looks today.</MF_Caption_group_group_7>
+  <MF_Caption_group_group_8>A group photograph of {0}, to return to another day.</MF_Caption_group_group_8>
+  <MF_Caption_group_group_9>A day does not need a special occasion to be worth keeping.</MF_Caption_group_group_9>
+  <MF_Caption_group_group_10>The setting belongs here too. A group photograph in {3}.</MF_Caption_group_group_10>
+  <MF_Caption_group_group_11>If these people pose again, what will have changed first?</MF_Caption_group_group_11>
+  <MF_Caption_group_group_12>Names sharing a single photograph: {0}.</MF_Caption_group_group_12>
+  <!-- MF_Caption_group_scene: 8 candidates -->
+  <MF_Caption_group_scene_1>A place can be worth keeping even without anyone in the frame.</MF_Caption_group_scene_1>
+  <MF_Caption_group_scene_2>{3} as it looked then. What will change before the next picture?</MF_Caption_group_scene_2>
+  <MF_Caption_group_scene_3>A scene to explore at a slower pace.</MF_Caption_group_scene_3>
+  <MF_Caption_group_scene_4>{3} in {2}, kept in a single photograph.</MF_Caption_group_scene_4>
+  <MF_Caption_group_scene_5>The colony's changes can be found between pictures like this.</MF_Caption_group_scene_5>
+  <MF_Caption_group_scene_6>The place as it was that day, ready to visit again in a photograph.</MF_Caption_group_scene_6>
+  <MF_Caption_group_scene_7>A view of {3}, with its smaller details left to discover.</MF_Caption_group_scene_7>
+  <MF_Caption_group_scene_8>Before time changes it, this is how the place looked.</MF_Caption_group_scene_8>
+  <!-- MF_Caption_role_detail: 12 candidates -->
+  <MF_Caption_role_detail_1>A new role for {1}: {4}. Their part in the colony has changed.</MF_Caption_role_detail_1>
+  <MF_Caption_role_detail_2>{1} takes on the role of {4}. A photograph from the beginning.</MF_Caption_role_detail_2>
+  <MF_Caption_role_detail_3>The colony's {4}, {1}, on the day of the appointment.</MF_Caption_role_detail_3>
+  <MF_Caption_role_detail_4>The day {1} was appointed {4}. A picture to set beside the ones still to come.</MF_Caption_role_detail_4>
+  <MF_Caption_role_detail_5>In {3}, {1} has been appointed {4}.</MF_Caption_role_detail_5>
+  <MF_Caption_role_detail_6>{1}'s appointment day. The new role is {4}.</MF_Caption_role_detail_6>
+  <MF_Caption_role_detail_7>{1}, at the beginning of a new chapter as {4}.</MF_Caption_role_detail_7>
+  <MF_Caption_role_detail_8>{2} brought a new role for {1}: {4}.</MF_Caption_role_detail_8>
+  <MF_Caption_role_detail_9>Life in the colony now includes a new role for {1}: {4}.</MF_Caption_role_detail_9>
+  <MF_Caption_role_detail_10>{1} becomes {4}. This is how they looked when their role changed.</MF_Caption_role_detail_10>
+  <MF_Caption_role_detail_11>{1} takes on the role of {4} in {3}. This photograph marks its beginning.</MF_Caption_role_detail_11>
+  <MF_Caption_role_detail_12>{1}'s first day as {4}.</MF_Caption_role_detail_12>
+  <!-- MF_Caption_bestow_detail: 8 candidates -->
+  <MF_Caption_bestow_detail_1>The day {1} was granted the title of {4}.</MF_Caption_bestow_detail_1>
+  <MF_Caption_bestow_detail_2>{1} receives the title of {4}, beginning a new rank.</MF_Caption_bestow_detail_2>
+  <MF_Caption_bestow_detail_3>The title of {4} is now attached to {1}'s name.</MF_Caption_bestow_detail_3>
+  <MF_Caption_bestow_detail_4>{1} receives a title in {3}: {4}.</MF_Caption_bestow_detail_4>
+  <MF_Caption_bestow_detail_5>{1}'s bestowing ceremony, on becoming {4}.</MF_Caption_bestow_detail_5>
+  <MF_Caption_bestow_detail_6>The days ahead for {1}, now with the title of {4}.</MF_Caption_bestow_detail_6>
+  <MF_Caption_bestow_detail_7>In {2}, {1} was granted the title of {4}.</MF_Caption_bestow_detail_7>
+  <MF_Caption_bestow_detail_8>{1}, as they looked on receiving the title of {4}.</MF_Caption_bestow_detail_8>
+  <!-- MF_Caption_journey_detail: 8 candidates -->
+  <MF_Caption_journey_detail_1>{4}, with a view from that time.</MF_Caption_journey_detail_1>
+  <MF_Caption_journey_detail_2>{4}, in {3}.</MF_Caption_journey_detail_2>
+  <MF_Caption_journey_detail_3>The surroundings at the time of {4}.</MF_Caption_journey_detail_3>
+  <MF_Caption_journey_detail_4>A photograph from {4} in {2}.</MF_Caption_journey_detail_4>
+  <MF_Caption_journey_detail_5>{4}, kept to return to another day.</MF_Caption_journey_detail_5>
+  <MF_Caption_journey_detail_6>A view from {4}, photographed in {3}.</MF_Caption_journey_detail_6>
+  <MF_Caption_journey_detail_7>A picture to keep beside the date of {4}.</MF_Caption_journey_detail_7>
+  <MF_Caption_journey_detail_8>{4} is the occasion; its surroundings are part of the picture too.</MF_Caption_journey_detail_8>
+  <!-- MF_Caption_celebration_detail: 8 candidates -->
+  <MF_Caption_celebration_detail_1>{4}, with a view from that time.</MF_Caption_celebration_detail_1>
+  <MF_Caption_celebration_detail_2>{4}, in {3}.</MF_Caption_celebration_detail_2>
+  <MF_Caption_celebration_detail_3>The surroundings at the time of {4}.</MF_Caption_celebration_detail_3>
+  <MF_Caption_celebration_detail_4>A photograph from {4} in {2}.</MF_Caption_celebration_detail_4>
+  <MF_Caption_celebration_detail_5>{4}, kept to return to another day.</MF_Caption_celebration_detail_5>
+  <MF_Caption_celebration_detail_6>A view from {4}, photographed in {3}.</MF_Caption_celebration_detail_6>
+  <MF_Caption_celebration_detail_7>A picture to keep beside the date of {4}.</MF_Caption_celebration_detail_7>
+  <MF_Caption_celebration_detail_8>{4} is the occasion; its surroundings are part of the picture too.</MF_Caption_celebration_detail_8>
+  <!-- MF_Caption_ritual_detail: 8 candidates -->
+  <MF_Caption_ritual_detail_1>{4}, with a view from that time.</MF_Caption_ritual_detail_1>
+  <MF_Caption_ritual_detail_2>{4}, in {3}.</MF_Caption_ritual_detail_2>
+  <MF_Caption_ritual_detail_3>The surroundings at the time of {4}.</MF_Caption_ritual_detail_3>
+  <MF_Caption_ritual_detail_4>A photograph from {4} in {2}.</MF_Caption_ritual_detail_4>
+  <MF_Caption_ritual_detail_5>{4}, kept to return to another day.</MF_Caption_ritual_detail_5>
+  <MF_Caption_ritual_detail_6>A view from {4}, photographed in {3}.</MF_Caption_ritual_detail_6>
+  <MF_Caption_ritual_detail_7>A picture to keep beside the date of {4}.</MF_Caption_ritual_detail_7>
+  <MF_Caption_ritual_detail_8>{4} is the occasion; its surroundings are part of the picture too.</MF_Caption_ritual_detail_8>
+  <!-- MF_Caption_funeral_detail: 8 candidates -->
+  <MF_Caption_funeral_detail_1>{4}, with a view from that time.</MF_Caption_funeral_detail_1>
+  <MF_Caption_funeral_detail_2>{4}, in {3}.</MF_Caption_funeral_detail_2>
+  <MF_Caption_funeral_detail_3>The surroundings at the time of {4}.</MF_Caption_funeral_detail_3>
+  <MF_Caption_funeral_detail_4>A photograph from {4} in {2}.</MF_Caption_funeral_detail_4>
+  <MF_Caption_funeral_detail_5>{4}, kept to return to another day.</MF_Caption_funeral_detail_5>
+  <MF_Caption_funeral_detail_6>A view from {4}, photographed in {3}.</MF_Caption_funeral_detail_6>
+  <MF_Caption_funeral_detail_7>A picture to keep beside the date of {4}.</MF_Caption_funeral_detail_7>
+  <MF_Caption_funeral_detail_8>{4} is the occasion; its surroundings are part of the picture too.</MF_Caption_funeral_detail_8>
+  <!-- MF_LifeNote_joined: 24 candidates -->
+  <MF_LifeNote_joined_1>A new name joined the colony's record. The day of joining remains in the chronicle.</MF_LifeNote_joined_1>
+  <MF_LifeNote_joined_2>One person joined the colonist roster. The record of joining became a page in the chronicle.</MF_LifeNote_joined_2>
+  <MF_LifeNote_joined_3>The day of joining remains in the chronicle. One person's name joined the colony's record.</MF_LifeNote_joined_3>
+  <MF_LifeNote_joined_4>A new name appeared on the colonist roster.</MF_LifeNote_joined_4>
+  <MF_LifeNote_joined_5>The day {2} joined the colony.</MF_LifeNote_joined_5>
+  <MF_LifeNote_joined_6>Date of joining: {3}.</MF_LifeNote_joined_6>
+  <MF_LifeNote_joined_7>On {3}, the name of {2} was entered on the colonist roster.</MF_LifeNote_joined_7>
+  <MF_LifeNote_joined_8>Another person became a colonist here.</MF_LifeNote_joined_8>
+  <MF_LifeNote_joined_9>The name of {2} appeared on this colony's roster.</MF_LifeNote_joined_9>
+  <MF_LifeNote_joined_10>Joined the colony on this day.</MF_LifeNote_joined_10>
+  <MF_LifeNote_joined_11>A note of joining, dated {3}.</MF_LifeNote_joined_11>
+  <MF_LifeNote_joined_12>The person who joined: {2}.</MF_LifeNote_joined_12>
+  <MF_LifeNote_joined_13>A new name on the roster marks the day of joining.</MF_LifeNote_joined_13>
+  <MF_LifeNote_joined_14>The joining date, {3}, written beside the name of {2}.</MF_LifeNote_joined_14>
+  <MF_LifeNote_joined_15>Listed as a colonist of this place.</MF_LifeNote_joined_15>
+  <MF_LifeNote_joined_16>A note in the chronicle for one person's arrival as a colonist.</MF_LifeNote_joined_16>
+  <MF_LifeNote_joined_17>The colonist roster changed on {3}: someone had joined.</MF_LifeNote_joined_17>
+  <MF_LifeNote_joined_18>A short note of the day {2} joined.</MF_LifeNote_joined_18>
+  <MF_LifeNote_joined_19>The name of {2} sits beside the joining date.</MF_LifeNote_joined_19>
+  <MF_LifeNote_joined_20>A new entry on the colonist roster marks the day of joining.</MF_LifeNote_joined_20>
+  <MF_LifeNote_joined_21>A name on the colonist roster, listed on {3}.</MF_LifeNote_joined_21>
+  <MF_LifeNote_joined_22>From this day, the roster also includes the name of {2}.</MF_LifeNote_joined_22>
+  <MF_LifeNote_joined_23>The day kept in a few words: joined the colony.</MF_LifeNote_joined_23>
+  <MF_LifeNote_joined_24>Joining date for {2}: {3}.</MF_LifeNote_joined_24>
+  <!-- MF_LifeNote_born: 12 candidates -->
+  <MF_LifeNote_born_1>A young colonist's name joined the roster. The first entry on the roster was added to the chronicle.</MF_LifeNote_born_1>
+  <MF_LifeNote_born_2>A young colonist's first entry on the roster. That entry became a page in the chronicle.</MF_LifeNote_born_2>
+  <MF_LifeNote_born_3>A page for a newly recorded young colonist. The addition to the roster was kept in the chronicle.</MF_LifeNote_born_3>
+  <MF_LifeNote_born_4>A young colonist appeared on the roster for the first time.</MF_LifeNote_born_4>
+  <MF_LifeNote_born_5>The name of {2} was first entered as a young colonist.</MF_LifeNote_born_5>
+  <MF_LifeNote_born_6>First roster entry for a young colonist: {3}.</MF_LifeNote_born_6>
+  <MF_LifeNote_born_7>On {3}, the young colonist {2} was entered on the roster.</MF_LifeNote_born_7>
+  <MF_LifeNote_born_8>A young colonist's name now appears on the roster.</MF_LifeNote_born_8>
+  <MF_LifeNote_born_9>A note of the first roster entry for the young colonist {2}.</MF_LifeNote_born_9>
+  <MF_LifeNote_born_10>A young colonist was first entered on the roster on {3}.</MF_LifeNote_born_10>
+  <MF_LifeNote_born_11>The day a young colonist's name was first written on the roster.</MF_LifeNote_born_11>
+  <MF_LifeNote_born_12>The first roster date, {3}, written beside the name of {2}.</MF_LifeNote_born_12>
+  <!-- MF_LifeNote_lover: 24 candidates -->
+  <MF_LifeNote_lover_1>Became lovers with {0} on this day. Their relationship received a new name.</MF_LifeNote_lover_1>
+  <MF_LifeNote_lover_2>The day of becoming lovers with {0} remains in the chronicle. A page of relationship history was added.</MF_LifeNote_lover_2>
+  <MF_LifeNote_lover_3>The relationship with {0} was recorded as romantic. The day's entry continued the chronicle's next chapter.</MF_LifeNote_lover_3>
+  <MF_LifeNote_lover_4>Became lovers with {0}.</MF_LifeNote_lover_4>
+  <MF_LifeNote_lover_5>Two names listed as lovers: {2} and {0}.</MF_LifeNote_lover_5>
+  <MF_LifeNote_lover_6>{3}, the day of becoming lovers with {0}.</MF_LifeNote_lover_6>
+  <MF_LifeNote_lover_7>The relationship has a new name: lovers with {0}.</MF_LifeNote_lover_7>
+  <MF_LifeNote_lover_8>The new romantic partner is {0}.</MF_LifeNote_lover_8>
+  <MF_LifeNote_lover_9>A romantic relationship between {2} and {0}, noted from this day.</MF_LifeNote_lover_9>
+  <MF_LifeNote_lover_10>The word lover, written beside the name of {0}.</MF_LifeNote_lover_10>
+  <MF_LifeNote_lover_11>From this day, the relationships include a romance with {0}.</MF_LifeNote_lover_11>
+  <MF_LifeNote_lover_12>Date of becoming lovers: {3}. Partner: {0}.</MF_LifeNote_lover_12>
+  <MF_LifeNote_lover_13>A new romantic relationship with {0}.</MF_LifeNote_lover_13>
+  <MF_LifeNote_lover_14>{2} and {0}. On this day, the two became lovers.</MF_LifeNote_lover_14>
+  <MF_LifeNote_lover_15>The name of {0} appears in a new relationship entry: lovers.</MF_LifeNote_lover_15>
+  <MF_LifeNote_lover_16>A new romance dated {3}, bearing the name of {0}.</MF_LifeNote_lover_16>
+  <MF_LifeNote_lover_17>A short note of becoming lovers with {0}.</MF_LifeNote_lover_17>
+  <MF_LifeNote_lover_18>The day two people became lovers.</MF_LifeNote_lover_18>
+  <MF_LifeNote_lover_19>The relationship with {0} began to be listed as romantic.</MF_LifeNote_lover_19>
+  <MF_LifeNote_lover_20>On {3}, the two became lovers.</MF_LifeNote_lover_20>
+  <MF_LifeNote_lover_21>This day's change in relationship: became lovers with {0}.</MF_LifeNote_lover_21>
+  <MF_LifeNote_lover_22>The name of {0}, listed as the lover of {2}.</MF_LifeNote_lover_22>
+  <MF_LifeNote_lover_23>A new romantic relationship began.</MF_LifeNote_lover_23>
+  <MF_LifeNote_lover_24>The day the romance between {2} and {0} began: {3}.</MF_LifeNote_lover_24>
+  <!-- MF_LifeNote_fiance: 12 candidates -->
+  <MF_LifeNote_fiance_1>Became engaged to {0} on this day. An engagement entry joined their relationship history.</MF_LifeNote_fiance_1>
+  <MF_LifeNote_fiance_2>The day of engagement. The relationship with {0} continued into the chronicle's next chapter.</MF_LifeNote_fiance_2>
+  <MF_LifeNote_fiance_3>The engagement to {0} was recorded. A page of relationship history joined the chronicle.</MF_LifeNote_fiance_3>
+  <MF_LifeNote_fiance_4>Became engaged to {0}.</MF_LifeNote_fiance_4>
+  <MF_LifeNote_fiance_5>Two names listed as engaged: {2} and {0}.</MF_LifeNote_fiance_5>
+  <MF_LifeNote_fiance_6>{3}, the day of becoming engaged to {0}.</MF_LifeNote_fiance_6>
+  <MF_LifeNote_fiance_7>The word engagement, added to the relationship with {0}.</MF_LifeNote_fiance_7>
+  <MF_LifeNote_fiance_8>The name of the fiance is {0}.</MF_LifeNote_fiance_8>
+  <MF_LifeNote_fiance_9>The two became engaged on this day.</MF_LifeNote_fiance_9>
+  <MF_LifeNote_fiance_10>A note of the engagement between {2} and {0}.</MF_LifeNote_fiance_10>
+  <MF_LifeNote_fiance_11>The engagement date for the relationship with {0}: {3}.</MF_LifeNote_fiance_11>
+  <MF_LifeNote_fiance_12>An engagement appears in the relationships, with the name of {0}.</MF_LifeNote_fiance_12>
+  <!-- MF_LifeNote_spouse: 12 candidates -->
+  <MF_LifeNote_spouse_1>Married {0} on this day. A marriage entry joined their relationship history.</MF_LifeNote_spouse_1>
+  <MF_LifeNote_spouse_2>The day of marriage remains in the chronicle. The relationship with {0} continued into the next chapter.</MF_LifeNote_spouse_2>
+  <MF_LifeNote_spouse_3>A record of becoming spouses with {0}. A page of relationship history joined the chronicle.</MF_LifeNote_spouse_3>
+  <MF_LifeNote_spouse_4>Married {0}.</MF_LifeNote_spouse_4>
+  <MF_LifeNote_spouse_5>Two names listed as spouses: {2} and {0}.</MF_LifeNote_spouse_5>
+  <MF_LifeNote_spouse_6>{3}, the day of marriage to {0}.</MF_LifeNote_spouse_6>
+  <MF_LifeNote_spouse_7>The relationship with {0}, now listed as spouses.</MF_LifeNote_spouse_7>
+  <MF_LifeNote_spouse_8>The spouse's name is {0}.</MF_LifeNote_spouse_8>
+  <MF_LifeNote_spouse_9>The two married on this day.</MF_LifeNote_spouse_9>
+  <MF_LifeNote_spouse_10>A note of the marriage between {2} and {0}.</MF_LifeNote_spouse_10>
+  <MF_LifeNote_spouse_11>Marriage date: {3}. The name beside it is {0}.</MF_LifeNote_spouse_11>
+  <MF_LifeNote_spouse_12>A marriage appears in the relationships. The spouse is {0}.</MF_LifeNote_spouse_12>
+  <!-- MF_LifeNote_brokeup: 12 candidates -->
+  <MF_LifeNote_brokeup_1>Broke up with {0} on this day. The change in the relationship remains in the chronicle.</MF_LifeNote_brokeup_1>
+  <MF_LifeNote_brokeup_2>The day the romantic relationship with {0} ended. The break-up was kept in the chronicle.</MF_LifeNote_brokeup_2>
+  <MF_LifeNote_brokeup_3>The break-up with {0} was recorded. A page of the relationship's history remains.</MF_LifeNote_brokeup_3>
+  <MF_LifeNote_brokeup_4>The romantic relationship with {0} ended.</MF_LifeNote_brokeup_4>
+  <MF_LifeNote_brokeup_5>The break-up between {2} and {0}.</MF_LifeNote_brokeup_5>
+  <MF_LifeNote_brokeup_6>{3}, the day of the break-up with {0}.</MF_LifeNote_brokeup_6>
+  <MF_LifeNote_brokeup_7>The relationship with {0}, now listed as former lovers.</MF_LifeNote_brokeup_7>
+  <MF_LifeNote_brokeup_8>The ended romance was with {0}.</MF_LifeNote_brokeup_8>
+  <MF_LifeNote_brokeup_9>The two ceased to be lovers on this day.</MF_LifeNote_brokeup_9>
+  <MF_LifeNote_brokeup_10>A change in the relationship between {2} and {0}: a break-up.</MF_LifeNote_brokeup_10>
+  <MF_LifeNote_brokeup_11>Break-up date: {3}. Partner: {0}.</MF_LifeNote_brokeup_11>
+  <MF_LifeNote_brokeup_12>A note that the relationship with {0} is no longer romantic.</MF_LifeNote_brokeup_12>
+  <!-- MF_LifeNote_divorced: 12 candidates -->
+  <MF_LifeNote_divorced_1>Divorced {0} on this day. The change in the marriage remains in the chronicle.</MF_LifeNote_divorced_1>
+  <MF_LifeNote_divorced_2>The day the marriage to {0} ended. The divorce was kept in the chronicle.</MF_LifeNote_divorced_2>
+  <MF_LifeNote_divorced_3>The divorce from {0} was recorded. A page of the relationship's history remains.</MF_LifeNote_divorced_3>
+  <MF_LifeNote_divorced_4>The marriage to {0} ended.</MF_LifeNote_divorced_4>
+  <MF_LifeNote_divorced_5>The divorce between {2} and {0}.</MF_LifeNote_divorced_5>
+  <MF_LifeNote_divorced_6>{3}, the day of divorce from {0}.</MF_LifeNote_divorced_6>
+  <MF_LifeNote_divorced_7>The relationship with {0}, now listed as former spouses.</MF_LifeNote_divorced_7>
+  <MF_LifeNote_divorced_8>The ended marriage was to {0}.</MF_LifeNote_divorced_8>
+  <MF_LifeNote_divorced_9>The two ceased to be spouses on this day.</MF_LifeNote_divorced_9>
+  <MF_LifeNote_divorced_10>A change in the relationship between {2} and {0}: a divorce.</MF_LifeNote_divorced_10>
+  <MF_LifeNote_divorced_11>Divorce date: {3}. Former spouse: {0}.</MF_LifeNote_divorced_11>
+  <MF_LifeNote_divorced_12>A note that the marriage to {0} has ended.</MF_LifeNote_divorced_12>
+  <!-- MF_LifeNote_bond: 24 candidates -->
+  <MF_LifeNote_bond_1>Formed a bond with {0} on this day. A new bond entry joined the chronicle.</MF_LifeNote_bond_1>
+  <MF_LifeNote_bond_2>The day of forming a bond with {0} remains in the record. A page joined the chronicle.</MF_LifeNote_bond_2>
+  <MF_LifeNote_bond_3>The bond with {0} was recorded. The relationship entry became a page in the chronicle.</MF_LifeNote_bond_3>
+  <MF_LifeNote_bond_4>A bond formed with {0}.</MF_LifeNote_bond_4>
+  <MF_LifeNote_bond_5>The new bond is with {0}.</MF_LifeNote_bond_5>
+  <MF_LifeNote_bond_6>{3}, the day a bond formed with {0}.</MF_LifeNote_bond_6>
+  <MF_LifeNote_bond_7>A bond formed between {2} and {0}.</MF_LifeNote_bond_7>
+  <MF_LifeNote_bond_8>The name of {0}, entered among the bonded relationships.</MF_LifeNote_bond_8>
+  <MF_LifeNote_bond_9>A new bond formed on this day.</MF_LifeNote_bond_9>
+  <MF_LifeNote_bond_10>The word bond, written beside the name of {0}.</MF_LifeNote_bond_10>
+  <MF_LifeNote_bond_11>A newly formed relationship: a bond with {0}.</MF_LifeNote_bond_11>
+  <MF_LifeNote_bond_12>Date of the new bond: {3}. Bonded with: {0}.</MF_LifeNote_bond_12>
+  <MF_LifeNote_bond_13>The name of {0} was listed among the bonded companions of {2}.</MF_LifeNote_bond_13>
+  <MF_LifeNote_bond_14>A short note of the bond with {0}.</MF_LifeNote_bond_14>
+  <MF_LifeNote_bond_15>A new bond appears among the relationships.</MF_LifeNote_bond_15>
+  <MF_LifeNote_bond_16>A new bond dated {3}, bearing the name of {0}.</MF_LifeNote_bond_16>
+  <MF_LifeNote_bond_17>{2} and {0}. Two names linked by a bond on this day.</MF_LifeNote_bond_17>
+  <MF_LifeNote_bond_18>The name at the start of this bonded relationship is {0}.</MF_LifeNote_bond_18>
+  <MF_LifeNote_bond_19>A bond joined the relationship with {0}.</MF_LifeNote_bond_19>
+  <MF_LifeNote_bond_20>A new bond formed on {3}.</MF_LifeNote_bond_20>
+  <MF_LifeNote_bond_21>The new relationship entry is a bond. The name beside it is {0}.</MF_LifeNote_bond_21>
+  <MF_LifeNote_bond_22>A bond between {2} and {0}, noted from this day.</MF_LifeNote_bond_22>
+  <MF_LifeNote_bond_23>The day a new bond formed with an animal.</MF_LifeNote_bond_23>
+  <MF_LifeNote_bond_24>The day the bond between {2} and {0} began: {3}.</MF_LifeNote_bond_24>
+  <!-- MF_LifeNote_captured: 12 candidates -->
+  <MF_LifeNote_captured_1>Being carried off by {0} was recorded. The day's event remains in the chronicle.</MF_LifeNote_captured_1>
+  <MF_LifeNote_captured_2>Being carried off by {0} remains in the chronicle. The event record became a page.</MF_LifeNote_captured_2>
+  <MF_LifeNote_captured_3>A kidnapping entry involving {0} was added. The day's event was kept in the chronicle.</MF_LifeNote_captured_3>
+  <MF_LifeNote_captured_4>Was kidnapped by {0}.</MF_LifeNote_captured_4>
+  <MF_LifeNote_captured_5>The kidnapping of {2}. The faction responsible: {0}.</MF_LifeNote_captured_5>
+  <MF_LifeNote_captured_6>{3}, the day of being carried off by {0}.</MF_LifeNote_captured_6>
+  <MF_LifeNote_captured_7>This day's event was a kidnapping. The faction named is {0}.</MF_LifeNote_captured_7>
+  <MF_LifeNote_captured_8>The name of the kidnapping faction, {0}, written beside the event.</MF_LifeNote_captured_8>
+  <MF_LifeNote_captured_9>A kidnapping in the chronicle of {2}. The faction responsible is {0}.</MF_LifeNote_captured_9>
+  <MF_LifeNote_captured_10>Date of the kidnapping: {3}.</MF_LifeNote_captured_10>
+  <MF_LifeNote_captured_11>A kidnapping occurred on this day.</MF_LifeNote_captured_11>
+  <MF_LifeNote_captured_12>A short note of being carried off by {0}.</MF_LifeNote_captured_12>
+  <!-- MF_LifeNote_limb: 12 candidates -->
+  <MF_LifeNote_limb_1>The loss of the {0} was recorded on this day. The recorded cause is {1}.</MF_LifeNote_limb_1>
+  <MF_LifeNote_limb_2>The loss of the {0} was recorded ({1}). The day's injury became a page in the chronicle.</MF_LifeNote_limb_2>
+  <MF_LifeNote_limb_3>The loss of the {0} due to {1} was recorded. The day's entry was kept in the chronicle.</MF_LifeNote_limb_3>
+  <MF_LifeNote_limb_4>Loss of the {0}. The noted cause is {1}.</MF_LifeNote_limb_4>
+  <MF_LifeNote_limb_5>The {0} was lost following an injury caused by {1}.</MF_LifeNote_limb_5>
+  <MF_LifeNote_limb_6>Loss of the {0} for {2}. The recorded cause is {1}.</MF_LifeNote_limb_6>
+  <MF_LifeNote_limb_7>{3}, the day the {0} was lost. The noted cause is {1}.</MF_LifeNote_limb_7>
+  <MF_LifeNote_limb_8>The lost body part is the {0}. Cause of loss: {1}.</MF_LifeNote_limb_8>
+  <MF_LifeNote_limb_9>The {0} was lost on this day. The cause kept with the injury is {1}.</MF_LifeNote_limb_9>
+  <MF_LifeNote_limb_10>The cause {1}, written beside the injury entry for the loss of the {0}.</MF_LifeNote_limb_10>
+  <MF_LifeNote_limb_11>A short note of the loss of the {0} due to {1}.</MF_LifeNote_limb_11>
+  <MF_LifeNote_limb_12>Loss of the {0}, listed among the injuries of {2}. Cause: {1}.</MF_LifeNote_limb_12>
+  <!-- MF_LifeNote_limbPlain: 12 candidates -->
+  <MF_LifeNote_limbPlain_1>The loss of the {0} was recorded on this day. A page of the event remains in the chronicle.</MF_LifeNote_limbPlain_1>
+  <MF_LifeNote_limbPlain_2>The loss of the {0} was recorded. The day's injury joined the chronicle.</MF_LifeNote_limbPlain_2>
+  <MF_LifeNote_limbPlain_3>The loss of the {0} became a page in the chronicle. The recorded event remains here.</MF_LifeNote_limbPlain_3>
+  <MF_LifeNote_limbPlain_4>Loss of the {0}.</MF_LifeNote_limbPlain_4>
+  <MF_LifeNote_limbPlain_5>The {0} was lost on this day.</MF_LifeNote_limbPlain_5>
+  <MF_LifeNote_limbPlain_6>Loss of the {0} for {2}.</MF_LifeNote_limbPlain_6>
+  <MF_LifeNote_limbPlain_7>{3}, the day the {0} was lost.</MF_LifeNote_limbPlain_7>
+  <MF_LifeNote_limbPlain_8>The lost body part is the {0}.</MF_LifeNote_limbPlain_8>
+  <MF_LifeNote_limbPlain_9>Loss of the {0}, entered among the injuries.</MF_LifeNote_limbPlain_9>
+  <MF_LifeNote_limbPlain_10>The loss of the {0}, noted as this day's injury.</MF_LifeNote_limbPlain_10>
+  <MF_LifeNote_limbPlain_11>Loss of the {0}, entered among the injuries of {2}.</MF_LifeNote_limbPlain_11>
+  <MF_LifeNote_limbPlain_12>Date of the loss of the {0}: {3}.</MF_LifeNote_limbPlain_12>
+  <!-- Specific existing concert/celebration/ritual events: 12 candidates per subtype; observed instrument is photo slot 5. -->
+  <MF_Caption_concert_1>A concert is in progress at {3}. This photograph keeps a moment from the performance.</MF_Caption_concert_1>
+  <MF_Caption_concert_2>{1}'s concert was underway when this photograph was taken.</MF_Caption_concert_2>
+  <MF_Caption_concert_3>A moment of live music was kept in the album.</MF_Caption_concert_3>
+  <MF_Caption_concert_4>This photograph records a concert in progress.</MF_Caption_concert_4>
+  <MF_Caption_concert_5>{1}'s concert became part of the photographic record from {2}.</MF_Caption_concert_5>
+  <MF_Caption_concert_6>The gathering for {1}'s performance left a photograph in the album.</MF_Caption_concert_6>
+  <MF_Caption_concert_7>{1}'s concert is recorded here, with the scene kept beside its date.</MF_Caption_concert_7>
+  <MF_Caption_concert_8>A concert by {1} was underway at {3}.</MF_Caption_concert_8>
+  <MF_Caption_concert_9>A photograph keeps one moment from the musical gathering.</MF_Caption_concert_9>
+  <MF_Caption_concert_10>The album includes a scene from {1}'s concert at {3}.</MF_Caption_concert_10>
+  <MF_Caption_concert_11>The concert photograph records the performer as {1}.</MF_Caption_concert_11>
+  <MF_Caption_concert_12>A concert has its own place among the photographs from {2}.</MF_Caption_concert_12>
+  <MF_Caption_concert_detail_1>A concert is in progress at {3}, with {1} playing {5}. This photograph keeps a moment from the performance.</MF_Caption_concert_detail_1>
+  <MF_Caption_concert_detail_2>{1} was playing {5} when this concert photograph was taken.</MF_Caption_concert_detail_2>
+  <MF_Caption_concert_detail_3>The album keeps a moment of {1} performing on {5}.</MF_Caption_concert_detail_3>
+  <MF_Caption_concert_detail_4>This photograph records {1}'s {5} performance.</MF_Caption_concert_detail_4>
+  <MF_Caption_concert_detail_5>A {5} performance by {1} joined the photographic record from {2}.</MF_Caption_concert_detail_5>
+  <MF_Caption_concert_detail_6>A scene from the concert remains here: {1}, playing {5}.</MF_Caption_concert_detail_6>
+  <MF_Caption_concert_detail_7>The gathering for {1}'s {5} performance was photographed.</MF_Caption_concert_detail_7>
+  <MF_Caption_concert_detail_8>{1} was performing on {5} at {3}. This image keeps a moment from the concert.</MF_Caption_concert_detail_8>
+  <MF_Caption_concert_detail_9>This photograph places {1} and {5} beside the date of the concert.</MF_Caption_concert_detail_9>
+  <MF_Caption_concert_detail_10>The album includes a moment from {1}'s {5} performance at {3}.</MF_Caption_concert_detail_10>
+  <MF_Caption_concert_detail_11>{1}, playing {5}, was photographed during the musical gathering.</MF_Caption_concert_detail_11>
+  <MF_Caption_concert_detail_12>The {5} performance by {1} has its own place among the photographs from {2}.</MF_Caption_concert_detail_12>
+  <MF_Caption_sky_lanterns_1>The sky-lantern ritual "{4}" is in progress. This photograph keeps a moment from the gathering.</MF_Caption_sky_lanterns_1>
+  <MF_Caption_sky_lanterns_2>A moment from the release of sky lanterns at "{4}" was kept in the album.</MF_Caption_sky_lanterns_2>
+  <MF_Caption_sky_lanterns_3>The gathering "{4}" includes the release of sky lanterns. Its photograph was taken at {3}.</MF_Caption_sky_lanterns_3>
+  <MF_Caption_sky_lanterns_4>This is a photograph from "{4}", the settlement's sky-lantern gathering.</MF_Caption_sky_lanterns_4>
+  <MF_Caption_sky_lanterns_5>The sky-lantern ritual "{4}" joined the photographic record of {2}.</MF_Caption_sky_lanterns_5>
+  <MF_Caption_sky_lanterns_6>A sky-lantern gathering was underway at {3}. The event is recorded as "{4}".</MF_Caption_sky_lanterns_6>
+  <MF_Caption_sky_lanterns_7>The names {0} accompany this photograph from the sky-lantern ritual "{4}".</MF_Caption_sky_lanterns_7>
+  <MF_Caption_sky_lanterns_8>The album keeps a moment from the lantern release during "{4}".</MF_Caption_sky_lanterns_8>
+  <MF_Caption_sky_lanterns_9>The sky-lantern ceremony "{4}" was photographed while the gathering was underway.</MF_Caption_sky_lanterns_9>
+  <MF_Caption_sky_lanterns_10>A photograph taken at {3} records "{4}" and its sky-lantern ritual.</MF_Caption_sky_lanterns_10>
+  <MF_Caption_sky_lanterns_11>Names recorded with this sky-lantern photograph include {0}. The gathering is named "{4}".</MF_Caption_sky_lanterns_11>
+  <MF_Caption_sky_lanterns_12>The gathering "{4}" has a sky-lantern photograph among the records from {2}.</MF_Caption_sky_lanterns_12>
+  <MF_Caption_tree_celebration_1>The tree celebration "{4}" is underway. This photograph records a moment from the gathering.</MF_Caption_tree_celebration_1>
+  <MF_Caption_tree_celebration_2>A gathering held in celebration of a tree was photographed at {3}. The event is named "{4}".</MF_Caption_tree_celebration_2>
+  <MF_Caption_tree_celebration_3>The celebration "{4}" centers on a tree. A moment from it was kept in the album.</MF_Caption_tree_celebration_3>
+  <MF_Caption_tree_celebration_4>This photograph records "{4}", the tree celebration, while it is in progress.</MF_Caption_tree_celebration_4>
+  <MF_Caption_tree_celebration_5>The tree celebration "{4}" joined the settlement's photographic record of {2}.</MF_Caption_tree_celebration_5>
+  <MF_Caption_tree_celebration_6>The album keeps a scene from the tree celebration "{4}" at {3}.</MF_Caption_tree_celebration_6>
+  <MF_Caption_tree_celebration_7>The names {0} are recorded with this photograph from the tree celebration "{4}".</MF_Caption_tree_celebration_7>
+  <MF_Caption_tree_celebration_8>A tree is the focus of the celebration "{4}". This image was taken during the gathering.</MF_Caption_tree_celebration_8>
+  <MF_Caption_tree_celebration_9>The tree celebration "{4}" was underway when this photograph became part of the album.</MF_Caption_tree_celebration_9>
+  <MF_Caption_tree_celebration_10>A photograph taken at {3} keeps a moment from "{4}" and its tree celebration.</MF_Caption_tree_celebration_10>
+  <MF_Caption_tree_celebration_11>Names recorded with the tree celebration include {0}. This photograph accompanies the event "{4}".</MF_Caption_tree_celebration_11>
+  <MF_Caption_tree_celebration_12>The celebration "{4}" has its own tree-gathering photograph among the records from {2}.</MF_Caption_tree_celebration_12>
+  <MF_Caption_drum_dance_1>The drum dance "{4}" is in progress. This photograph keeps a moment from the gathering.</MF_Caption_drum_dance_1>
+  <MF_Caption_drum_dance_2>A gathering centered on a drum dance was photographed at {3}. The event is named "{4}".</MF_Caption_drum_dance_2>
+  <MF_Caption_drum_dance_3>A moment from the drum-dance gathering "{4}" was kept in the album.</MF_Caption_drum_dance_3>
+  <MF_Caption_drum_dance_4>This photograph records "{4}", a drum dance, while the event is underway.</MF_Caption_drum_dance_4>
+  <MF_Caption_drum_dance_5>The drum dance "{4}" joined the photographic record of {2}.</MF_Caption_drum_dance_5>
+  <MF_Caption_drum_dance_6>The gathering "{4}" centers on dancing to drums. This image keeps a scene from it at {3}.</MF_Caption_drum_dance_6>
+  <MF_Caption_drum_dance_7>The names {0} accompany this photograph from the drum dance "{4}".</MF_Caption_drum_dance_7>
+  <MF_Caption_drum_dance_8>A drum-dance gathering was underway at {3} when "{4}" was photographed.</MF_Caption_drum_dance_8>
+  <MF_Caption_drum_dance_9>The album includes a scene from "{4}" and its drum dance.</MF_Caption_drum_dance_9>
+  <MF_Caption_drum_dance_10>The drum-dance event "{4}" was photographed during the gathering at {3}.</MF_Caption_drum_dance_10>
+  <MF_Caption_drum_dance_11>Names recorded with this drum-dance photograph include {0}. The event is recorded as "{4}".</MF_Caption_drum_dance_11>
+  <MF_Caption_drum_dance_12>The gathering "{4}" has a drum-dance photograph among the records from {2}.</MF_Caption_drum_dance_12>
+  <MF_Caption_tech_dance_1>The techno dance "{4}" is in progress. This photograph keeps a moment from the gathering.</MF_Caption_tech_dance_1>
+  <MF_Caption_tech_dance_2>The techno-dance gathering "{4}" was photographed at {3}.</MF_Caption_tech_dance_2>
+  <MF_Caption_tech_dance_3>A moment from the techno dance "{4}" was kept in the album.</MF_Caption_tech_dance_3>
+  <MF_Caption_tech_dance_4>This photograph records "{4}", a techno dance, while the event is underway.</MF_Caption_tech_dance_4>
+  <MF_Caption_tech_dance_5>The techno dance "{4}" joined the settlement's photographic record of {2}.</MF_Caption_tech_dance_5>
+  <MF_Caption_tech_dance_6>A techno-dance gathering was underway at {3}. Its name in the record is "{4}".</MF_Caption_tech_dance_6>
+  <MF_Caption_tech_dance_7>The names {0} accompany this photograph from the techno dance "{4}".</MF_Caption_tech_dance_7>
+  <MF_Caption_tech_dance_8>The album keeps a scene from "{4}" and its techno-dance gathering.</MF_Caption_tech_dance_8>
+  <MF_Caption_tech_dance_9>The techno-dance event "{4}" was photographed during the gathering.</MF_Caption_tech_dance_9>
+  <MF_Caption_tech_dance_10>A photograph taken at {3} records a moment from the techno dance "{4}".</MF_Caption_tech_dance_10>
+  <MF_Caption_tech_dance_11>Names recorded with this techno-dance photograph include {0}. The event is named "{4}".</MF_Caption_tech_dance_11>
+  <MF_Caption_tech_dance_12>The gathering "{4}" has a techno-dance photograph among the records from {2}.</MF_Caption_tech_dance_12>
+  <MF_Caption_cannibal_feast_1>The cannibal feast "{4}" is in progress. This photograph records a moment from the ritual meal.</MF_Caption_cannibal_feast_1>
+  <MF_Caption_cannibal_feast_2>A gathering for a cannibal feast was photographed at {3}. The event is named "{4}".</MF_Caption_cannibal_feast_2>
+  <MF_Caption_cannibal_feast_3>The ritual meal "{4}" is a cannibal feast. A moment from the gathering was kept in the album.</MF_Caption_cannibal_feast_3>
+  <MF_Caption_cannibal_feast_4>This photograph records "{4}", the cannibal feast, while it is underway.</MF_Caption_cannibal_feast_4>
+  <MF_Caption_cannibal_feast_5>The cannibal feast "{4}" joined the settlement's photographic record of {2}.</MF_Caption_cannibal_feast_5>
+  <MF_Caption_cannibal_feast_6>A ritual meal was underway at {3}. The record identifies "{4}" as a cannibal feast.</MF_Caption_cannibal_feast_6>
+  <MF_Caption_cannibal_feast_7>The names {0} are recorded with this photograph from the cannibal feast "{4}".</MF_Caption_cannibal_feast_7>
+  <MF_Caption_cannibal_feast_8>The album keeps a scene from the cannibal-feast gathering "{4}".</MF_Caption_cannibal_feast_8>
+  <MF_Caption_cannibal_feast_9>The feast "{4}" was photographed during its ritual gathering. It is recorded as a cannibal feast.</MF_Caption_cannibal_feast_9>
+  <MF_Caption_cannibal_feast_10>A photograph taken at {3} keeps a moment from the cannibal feast "{4}".</MF_Caption_cannibal_feast_10>
+  <MF_Caption_cannibal_feast_11>Names recorded with the cannibal-feast photograph include {0}. This image accompanies "{4}".</MF_Caption_cannibal_feast_11>
+  <MF_Caption_cannibal_feast_12>The cannibal-feast gathering "{4}" has its own photograph among the records from {2}.</MF_Caption_cannibal_feast_12>
+  <MF_Caption_date_festival_1>The social festival "{4}" is in progress. This photograph keeps a moment from the celebratory gathering.</MF_Caption_date_festival_1>
+  <MF_Caption_date_festival_2>A moment from the social festival "{4}" was kept in the album.</MF_Caption_date_festival_2>
+  <MF_Caption_date_festival_3>The celebratory gathering "{4}" was photographed at {3}.</MF_Caption_date_festival_3>
+  <MF_Caption_date_festival_4>This photograph records "{4}", a social festival, while the gathering is underway.</MF_Caption_date_festival_4>
+  <MF_Caption_date_festival_5>The social festival "{4}" joined the photographic record from {2}.</MF_Caption_date_festival_5>
+  <MF_Caption_date_festival_6>A celebratory gathering was underway at {3}. The event is recorded as "{4}".</MF_Caption_date_festival_6>
+  <MF_Caption_date_festival_7>The names {0} accompany this photograph from the social festival "{4}".</MF_Caption_date_festival_7>
+  <MF_Caption_date_festival_8>The album keeps a scene from the celebratory gathering "{4}".</MF_Caption_date_festival_8>
+  <MF_Caption_date_festival_9>The social festival "{4}" was photographed while people were gathered for it.</MF_Caption_date_festival_9>
+  <MF_Caption_date_festival_10>A photograph taken at {3} keeps a moment from the social festival "{4}".</MF_Caption_date_festival_10>
+  <MF_Caption_date_festival_11>Names recorded with this social festival photograph include {0}. The gathering is named "{4}".</MF_Caption_date_festival_11>
+  <MF_Caption_date_festival_12>The gathering "{4}" has its own social festival photograph among the records from {2}.</MF_Caption_date_festival_12>
+  <MF_Caption_execution_1>The execution ritual "{4}" is underway. This photograph records the ceremony in progress.</MF_Caption_execution_1>
+  <MF_Caption_execution_2>A moment from the execution ceremony "{4}" was kept in the album.</MF_Caption_execution_2>
+  <MF_Caption_execution_3>The ceremony "{4}" is an execution ritual. This image was taken during the gathering at {3}.</MF_Caption_execution_3>
+  <MF_Caption_execution_4>This photograph records "{4}", the execution ceremony, while it is underway.</MF_Caption_execution_4>
+  <MF_Caption_execution_5>The execution ceremony "{4}" was photographed in {2}. The image records a moment during the rite.</MF_Caption_execution_5>
+  <MF_Caption_execution_6>An execution ritual was underway at {3}. Its name in the record is "{4}".</MF_Caption_execution_6>
+  <MF_Caption_execution_7>The names {0} are recorded with this photograph from the execution ritual "{4}".</MF_Caption_execution_7>
+  <MF_Caption_execution_8>The album keeps a scene from the ceremony "{4}", an execution ritual in progress.</MF_Caption_execution_8>
+  <MF_Caption_execution_9>The execution rite "{4}" was photographed during its gathering.</MF_Caption_execution_9>
+  <MF_Caption_execution_10>A photograph taken at {3} records a moment from the execution ceremony "{4}".</MF_Caption_execution_10>
+  <MF_Caption_execution_11>Names recorded with this execution-ritual photograph include {0}. The ceremony is named "{4}".</MF_Caption_execution_11>
+  <MF_Caption_execution_12>The execution ritual "{4}" has a photograph among the records from {2}. It was taken while the rite was underway.</MF_Caption_execution_12>
+  <MF_Caption_prisoner_sacrifice_1>The prisoner-sacrifice ritual "{4}" is underway. This photograph records a moment during the ceremony.</MF_Caption_prisoner_sacrifice_1>
+  <MF_Caption_prisoner_sacrifice_2>A moment from the prisoner-sacrifice ceremony "{4}" was kept in the album.</MF_Caption_prisoner_sacrifice_2>
+  <MF_Caption_prisoner_sacrifice_3>The ceremony "{4}" centers on a prisoner sacrifice. This image was taken during the gathering at {3}.</MF_Caption_prisoner_sacrifice_3>
+  <MF_Caption_prisoner_sacrifice_4>This photograph records "{4}", a prisoner-sacrifice ritual, while it is in progress.</MF_Caption_prisoner_sacrifice_4>
+  <MF_Caption_prisoner_sacrifice_5>The prisoner-sacrifice ritual "{4}" was photographed in {2}. The image keeps a moment from the rite.</MF_Caption_prisoner_sacrifice_5>
+  <MF_Caption_prisoner_sacrifice_6>A prisoner-sacrifice ceremony was underway at {3}. The event is recorded as "{4}".</MF_Caption_prisoner_sacrifice_6>
+  <MF_Caption_prisoner_sacrifice_7>The names {0} accompany this photograph from the prisoner-sacrifice ritual "{4}".</MF_Caption_prisoner_sacrifice_7>
+  <MF_Caption_prisoner_sacrifice_8>The album keeps a scene from the prisoner-sacrifice ceremony "{4}".</MF_Caption_prisoner_sacrifice_8>
+  <MF_Caption_prisoner_sacrifice_9>The rite "{4}" was photographed during its gathering. It is recorded as a prisoner-sacrifice ceremony.</MF_Caption_prisoner_sacrifice_9>
+  <MF_Caption_prisoner_sacrifice_10>A photograph taken at {3} records a moment from the prisoner-sacrifice ritual "{4}".</MF_Caption_prisoner_sacrifice_10>
+  <MF_Caption_prisoner_sacrifice_11>Names recorded with this prisoner-sacrifice photograph include {0}. The ceremony is named "{4}".</MF_Caption_prisoner_sacrifice_11>
+  <MF_Caption_prisoner_sacrifice_12>The prisoner-sacrifice ritual "{4}" has a photograph among the records from {2}. It was taken while the ceremony was underway.</MF_Caption_prisoner_sacrifice_12>
+  <MF_Caption_animal_sacrifice_1>The animal-sacrifice ritual "{4}" is underway. This photograph records a moment during the ceremony.</MF_Caption_animal_sacrifice_1>
+  <MF_Caption_animal_sacrifice_2>A moment from the animal-sacrifice ceremony "{4}" was kept in the album.</MF_Caption_animal_sacrifice_2>
+  <MF_Caption_animal_sacrifice_3>The ceremony "{4}" centers on an animal sacrifice. This image was taken during the gathering at {3}.</MF_Caption_animal_sacrifice_3>
+  <MF_Caption_animal_sacrifice_4>This photograph records "{4}", an animal-sacrifice ritual, while it is in progress.</MF_Caption_animal_sacrifice_4>
+  <MF_Caption_animal_sacrifice_5>The animal-sacrifice ritual "{4}" was photographed in {2}. The image keeps a moment from the rite.</MF_Caption_animal_sacrifice_5>
+  <MF_Caption_animal_sacrifice_6>An animal-sacrifice ceremony was underway at {3}. The event is recorded as "{4}".</MF_Caption_animal_sacrifice_6>
+  <MF_Caption_animal_sacrifice_7>The names {0} accompany this photograph from the animal-sacrifice ritual "{4}".</MF_Caption_animal_sacrifice_7>
+  <MF_Caption_animal_sacrifice_8>The album keeps a scene from the animal-sacrifice ceremony "{4}".</MF_Caption_animal_sacrifice_8>
+  <MF_Caption_animal_sacrifice_9>The rite "{4}" was photographed during its gathering. It is recorded as an animal-sacrifice ceremony.</MF_Caption_animal_sacrifice_9>
+  <MF_Caption_animal_sacrifice_10>A photograph taken at {3} records a moment from the animal-sacrifice ritual "{4}".</MF_Caption_animal_sacrifice_10>
+  <MF_Caption_animal_sacrifice_11>Names recorded with this animal-sacrifice photograph include {0}. The ceremony is named "{4}".</MF_Caption_animal_sacrifice_11>
+  <MF_Caption_animal_sacrifice_12>The animal-sacrifice ritual "{4}" has a photograph among the records from {2}. It was taken while the ceremony was underway.</MF_Caption_animal_sacrifice_12>
+  <MF_Caption_scarification_1>The scarification ceremony "{4}" is underway. This photograph records a moment during the ritual.</MF_Caption_scarification_1>
+  <MF_Caption_scarification_2>A moment from the scarification rite "{4}" was kept in the album.</MF_Caption_scarification_2>
+  <MF_Caption_scarification_3>The ritual "{4}" centers on ceremonial scarification. This image was taken during the gathering at {3}.</MF_Caption_scarification_3>
+  <MF_Caption_scarification_4>This photograph records "{4}", a scarification ceremony, while it is in progress.</MF_Caption_scarification_4>
+  <MF_Caption_scarification_5>The scarification ceremony "{4}" was photographed in {2}. The image keeps a moment from the rite.</MF_Caption_scarification_5>
+  <MF_Caption_scarification_6>A ceremonial scarification was underway at {3}. The gathering is recorded as "{4}".</MF_Caption_scarification_6>
+  <MF_Caption_scarification_7>The names {0} accompany this photograph from the scarification ceremony "{4}".</MF_Caption_scarification_7>
+  <MF_Caption_scarification_8>The album keeps a scene from the scarification ritual "{4}".</MF_Caption_scarification_8>
+  <MF_Caption_scarification_9>The rite "{4}" was photographed during its gathering. It is recorded as a scarification ceremony.</MF_Caption_scarification_9>
+  <MF_Caption_scarification_10>A photograph taken at {3} records a moment from the scarification rite "{4}".</MF_Caption_scarification_10>
+  <MF_Caption_scarification_11>Names recorded with this scarification photograph include {0}. The ceremony is named "{4}".</MF_Caption_scarification_11>
+  <MF_Caption_scarification_12>The scarification ritual "{4}" has a photograph among the records from {2}. It was taken while the ceremony was underway.</MF_Caption_scarification_12>
+  <MF_Caption_blinding_1>The blinding ceremony "{4}" is underway. This photograph records a moment during the ritual.</MF_Caption_blinding_1>
+  <MF_Caption_blinding_2>A moment from the blinding rite "{4}" was kept in the album.</MF_Caption_blinding_2>
+  <MF_Caption_blinding_3>The ritual "{4}" centers on ceremonial blinding. This image was taken during the gathering at {3}.</MF_Caption_blinding_3>
+  <MF_Caption_blinding_4>This photograph records "{4}", a blinding ceremony, while it is in progress.</MF_Caption_blinding_4>
+  <MF_Caption_blinding_5>The blinding ceremony "{4}" was photographed in {2}. The image keeps a moment from the rite.</MF_Caption_blinding_5>
+  <MF_Caption_blinding_6>A ceremonial blinding was underway at {3}. The gathering is recorded as "{4}".</MF_Caption_blinding_6>
+  <MF_Caption_blinding_7>The names {0} accompany this photograph from the blinding ceremony "{4}".</MF_Caption_blinding_7>
+  <MF_Caption_blinding_8>The album keeps a scene from the blinding ritual "{4}".</MF_Caption_blinding_8>
+  <MF_Caption_blinding_9>The rite "{4}" was photographed during its gathering. It is recorded as a blinding ceremony.</MF_Caption_blinding_9>
+  <MF_Caption_blinding_10>A photograph taken at {3} records a moment from the blinding rite "{4}".</MF_Caption_blinding_10>
+  <MF_Caption_blinding_11>Names recorded with this blinding photograph include {0}. The ceremony is named "{4}".</MF_Caption_blinding_11>
+  <MF_Caption_blinding_12>The blinding ritual "{4}" has a photograph among the records from {2}. It was taken while the ceremony was underway.</MF_Caption_blinding_12>
+  <MF_Caption_duel_1>The duel ceremony "{4}" is underway. This photograph records a moment during the ritual contest.</MF_Caption_duel_1>
+  <MF_Caption_duel_2>A moment from the ritual duel "{4}" was kept in the album.</MF_Caption_duel_2>
+  <MF_Caption_duel_3>The ceremony "{4}" centers on a duel. This image was taken during the gathering at {3}.</MF_Caption_duel_3>
+  <MF_Caption_duel_4>This photograph records "{4}", a ritual duel, while it is in progress.</MF_Caption_duel_4>
+  <MF_Caption_duel_5>The duel ceremony "{4}" was photographed in {2}. The image keeps a moment from the contest.</MF_Caption_duel_5>
+  <MF_Caption_duel_6>A ritual duel was underway at {3}. The event is recorded as "{4}".</MF_Caption_duel_6>
+  <MF_Caption_duel_7>The names {0} accompany this photograph from the ritual duel "{4}".</MF_Caption_duel_7>
+  <MF_Caption_duel_8>The album keeps a scene from the duel ceremony "{4}".</MF_Caption_duel_8>
+  <MF_Caption_duel_9>The rite "{4}" was photographed during its gathering. It is recorded as a duel ceremony.</MF_Caption_duel_9>
+  <MF_Caption_duel_10>A photograph taken at {3} records a moment from the ritual duel "{4}".</MF_Caption_duel_10>
+  <MF_Caption_duel_11>Names recorded with this duel photograph include {0}. The ceremony is named "{4}".</MF_Caption_duel_11>
+  <MF_Caption_duel_12>The ritual duel "{4}" has a photograph among the records from {2}. It was taken while the ceremony was underway.</MF_Caption_duel_12>
+  <!-- Successful-capture context: 6 verified baby/animal, 7 verified carrier/person. Original complete sentences. -->
+  <MF_PhotoContextFact>{0}. Recorded subjects: {1}.</MF_PhotoContextFact>
+  <MF_Caption_carried_baby_1>This photograph shows {7} holding the baby {6}.</MF_Caption_carried_baby_1>
+  <MF_Caption_carried_baby_2>The baby {6} and the person carrying them, {7}, appear together in this photo.</MF_Caption_carried_baby_2>
+  <MF_Caption_carried_baby_3>The baby in this picture is {6}, held by {7}.</MF_Caption_carried_baby_3>
+  <MF_Caption_carried_baby_4>A single photograph keeps the image of {7} with {6} in their arms.</MF_Caption_carried_baby_4>
+  <MF_Caption_carried_baby_5>The name {7} accompanies this photo of the baby {6} being held.</MF_Caption_carried_baby_5>
+  <MF_Caption_carried_baby_6>The baby {6} was photographed in {7}'s arms.</MF_Caption_carried_baby_6>
+  <MF_Caption_carried_baby_7>This image records {6} being carried by {7}.</MF_Caption_carried_baby_7>
+  <MF_Caption_carried_baby_8>Both the baby {6} and their carrier, {7}, are visible in this photograph.</MF_Caption_carried_baby_8>
+  <MF_Caption_carried_baby_9>The person holding the baby is {7}; the baby is {6}.</MF_Caption_carried_baby_9>
+  <MF_Caption_carried_baby_10>This picture of {6} shows the baby being held by {7}.</MF_Caption_carried_baby_10>
+  <MF_Caption_carried_baby_11>The baby {6}, carried by {7}, is among the subjects recorded in this photo.</MF_Caption_carried_baby_11>
+  <MF_Caption_carried_baby_12>This photograph keeps {6} in the arms of {7}.</MF_Caption_carried_baby_12>
+  <MF_Caption_animal_pair_1>{6} and {7}, in the same photograph.</MF_Caption_animal_pair_1>
+  <MF_Caption_animal_pair_2>{6} appears in this photograph with {7}.</MF_Caption_animal_pair_2>
+  <MF_Caption_animal_pair_3>A person and an animal sharing one picture: {7}, {6}.</MF_Caption_animal_pair_3>
+  <MF_Caption_animal_pair_4>{6} is part of this day's photograph too.</MF_Caption_animal_pair_4>
+  <MF_Caption_animal_pair_5>A photograph of {7} and {6}, to look back on together.</MF_Caption_animal_pair_5>
+  <MF_Caption_animal_pair_6>{7}, photographed with {6}.</MF_Caption_animal_pair_6>
+  <MF_Caption_animal_pair_7>{6} and {7}, together in a photograph in {3}.</MF_Caption_animal_pair_7>
+  <MF_Caption_animal_pair_8>{7} and {6}, as they looked when they were together.</MF_Caption_animal_pair_8>
+  <MF_Caption_animal_pair_9>Two names in the same frame: {6} and {7}.</MF_Caption_animal_pair_9>
+  <MF_Caption_animal_pair_10>{7} and {6} share this picture from {2}.</MF_Caption_animal_pair_10>
+  <MF_Caption_animal_pair_11>A photograph with room for {6} too.</MF_Caption_animal_pair_11>
+  <MF_Caption_animal_pair_12>{7} as they were then, with {6} in the same frame.</MF_Caption_animal_pair_12>
+</LanguageData>

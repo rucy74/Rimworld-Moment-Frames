@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>serata dei ricordi</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Serata dei ricordi</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} organizza una serata dei ricordi al proiettore. Chi partecipa guarderà insieme agli altri le fotografie della colonia e ne ricaverà un buon umore duraturo.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>La serata dei ricordi è stata annullata.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>La serata dei ricordi è finita.</MF_MemoryNight.finishedMessage>
+</LanguageData>

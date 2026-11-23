@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Complete sentences for facts verified at capture. Selection and saved history are handled by code. -->
+  <!-- Slots: 0 recorded names; 6 subject/remains; 7 verified companion; 8 birthday occasion; 9 parent role; 10 species/instrument. -->
+  <!-- After/later/record banks intentionally need no names or other slots. Attendance does not imply sitting or listening. -->
+  <!-- MF_Caption_scene_birthday_carried_parent: 6 candidates -->
+  <MF_Caption_scene_birthday_carried_parent_1>{6}, held by {7}, their {9}, on their {8}.</MF_Caption_scene_birthday_carried_parent_1>
+  <MF_Caption_scene_birthday_carried_parent_2>On {6}'s {8}, they are pictured in their {9} {7}'s arms.</MF_Caption_scene_birthday_carried_parent_2>
+  <MF_Caption_scene_birthday_carried_parent_3>On {6}'s {8}, they were in their {9} {7}'s arms.</MF_Caption_scene_birthday_carried_parent_3>
+  <MF_Caption_scene_birthday_carried_parent_4>On their {8}, {6} is photographed in the arms of {7}, their {9}.</MF_Caption_scene_birthday_carried_parent_4>
+  <MF_Caption_scene_birthday_carried_parent_5>{6}'s {8} photograph also shows their {9} {7} holding them.</MF_Caption_scene_birthday_carried_parent_5>
+  <MF_Caption_scene_birthday_carried_parent_6>{6} on their {8}, with {7}, their {9}, holding them.</MF_Caption_scene_birthday_carried_parent_6>
+  <!-- MF_Caption_scene_birthday_carried: 6 candidates -->
+  <MF_Caption_scene_birthday_carried_1>{6}, held in {7}'s arms on their {8}.</MF_Caption_scene_birthday_carried_1>
+  <MF_Caption_scene_birthday_carried_2>On {6}'s {8}, {7} is pictured holding them.</MF_Caption_scene_birthday_carried_2>
+  <MF_Caption_scene_birthday_carried_3>On {6}'s {8}, they were in {7}'s arms.</MF_Caption_scene_birthday_carried_3>
+  <MF_Caption_scene_birthday_carried_4>On their {8}, {6} is photographed in {7}'s arms.</MF_Caption_scene_birthday_carried_4>
+  <MF_Caption_scene_birthday_carried_5>One photograph from {6}'s {8}, showing them held by {7}.</MF_Caption_scene_birthday_carried_5>
+  <MF_Caption_scene_birthday_carried_6>The {8} photograph shows {6}, with {7} holding them.</MF_Caption_scene_birthday_carried_6>
+  <!-- MF_Caption_scene_birthday_parent: 6 candidates -->
+  <MF_Caption_scene_birthday_parent_1>{6} is pictured with {7}, their {9}, on their {8}.</MF_Caption_scene_birthday_parent_1>
+  <MF_Caption_scene_birthday_parent_2>{6} on their {8}, in the same photograph as their {9} {7}.</MF_Caption_scene_birthday_parent_2>
+  <MF_Caption_scene_birthday_parent_3>{6}'s {8}, photographed with their {9} {7}.</MF_Caption_scene_birthday_parent_3>
+  <MF_Caption_scene_birthday_parent_4>The {8} photograph shows {6} alongside {7}, their {9}.</MF_Caption_scene_birthday_parent_4>
+  <MF_Caption_scene_birthday_parent_5>A photograph of {6}'s {8}, showing them together with their {9} {7}.</MF_Caption_scene_birthday_parent_5>
+  <MF_Caption_scene_birthday_parent_6>One photograph from {6}'s {8}, with {7}, their {9}, also in the frame.</MF_Caption_scene_birthday_parent_6>
+  <!-- MF_Caption_scene_birthday_group: 6 candidates -->
+  <MF_Caption_scene_birthday_group_1>{6}'s {8}, with the others pictured alongside them.</MF_Caption_scene_birthday_group_1>
+  <MF_Caption_scene_birthday_group_2>{6} on their {8}, sharing the photograph with others.</MF_Caption_scene_birthday_group_2>
+  <MF_Caption_scene_birthday_group_3>{6}'s {8}, photographed together with the others.</MF_Caption_scene_birthday_group_3>
+  <MF_Caption_scene_birthday_group_4>A {8} photograph of {6}, with others also in the frame.</MF_Caption_scene_birthday_group_4>
+  <MF_Caption_scene_birthday_group_5>One photograph of {6}'s {8}, with the people photographed alongside them.</MF_Caption_scene_birthday_group_5>
+  <MF_Caption_scene_birthday_group_6>The {8} photograph shows {6} together with other people.</MF_Caption_scene_birthday_group_6>
+  <!-- MF_Caption_scene_birthday_solo: 6 candidates -->
+  <MF_Caption_scene_birthday_solo_1>{6} on their {8}, captured in one photograph.</MF_Caption_scene_birthday_solo_1>
+  <MF_Caption_scene_birthday_solo_2>One photograph of {6}'s {8}.</MF_Caption_scene_birthday_solo_2>
+  <MF_Caption_scene_birthday_solo_3>{6}'s {8}, with the birthday subject in the frame.</MF_Caption_scene_birthday_solo_3>
+  <MF_Caption_scene_birthday_solo_4>The {8} photograph shows {6}.</MF_Caption_scene_birthday_solo_4>
+  <MF_Caption_scene_birthday_solo_5>A photograph keeps this view of {6} on their {8}.</MF_Caption_scene_birthday_solo_5>
+  <MF_Caption_scene_birthday_solo_6>A {8} photograph, with {6} in the frame.</MF_Caption_scene_birthday_solo_6>
+  <!-- MF_Caption_scene_carried_parent: 6 candidates -->
+  <MF_Caption_scene_carried_parent_1>{6}, held in the arms of {7}, their {9}.</MF_Caption_scene_carried_parent_1>
+  <MF_Caption_scene_carried_parent_2>{6} is pictured in their {9} {7}'s arms.</MF_Caption_scene_carried_parent_2>
+  <MF_Caption_scene_carried_parent_3>In this photograph, {6} was in their {9} {7}'s arms.</MF_Caption_scene_carried_parent_3>
+  <MF_Caption_scene_carried_parent_4>A photograph of {6}, held by {7}, their {9}.</MF_Caption_scene_carried_parent_4>
+  <MF_Caption_scene_carried_parent_5>The photograph shows {6}, with their {9} {7} holding them.</MF_Caption_scene_carried_parent_5>
+  <MF_Caption_scene_carried_parent_6>{6} in one photograph, with {7}, their {9}, holding them.</MF_Caption_scene_carried_parent_6>
+  <!-- MF_Caption_scene_animal_bond: 6 candidates -->
+  <MF_Caption_scene_animal_bond_1>{6}, the {10} bonded with {7}. Both are pictured together.</MF_Caption_scene_animal_bond_1>
+  <MF_Caption_scene_animal_bond_2>{7} and {6}, the {10}, pictured together. These two share a bond.</MF_Caption_scene_animal_bond_2>
+  <MF_Caption_scene_animal_bond_3>The photograph shows {7} with {6}, the {10} bonded with them.</MF_Caption_scene_animal_bond_3>
+  <MF_Caption_scene_animal_bond_4>A photograph of {6}, the {10}, together with {7}. They share a bond.</MF_Caption_scene_animal_bond_4>
+  <MF_Caption_scene_animal_bond_5>{7} and {6}, the {10}, share a bond and a photograph.</MF_Caption_scene_animal_bond_5>
+  <MF_Caption_scene_animal_bond_6>One photograph of {6}, the {10} bonded with {7}, together with them.</MF_Caption_scene_animal_bond_6>
+  <!-- MF_Caption_scene_concert_playing_audience: 6 candidates -->
+  <MF_Caption_scene_concert_playing_audience_1>{6} is playing the {10}, with {7} also pictured at the same concert.</MF_Caption_scene_concert_playing_audience_1>
+  <MF_Caption_scene_concert_playing_audience_2>While {6} plays the {10}, the photograph also shows {7} attending the concert.</MF_Caption_scene_concert_playing_audience_2>
+  <MF_Caption_scene_concert_playing_audience_3>{6} is pictured mid-performance, together with concert attendee {7}.</MF_Caption_scene_concert_playing_audience_3>
+  <MF_Caption_scene_concert_playing_audience_4>A moment during the {10} performance, with {6} and attendee {7} in the same photograph.</MF_Caption_scene_concert_playing_audience_4>
+  <MF_Caption_scene_concert_playing_audience_5>{6} is playing the {10} in the photograph. {7}, attending the same concert, is also in the frame.</MF_Caption_scene_concert_playing_audience_5>
+  <MF_Caption_scene_concert_playing_audience_6>A photograph taken during {6}'s {10} performance, with attendee {7} also pictured.</MF_Caption_scene_concert_playing_audience_6>
+  <!-- MF_Caption_scene_concert_playing: 6 candidates -->
+  <MF_Caption_scene_concert_playing_1>A photograph taken while {6} plays the {10}.</MF_Caption_scene_concert_playing_1>
+  <MF_Caption_scene_concert_playing_2>{6} is pictured playing the {10}.</MF_Caption_scene_concert_playing_2>
+  <MF_Caption_scene_concert_playing_3>{6}, the {10}, and a concert in progress.</MF_Caption_scene_concert_playing_3>
+  <MF_Caption_scene_concert_playing_4>In the photograph, {6} is playing the {10}.</MF_Caption_scene_concert_playing_4>
+  <MF_Caption_scene_concert_playing_5>A moment from {6}'s {10} performance.</MF_Caption_scene_concert_playing_5>
+  <MF_Caption_scene_concert_playing_6>The concert photograph captures {6} during the {10} performance.</MF_Caption_scene_concert_playing_6>
+  <!-- MF_Caption_scene_concert_after: 6 candidates -->
+  <MF_Caption_scene_concert_after_1>A photograph taken after the concert.</MF_Caption_scene_concert_after_1>
+  <MF_Caption_scene_concert_after_2>A photograph of the scene after the concert ended.</MF_Caption_scene_concert_after_2>
+  <MF_Caption_scene_concert_after_3>This photograph was taken after the concert ended.</MF_Caption_scene_concert_after_3>
+  <MF_Caption_scene_concert_after_4>A photograph showing the scene following the concert.</MF_Caption_scene_concert_after_4>
+  <MF_Caption_scene_concert_after_5>A moment after the event, kept with the concert record.</MF_Caption_scene_concert_after_5>
+  <MF_Caption_scene_concert_after_6>One photograph keeps a view from after the concert.</MF_Caption_scene_concert_after_6>
+  <!-- MF_Caption_scene_concert_later: 6 candidates -->
+  <MF_Caption_scene_concert_later_1>This later photograph accompanies the concert record.</MF_Caption_scene_concert_later_1>
+  <MF_Caption_scene_concert_later_2>One photograph taken later, kept with the concert record.</MF_Caption_scene_concert_later_2>
+  <MF_Caption_scene_concert_later_3>A photograph taken later, filed with the concert record.</MF_Caption_scene_concert_later_3>
+  <MF_Caption_scene_concert_later_4>This photograph was taken later and added to the concert record.</MF_Caption_scene_concert_later_4>
+  <MF_Caption_scene_concert_later_5>A later scene, kept as a photograph alongside the concert record.</MF_Caption_scene_concert_later_5>
+  <MF_Caption_scene_concert_later_6>This photograph associated with the concert shows a later scene.</MF_Caption_scene_concert_later_6>
+  <!-- MF_Caption_scene_concert_record: 6 candidates -->
+  <MF_Caption_scene_concert_record_1>A photograph accompanying the concert.</MF_Caption_scene_concert_record_1>
+  <MF_Caption_scene_concert_record_2>One photograph kept with the concert record.</MF_Caption_scene_concert_record_2>
+  <MF_Caption_scene_concert_record_3>This photograph is kept with the concert record.</MF_Caption_scene_concert_record_3>
+  <MF_Caption_scene_concert_record_4>A photographic record associated with the concert.</MF_Caption_scene_concert_record_4>
+  <MF_Caption_scene_concert_record_5>This scene is filed with the concert.</MF_Caption_scene_concert_record_5>
+  <MF_Caption_scene_concert_record_6>One photograph alongside the concert record.</MF_Caption_scene_concert_record_6>
+  <!-- MF_Caption_scene_battle_remains: 6 candidates -->
+  <MF_Caption_scene_battle_remains_1>The photograph taken after the fighting shows {6}.</MF_Caption_scene_battle_remains_1>
+  <MF_Caption_scene_battle_remains_2>A photograph taken after the fighting includes {6}.</MF_Caption_scene_battle_remains_2>
+  <MF_Caption_scene_battle_remains_3>A photograph showing {6}, taken after the fighting.</MF_Caption_scene_battle_remains_3>
+  <MF_Caption_scene_battle_remains_4>The photograph taken after the fighting also includes {6}.</MF_Caption_scene_battle_remains_4>
+  <MF_Caption_scene_battle_remains_5>{6}, pictured after the fighting.</MF_Caption_scene_battle_remains_5>
+  <MF_Caption_scene_battle_remains_6>A scene photographed after the fighting, with {6} in the frame.</MF_Caption_scene_battle_remains_6>
+  <!-- MF_Caption_scene_battle_later: 6 candidates -->
+  <MF_Caption_scene_battle_later_1>A later photograph shows {6}.</MF_Caption_scene_battle_later_1>
+  <MF_Caption_scene_battle_later_2>A photograph of {6}, taken later and kept with the battle record.</MF_Caption_scene_battle_later_2>
+  <MF_Caption_scene_battle_later_3>The battle record includes this later photograph of {6}.</MF_Caption_scene_battle_later_3>
+  <MF_Caption_scene_battle_later_4>The frame also includes {6}. This photograph was taken later.</MF_Caption_scene_battle_later_4>
+  <MF_Caption_scene_battle_later_5>This later photograph of {6} accompanies the battle record.</MF_Caption_scene_battle_later_5>
+  <MF_Caption_scene_battle_later_6>{6} in the photograph: a later scene added to the battle record.</MF_Caption_scene_battle_later_6>
+  <!-- MF_Caption_scene_battle_record: 6 candidates -->
+  <MF_Caption_scene_battle_record_1>A photograph accompanying the battle record.</MF_Caption_scene_battle_record_1>
+  <MF_Caption_scene_battle_record_2>One photograph kept with the battle record.</MF_Caption_scene_battle_record_2>
+  <MF_Caption_scene_battle_record_3>This scene is kept with the battle record.</MF_Caption_scene_battle_record_3>
+  <MF_Caption_scene_battle_record_4>One photograph alongside the battle record.</MF_Caption_scene_battle_record_4>
+  <MF_Caption_scene_battle_record_5>A photograph filed with the battle.</MF_Caption_scene_battle_record_5>
+  <MF_Caption_scene_battle_record_6>A photograph kept with the record of the fighting.</MF_Caption_scene_battle_record_6>
+  <!-- Labels measured from event/relationship/corpse facts. -->
+  <MF_SceneBirthdayFirst>first birthday</MF_SceneBirthdayFirst>
+  <MF_SceneBirthdayAge>birthday at age {0}</MF_SceneBirthdayAge>
+  <MF_SceneBirthday>birthday</MF_SceneBirthday>
+  <MF_SceneMother>mother</MF_SceneMother>
+  <MF_SceneFather>father</MF_SceneFather>
+  <MF_SceneParent>parent</MF_SceneParent>
+  <MF_SceneMechRemains>mechanoid remains</MF_SceneMechRemains>
+  <MF_SceneAnimalRemains>animal remains</MF_SceneAnimalRemains>
+  <MF_SceneHumanRemains>human remains</MF_SceneHumanRemains>
+  <MF_Caption_scene_battle_engagement_1>The scene as the first attack began, kept to look back on after the battle.</MF_Caption_scene_battle_engagement_1>
+  <MF_Caption_scene_battle_engagement_2>{3} as the fighting began, photographed before its outcome was known.</MF_Caption_scene_battle_engagement_2>
+  <MF_Caption_scene_battle_engagement_3>The first attack, kept to remember the day the fighting began.</MF_Caption_scene_battle_engagement_3>
+  <MF_Caption_scene_battle_engagement_4>The beginning of a battle in {2}.</MF_Caption_scene_battle_engagement_4>
+  <MF_Caption_scene_battle_engagement_5>The record of this fight begins with the scene of its first attack.</MF_Caption_scene_battle_engagement_5>
+  <MF_Caption_scene_battle_engagement_6>Between the beginning and the end of the battle, this picture keeps the beginning.</MF_Caption_scene_battle_engagement_6>
+  <MF_Caption_scene_battle_engagement_7>{3}, at the moment the first attack began.</MF_Caption_scene_battle_engagement_7>
+  <MF_Caption_scene_battle_engagement_8>The scene as fighting began, rather than the place after it ended.</MF_Caption_scene_battle_engagement_8>
+  <MF_BattleNoExchange>The battle was recorded, but no photograph of its first exchange was captured.</MF_BattleNoExchange>
+</LanguageData>
+

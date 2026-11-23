@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_DesignNav_Search>찾기</MF_DesignNav_Search>
+  <MF_DesignNav_SearchTip>사진의 제목·메모·함께 찍힌 인물의 이름으로 찾습니다.</MF_DesignNav_SearchTip>
+  <MF_DesignNav_Clear>지우기</MF_DesignNav_Clear>
+  <MF_DesignNav_SearchCount>{0} / {1}장</MF_DesignNav_SearchCount>
+  <MF_DesignNav_NoMatches>찾는 내용과 일치하는 사진이 없습니다. 검색어를 지우면 모든 사진이 보입니다.</MF_DesignNav_NoMatches>
+  <MF_DesignNav_PlaceViewAll>이 장소의 사진 {0}장 모두 보기…</MF_DesignNav_PlaceViewAll>
+  <MF_DesignNav_PlacePhotos>이 장소의 사진 — {0}장</MF_DesignNav_PlacePhotos>
+  <MF_DesignNav_ChronicleCounts>사진 {0}장 · 기록 {1}개</MF_DesignNav_ChronicleCounts>
+  <MF_DesignNav_MilestonePhotosOnly>이정표 사진만</MF_DesignNav_MilestonePhotosOnly>
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_CaptureExpression>Capture emotes</MF_CaptureExpression>
+  <MF_CaptureExpressionAuto>Automatic</MF_CaptureExpressionAuto>
+  <MF_CaptureExpressionNone>No emote</MF_CaptureExpressionNone>
+  <MF_CaptureExpressionHeart>Heart</MF_CaptureExpressionHeart>
+  <MF_CaptureExpressionHand>Waving hand</MF_CaptureExpressionHand>
+  <MF_CaptureExpressionSmile>Smile</MF_CaptureExpressionSmile>
+  <MF_CaptureExpressionStar>Star</MF_CaptureExpressionStar>
+  <MF_CaptureExpressionMusic>Music note</MF_CaptureExpressionMusic>
+  <MF_CaptureExpressionPeace>Peace sign</MF_CaptureExpressionPeace>
+  <MF_CaptureExpressionClap>Clapping hands</MF_CaptureExpressionClap>
+  <MF_CaptureExpressionShy>Shy</MF_CaptureExpressionShy>
+  <MF_CaptureExpressionSurprise>Surprised</MF_CaptureExpressionSurprise>
+  <MF_CaptureExpressionHelp>New photo preparations start with no emote. Choose the speech-bubble picture this pawn emits when photographed. Each pawn can use a different heart, hand, smile, star, music note, peace sign, clapping hands, shy face or surprised face. Mood, relationships and body animations do not change. 'In photo too' saves the same expression inside the new image. Choosing Automatic randomly assigns expressions suited to the occasion to only a subset of people.</MF_CaptureExpressionHelp>
+  <MF_CaptureRememberMode>Save as the default mode for future photos</MF_CaptureRememberMode>
+  <MF_CaptureModeHelp>Map only: show expressions after a successful new photo. In photo too: also save them inside the image. Off: emit nothing. Saving the default remembers only these three modes. Save named expression presets below to remember each pawn's choice.</MF_CaptureModeHelp>
+  <MF_CapturePresetLoad>Load faces &amp; emotes</MF_CapturePresetLoad>
+  <MF_CapturePresetSave>Save faces &amp; emotes</MF_CapturePresetSave>
+  <MF_CapturePresetReplace>Replace this name</MF_CapturePresetReplace>
+  <MF_CapturePresetName>Face &amp; emote preset name</MF_CapturePresetName>
+  <MF_CapturePresetNameHelp>Store selected pawn identities and their expressions in this colony's save file. Keep several named presets; an existing name is replaced.</MF_CapturePresetNameHelp>
+  <MF_CapturePresetHelp>Save each person's face and photo emote. Use Shooting setup below to include participants, positions and framing.</MF_CapturePresetHelp>
+  <MF_CaptureSavedFrame>Using the frame saved directly at this photo spot.</MF_CaptureSavedFrame>
+  <MF_CaptureSavedFrameHelp>A directly saved frame takes priority over people/background framing. Use the photo spot's reset-frame action to return to automatic framing. Recreating an old photo keeps that original frame.</MF_CaptureSavedFrameHelp>
+  <MF_CaptureSpotDragHint>Hold the left mouse button and drag to choose any area. The rectangle is a preview, not a fixed frame. One click saves the default area.</MF_CaptureSpotDragHint>
+  <MF_CaptureSpotDragRelease>This dragged area will be your photo frame. Release the left mouse button to save it at this photo spot.</MF_CaptureSpotDragRelease>
+</LanguageData>

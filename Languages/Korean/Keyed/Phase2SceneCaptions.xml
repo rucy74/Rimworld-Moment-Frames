@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Caption_scene_party_host_1>{3}에서 열린 {6}의 파티.</MF_Caption_scene_party_host_1>
+  <MF_Caption_scene_party_host_2>파티를 연 {6}도 이 자리에 있었다.</MF_Caption_scene_party_host_2>
+  <MF_Caption_scene_party_host_3>{6}의 모임이 한창인 {3}.</MF_Caption_scene_party_host_3>
+  <MF_Caption_scene_party_host_4>{2}, {6}가 연 파티의 한때.</MF_Caption_scene_party_host_4>
+  <MF_Caption_scene_party_group_1>{3}의 파티에 함께 있던 사람들, {0}.</MF_Caption_scene_party_group_1>
+  <MF_Caption_scene_party_group_2>{0}의 모습이 함께한 파티의 한때.</MF_Caption_scene_party_group_2>
+  <MF_Caption_scene_party_group_3>{2}의 {3}, 파티에 나온 이들이 같은 자리에 있었다.</MF_Caption_scene_party_group_3>
+  <MF_Caption_scene_party_group_4>{3}에서 모임이 이어지는 동안 {0}도 함께했다.</MF_Caption_scene_party_group_4>
+  <MF_Caption_scene_party_solo_1>{3}에서 파티가 이어지던 때, {1}의 모습.</MF_Caption_scene_party_solo_1>
+  <MF_Caption_scene_party_solo_2>파티가 열린 자리의 {1}.</MF_Caption_scene_party_solo_2>
+  <MF_Caption_scene_party_solo_3>{2}의 모임, 한 장에 담긴 {1}.</MF_Caption_scene_party_solo_3>
+  <MF_Caption_scene_party_solo_4>{1}도 파티가 열린 {3}에 있었다.</MF_Caption_scene_party_solo_4>
+  <MF_Caption_scene_party_scene_1>{3}에서 파티가 열린 때.</MF_Caption_scene_party_scene_1>
+  <MF_Caption_scene_party_scene_2>{2}의 {3}, 모임이 열렸던 자리.</MF_Caption_scene_party_scene_2>
+  <MF_Caption_scene_party_scene_3>파티가 이어지고 있던 {3}의 한쪽.</MF_Caption_scene_party_scene_3>
+  <MF_Caption_scene_party_scene_4>{3}에서 열린 모임의 풍경.</MF_Caption_scene_party_scene_4>
+  <MF_Caption_scene_party_host_weather_1>{3}의 날씨는 {10}. {6}의 파티가 열리고 있었다.</MF_Caption_scene_party_host_weather_1>
+  <MF_Caption_scene_party_host_weather_2>{10} 속에 열린 {6}의 파티.</MF_Caption_scene_party_host_weather_2>
+  <MF_Caption_scene_party_host_weather_3>{10} 날씨의 {3}, 모임을 연 {6}도 함께 있었다.</MF_Caption_scene_party_host_weather_3>
+  <MF_Caption_scene_party_host_weather_4>{6}의 파티가 열린 {3}. 주변은 {10} 날씨였다.</MF_Caption_scene_party_host_weather_4>
+  <MF_Caption_scene_party_group_weather_1>{10} 날씨의 {3}에서 파티에 함께한 {0}.</MF_Caption_scene_party_group_weather_1>
+  <MF_Caption_scene_party_group_weather_2>{3}의 날씨는 {10}. 모임의 한 장에 {0}도 함께했다.</MF_Caption_scene_party_group_weather_2>
+  <MF_Caption_scene_party_group_weather_3>{10} 속에 이어진 파티, 같은 자리에 담긴 {0}.</MF_Caption_scene_party_group_weather_3>
+  <MF_Caption_scene_party_group_weather_4>{3}의 파티에 나온 사람들. 주변의 날씨는 {10}였다.</MF_Caption_scene_party_group_weather_4>
+  <MF_Caption_scene_party_solo_weather_1>{10} 날씨에 열린 {3}의 파티, {1}의 모습.</MF_Caption_scene_party_solo_weather_1>
+  <MF_Caption_scene_party_solo_weather_2>파티가 열린 {3}에 {1}도 있었다. 주변은 {10} 날씨였다.</MF_Caption_scene_party_solo_weather_2>
+  <MF_Caption_scene_party_solo_weather_3>{10} 속에 열린 모임의 한때, {1}.</MF_Caption_scene_party_solo_weather_3>
+  <MF_Caption_scene_party_solo_weather_4>{3}의 날씨는 {10}. 파티가 이어지던 자리의 {1}.</MF_Caption_scene_party_solo_weather_4>
+  <MF_Caption_scene_party_scene_weather_1>{10} 날씨의 {3}에서 열린 파티.</MF_Caption_scene_party_scene_weather_1>
+  <MF_Caption_scene_party_scene_weather_2>파티가 열린 자리, 주변은 {10} 날씨였다.</MF_Caption_scene_party_scene_weather_2>
+  <MF_Caption_scene_party_scene_weather_3>{3}의 모임 장소와 {10} 날씨.</MF_Caption_scene_party_scene_weather_3>
+  <MF_Caption_scene_party_scene_weather_4>{10} 속에 파티가 이어졌던 {3}.</MF_Caption_scene_party_scene_weather_4>
+  <MF_Caption_scene_party_after_1>파티 뒤에 남은 {3}의 모습.</MF_Caption_scene_party_after_1>
+  <MF_Caption_scene_party_after_2>모임이 끝난 뒤의 자리.</MF_Caption_scene_party_after_2>
+  <MF_Caption_scene_party_after_3>{3}에서 파티가 끝난 다음.</MF_Caption_scene_party_after_3>
+  <MF_Caption_scene_party_after_4>파티가 열렸던 곳을 뒤늦게 담았다.</MF_Caption_scene_party_after_4>
+  <MF_Caption_scene_party_later_1>파티가 열렸던 {3}의 나중 모습.</MF_Caption_scene_party_later_1>
+  <MF_Caption_scene_party_later_2>그 모임이 지나간 뒤, 나중에 찍은 자리.</MF_Caption_scene_party_later_2>
+  <MF_Caption_scene_party_later_3>{3}에서 파티가 있었던 곳을 시간이 지난 뒤에 담았다.</MF_Caption_scene_party_later_3>
+  <MF_Caption_scene_party_later_4>당시 파티의 순간과는 다른, 나중의 {3}.</MF_Caption_scene_party_later_4>
+  <MF_Caption_scene_journey_group_1>{3}에 도착한 일행, {0}.</MF_Caption_scene_journey_group_1>
+  <MF_Caption_scene_journey_group_2>{0}과 함께 들른 {3}.</MF_Caption_scene_journey_group_2>
+  <MF_Caption_scene_journey_group_3>{2}의 방문지 {3}, 일행의 모습도 함께 담겼다.</MF_Caption_scene_journey_group_3>
+  <MF_Caption_scene_journey_group_4>여정 중 {3}에서 함께한 {0}.</MF_Caption_scene_journey_group_4>
+  <MF_Caption_scene_journey_solo_1>{3}에 도착한 {1}의 모습.</MF_Caption_scene_journey_solo_1>
+  <MF_Caption_scene_journey_solo_2>여정 중 {3}에서 만난 {1}의 한때.</MF_Caption_scene_journey_solo_2>
+  <MF_Caption_scene_journey_solo_3>{2}의 방문지 {3}, 그곳에 있던 {1}.</MF_Caption_scene_journey_solo_3>
+  <MF_Caption_scene_journey_solo_4>{1}이 들렀던 {3}의 모습.</MF_Caption_scene_journey_solo_4>
+  <MF_Caption_scene_journey_scene_1>여정 중 들른 {3}의 풍경.</MF_Caption_scene_journey_scene_1>
+  <MF_Caption_scene_journey_scene_2>{2}에 방문한 {3}.</MF_Caption_scene_journey_scene_2>
+  <MF_Caption_scene_journey_scene_3>방문지 {3}의 한쪽.</MF_Caption_scene_journey_scene_3>
+  <MF_Caption_scene_journey_scene_4>일행이 도착한 곳, {3}.</MF_Caption_scene_journey_scene_4>
+  <MF_Caption_scene_journey_group_weather_1>{10} 날씨의 {3}에 도착한 {0}.</MF_Caption_scene_journey_group_weather_1>
+  <MF_Caption_scene_journey_group_weather_2>{0}과 함께 들른 {3}. 당시 날씨는 {10}였다.</MF_Caption_scene_journey_group_weather_2>
+  <MF_Caption_scene_journey_group_weather_3>{3}에서 일행을 담던 때, 주변은 {10} 날씨였다.</MF_Caption_scene_journey_group_weather_3>
+  <MF_Caption_scene_journey_group_weather_4>{10} 속에 여정의 한 장을 남긴 {0}, 방문지는 {3}.</MF_Caption_scene_journey_group_weather_4>
+  <MF_Caption_scene_journey_solo_weather_1>{10} 날씨의 {3}, 그곳에 도착한 {1}.</MF_Caption_scene_journey_solo_weather_1>
+  <MF_Caption_scene_journey_solo_weather_2>{1}이 들른 {3}의 날씨는 {10}였다.</MF_Caption_scene_journey_solo_weather_2>
+  <MF_Caption_scene_journey_solo_weather_3>{3}에서 {1}을 담을 때, 주변은 {10} 날씨였다.</MF_Caption_scene_journey_solo_weather_3>
+  <MF_Caption_scene_journey_solo_weather_4>{10} 속에 남긴 {1}의 방문 사진.</MF_Caption_scene_journey_solo_weather_4>
+  <MF_Caption_scene_journey_scene_weather_1>방문지 {3}의 날씨는 {10}였다.</MF_Caption_scene_journey_scene_weather_1>
+  <MF_Caption_scene_journey_scene_weather_2>{10} 속에 담은 {3}의 풍경.</MF_Caption_scene_journey_scene_weather_2>
+  <MF_Caption_scene_journey_scene_weather_3>일행이 들른 {3}, 주변은 {10} 날씨였다.</MF_Caption_scene_journey_scene_weather_3>
+  <MF_Caption_scene_journey_scene_weather_4>{3}를 방문했을 때의 {10} 날씨.</MF_Caption_scene_journey_scene_weather_4>
+  <MF_Caption_scene_journey_later_1>방문지 {3}를 나중에 다시 담은 모습.</MF_Caption_scene_journey_later_1>
+  <MF_Caption_scene_journey_later_2>도착 당시와는 다른 시각에 찍은 {3}.</MF_Caption_scene_journey_later_2>
+  <MF_Caption_scene_journey_later_3>일행이 들렀던 {3}, 나중에 촬영한 풍경이다.</MF_Caption_scene_journey_later_3>
+  <MF_Caption_scene_journey_later_4>방문 뒤 시간이 지나 남긴 {3}의 모습.</MF_Caption_scene_journey_later_4>
+  <MF_Caption_fact_party_1>{3}에서 열린 파티.</MF_Caption_fact_party_1>
+  <MF_Caption_fact_party_2>{2}의 {3}, 파티가 열린 때.</MF_Caption_fact_party_2>
+  <MF_Caption_fact_party_3>{3}에서 모임이 있었다.</MF_Caption_fact_party_3>
+  <MF_Caption_fact_party_4>{2}에 열린 파티의 한때.</MF_Caption_fact_party_4>
+  <MF_Caption_fact_journey_1>여정 중 들른 {3}.</MF_Caption_fact_journey_1>
+  <MF_Caption_fact_journey_2>{2}에 방문한 {3}.</MF_Caption_fact_journey_2>
+  <MF_Caption_fact_journey_3>방문지 {3}의 모습.</MF_Caption_fact_journey_3>
+  <MF_Caption_fact_journey_4>일행이 도착한 곳, {3}.</MF_Caption_fact_journey_4>
+  <MF_Caption_fact_journey_detail_1>여정 중 방문한 곳, {4}.</MF_Caption_fact_journey_detail_1>
+  <MF_Caption_fact_journey_detail_2>{4}에 도착했을 때.</MF_Caption_fact_journey_detail_2>
+  <MF_Caption_fact_journey_detail_3>{2}의 방문지 {4}.</MF_Caption_fact_journey_detail_3>
+  <MF_Caption_fact_journey_detail_4>여정의 한때, {4}의 모습.</MF_Caption_fact_journey_detail_4>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_DesignYear_Kicker>COLONY MEMORIES</MF_DesignYear_Kicker>
+  <MF_DesignYear_Summary>{0} photographs kept. {1} milestones to remember.</MF_DesignYear_Summary>
+  <MF_DesignYear_Hint>Revisit a day through its photograph, or gather to watch the year's memories together.</MF_DesignYear_Hint>
+  <MF_DesignYear_NoPhotos>The photographs from this year are no longer here. You can still open the year's album.</MF_DesignYear_NoPhotos>
+  <MF_DesignYear_Album>Open this year's album</MF_DesignYear_Album>
+  <MF_DesignYear_Night>Hold a memory night</MF_DesignYear_Night>
+</LanguageData>

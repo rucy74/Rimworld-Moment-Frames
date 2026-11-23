@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>cadre photo</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Un petit cadre mural pour une photographie de la colonie. Sélectionnez-le pour choisir ou remplacer la photo ; il la conserve s'il est désinstallé et déplacé. Doit être accroché à un mur. Fabriqué à l'établi de sculpture ; sa qualité détermine sa beauté.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>cadre photo large</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Un cadre mural de deux cases, plus large que le petit : conçu pour les photographies larges. S'accroche uniquement aux murs horizontaux. Conserve sa photo s'il est déplacé. Fabriqué à l'établi de sculpture ; sa qualité détermine sa beauté.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>chevalet photo</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Un chevalet sur pied (2x2) présentant une photographie de la colonie assez grande pour distinguer les personnes. Peut être placé n'importe où et déplacé ensuite sans perdre la photo. Fabriqué à l'établi de sculpture ; sa qualité détermine sa beauté.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>panneau d'exposition photo</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Un grand panneau d'exposition sur pied (3x2) pour une photographie de la colonie, la plus grande façon de montrer un moment. Déplaçable sans perdre la photo. Fabriqué à l'établi de sculpture ; sa qualité détermine sa beauté.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>panneau de collage photo</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Un panneau sur pied avec passe-partout (3x2) et quatre fenêtres égales pour des photographies de la colonie, chacune étant recadrée pour remplir sa fenêtre. Choisissez une photo pour chaque fenêtre ; les fenêtres vides restent vierges. Déplaçable sans perdre les photos. Fabriqué à l'établi de sculpture.</MF_PhotoCollage.description>
+  <MF_Projector.label>projecteur de diapositives</MF_Projector.label>
+  <MF_Projector.description>Projette des photographies de la colonie devant lui. Choisissez une photographie fixe ou un film, et une largeur et une hauteur prédéfinies ou personnalisées. Le réglage d'ordre d'affichage place l'image derrière les objets ou devant eux. Les films ordinaires changent en temps réel ; les films de soirée souvenirs suivent l'horloge de jeu de l'événement. Les colons peuvent le regarder pour leurs loisirs. Ne nécessite aucune énergie. Placez-le depuis l'onglet Divers, à côté des outils photo ; les colons le construisent avec le matériau choisi.</MF_Projector.description>
+  <MF_MemorialFrame.label>présentoir photo commémoratif</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Un petit cadre sur pied à poser à côté d'une tombe ou d'un sarcophage. De lui-même, il montre la dernière photographie de la personne enterrée à côté ; vous pouvez aussi choisir une photo à la main. Vide tant qu'aucune tombe occupée n'est adjacente. Fabriqué à l'établi de sculpture.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>point photo</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Marque l'endroit où sont prises les photos de groupe. Sélectionnez-le et appuyez sur « Photo de groupe » : tous les colons de la carte éveillés et libres s'alignent derrière (au nord, les plus jeunes devant), font face à l'objectif, et le cliché est pris dès que tout le monde est immobile. Laissez un sol dégagé derrière le point pour les rangées. Placé instantanément, gratuit.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>arbre à souvenirs</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Un présentoir en bois pour 35 photographies de la colonie. Les nouvelles images remplissent les branches vides, puis remplacent la plus ancienne photo non épinglée. Choisissez et épinglez vos préférées, ou filtrez les photos automatiques par type. Fabriqué à l'établi de sculpture ; conserve ses photographies s'il est déplacé.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>toile de fond de studio photo</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Une toile de fond pour les portraits de famille et de groupe. Sélectionnez-la pour choisir les participants. Tout le monde se rassemble devant la toile et une photographie est prise automatiquement. Le cadrage automatique inclut à la fois les personnes et la toile. Jusqu'à quinze participants debout ; les bébés arrivent dans les bras d'un tuteur. Faites-la pivoter avant de la construire pour régler le sens de la pose.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>arche de jardin photo</MF_StudioArch.label>
+  <MF_StudioArch.description>Une arche circulaire pour les portraits en extérieur. Même sélection des participants et même cadrage automatique que la toile de fond de studio. Laissez dégagée la zone de pose indiquée. Les bébés arrivent avec un tuteur. Faites-la pivoter avant de la construire pour régler le sens de la pose.</MF_StudioArch.description>
+  <MF_StudioSofa.label>canapé de studio photo (accessoire)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Un canapé de portrait à trois places. Placez-le dans la zone de pose d'un studio, tourné dans le même sens que la toile de fond. Les participants occupent ces places avant les rangées debout. Il utilise l'affichage habituel des personnages, sans nouvelle animation assise. Un accessoire de pose, pas un siège pour les repas ou les loisirs de tous les jours.</MF_StudioSofa.description>
+  <MF_StudioBench.label>banc de studio photo (accessoire)</MF_StudioBench.label>
+  <MF_StudioBench.description>Un banc rembourré à trois places pour les portraits. Placez-le dans la zone de pose, tourné dans le même sens que la toile de fond. Un accessoire de pose, pas un siège pour les repas ou les loisirs de tous les jours.</MF_StudioBench.description>
+  <MF_StudioChair.label>fauteuil de studio photo (accessoire)</MF_StudioChair.label>
+  <MF_StudioChair.description>Un unique fauteuil de portrait. Placez-le au centre, devant, pour la personne fêtée, ou ajoutez-le à la zone de pose du studio. Un accessoire de pose, pas un siège pour les repas ou les loisirs de tous les jours.</MF_StudioChair.description>
+  <MF_StudioLamp.label>lampe de studio photo</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Une lampe de portrait alimentée. Le mode automatique l'allume tant que le studio le plus proche dans la même pièce (à dix cases au plus) rassemble un groupe ou le retient pour des reprises. Renvoyer le groupe l'éteint. Les modes Allumée et Éteinte passent outre le contrôle automatique. Les photographies de studio conservent cet éclairage.</MF_StudioLamp.description>
+</LanguageData>

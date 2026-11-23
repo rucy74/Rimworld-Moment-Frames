@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="MF_StudioBase" ParentName="BuildingBase" Abstract="True">
+    <thingClass>MomentFrames.Building_PhotoStudio</thingClass>
+    <drawerType>RealtimeOnly</drawerType>
+    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <size>(7,5)</size>
+    <rotatable>true</rotatable>
+    <passability>Standable</passability>
+    <fillPercent>0</fillPercent>
+    <castEdgeShadows>false</castEdgeShadows>
+    <designationCategory>Misc</designationCategory>
+    <uiOrder>2006</uiOrder>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories><li>BuildingsFurniture</li></thingCategories>
+    <building><isEdifice>false</isEdifice><ai_chillDestination>false</ai_chillDestination></building>
+    <statBases><MaxHitPoints>150</MaxHitPoints><WorkToBuild>400</WorkToBuild><Mass>10</Mass><Flammability>0.7</Flammability><Beauty>8</Beauty></statBases>
+    <placeWorkers><li>MomentFrames.PlaceWorker_MFPhotoSpot</li></placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+  </ThingDef>
+  <ThingDef ParentName="MF_StudioBase">
+    <defName>MF_StudioBackdrop</defName><label>photo studio backdrop</label>
+    <description>A canvas backdrop for family and group portraits. Select it to choose participants. Everyone gathers in front of the backdrop and a photograph is taken automatically. The automatic frame includes both the people and the backdrop. Up to fifteen standing participants; babies travel in a guardian's arms. Rotate before building to set the posing direction.</description>
+    <costList><Steel>40</Steel><Cloth>60</Cloth></costList>
+    <graphicData><texPath>Things/Building/MomentFrames/StudioBackdrop</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(8,5)</drawSize><drawRotated>true</drawRotated></graphicData>
+  </ThingDef>
+  <ThingDef ParentName="MF_StudioBase">
+    <defName>MF_StudioArch</defName><label>photo garden arch</label>
+    <description>A circular arch for outdoor portraits. Uses the same participant selection and automatic framing as the studio backdrop. Leave the marked posing area clear. Babies travel with a guardian. Rotate before building to set the posing direction.</description>
+    <costList><Steel>60</Steel><WoodLog>30</WoodLog></costList>
+    <graphicData><texPath>Things/Building/MomentFrames/StudioArch</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(7,6)</drawSize><drawRotated>true</drawRotated></graphicData>
+  </ThingDef>
+</Defs>

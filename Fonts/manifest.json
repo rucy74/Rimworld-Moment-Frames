@@ -1,0 +1,70 @@
+[
+  {
+    "key": "light",
+    "file": "MF-light.ttf",
+    "family": "Moment Frames Light",
+    "source": "runs\\ui-themes-watercolor-2026-10-03\\font-originals\\Gaegu-Light.ttf",
+    "source_sha256": "da44ad6e5823819599ec42e1a516f23002cc0e72f968f93bd49e793360cd77ca",
+    "sha256": "cb0ecca2f61ec83f1dbb83a69d6e9cb2eef74f51a59791905f75e52d205771a0",
+    "hangul": 2350,
+    "advance_at_21": {
+      "A": 11.256,
+      "한": 17.22,
+      "기": 17.22,
+      "록": 17.22
+    },
+    "modification": "family/style names only, no glyph or cmap changes",
+    "license": "light-OFL.txt"
+  },
+  {
+    "key": "pencil",
+    "file": "MF-pencil.ttf",
+    "family": "Moment Frames Pencil",
+    "source": "runs\\ui-themes-sketch-2026-10-03\\font-originals\\Gaegu-Regular.ttf",
+    "source_sha256": "aa52c98336f7c62e2896fc8b12b56a75d5b476d88a2f104b0980f4f7ce0adfc3",
+    "sha256": "c3531c9bd968125a86a55373a4da3cba57d7dc4cb8b80095730bf41acf807dea",
+    "hangul": 2350,
+    "advance_at_21": {
+      "A": 11.256,
+      "한": 17.22,
+      "기": 17.22,
+      "록": 17.22
+    },
+    "modification": "family/style names only, no glyph or cmap changes",
+    "license": "pencil-OFL.txt"
+  },
+  {
+    "key": "pen",
+    "file": "MF-pen.ttf",
+    "family": "Moment Frames Pen",
+    "source": "runs\\ui-themes-sketch-2026-10-03\\font-originals\\NanumPenScript-Regular.ttf",
+    "source_sha256": "6f0d1ab29c7894010dc88831fb7a0a51edb79136e450344183de5b1a8b52bd43",
+    "sha256": "57ccb010a8b5ccb9b3d681ce0b397140f5c2c3d4fbfd8e1d0beb46915130cad5",
+    "hangul": 11172,
+    "advance_at_21": {
+      "A": 9.66,
+      "한": 12.873,
+      "기": 11.55,
+      "록": 8.82
+    },
+    "modification": "family/style names only, no glyph or cmap changes",
+    "license": "pen-OFL.txt"
+  },
+  {
+    "key": "brush",
+    "file": "MF-brush.ttf",
+    "family": "Moment Frames Brush",
+    "source": "runs\\ui-themes-sketch-2026-10-03\\font-originals\\NanumBrushScript-Regular.ttf",
+    "source_sha256": "27ceaf578c96f594cdf07fe0181b251790acbb746a164e45c1f6473f89911a31",
+    "sha256": "ef2cb303f636c5b7d0d816e982383b894cb90dd45853f1a1719ac63af8bfbf96",
+    "hangul": 11172,
+    "advance_at_21": {
+      "A": 10.5,
+      "한": 14.07,
+      "기": 11.13,
+      "록": 9.45
+    },
+    "modification": "family/style names only, no glyph or cmap changes",
+    "license": "brush-OFL.txt"
+  }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>een foto van mezelf bekeken</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Ik stond voor een foto waar ik zelf op sta en dacht terug aan die dag.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>herinneringen opgehaald met {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>We keken naar een oude foto waar we allebei op staan en praatten over die dag.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>dia-avond</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>We keken samen naar de foto's van de kolonie op de projector en dachten terug aan hoe we hier gekomen zijn.</MF_MemoryNight.stages.0.description>
+</LanguageData>

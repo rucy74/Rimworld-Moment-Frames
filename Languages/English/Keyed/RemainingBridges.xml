@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Bridge_ShareMenu>Share photo · RimGram…</MF_Bridge_ShareMenu>
+  <MF_Bridge_TalkMenu>RimTalk photo comment…</MF_Bridge_TalkMenu>
+  <MF_Bridge_ShareTitle>Share the selected photo</MF_Bridge_ShareTitle>
+  <MF_Bridge_TalkTitle>A word about this photo</MF_Bridge_TalkTitle>
+  <MF_Bridge_LocalHint>Post the selected original or edit locally to the RimGram colony account. It will not be sent online. RimGram's posting interval and reactions apply. You can also make a sharing copy.</MF_Bridge_LocalHint>
+  <MF_Bridge_TalkHint>Only this button requests your configured RimTalk AI once. No image file is sent: the text below asks the selected person to recall it. AI usage may be charged. The album caption stays unchanged.</MF_Bridge_TalkHint>
+  <MF_Bridge_TalkPrompt>Recall this past photograph in one short sentence. Do not treat it as an event happening now. Do not invent emotions, locations, or events absent from the record below. Only the selected person should speak.
+Photo title: {0}
+Photo date: {1}
+Record: {2}</MF_Bridge_TalkPrompt>
+  <MF_Bridge_NoSpeaker>No available colonist is on the current map</MF_Bridge_NoSpeaker>
+  <MF_Bridge_Speaker>Speaker: {0}</MF_Bridge_Speaker>
+  <MF_Bridge_RequestLabel>Request · review it before sending</MF_Bridge_RequestLabel>
+  <MF_Bridge_CaptionLabel>Text for RimGram</MF_Bridge_CaptionLabel>
+  <MF_Bridge_CopyPath>Copy selected photo path</MF_Bridge_CopyPath>
+  <MF_Bridge_Export>Make a sharing copy</MF_Bridge_Export>
+  <MF_Bridge_PathCopied>Photo path copied.</MF_Bridge_PathCopied>
+  <MF_Bridge_OpenRimGram>Open RimGram</MF_Bridge_OpenRimGram>
+  <MF_Bridge_NoRimGram>RimGram's public photo publishing feature is unavailable. Sharing copies and path copying are still available.</MF_Bridge_NoRimGram>
+  <MF_Bridge_NoRimTalk>This RimTalk version has no supported public dialogue request feature.</MF_Bridge_NoRimTalk>
+  <MF_Bridge_Stale>The selected photo or game changed. Reopen it from the album.</MF_Bridge_Stale>
+  <MF_Bridge_Cooldown>RimGram posting is available in {0} game hours.</MF_Bridge_Cooldown>
+  <MF_Bridge_Done>Request complete</MF_Bridge_Done>
+  <MF_Bridge_RequestOnce>Request this comment once through RimTalk</MF_Bridge_RequestOnce>
+  <MF_Bridge_PublishLocal>Post locally to RimGram</MF_Bridge_PublishLocal>
+  <MF_Bridge_Exported>Sharing folder path copied. It contains photo.png, caption.txt, and manifest.json.</MF_Bridge_Exported>
+  <MF_Bridge_ExportFailed>Could not create the sharing copy. The original is unchanged.</MF_Bridge_ExportFailed>
+  <MF_Bridge_TalkAccepted>RimTalk accepted the request.</MF_Bridge_TalkAccepted>
+  <MF_Bridge_Posted>Posted locally to RimGram.</MF_Bridge_Posted>
+  <MF_Bridge_TalkRejected>RimTalk could not accept this request. Check its settings, game speed, and active conversations. It will not retry automatically.</MF_Bridge_TalkRejected>
+  <MF_Bridge_PostRejected>RimGram did not accept the post. Check its posting interval or the current game.</MF_Bridge_PostRejected>
+  <MF_Bridge_CallFailed>The connection failed. It was not retried, to prevent duplicates. Check the other mod to see whether it accepted the request.</MF_Bridge_CallFailed>
+</LanguageData>

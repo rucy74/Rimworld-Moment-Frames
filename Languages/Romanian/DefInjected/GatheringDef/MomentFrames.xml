@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>seară de amintiri</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Seară de amintiri</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} organizează o seară de amintiri la proiector. Toți cei care vin vor privi împreună fotografiile coloniei și vor avea o bună dispoziție de durată.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Seara de amintiri a fost anulată.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Seara de amintiri s-a încheiat.</MF_MemoryNight.finishedMessage>
+</LanguageData>

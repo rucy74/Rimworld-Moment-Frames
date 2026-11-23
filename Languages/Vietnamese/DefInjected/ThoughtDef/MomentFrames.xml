@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>đã xem ảnh của chính mình</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Tôi đứng trước một tấm ảnh có mình trong đó và nhớ lại ngày hôm ấy.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>đã hồi tưởng cùng {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Chúng tôi xem một tấm ảnh cũ có cả hai và nói chuyện về ngày hôm ấy.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>đêm kỷ niệm</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Chúng tôi cùng xem ảnh của khu định cư trên máy chiếu và nhớ lại chặng đường đã qua.</MF_MemoryNight.stages.0.description>
+</LanguageData>

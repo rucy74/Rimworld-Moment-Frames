@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_StudioDecorate>사진관 꾸미기</MF_StudioDecorate>
+  <MF_StudioDecorateHelp>배경 그림을 바꾸고, 좌석과 조명의 청사진을 놓아요.</MF_StudioDecorateHelp>
+  <MF_StudioSet0>가족사진</MF_StudioSet0><MF_StudioSet1>정원</MF_StudioSet1><MF_StudioSet2>생일</MF_StudioSet2>
+  <MF_StudioSetHelp>가족사진은 3인 소파, 정원은 3인 벤치, 생일은 1인 의자를 가운데 놓아요. 양옆에는 촬영 조명을 하나씩 설치해요. 좌석이 먼저 배정되고 나머지 사람은 뒤에 서요. 배경 그림과 가구는 따로 선택할 수 있어요.</MF_StudioSetHelp>
+  <MF_StudioApplyBackdrop>이 배경 그림 사용</MF_StudioApplyBackdrop><MF_StudioPlaceSet>가구 청사진 놓기</MF_StudioPlaceSet>
+  <MF_StudioSetCost>가구에는 재료와 건설 작업이 필요해요. 이미 있는 가구는 옮기거나 교체하지 않아요. 조명은 전력 연결이 필요하며, 자동 모드에서는 사람을 부를 때부터 해산까지 켜져요. 사진에는 현장 조명이 그대로 담겨요.</MF_StudioSetCost>
+  <MF_StudioLight>촬영 조명</MF_StudioLight><MF_StudioLight0>자동</MF_StudioLight0><MF_StudioLight1>항상 켜기</MF_StudioLight1><MF_StudioLight2>끄기</MF_StudioLight2>
+  <MF_StudioLightHelp>같은 방 안, 10칸 이내의 가장 가까운 사진관에 연결돼요. 자동: 사람을 부른 뒤부터 재촬영 대기까지 켜지고, 해산하면 꺼져요.</MF_StudioLightHelp>
+  <MF_StudioOwnBackdrop>내 사진을 배경으로</MF_StudioOwnBackdrop>
+</LanguageData>

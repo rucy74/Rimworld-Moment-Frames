@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Settings_Label_framePhotoHeight>Framed photo quality</MF_Settings_Label_framePhotoHeight>
+  <MF_Settings_Help_framePhotoHeight>Display resolution for photo frames, collage boards and memorial stands on the map. Choose a height of 256, 512 or 1024px; default: 512px. At 512 or 1024px, smaller originals stay at their original resolution. Use 256px to save memory or 1024px for close-up viewing. Doubling the resolution uses about four times as much image memory at the same aspect ratio. Loading a photo for the first time may cause a brief delay. Quality stays fixed when you zoom. Saved originals, the album, projectors and memory trees are unaffected.</MF_Settings_Help_framePhotoHeight>
+</LanguageData>

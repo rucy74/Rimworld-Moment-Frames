@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>fotoraam</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Väike seinale riputatav raam ühe koloonia foto jaoks. Vali see, et foto valida või välja vahetada; foto jääb raami ka lahtivõtmisel ja teisaldamisel. Peab rippuma seinal. Valmistatakse kunstilaua juures; kvaliteet määrab selle ilu.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>lai fotoraam</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Kahe ruudu laiune seinale riputatav raam, väikesest laiem: mõeldud laiade fotode jaoks. Ripub ainult horisontaalsetel seintel. Foto jääb teisaldamisel alles. Valmistatakse kunstilaua juures; kvaliteet määrab selle ilu.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>fotomolbert</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Eraldiseisev molbert (2x2), millel on koloonia foto nii suurelt, et inimesed on näha. Selle võib panna kuhu tahes ja hiljem teisaldada, ilma et foto kaoks. Valmistatakse kunstilaua juures; kvaliteet määrab selle ilu.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>fotostend</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Suur eraldiseisev stend (3x2) koloonia foto jaoks, suurim viis hetke näidata. Saab teisaldada, ilma et foto kaoks. Valmistatakse kunstilaua juures; kvaliteet määrab selle ilu.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>fotode kollaažitahvel</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Eraldiseisev paspartuuga tahvel (3x2), millel on neli võrdset akent koloonia fotode jaoks; iga foto kärbitakse akent täitma. Vali igale aknale foto; tühjad aknad jäävad tühjaks. Saab teisaldada, ilma et fotod kaoksid. Valmistatakse kunstilaua juures.</MF_PhotoCollage.description>
+  <MF_Projector.label>slaidiprojektor</MF_Projector.label>
+  <MF_Projector.description>Projitseerib koloonia fotosid enda ette. Vali üks kindel foto või film ning valmis või oma laius ja kõrgus. Kihtide järjestuse nupp paneb pildi esemete taha või ette. Tavalised filmid vahetuvad reaalajas; mälestuste õhtu filmid vahetuvad sündmuse mänguaja järgi. Kolonistid saavad seda lõbu pärast vaadata. Elektrit pole vaja. Aseta see menüüst Muu fototööriistade kõrvalt; kolonistid ehitavad selle valitud materjalist.</MF_Projector.description>
+  <MF_MemorialFrame.label>mälestusfoto alus</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Väike püstine raam, mille saab panna haua või sarkofaagi kõrvale. Ise näitab see kõrval maetud inimese viimast fotot; foto võid valida ka käsitsi. On tühi, kuni kõrval on haud koos surnukehaga. Valmistatakse kunstilaua juures.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>fotokoht</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Märgib kohta, kus tehakse grupifotosid. Vali see ja vajuta 'Grupifoto': iga kaardil olev ärkvel ja vaba kolonist rivistub selle taha (põhja poole, noorimad ees), pöördub kaamera poole ja foto tehakse, kui kõik seisavad paigal. Jäta koha taha ridade jaoks vaba põrand. Paigutatakse kohe, ei maksa midagi.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>mälestuste puu</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Puidust väljapanek 35 koloonia foto jaoks. Uued fotod täidavad tühjad oksad ja asendavad siis vanima kinnitamata foto. Vali ja kinnita lemmikud või filtreeri automaatseid fotosid liigi järgi. Valmistatakse kunstilaua juures; fotod jäävad teisaldamisel alles.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fotostuudio taust</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Lõuendist taust pere- ja grupiportreede jaoks. Vali see, et määrata osalejad. Kõik kogunevad tausta ette ja foto tehakse automaatselt. Automaatne kaader hõlmab nii inimesi kui ka tausta. Kuni viisteist seisvat osalejat; beebid tulevad hooldaja süles. Pööra enne ehitamist, et määrata poseerimissuund.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>foto-aiakaar</MF_StudioArch.label>
+  <MF_StudioArch.description>Ümmargune kaar õuesportreede jaoks. Osalejate valik ja automaatne kaader on samad mis stuudiotaustal. Hoia märgitud poseerimisala vaba. Beebid tulevad koos hooldajaga. Pööra enne ehitamist, et määrata poseerimissuund.</MF_StudioArch.description>
+  <MF_StudioSofa.label>fotostuudio diivan (rekvisiit)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Kolmekohaline portreediivan. Aseta see stuudio poseerimisalale, näoga samas suunas kui taust. Osalejad täidavad need kohad enne seisvaid ridu. Kasutab tavalist tegelaste joonistust, uut istumisanimatsiooni pole. Poseerimisrekvisiit, mitte iste igapäevaseks söömiseks või lõbuks.</MF_StudioSofa.description>
+  <MF_StudioBench.label>fotostuudio pink (rekvisiit)</MF_StudioBench.label>
+  <MF_StudioBench.description>Kolmekohaline polsterdatud pink portreede jaoks. Aseta see poseerimisalale, näoga samas suunas kui taust. Poseerimisrekvisiit, mitte iste igapäevaseks söömiseks või lõbuks.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotostuudio tugitool (rekvisiit)</MF_StudioChair.label>
+  <MF_StudioChair.description>Üks portreetool. Aseta see ette keskele sünnipäevalapse jaoks või lisa stuudio poseerimisalale. Poseerimisrekvisiit, mitte iste igapäevaseks söömiseks või lõbuks.</MF_StudioChair.description>
+  <MF_StudioLamp.label>fotostuudio lamp</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Elektriga portreelamp. Automaatrežiimis süttib see siis, kui samas ruumis lähim stuudio (kuni kümne ruudu kaugusel) kogub inimesi või ootab kordusvõtteid. Grupi laialisaatmine lülitab selle välja. Režiimid Sees ja Väljas tühistavad automaatika. Stuudiofotod säilitavad selle valguse.</MF_StudioLamp.description>
+</LanguageData>

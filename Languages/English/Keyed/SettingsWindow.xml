@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Settings_Title>Moment Frames settings</MF_Settings_Title>
+  <MF_Settings_Search>Search settings</MF_Settings_Search>
+  <MF_Settings_SearchResults>Found {0} settings across all categories.</MF_Settings_SearchResults>
+  <MF_Settings_NoResults>No matching settings. Try another word.</MF_Settings_NoResults>
+  <MF_Settings_ExpandAll>Expand all</MF_Settings_ExpandAll>
+  <MF_Settings_CollapseAll>Collapse all</MF_Settings_CollapseAll>
+  <MF_Settings_On>On</MF_Settings_On>
+  <MF_Settings_Off>Off</MF_Settings_Off>
+  <MF_Settings_Example>Show example</MF_Settings_Example>
+  <MF_Settings_ExampleClose>Hide example</MF_Settings_ExampleClose>
+  <MF_Settings_AutoCapture>Automatic photographs</MF_Settings_AutoCapture>
+  <MF_Settings_AutoCaptureHelp>Automatically photograph selected events or suggest a birthday photograph. Manual photographs and group gatherings remain available when this is off.</MF_Settings_AutoCaptureHelp>
+  <MF_Settings_ManualOnly>Manual photographs only</MF_Settings_ManualOnly>
+  <MF_Settings_AutoDisabled>Automatic photographs are off. Your selections are kept and will apply when you turn them on again.</MF_Settings_AutoDisabled>
+  <MF_Settings_EnabledCount>{0}/{1} enabled</MF_Settings_EnabledCount>
+  <MF_Settings_StoredChoices>Selections kept</MF_Settings_StoredChoices>
+  <MF_Settings_Presets>How many moments to keep</MF_Settings_Presets>
+  <MF_Settings_PresetImportant>Major moments</MF_Settings_PresetImportant>
+  <MF_Settings_PresetNormal>Balanced</MF_Settings_PresetNormal>
+  <MF_Settings_PresetRich>Abundant</MF_Settings_PresetRich>
+  <MF_Settings_PresetCustom>Custom settings</MF_Settings_PresetCustom>
+  <MF_Settings_PresetDefault>Original default</MF_Settings_PresetDefault>
+  <MF_Settings_PresetUndo>Undo last preset</MF_Settings_PresetUndo>
+  <MF_Settings_PresetImportantHint>Major events and milestones. Birthdays every 5 years; the first battle of each type.</MF_Settings_PresetImportantHint>
+  <MF_Settings_PresetNormalHint>Focus on events. Birthdays every 2 years; first and difficult battles.</MF_Settings_PresetNormalHint>
+  <MF_Settings_PresetRichHint>The original default. Yearly birthdays, plus parties, sky phenomena and legendary crafting.</MF_Settings_PresetRichHint>
+  <MF_Settings_PresetHelp>Changes only automatic event selections and intervals. Birthday mode and companions, effects, appearance, memories and storage stay selected.</MF_Settings_PresetHelp>
+  <MF_Settings_BirthdayDisabled>Enable birthday photographs to use this setting.</MF_Settings_BirthdayDisabled>
+  <MF_Settings_RecruitDisabled>Enable recruitment photographs to use this setting.</MF_Settings_RecruitDisabled>
+  <MF_Settings_FadeDisabled>Enable frame fading to use this setting.</MF_Settings_FadeDisabled>
+  <MF_Settings_RitualDisabled>Applies when religious ritual photographs are enabled.</MF_Settings_RitualDisabled>
+  <MF_Settings_UnitYears>years</MF_Settings_UnitYears>
+  <MF_Settings_UnitCells>cells</MF_Settings_UnitCells>
+  <MF_Settings_UnitPixels>px/cell</MF_Settings_UnitPixels>
+  <MF_Settings_UnitZoom>×</MF_Settings_UnitZoom>
+  <MF_Settings_UnitSeconds>seconds</MF_Settings_UnitSeconds>
+  <MF_Settings_AlbumPreview>Album preview</MF_Settings_AlbumPreview>
+  <MF_Settings_PreviewTitle>Memories of our colony</MF_Settings_PreviewTitle>
+  <MF_Settings_PreviewBody>The days we shared, one photograph at a time.</MF_Settings_PreviewBody>
+  <MF_Settings_PreviewCaption>A photograph from the colony</MF_Settings_PreviewCaption>
+  <MF_Settings_FramingTitle>How much should fit in the frame?</MF_Settings_FramingTitle>
+  <MF_Settings_FramingWide>Click photograph · wider span</MF_Settings_FramingWide>
+  <MF_Settings_FramingNear>Click photograph · smaller span</MF_Settings_FramingNear>
+  <MF_Settings_ZoomWide>Automatic photograph · standard zoom</MF_Settings_ZoomWide>
+  <MF_Settings_ZoomNear>Automatic photograph · closer zoom</MF_Settings_ZoomNear>
+  <MF_Settings_FramingNote>An illustration of framing. A larger click span includes more of the surroundings. Drag photographs use the area you select.</MF_Settings_FramingNote>
+  <MF_Settings_NightTitle>How should night photographs look?</MF_Settings_NightTitle>
+  <MF_Settings_NightOff>Off · the original night atmosphere</MF_Settings_NightOff>
+  <MF_Settings_NightOn>On · make people easier to see</MF_Settings_NightOn>
+  <MF_Settings_NightNote>An illustration of brightness. Applies to new photographs; existing ones stay unchanged. Disasters and sky subjects such as auroras or eclipses keep their original light.</MF_Settings_NightNote>
+  <MF_Settings_ReactionsTitle>Where should reactions appear?</MF_Settings_ReactionsTitle>
+  <MF_Settings_ReactionsMap>Only on the map · default</MF_Settings_ReactionsMap>
+  <MF_Settings_ReactionsPhoto>Also save in photographs</MF_Settings_ReactionsPhoto>
+  <MF_Settings_ReactionsNote>Examples of actual saved photographs. In some photographs, at most three awake colonists react for about a real-time second. Babies, sleeping, downed, drafted, mentally unstable or out-of-frame colonists are excluded.</MF_Settings_ReactionsNote>
+  <MF_Settings_StorageHint>Changing the photo folder does not move existing photographs.</MF_Settings_StorageHint>
+  <MF_Settings_PreviewUnavailable>The example photograph could not be loaded.</MF_Settings_PreviewUnavailable>
+  <MF_Settings_StylePreview>Album preview</MF_Settings_StylePreview>
+  <MF_Settings_PreviewHint>Preview the theme, font and text size here.</MF_Settings_PreviewHint>
+  <MF_Settings_PreviewSample>The days we shared, one photograph at a time.</MF_Settings_PreviewSample>
+  <MF_Settings_FramingHint>A larger click span includes more of the surroundings.</MF_Settings_FramingHint>
+  <MF_Settings_NightHint>Applies to new photographs. Disasters and sky subjects such as auroras or eclipses keep their original light.</MF_Settings_NightHint>
+  <MF_Settings_ReactionsHint>In some photographs, at most three awake colonists react for about a second. Babies, sleeping, downed, drafted, mentally unstable and out-of-frame colonists are excluded.</MF_Settings_ReactionsHint>
+  <MF_Settings_Fewer>Closer</MF_Settings_Fewer>
+  <MF_Settings_Wider>Wider</MF_Settings_Wider>
+  <MF_Settings_Natural>Original light</MF_Settings_Natural>
+  <MF_Settings_Bright>Brighter people</MF_Settings_Bright>
+  <MF_Settings_After>Map only · default</MF_Settings_After>
+  <MF_Settings_WithPhoto>Also in photographs</MF_Settings_WithPhoto>
+  <MF_Settings_ExampleDiagram>An illustration of the effect.</MF_Settings_ExampleDiagram>
+  <MF_Settings_Category_capture>Automatic photographs</MF_Settings_Category_capture>
+  <MF_Settings_Hint_capture>Choose the moments to keep, then open their settings when needed.</MF_Settings_Hint_capture>
+  <MF_Settings_Category_photo>Photos and effects</MF_Settings_Category_photo>
+  <MF_Settings_Hint_photo>Choose framing, image quality and effects at the shutter.</MF_Settings_Hint_photo>
+  <MF_Settings_Category_appearance>Album appearance</MF_Settings_Category_appearance>
+  <MF_Settings_Hint_appearance>Preview themes and fonts, then choose a comfortable text size.</MF_Settings_Hint_appearance>
+  <MF_Settings_Category_memories>Memories and notices</MF_Settings_Category_memories>
+  <MF_Settings_Hint_memories>Choose how colonists share photographs and revisit past moments.</MF_Settings_Hint_memories>
+  <MF_Settings_Category_storage>Storage and advanced</MF_Settings_Category_storage>
+  <MF_Settings_Hint_storage>Choose a photo folder and any additional rituals to exclude.</MF_Settings_Hint_storage>
+  <MF_Settings_Group_birthdays>Birthday photographs</MF_Settings_Group_birthdays>
+  <MF_Settings_Group_people>People and daily life</MF_Settings_Group_people>
+  <MF_Settings_Group_gatherings>Gatherings and rituals</MF_Settings_Group_gatherings>
+  <MF_Settings_Group_combat>Battles and disasters</MF_Settings_Group_combat>
+  <MF_Settings_Group_discoveries>Discoveries and journeys</MF_Settings_Group_discoveries>
+  <MF_Settings_Group_milestones>Colony milestones</MF_Settings_Group_milestones>
+  <MF_Settings_Group_framing>Framing and quality</MF_Settings_Group_framing>
+  <MF_Settings_Group_effects>Shutter and screen</MF_Settings_Group_effects>
+  <MF_Settings_Group_reactions>Photo reactions</MF_Settings_Group_reactions>
+  <MF_Settings_Group_style>Album appearance</MF_Settings_Group_style>
+  <MF_Settings_Group_layout>Photo placement</MF_Settings_Group_layout>
+  <MF_Settings_Group_viewing>Projection and viewing</MF_Settings_Group_viewing>
+  <MF_Settings_Group_chronicles>Chronicles and letters</MF_Settings_Group_chronicles>
+  <MF_Settings_Group_location>Storage location</MF_Settings_Group_location>
+  <MF_Settings_Group_exclusions>Additional exclusions</MF_Settings_Group_exclusions>
+  <MF_Settings_Label_birthdayMode>Birthday photographs</MF_Settings_Label_birthdayMode>
+  <MF_Settings_Help_birthdayMode>Choose a letter asking where to take a photograph, or an immediate photograph where the colonist is.</MF_Settings_Help_birthdayMode>
+  <MF_Settings_Label_birthdayEvery>Birthday interval</MF_Settings_Label_birthdayEvery>
+  <MF_Settings_Help_birthdayEvery>Photograph every chosen number of years. The birthday that makes a colonist an adult always counts.</MF_Settings_Help_birthdayEvery>
+  <MF_Settings_Label_birthdayFriends>Bring close companions</MF_Settings_Label_birthdayFriends>
+  <MF_Settings_Help_birthdayFriends>When gathering for a birthday, family, lovers and people with opinion +20 or higher are selected by default.</MF_Settings_Help_birthdayFriends>
+  <MF_Settings_Label_msBaby>Births</MF_Settings_Label_msBaby>
+  <MF_Settings_Help_msBaby>Automatically photograph the arrival of a newborn.</MF_Settings_Help_msBaby>
+  <MF_Settings_Label_msDeath>Colonist deaths</MF_Settings_Label_msDeath>
+  <MF_Settings_Help_msDeath>Record a colonist death in a photograph.</MF_Settings_Help_msDeath>
+  <MF_Settings_Label_msRecruit>New recruits</MF_Settings_Label_msRecruit>
+  <MF_Settings_Help_msRecruit>Photograph a newly recruited colonist.</MF_Settings_Help_msRecruit>
+  <MF_Settings_Label_msRecruitFirstOnly>Only the first recruitment</MF_Settings_Label_msRecruitFirstOnly>
+  <MF_Settings_Help_msRecruitFirstOnly>Limit recruitment photographs to the colony's first recruitment.</MF_Settings_Help_msRecruitFirstOnly>
+  <MF_Settings_Label_msResurrect>Colonist resurrection</MF_Settings_Label_msResurrect>
+  <MF_Settings_Help_msResurrect>Record each colonist's first resurrection once.</MF_Settings_Help_msResurrect>
+  <MF_Settings_Label_msPersonal>Personal milestones</MF_Settings_Label_msPersonal>
+  <MF_Settings_Help_msPersonal>Record major surgery mishaps, becoming a sanguophage, xenogerms, persona weapons, high titles and other personal milestones.</MF_Settings_Help_msPersonal>
+  <MF_Settings_Label_capturePetArrivals>Pet arrivals</MF_Settings_Label_capturePetArrivals>
+  <MF_Settings_Help_capturePetArrivals>Photograph a newly owned animal with a name, bond or master once.</MF_Settings_Help_capturePetArrivals>
+  <MF_Settings_Label_captureWeddings>Weddings</MF_Settings_Label_captureWeddings>
+  <MF_Settings_Help_captureWeddings>Automatically photograph weddings.</MF_Settings_Help_captureWeddings>
+  <MF_Settings_Label_captureParties>Parties and celebrations</MF_Settings_Label_captureParties>
+  <MF_Settings_Help_captureParties>Photograph parties, celebrations, sky lantern festivals and tree festivals.</MF_Settings_Help_captureParties>
+  <MF_Settings_Label_captureFunerals>Funerals</MF_Settings_Label_captureFunerals>
+  <MF_Settings_Help_captureFunerals>Automatically photograph funerals.</MF_Settings_Help_captureFunerals>
+  <MF_Settings_Label_captureRituals>Religious rituals</MF_Settings_Label_captureRituals>
+  <MF_Settings_Help_captureRituals>Record trials, executions, conversions, sacrifices, duels and tree connections. Some repeated rituals are excluded.</MF_Settings_Help_captureRituals>
+  <MF_Settings_Label_msRole>Ideological role appointments</MF_Settings_Label_msRole>
+  <MF_Settings_Help_msRole>Record a leader, moral guide or specialist taking office.</MF_Settings_Help_msRole>
+  <MF_Settings_Label_msBestow>Bestowing ceremonies</MF_Settings_Label_msBestow>
+  <MF_Settings_Help_msBestow>Photograph a bestowing ceremony.</MF_Settings_Help_msBestow>
+  <MF_Settings_Label_msRelic>Relic installation</MF_Settings_Label_msRelic>
+  <MF_Settings_Help_msRelic>Record each ideological relic being placed in a reliquary once.</MF_Settings_Help_msRelic>
+  <MF_Settings_Label_battleMode>Battles survived</MF_Settings_Label_battleMode>
+  <MF_Settings_Help_battleMode>The first battle of each type is recorded. Later animal packs require new injuries (at least 5 additional injury severity), new bleeding, downing or death during that fight. Other battles can also qualify when enemy numbers reach the colony population. Later hard battles share a 15-day interval; Every battle bypasses these limits.</MF_Settings_Help_battleMode>
+  <MF_Settings_Label_msMechBoss>Mechanoid boss defeats</MF_Settings_Label_msMechBoss>
+  <MF_Settings_Help_msMechBoss>Record the defeat of a mechanoid boss.</MF_Settings_Help_msMechBoss>
+  <MF_Settings_Label_msDisaster>Disasters</MF_Settings_Label_msDisaster>
+  <MF_Settings_Help_msDisaster>Take a wide daytime photograph of the colony during a disaster. After the first of each type, at most one is taken per season.</MF_Settings_Help_msDisaster>
+  <MF_Settings_Label_msSky>Sky phenomena</MF_Settings_Label_msSky>
+  <MF_Settings_Help_msSky>Photograph colonists outdoors during an aurora, glowing spores or an eclipse.</MF_Settings_Help_msSky>
+  <MF_Settings_Label_msMechlink>Mechlink installation</MF_Settings_Label_msMechlink>
+  <MF_Settings_Help_msMechlink>Record a Biotech mechlink installation once per colonist.</MF_Settings_Help_msMechlink>
+  <MF_Settings_Label_msRelicFound>Relics acquired</MF_Settings_Label_msRelicFound>
+  <MF_Settings_Help_msRelicFound>Record a newly acquired relic.</MF_Settings_Help_msRelicFound>
+  <MF_Settings_Label_msRareAnimal>Rare animals</MF_Settings_Label_msRareAnimal>
+  <MF_Settings_Help_msRareAnimal>Record the first encounter with, or taming of, an alpha thrumbo or insect queen.</MF_Settings_Help_msRareAnimal>
+  <MF_Settings_Label_msAnomaly>Anomalies</MF_Settings_Label_msAnomaly>
+  <MF_Settings_Help_msAnomaly>Record the first sight of each strange Anomaly creature or object, and the first entity containment.</MF_Settings_Help_msAnomaly>
+  <MF_Settings_Label_msMonolith>Monolith level changes</MF_Settings_Label_msMonolith>
+  <MF_Settings_Help_msMonolith>Record an Anomaly monolith advancing to a new level.</MF_Settings_Help_msMonolith>
+  <MF_Settings_Label_msJourney>New places</MF_Settings_Label_msJourney>
+  <MF_Settings_Help_msJourney>Photograph colonists after they settle into a biome or landmark visited for the first time.</MF_Settings_Help_msJourney>
+  <MF_Settings_Label_msColonyStart>The colony's first day</MF_Settings_Label_msColonyStart>
+  <MF_Settings_Help_msColonyStart>Take the first photograph after all starting colonists have left their drop pods.</MF_Settings_Help_msColonyStart>
+  <MF_Settings_Label_msLegendary>Legendary crafting</MF_Settings_Label_msLegendary>
+  <MF_Settings_Help_msLegendary>Record an item being crafted at legendary quality.</MF_Settings_Help_msLegendary>
+  <MF_Settings_Label_msShip>Ship and gravship departures</MF_Settings_Label_msShip>
+  <MF_Settings_Help_msShip>Record a ship or gravship launching.</MF_Settings_Help_msShip>
+  <MF_Settings_Label_msHistoric>Anniversaries and population</MF_Settings_Label_msHistoric>
+  <MF_Settings_Help_msHistoric>Record colony anniversaries, first population milestones of 10/20/30/50/100 colonists, and the first gravship landing.</MF_Settings_Help_msHistoric>
+  <MF_Settings_Label_msEnding>Ending milestones</MF_Settings_Label_msEnding>
+  <MF_Settings_Help_msEnding>Record ship countdowns, royal endings, the archonexus, the mechhive core and other ending milestones.</MF_Settings_Help_msEnding>
+  <MF_Settings_Label_spanCells>Click photograph span</MF_Settings_Label_spanCells>
+  <MF_Settings_Help_spanCells>The default span for a single-click photograph. A larger span includes more; drag photographs use the area you select.</MF_Settings_Help_spanCells>
+  <MF_Settings_Label_photoFormat>Photo file format</MF_Settings_Label_photoFormat>
+  <MF_Settings_Help_photoFormat>The file type of new photographs. JPG files are about a quarter of the size and look the same at normal zoom. PNG keeps every pixel exactly but takes much more disk space. Photos already taken keep their format.</MF_Settings_Help_photoFormat>
+  <MF_Settings_Option_photoFormat_0>JPG (smaller)</MF_Settings_Option_photoFormat_0>
+  <MF_Settings_Option_photoFormat_1>PNG (lossless)</MF_Settings_Option_photoFormat_1>
+  <MF_Settings_Label_pxPerCell>Photo resolution</MF_Settings_Label_pxPerCell>
+  <MF_Settings_Help_pxPerCell>Keep the same framing and choose the resolution of the original. The default is 192 pixels per cell, allowing closer viewing and cropping. Higher values increase capture time, saving time and file size. Each side is capped at 4096 pixels; settlement surveys have a separate resolution setting.</MF_Settings_Help_pxPerCell>
+  <MF_Settings_Label_eventZoom>Event photograph zoom</MF_Settings_Label_eventZoom>
+  <MF_Settings_Help_eventZoom>Adjust automatically framed event photographs. A larger multiplier brings people closer.</MF_Settings_Help_eventZoom>
+  <MF_Settings_Label_brightPhotos>Brighter night photographs</MF_Settings_Label_brightPhotos>
+  <MF_Settings_Help_brightPhotos>Save new photographs with daylight brightness. Disasters and sky subjects such as auroras or eclipses keep their original light.</MF_Settings_Help_brightPhotos>
+  <MF_Settings_Label_fxFlash>Flash</MF_Settings_Label_fxFlash>
+  <MF_Settings_Help_fxFlash>Briefly flash the screen white when a photograph is taken.</MF_Settings_Help_fxFlash>
+  <MF_Settings_Label_fxShutter>Shutter sound</MF_Settings_Label_fxShutter>
+  <MF_Settings_Help_fxShutter>Play the existing shutter sound when a photograph is taken.</MF_Settings_Help_fxShutter>
+  <MF_Settings_Label_fxPopup>Photo card</MF_Settings_Label_fxPopup>
+  <MF_Settings_Help_fxPopup>The new photograph shrinks from the centre of the screen into a temporary card. Click it for a larger view.</MF_Settings_Help_fxPopup>
+  <MF_Settings_Label_fxFreeze>Freeze frame</MF_Settings_Label_fxFreeze>
+  <MF_Settings_Help_fxFreeze>Hold the game for about half a second at the shutter, without changing the selected game speed. Not during raids or fights.</MF_Settings_Help_fxFreeze>
+  <MF_Settings_Label_fxCamera>Move the view to the photograph</MF_Settings_Label_fxCamera>
+  <MF_Settings_Help_fxCamera>For automatic event and milestone photographs, move the view to the photographed place and fit the framing.</MF_Settings_Help_fxCamera>
+  <MF_Settings_Label_captureReactionMode>Colonists' little reactions</MF_Settings_Label_captureReactionMode>
+  <MF_Settings_Help_captureReactionMode>In some photographs, including birthdays, a few colonists react briefly. By default reactions appear on the map after the shutter; they can also be saved in new photographs.</MF_Settings_Help_captureReactionMode>
+  <MF_Settings_Label_albumTheme>Theme</MF_Settings_Label_albumTheme>
+  <MF_Settings_Help_albumTheme>Choose the appearance of the album, personal chronicles and year in review. Font and text size stay selected.</MF_Settings_Help_albumTheme>
+  <MF_Settings_Label_albumFont>Font</MF_Settings_Label_albumFont>
+  <MF_Settings_Help_albumFont>Use the theme's default font or choose another font.</MF_Settings_Help_albumFont>
+  <MF_Settings_Label_albumTextSize>Text size</MF_Settings_Label_albumTextSize>
+  <MF_Settings_Help_albumTextSize>Choose text size for the album, personal chronicles and year in review.</MF_Settings_Help_albumTextSize>
+  <MF_Settings_Label_albumAppearanceReset>Reset album appearance</MF_Settings_Label_albumAppearanceReset>
+  <MF_Settings_Help_albumAppearanceReset>Restore the Pencil watercolor journal theme, theme default font and 100% text size.</MF_Settings_Help_albumAppearanceReset>
+  <MF_Settings_Label_albumTilt>Slightly tilted photographs</MF_Settings_Label_albumTilt>
+  <MF_Settings_Help_albumTilt>Place album photographs at a slight angle.</MF_Settings_Help_albumTilt>
+  <MF_Settings_Label_fade>Age photographs in frames</MF_Settings_Label_fade>
+  <MF_Settings_Help_fade>Only photographs displayed in frames on the map fade with age. Original files and the album stay unchanged.</MF_Settings_Help_fade>
+  <MF_Settings_Label_fadeYears>Time until fully faded</MF_Settings_Label_fadeYears>
+  <MF_Settings_Help_fadeYears>Years for a plain frame to fade fully. Masterwork and better frames fade at half the speed.</MF_Settings_Help_fadeYears>
+  <MF_Settings_Label_creditsPhotos>Photos in the ending credits</MF_Settings_Label_creditsPhotos>
+  <MF_Settings_Help_creditsPhotos>When a game ends, the colony's photos roll on both sides of the credits, oldest first. When the credits stop, a few big moments come back full size and the ending photo closes the show.</MF_Settings_Help_creditsPhotos>
+  <MF_Settings_Label_memoryNight>Automatic memory nights</MF_Settings_Label_memoryNight>
+  <MF_Settings_Help_memoryNight>Colonists sometimes gather by a projector in the evening. The manual button remains available.</MF_Settings_Help_memoryNight>
+  <MF_Settings_Label_projectorSeconds>Projection slide interval</MF_Settings_Label_projectorSeconds>
+  <MF_Settings_Help_projectorSeconds>Real seconds per photograph, independent of game speed. The interval pauses with the game.</MF_Settings_Help_projectorSeconds>
+  <MF_Settings_Label_reminisce>Colonists viewing memories</MF_Settings_Label_reminisce>
+  <MF_Settings_Help_reminisce>Colonists view hung photographs for recreation, and people in the same photograph sometimes reminisce together.</MF_Settings_Help_reminisce>
+  <MF_Settings_Label_chronicleTab>Chronicle tab</MF_Settings_Label_chronicleTab>
+  <MF_Settings_Help_chronicleTab>Shows the Chronicle tab when you select a person. Turning it off only hides the tab; photos and records are kept.</MF_Settings_Help_chronicleTab>
+  <MF_Settings_Label_lifeEvents>Life events in chronicles</MF_Settings_Label_lifeEvents>
+  <MF_Settings_Help_lifeEvents>Record moments without photographs, such as joining, romance, bonds, separation, kidnapping and lost limbs, in personal chronicles.</MF_Settings_Help_lifeEvents>
+  <MF_Settings_Label_yearLetter>Year in photographs letter</MF_Settings_Label_yearLetter>
+  <MF_Settings_Help_yearLetter>At the turn of the year, receive a letter looking back on last year's photographs and moments.</MF_Settings_Help_yearLetter>
+  <MF_Settings_Label_msAnniversaryLetter>A year ago today letter</MF_Settings_Label_msAnniversaryLetter>
+  <MF_Settings_Help_msAnniversaryLetter>Shows the earliest eligible milestone photograph on the same local calendar date exactly one year later. Each photo is used once, at most one letter per day, including after a reload.</MF_Settings_Help_msAnniversaryLetter>
+  <MF_Settings_Label_journeyRoute>Photographs and journeys on the world map</MF_Settings_Label_journeyRoute>
+  <MF_Settings_Help_journeyRoute>Connect places colonists have visited and pin photographs at places where they were taken.</MF_Settings_Help_journeyRoute>
+  <MF_Settings_Label_folderOverride>Photo folder</MF_Settings_Label_folderOverride>
+  <MF_Settings_Help_folderOverride>Leave empty for the default folder. Existing photographs are not moved, so changing the folder may make them appear missing.</MF_Settings_Help_folderOverride>
+  <MF_Settings_Label_ritualExclude>Additional rituals to exclude</MF_Settings_Label_ritualExclude>
+  <MF_Settings_Help_ritualExclude>Enter the defNames of rituals not to photograph, separated by commas.</MF_Settings_Help_ritualExclude>
+  <MF_Settings_Option_birthdayMode_0>Off</MF_Settings_Option_birthdayMode_0>
+  <MF_Settings_Option_birthdayMode_1>Ask in a letter</MF_Settings_Option_birthdayMode_1>
+  <MF_Settings_Option_birthdayMode_2>Photograph where they are</MF_Settings_Option_birthdayMode_2>
+  <MF_Settings_Option_battleMode_0>Off</MF_Settings_Option_battleMode_0>
+  <MF_Settings_Option_battleMode_1>First of each type</MF_Settings_Option_battleMode_1>
+  <MF_Settings_Option_battleMode_2>First and difficult battles</MF_Settings_Option_battleMode_2>
+  <MF_Settings_Option_battleMode_3>Every battle survived</MF_Settings_Option_battleMode_3>
+  <MF_Settings_Option_captureReactionMode_1>Map after the shutter</MF_Settings_Option_captureReactionMode_1>
+  <MF_Settings_Option_captureReactionMode_2>Also in photographs</MF_Settings_Option_captureReactionMode_2>
+  <MF_Settings_Option_captureReactionMode_0>Off</MF_Settings_Option_captureReactionMode_0>
+  <MF_Settings_ZoomHint>A larger event zoom brings people closer. The group determines the base framing.</MF_Settings_ZoomHint>
+  <MF_Settings_RealPhotoExample>Two crops of the same real birthday photograph.</MF_Settings_RealPhotoExample>
+  <MF_Settings_BrightnessSample>An illustrative brightness comparison of the same photo. Actual night results depend on local lighting.</MF_Settings_BrightnessSample>
+  <MF_Settings_ReactionEnlarged>Enlarged around the people to make the reactions visible.</MF_Settings_ReactionEnlarged>
+  <MF_Settings_EnlargeExample>Click a photograph to enlarge it.</MF_Settings_EnlargeExample>
+</LanguageData>

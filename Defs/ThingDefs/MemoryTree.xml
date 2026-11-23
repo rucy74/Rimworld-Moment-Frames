@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MF_StandFrameBase">
+    <defName>MF_MemoryTree</defName>
+    <thingClass>MomentFrames.Building_PhotoTree</thingClass>
+    <label>memory tree</label>
+    <description>A wooden display for 35 colony photographs. New photos fill empty branches, then replace the oldest unpinned photo. Choose and pin favorites or filter automatic photos by kind. Made at the art bench; keeps its photographs when moved.</description>
+    <rotatable>false</rotatable>
+    <size>(7,7)</size>
+    <stuffCategories Inherit="False"><li>Woody</li></stuffCategories>
+    <costStuffCount>180</costStuffCount>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <WorkToMake>6000</WorkToMake>
+      <Mass>25</Mass>
+      <Beauty>15</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/MemoryTree</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(7,7)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+  </ThingDef>
+</Defs>

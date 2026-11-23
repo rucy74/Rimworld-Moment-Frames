@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_DesignAlbum_NoMatches>지금 조건에 맞는 사진이 없습니다.</MF_DesignAlbum_NoMatches>
+  <MF_DesignAlbum_NoMatchesHint>다른 조건을 고르거나 필터를 해제해 보세요.\n필터를 해제하면 생일 같은 개인 사진도 보입니다.</MF_DesignAlbum_NoMatchesHint>
+  <MF_DesignAlbum_ClearFilters>필터 해제</MF_DesignAlbum_ClearFilters>
+  <MF_DesignAlbum_VersionStatus>보는 중: {0}  ·  앨범·액자에 사용 중: {1}</MF_DesignAlbum_VersionStatus>
+  <MF_DesignAlbum_ViewingVersion>보는 중: {0}</MF_DesignAlbum_ViewingVersion>
+  <MF_DesignAlbum_UsedVersion>앨범·액자에 사용 중: {0}</MF_DesignAlbum_UsedVersion>
+  <MF_DesignAlbum_VersionHint>썸네일은 보기만 바꿔요. 아래 적용 버튼으로 앨범과 액자에 쓸 버전을 정해요.</MF_DesignAlbum_VersionHint>
+  <MF_DesignAlbum_Viewing>지금 보고 있는 판</MF_DesignAlbum_Viewing>
+  <MF_DesignAlbum_Used>앨범·액자에 사용 중인 판</MF_DesignAlbum_Used>
+  <MF_DesignAlbum_More>더 보기</MF_DesignAlbum_More>
+  <MF_DesignAlbum_MoreHint>제목·메모 변경, 앨범·액자에 쓸 판 선택, 연결된 사진 보기, 편집본 삭제, 폴더 열기.</MF_DesignAlbum_MoreHint>
+  <MF_DesignAlbum_UseVersion>앨범·액자에 이 판 사용</MF_DesignAlbum_UseVersion>
+</LanguageData>

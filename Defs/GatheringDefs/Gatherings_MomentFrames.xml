@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Memory night: a party at a slide projector, the audience facing the picture (MomentFrames.MemoryNight). A colonist may hold one in the
+       evening when a projector has a film; the projector's button and the year's letter open one at any time. -->
+  <GatheringDef>
+    <defName>MF_MemoryNight</defName>
+    <label>memory night</label>
+    <randomSelectionWeight>0.5</randomSelectionWeight>
+    <respectTimetable>false</respectTimetable>
+    <letterTitle>Memory night</letterTitle>
+    <letterText>{ORGANIZER_labelShort} is holding a memory night at the projector. Everyone who comes will watch the colony's photographs together and gain a lasting good mood.</letterText>
+    <calledOffMessage>The memory night has been called off.</calledOffMessage>
+    <finishedMessage>The memory night is over.</finishedMessage>
+    <duty>MF_WatchSlides</duty>
+    <workerClass>MomentFrames.GatheringWorker_MemoryNight</workerClass>
+  </GatheringDef>
+
+</Defs>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>khung ảnh</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Khung nhỏ treo tường cho một tấm ảnh của khu định cư. Chọn khung để chọn hoặc thay ảnh; ảnh vẫn được giữ khi tháo và dời khung. Phải treo trên tường. Làm tại bàn chế tác; chất lượng quyết định cảnh quang.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>khung ảnh rộng</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Khung treo tường rộng hai ô, rộng hơn khung nhỏ: dành cho ảnh ngang. Chỉ treo được trên tường nằm ngang. Giữ nguyên ảnh khi dời. Làm tại bàn chế tác; chất lượng quyết định cảnh quang.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>giá đỡ ảnh</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Giá đứng độc lập (2x2) trưng một tấm ảnh của khu định cư, đủ lớn để nhận ra những người trong ảnh. Đặt được ở bất cứ đâu và dời sau này mà không mất ảnh. Làm tại bàn chế tác; chất lượng quyết định cảnh quang.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>bảng trưng bày ảnh</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Bảng trưng bày lớn đứng độc lập (3x2) cho một tấm ảnh của khu định cư, cách lớn nhất để khoe một khoảnh khắc. Dời được mà không mất ảnh. Làm tại bàn chế tác; chất lượng quyết định cảnh quang.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>bảng ghép ảnh</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Bảng có lót đứng độc lập (3x2) với bốn ô bằng nhau cho ảnh của khu định cư, mỗi ảnh được cắt cho vừa ô. Chọn ảnh cho từng ô; ô trống sẽ để trắng. Dời được mà không mất ảnh. Làm tại bàn chế tác.</MF_PhotoCollage.description>
+  <MF_Projector.label>máy chiếu ảnh</MF_Projector.label>
+  <MF_Projector.description>Chiếu ảnh của khu định cư ra phía trước máy. Chọn một ảnh cố định hoặc một bộ phim, và kích thước có sẵn hoặc chiều rộng, chiều cao tùy chỉnh. Nút thứ tự vẽ đặt hình ở sau hoặc trước đồ vật. Phim thường đổi ảnh theo thời gian thực; phim đêm kỷ niệm đổi ảnh theo đồng hồ trong game của sự kiện. Cư dân có thể xem để giải trí. Không cần điện. Đặt từ mục Linh tinh cạnh các công cụ ảnh; cư dân xây bằng vật liệu đã chọn.</MF_Projector.description>
+  <MF_MemorialFrame.label>giá ảnh tưởng niệm</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Khung đứng nhỏ để đặt cạnh mộ đất hoặc quan tài. Tự nó hiện ảnh mới nhất của người được chôn bên cạnh; bạn cũng có thể tự chọn ảnh. Để trống cho đến khi có một ngôi mộ có thi thể ở sát bên. Làm tại bàn chế tác.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>điểm chụp ảnh</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Đánh dấu nơi chụp ảnh nhóm. Chọn nó rồi bấm 'Ảnh nhóm': mọi cư dân trên bản đồ đang thức và rảnh sẽ xếp hàng phía sau (hướng bắc, người nhỏ tuổi nhất đứng trước), quay mặt về máy ảnh, và ảnh được chụp khi mọi người đứng yên. Hãy để trống sàn phía sau điểm này cho các hàng. Đặt ngay lập tức, không tốn gì.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>cây kỷ niệm</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Giá trưng bày bằng gỗ cho 35 ảnh của khu định cư. Ảnh mới lấp các cành trống, rồi thay ảnh cũ nhất chưa ghim. Chọn và ghim ảnh yêu thích, hoặc lọc ảnh tự động theo loại. Làm tại bàn chế tác; giữ nguyên ảnh khi dời.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>phông studio chụp ảnh</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Phông vải cho chân dung gia đình và nhóm. Chọn phông để chọn người tham gia. Mọi người tập trung trước phông và ảnh được chụp tự động. Khung tự động bao gồm cả người lẫn phông. Tối đa mười lăm người đứng; em bé được người giám hộ bế đi cùng. Xoay trước khi xây để đặt hướng tạo dáng.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>vòm vườn chụp ảnh</MF_StudioArch.label>
+  <MF_StudioArch.description>Vòm tròn để chụp chân dung ngoài trời. Dùng cùng cách chọn người và cách căn khung tự động như phông studio. Hãy giữ trống khu tạo dáng đã đánh dấu. Em bé đi cùng người giám hộ. Xoay trước khi xây để đặt hướng tạo dáng.</MF_StudioArch.description>
+  <MF_StudioSofa.label>sô-pha studio ảnh (đạo cụ)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Sô-pha chân dung ba chỗ. Đặt trong khu tạo dáng của studio, quay cùng hướng với phông. Người tham gia ngồi các chỗ này trước rồi mới đến các hàng đứng. Dùng hình vẽ nhân vật thông thường, không có động tác ngồi mới. Đạo cụ tạo dáng, không phải ghế để ăn uống hay giải trí hằng ngày.</MF_StudioSofa.description>
+  <MF_StudioBench.label>ghế băng studio ảnh (đạo cụ)</MF_StudioBench.label>
+  <MF_StudioBench.description>Ghế băng có đệm ba chỗ để chụp chân dung. Đặt trong khu tạo dáng, quay cùng hướng với phông. Đạo cụ tạo dáng, không phải ghế để ăn uống hay giải trí hằng ngày.</MF_StudioBench.description>
+  <MF_StudioChair.label>ghế bành studio ảnh (đạo cụ)</MF_StudioChair.label>
+  <MF_StudioChair.description>Một ghế chân dung đơn. Đặt ở chính giữa phía trước cho người có sinh nhật, hoặc thêm vào khu tạo dáng của studio. Đạo cụ tạo dáng, không phải ghế để ăn uống hay giải trí hằng ngày.</MF_StudioChair.description>
+  <MF_StudioLamp.label>đèn studio ảnh</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Đèn chân dung cần điện. Chế độ tự động bật đèn khi studio gần nhất trong cùng phòng (trong vòng mười ô) đang tập hợp hoặc chờ chụp lại. Giải tán nhóm sẽ tắt đèn. Chế độ Bật và Tắt thay cho điều khiển tự động. Ảnh studio giữ nguyên ánh sáng này.</MF_StudioLamp.description>
+</LanguageData>

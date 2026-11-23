@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>mindeaften</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Mindeaften</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} holder mindeaften ved projektoren. Alle, der kommer, ser koloniens fotos sammen og får et varigt godt humør.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Mindeaftenen er aflyst.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Mindeaftenen er slut.</MF_MemoryNight.finishedMessage>
+</LanguageData>

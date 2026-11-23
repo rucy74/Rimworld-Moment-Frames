@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ProjectorFilmButton>Choose film\n{0}</MF_ProjectorFilmButton>
+  <MF_ProjectorCurrentFilm>Now showing: {0}</MF_ProjectorCurrentFilm>
+  <MF_ProjectorFilmChosen>{0} (selected)</MF_ProjectorFilmChosen>
+  <MF_ProjectorFilmAfterNight>An ongoing memory night keeps the film chosen when it started. Films selected here play after the gathering ends.</MF_ProjectorFilmAfterNight>
+  <MF_ProjectorOpenAlbum>View in album</MF_ProjectorOpenAlbum>
+  <MF_ProjectorOpenAlbumDesc>Open the currently projected photograph in the album. Use ‘Projection size’ to change its size on the map.</MF_ProjectorOpenAlbumDesc>
+  <MF_ProjectorNightWhen>You can start a gathering at any time of day. The film needs at least {0} photographs and available colonists. Only one memory night can run on the same map at a time.</MF_ProjectorNightWhen>
+  <MF_ProjectionCustomTitle>Custom projection size</MF_ProjectionCustomTitle>
+  <MF_ProjectionCustomInput>Enter custom size…</MF_ProjectionCustomInput>
+  <MF_ProjectionCustomSize>Custom · {0}×{1} cells</MF_ProjectionCustomSize>
+  <MF_ProjectionWidth>Width (cells)</MF_ProjectionWidth>
+  <MF_ProjectionHeight>Height (cells)</MF_ProjectionHeight>
+  <MF_ProjectionCustomHelp>{0}–{1} cells per side; decimals allowed. Photographs retain their proportions within this area. Resizing the projection does not change the source image or its resolution.</MF_ProjectionCustomHelp>
+  <MF_ProjectionInvalid>Enter valid width and height values within the allowed range.</MF_ProjectionInvalid>
+  <MF_ProjectionOffMap>The projection area extends beyond the map. Reduce its size or move the projector.</MF_ProjectionOffMap>
+  <MF_ProjectionCustomReady>Applying also updates the area preview and memory-night audience positions.</MF_ProjectionCustomReady>
+  <MF_ProjectionApply>Apply</MF_ProjectionApply>
+  <MF_ProjectionDepth>Draw order: {0}</MF_ProjectionDepth>
+  <MF_ProjectionDepthHelp>Display the photograph behind objects like a floor, or in front of items, furniture and pawns. Does not change menus or windows.</MF_ProjectionDepthHelp>
+  <MF_ProjectionBehind>Behind objects</MF_ProjectionBehind>
+  <MF_ProjectionFront>In front of objects</MF_ProjectionFront>
+  <MF_ProjectionLegacy>Keep previous order</MF_ProjectionLegacy>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Bridge_Preparing>Preparing the photograph for sharing. Your original remains unchanged.</MF_Bridge_Preparing>
+  <MF_Bridge_PrepareFailed>Could not prepare the photograph. Nothing was sent. Try again, or select the photograph again from the album.</MF_Bridge_PrepareFailed>
+  <MF_Bridge_ImageInvalid>This photograph could not be read. Check its storage status in the album.</MF_Bridge_ImageInvalid>
+  <MF_Extras_Scanning>Checking the photo folder… {0} files checked</MF_Extras_Scanning>
+</LanguageData>

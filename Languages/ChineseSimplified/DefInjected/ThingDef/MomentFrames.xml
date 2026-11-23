@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>相框</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>挂在墙上的小相框，可放一张殖民地照片。选中后可选择或更换照片；拆下移动后照片仍在。必须挂在墙上。在艺创台制作；品质决定其美观。</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>宽幅相框</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>占两格的壁挂相框，比小相框更宽，专为宽幅照片而设。只能挂在水平的墙上。移动时保留照片。在艺创台制作；品质决定其美观。</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>照片画架</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>独立摆放的画架（2x2），展示的殖民地照片足够大，能看清其中的人。可放在任何地方，之后移动也不会丢失照片。在艺创台制作；品质决定其美观。</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>照片展示板</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>独立摆放的大型展示板（3x2），用于展示殖民地照片，是呈现一个瞬间最大的方式。移动时不会丢失照片。在艺创台制作；品质决定其美观。</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>照片拼贴板</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>独立摆放的衬纸展板（3x2），有四个等大的窗格放殖民地照片，每张照片都会裁切以填满窗格。为每个窗格选择一张照片；空窗格保持空白。移动时不会丢失照片。在艺创台制作。</MF_PhotoCollage.description>
+  <MF_Projector.label>幻灯机</MF_Projector.label>
+  <MF_Projector.description>将殖民地照片投射到自身前方。可选择一张固定照片或一部影片，并使用预设或自定义的宽度和高度。绘制顺序控件决定画面位于物体之后还是之前。普通影片按现实时间切换；回忆之夜的影片按活动的游戏内时钟切换。殖民者可以观看它来获得娱乐。无需电力。从「杂项」中放置，就在照片工具旁边；殖民者会用所选材料建造。</MF_Projector.description>
+  <MF_MemorialFrame.label>纪念照片架</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>放在坟墓或棺材旁的小型立式相框。它会自动显示葬在旁边之人的最新照片；也可以手动选择照片。在旁边有葬着遗体的坟墓之前，它是空的。在艺创台制作。</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>拍照点</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>标记拍摄合影的位置。选中后按「合影」：地图上所有清醒且空闲的殖民者都会在它后方（北侧，年龄最小的在前）排好队，面向镜头，等所有人站定后拍下照片。请在拍照点后方留出空地供人排队。立即放置，无需成本。</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>回忆树</MF_MemoryTree.label>
+  <MF_MemoryTree.description>木制展架，可展示35张殖民地照片。新照片先填满空枝，再替换最旧的未固定照片。可选择并固定喜爱的照片，或按类型筛选自动照片。在艺创台制作；移动时保留照片。</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>摄影棚背景布</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>用于家庭和集体肖像的帆布背景。选中后可选择参与者。所有人聚集到背景布前，照片会自动拍下。自动取景同时包含人物和背景布。最多十五名站立的参与者；婴儿由监护人抱着前来。建造前旋转以设定摆姿势的方向。</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>摄影花园拱门</MF_StudioArch.label>
+  <MF_StudioArch.description>用于室外肖像的圆形拱门。与摄影棚背景布使用相同的参与者选择和自动取景。请保持标记的摆姿势区域空旷。婴儿由监护人带来。建造前旋转以设定摆姿势的方向。</MF_StudioArch.description>
+  <MF_StudioSofa.label>摄影棚沙发（道具）</MF_StudioSofa.label>
+  <MF_StudioSofa.description>三人位肖像沙发。放在摄影棚的摆姿势区域内，朝向与背景布相同。参与者会先使用这些位置，再站成排。这里沿用常规的人物绘制，没有新的坐姿动画。这是摆拍道具，不是日常用餐或娱乐的座位。</MF_StudioSofa.description>
+  <MF_StudioBench.label>摄影棚长椅（道具）</MF_StudioBench.label>
+  <MF_StudioBench.description>三人位软垫肖像长椅。放在摆姿势区域内，朝向与背景布相同。这是摆拍道具，不是日常用餐或娱乐的座位。</MF_StudioBench.description>
+  <MF_StudioChair.label>摄影棚扶手椅（道具）</MF_StudioChair.label>
+  <MF_StudioChair.description>单人肖像椅。放在前排中央给过生日的人坐，或加入摄影棚的摆姿势区域。这是摆拍道具，不是日常用餐或娱乐的座位。</MF_StudioChair.description>
+  <MF_StudioLamp.label>摄影棚灯</MF_StudioLamp.label>
+  <MF_StudioLamp.description>需要通电的肖像灯。自动模式下，同一房间内最近的摄影棚（十格以内）集合或等待重拍时亮起。解散队伍时熄灭。「开」和「关」模式会覆盖自动控制。摄影棚照片会保留这种光照。</MF_StudioLamp.description>
+</LanguageData>

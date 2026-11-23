@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ReunionCarer>Carried by: {0}</MF_ReunionCarer>
+  <MF_ReunionChooseCarer>Choose</MF_ReunionChooseCarer>
+  <MF_ReunionCarerAdded> · add to photo</MF_ReunionCarerAdded>
+  <MF_ReunionExtraCarers>Additional carers in this photo: {0}</MF_ReunionExtraCarers>
+</LanguageData>

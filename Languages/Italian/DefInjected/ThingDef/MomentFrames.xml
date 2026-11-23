@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>cornice per foto</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Piccola cornice da parete per una fotografia della colonia. Selezionala per scegliere o sostituire la foto; la conserva anche se viene disinstallata e spostata. Va appesa a un muro. Si fabbrica al tavolo da scultore; la qualità ne determina l'estetica.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>cornice larga per foto</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Cornice da parete su due caselle, più larga di quella piccola: pensata per le fotografie larghe. Si appende solo ai muri orizzontali. Conserva la foto quando viene spostata. Si fabbrica al tavolo da scultore; la qualità ne determina l'estetica.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>cavalletto per foto</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Cavalletto indipendente (2x2) che espone una fotografia della colonia abbastanza grande da riconoscere le persone. Si può mettere ovunque e spostare in seguito senza perdere la foto. Si fabbrica al tavolo da scultore; la qualità ne determina l'estetica.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>pannello espositivo per foto</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Grande pannello espositivo indipendente (3x2) per una fotografia della colonia, il modo più grande per mostrare un momento. Si può spostare senza perdere la foto. Si fabbrica al tavolo da scultore; la qualità ne determina l'estetica.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>pannello collage per foto</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Pannello indipendente con passepartout (3x2) e quattro finestre uguali per le fotografie della colonia; ogni foto viene rifilata per riempire la sua finestra. Scegli una foto per ogni finestra; quelle vuote restano bianche. Si può spostare senza perdere le foto. Si fabbrica al tavolo da scultore.</MF_PhotoCollage.description>
+  <MF_Projector.label>proiettore di diapositive</MF_Projector.label>
+  <MF_Projector.description>Proietta davanti a sé le fotografie della colonia. Scegli una sola fotografia fissa o un film, e una misura predefinita o una larghezza e un'altezza a piacere. Il comando dell'ordine di disegno mette l'immagine dietro o davanti agli oggetti. I film normali cambiano in tempo reale; quelli della serata dei ricordi seguono l'orologio di gioco dell'evento. I coloni possono guardarlo come svago. Non richiede energia. Si piazza da Varie accanto agli strumenti per le foto; i coloni lo costruiscono con il materiale scelto.</MF_Projector.description>
+  <MF_MemorialFrame.label>supporto commemorativo per foto</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Piccola cornice da appoggio da mettere accanto a una tomba o a un sarcofago. Da sola mostra l'ultima fotografia della persona sepolta lì accanto; puoi anche scegliere una foto a mano. Resta vuota finché non ha accanto una tomba con un corpo. Si fabbrica al tavolo da scultore.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>punto foto</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Segna dove si scattano le foto di gruppo. Selezionalo e premi 'Foto di gruppo': tutti i coloni della mappa svegli e liberi si mettono in fila dietro il punto (a nord, i più giovani davanti), guardano verso l'obiettivo e la foto viene scattata quando sono tutti fermi. Lascia libero il pavimento dietro il punto per le file. Si piazza all'istante e non costa nulla.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>albero dei ricordi</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Espositore in legno per 35 fotografie della colonia. Le nuove foto riempiono i rami vuoti, poi sostituiscono la foto più vecchia non fissata. Scegli e fissa le preferite, o filtra per tipo le foto automatiche. Si fabbrica al tavolo da scultore; conserva le fotografie quando viene spostato.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fondale da studio fotografico</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Fondale di tela per ritratti di famiglia e di gruppo. Selezionalo per scegliere i partecipanti. Tutti si radunano davanti al fondale e la fotografia viene scattata in automatico. L'inquadratura automatica comprende sia le persone sia il fondale. Fino a quindici partecipanti in piedi; i neonati arrivano in braccio a chi se ne occupa. Ruotalo prima di costruirlo per decidere la direzione della posa.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>arco da giardino per foto</MF_StudioArch.label>
+  <MF_StudioArch.description>Arco circolare per ritratti all'aperto. Usa la stessa scelta dei partecipanti e la stessa inquadratura automatica del fondale da studio. Lascia libera l'area di posa segnata. I neonati arrivano con chi se ne occupa. Ruotalo prima di costruirlo per decidere la direzione della posa.</MF_StudioArch.description>
+  <MF_StudioSofa.label>divano da studio fotografico (oggetto di scena)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Divano da ritratto a tre posti. Mettilo nell'area di posa di uno studio, rivolto nella stessa direzione del fondale. I partecipanti occupano questi posti prima delle file in piedi. Le pedine vengono disegnate come al solito, senza una nuova animazione da seduti. È un oggetto di scena, non un posto per mangiare o per lo svago di ogni giorno.</MF_StudioSofa.description>
+  <MF_StudioBench.label>panca da studio fotografico (oggetto di scena)</MF_StudioBench.label>
+  <MF_StudioBench.description>Panca imbottita da ritratto a tre posti. Mettila nell'area di posa, rivolta nella stessa direzione del fondale. È un oggetto di scena, non un posto per mangiare o per lo svago di ogni giorno.</MF_StudioBench.description>
+  <MF_StudioChair.label>poltrona da studio fotografico (oggetto di scena)</MF_StudioChair.label>
+  <MF_StudioChair.description>Poltrona singola da ritratto. Mettila davanti al centro per chi festeggia il compleanno, o aggiungila all'area di posa dello studio. È un oggetto di scena, non un posto per mangiare o per lo svago di ogni giorno.</MF_StudioChair.description>
+  <MF_StudioLamp.label>luce da studio fotografico</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Luce da ritratto alimentata. In modalità automatica si accende quando lo studio più vicino nella stessa stanza (entro dieci caselle) raduna il gruppo o lo trattiene per i nuovi scatti. Quando il gruppo viene congedato si spegne. Le modalità Acceso e Spento hanno la precedenza sul controllo automatico. Le fotografie da studio conservano questa illuminazione.</MF_StudioLamp.description>
+</LanguageData>

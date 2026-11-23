@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_LocationChoose>촬영 장소 선택</MF_LocationChoose>
+  <MF_LocationChange>장소 변경</MF_LocationChange>
+  <MF_LocationPreview>지도에서 보기</MF_LocationPreview>
+  <MF_LocationFree>지도에서 정한 장소</MF_LocationFree>
+  <MF_LocationNumbered>{0} {1}</MF_LocationNumbered>
+  <MF_LocationOutdoors>야외</MF_LocationOutdoors>
+  <MF_LocationCoordinates>지도 좌표: ({0}, {1})</MF_LocationCoordinates>
+  <MF_LocationHelp>장소를 고르거나, 지도에서 확인한 뒤 준비창으로 돌아오세요. 이름을 붙이면 다음 촬영에도 쉽게 찾을 수 있어요.</MF_LocationHelp>
+  <MF_LocationSelect>이 장소 선택</MF_LocationSelect>
+  <MF_LocationSelectPreview>선택하고 지도 보기</MF_LocationSelectPreview>
+  <MF_LocationRename>이름 바꾸기</MF_LocationRename>
+  <MF_LocationRenameHelp>예: 식당 가족사진 자리, 정원 생일 포토존. 비워 두면 가구의 기본 이름을 사용해요.</MF_LocationRenameHelp>
+  <MF_LocationSaveName>이름 저장</MF_LocationSaveName>
+</LanguageData>

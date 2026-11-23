@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Phase2_AlbumTools>Whole album tools</MF_Phase2_AlbumTools>
+  <MF_Phase2_SettlementTab>Colony &amp; buildings</MF_Phase2_SettlementTab>
+  <MF_Phase2_IncludeBirthdays>Include birthdays</MF_Phase2_IncludeBirthdays>
+  <MF_Phase2_AlbumSearch>Search titles, people and captions</MF_Phase2_AlbumSearch>
+  <MF_Phase2_HighlightHelp>Selection criteria</MF_Phase2_HighlightHelp>
+  <MF_Phase2_HighlightCriteria>Up to three highlights are chosen, preferring milestones and then variety in kinds, people and dates. The same records produce the same selection; no random choice is used.</MF_Phase2_HighlightCriteria>
+  <MF_Phase2_BirthdayCompare>Compare with the previous birthday</MF_Phase2_BirthdayCompare>
+  <MF_Phase2_ViewCompare>Compare an earlier view with the same framing</MF_Phase2_ViewCompare>
+  <MF_Phase2_PreviousBirthday>Previous birthday</MF_Phase2_PreviousBirthday>
+  <MF_Phase2_CurrentBirthday>This birthday</MF_Phase2_CurrentBirthday>
+  <MF_Phase2_Age>Age {0}</MF_Phase2_Age>
+  <MF_Phase2_EditPhotoTab>Photo adjustments</MF_Phase2_EditPhotoTab>
+  <MF_Phase2_EditIconTab>Icons in photo</MF_Phase2_EditIconTab>
+  <MF_Phase2_EditIconOpen>Add icons inside the photo</MF_Phase2_EditIconOpen>
+  <MF_Phase2_MarginStickers>Add stickers to the album margin</MF_Phase2_MarginStickers>
+  <MF_Phase2_IconHelp>Choose a shape, then drag it on the photo. These are manual decorations, not recorded pawn emotions.</MF_Phase2_IconHelp>
+  <MF_Phase2_IconMoveHint>Icons: drag to move · adjust size on the right · Delete to remove</MF_Phase2_IconMoveHint>
+  <MF_Phase2_IconSize>Selected icon size</MF_Phase2_IconSize>
+  <MF_Phase2_IconSelect>Select an icon on the photo to adjust its position and size.</MF_Phase2_IconSelect>
+  <MF_Phase2_IconRemove>Remove selected icon</MF_Phase2_IconRemove>
+  <MF_Phase2_IconClear>Clear all icons</MF_Phase2_IconClear>
+  <MF_Phase2_IconOriginalSafe>Saving creates a new edited version. The original photograph stays unchanged.</MF_Phase2_IconOriginalSafe>
+</LanguageData>

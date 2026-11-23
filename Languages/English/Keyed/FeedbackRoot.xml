@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Feedback_SurveyResolution>Settlement overview quality</MF_Feedback_SurveyResolution>
+  <MF_Feedback_SurveyResolutionHelp>Applies to future full-map and quadrant photos. At the default 16 pixels per cell, a 325-cell map is saved at 5200 × 5200 pixels. Higher quality takes longer during capture and saving and uses more temporary memory. Game speed and existing photos are unchanged.</MF_Feedback_SurveyResolutionHelp>
+  <MF_Feedback_Survey8>Light · 8px/cell</MF_Feedback_Survey8>
+  <MF_Feedback_Survey12>Standard · 12px/cell</MF_Feedback_Survey12>
+  <MF_Feedback_Survey16>Clear · 16px/cell (default)</MF_Feedback_Survey16>
+  <MF_Feedback_Survey24>Very clear · 24px/cell</MF_Feedback_Survey24>
+  <MF_Caption_scene_wedding_pair_1>{6} and {7}'s wedding. Both are pictured together in this photograph.</MF_Caption_scene_wedding_pair_1>
+  <MF_Caption_scene_wedding_pair_2>{6} and {7} appear together in their wedding photograph.</MF_Caption_scene_wedding_pair_2>
+  <MF_Caption_scene_wedding_pair_3>{6} and {7}, photographed together on their wedding day.</MF_Caption_scene_wedding_pair_3>
+  <MF_Caption_scene_wedding_scene_1>A photograph of the place where the wedding took place.</MF_Caption_scene_wedding_scene_1>
+  <MF_Caption_scene_wedding_scene_group_1>The people photographed together at the wedding venue.</MF_Caption_scene_wedding_scene_group_1>
+  <MF_Caption_scene_wedding_later_1>A later view of the wedding venue, kept with the original event record.</MF_Caption_scene_wedding_later_1>
+  <MF_CaptureRememberShort>Remember by default</MF_CaptureRememberShort>
+</LanguageData>

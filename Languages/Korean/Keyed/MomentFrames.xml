@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ChoosePhoto>사진 고르기</MF_ChoosePhoto>
+  <MF_ChoosePhotoDesc>이 액자에 걸 사진을 고릅니다.</MF_ChoosePhotoDesc>
+  <MF_FrameStyle>액자 모양</MF_FrameStyle>
+  <MF_FrameStyleDesc>이 액자의 모양을 바꿉니다(지금: {0}). 액자를 여러 개 선택했으면 모두 바뀝니다.</MF_FrameStyleDesc>
+  <MF_Style_Material>재료 색 나무틀</MF_Style_Material>
+  <MF_Style_BlackMat>검은 테와 흰 여백</MF_Style_BlackMat>
+  <MF_Style_Gilded>금박</MF_Style_Gilded>
+  <MF_Style_Polaroid>폴라로이드</MF_Style_Polaroid>
+  <MF_Style_Canvas>캔버스(테 없음)</MF_Style_Canvas>
+  <MF_StyleCurrent>(지금)</MF_StyleCurrent>
+  <MF_ViewPhoto>크게 보기</MF_ViewPhoto>
+  <MF_ViewPhotoDesc>걸린 사진을 크게 봅니다.</MF_ViewPhotoDesc>
+  <MF_ClearPhoto>비우기</MF_ClearPhoto>
+  <MF_ClearPhotoDesc>액자에서 사진을 뺍니다. 파일은 그대로 남습니다.</MF_ClearPhotoDesc>
+  <MF_TakePhoto>사진 찍기</MF_TakePhoto>
+  <MF_TakePhotoDesc>지정한 지점을 중심으로 사진을 찍어 파일로 저장합니다. 액자에 걸 수 있습니다.</MF_TakePhotoDesc>
+  <MF_ManualTitle>촬영 {0}</MF_ManualTitle>
+  <MF_PhotoTaken>사진을 찍었습니다: {0}</MF_PhotoTaken>
+  <MF_PhotoTakenBirthday>사진을 찍었습니다: {0}. 생일 사진은 그 사람의 연대기 탭에 쌓입니다.</MF_PhotoTakenBirthday>
+  <MF_PhotoFailed>사진 촬영에 실패했습니다: {0}</MF_PhotoFailed>
+  <MF_NoPhoto>사진 없음</MF_NoPhoto>
+  <MF_NoPhotosYet>아직 찍은 사진이 없습니다. 잡동사니 탭의 '사진 찍기'로 직접 찍거나, 결혼식·파티·의식이 열리면 자동으로 찍힙니다.</MF_NoPhotosYet>
+  <MF_MissingFile>사진 파일이 없습니다</MF_MissingFile>
+  <MF_OpenFolder>폴더 열기</MF_OpenFolder>
+  <MF_People>함께한 사람: {0}</MF_People>
+  <MF_ChooserTitle>사진 고르기 — {0}</MF_ChooserTitle>
+  <MF_NorthSouthOnly>가로 벽(북쪽·남쪽)에만 걸 수 있습니다</MF_NorthSouthOnly>
+  <MF_DragHint>드래그로 찍을 영역을 지정하세요. 그은 비율 그대로 찍히고 액자도 그 비율을 따라갑니다 (세로 2:3 ~ 가로 3:1). 클릭만 하면 기본 범위(3:2).</MF_DragHint>
+  <MF_Wedding>결혼식: {0} ♥ {1}</MF_Wedding>
+  <MF_Party>파티: {0} 주최</MF_Party>
+  <MF_Ritual>의식: {0}</MF_Ritual>
+  <MF_Baby>출산: {0}</MF_Baby>
+  <MF_Death>영면: {0}</MF_Death>
+  <MF_Recruit>영입: {0}</MF_Recruit>
+  <MF_Legendary>전설 작품: {0}</MF_Legendary>
+  <MF_ShipLaunch>함선 발사</MF_ShipLaunch>
+  <MF_MechBoss>격파: {0}</MF_MechBoss>
+  <MF_ColonyStart>{0}의 첫날</MF_ColonyStart>
+  <MF_Mechlink>메크링크: {0}</MF_Mechlink>
+  <MF_RelicFound>유물 획득: {0}</MF_RelicFound>
+  <MF_SurgeryFail>수술대에서: {0}</MF_SurgeryFail>
+  <MF_Xenogerm>이종유전자 이식: {0}</MF_Xenogerm>
+  <MF_Sanguophage>혈귀: {0}</MF_Sanguophage>
+  <MF_Persona>{0}과(와) {1}</MF_Persona>
+  <MF_TitleGained>{0}, {1}이(가) 되다</MF_TitleGained>
+  <MF_IdeoReform>이념 개혁: {0}</MF_IdeoReform>
+  <MF_RareSeen>{0}을(를) 만나다</MF_RareSeen>
+  <MF_RareTamed>{0}을(를) 길들이다</MF_RareTamed>
+  <MF_Anomaly>{0} 출현</MF_Anomaly>
+  <MF_Contained>{0} 격리</MF_Contained>
+  <MF_ShipCountdown>함선 발사 초읽기</MF_ShipCountdown>
+  <MF_EndingPlace>{0} 앞에서</MF_EndingPlace>
+  <MF_Kind_battle>격퇴</MF_Kind_battle>
+  <MF_Battle_raid>{0}의 습격을 막아낸 날</MF_Battle_raid>
+  <MF_Battle_siege>{0}의 포위를 버텨 낸 날</MF_Battle_siege>
+  <MF_Battle_mechcluster>기계 무리를 부순 날</MF_Battle_mechcluster>
+  <MF_Battle_infestation>곤충 무리를 몰아낸 날</MF_Battle_infestation>
+  <MF_Battle_animals>광분한 짐승 떼를 막아낸 날</MF_Battle_animals>
+  <MF_Battle_threat>{0}을(를) 막아낸 날</MF_Battle_threat>
+  <MF_Battle_Enemy>적</MF_Battle_Enemy>
+  <MF_Desc_battle_1>싸움이 끝났을 때, 그들은 아직 서 있었다. {2}, {3}.</MF_Desc_battle_1>
+  <MF_Desc_battle_2>싸움이 끝난 뒤의 {0}. 아무도 말이 없었다.</MF_Desc_battle_2>
+  <MF_Desc_battle_3>{3}이(가) 버텨 낸 날. {2}.</MF_Desc_battle_3>
+  <MF_Set_Battle>막아낸 싸움</MF_Set_Battle>
+  <MF_Set_BattleDesc>큰 위협(습격·포위·기계 무리·곤충 무리·광분한 짐승 떼)이 지나가 지도가 다시 평온해지면, 적이 쓰러진 자리의 정착민들을 찍습니다.</MF_Set_BattleDesc>
+  <MF_Set_BattleOff>찍지 않기</MF_Set_BattleOff>
+  <MF_Set_BattleFirsts>종류마다 첫 번째만</MF_Set_BattleFirsts>
+  <MF_Set_BattleHard>종류마다 첫 번째 + 힘든 싸움(누가 쓰러지거나 죽음, 또는 적이 더 많음), 한 계절에 최대 한 장</MF_Set_BattleHard>
+  <MF_Set_BattleEvery>막아낼 때마다</MF_Set_BattleEvery>
+  <MF_Kind_disaster>재해</MF_Kind_disaster>
+  <MF_Kind_sky>하늘</MF_Kind_sky>
+  <MF_DisasterDuring>{0} 속에서</MF_DisasterDuring>
+  <MF_SkyUnder>{0} 아래에서</MF_SkyUnder>
+  <MF_Cond_DeathPall>죽음의 장막</MF_Cond_DeathPall>
+  <MF_Cond_GrayPall>잿빛 장막</MF_Cond_GrayPall>
+  <MF_Desc_disaster_1>모두가 이것이 지나가기를 기다렸다. {2}, {3}.</MF_Desc_disaster_1>
+  <MF_Desc_disaster_2>{3}의 하루. 아직 끝나지 않았다.</MF_Desc_disaster_2>
+  <MF_Desc_sky_1>밖에 있던 사람들이 모두 하늘을 올려다보았다. {2}.</MF_Desc_sky_1>
+  <MF_Desc_sky_2>낯선 하늘 아래의 {0}.</MF_Desc_sky_2>
+  <MF_Set_Disaster>버텨 낸 재해</MF_Set_Disaster>
+  <MF_Set_DisasterDesc>재해(독성 낙진·화산 겨울·혹한·폭염·화염 폭풍·산성 스모그, 확장팩의 재해)가 한창일 때 낮에 정착지를 넓게 찍습니다. 종류마다 첫 번째, 그 뒤로는 한 계절에 최대 한 장.</MF_Set_DisasterDesc>
+  <MF_Set_Sky>하늘 현상</MF_Set_Sky>
+  <MF_Set_SkyDesc>밤의 오로라·빛나는 포자, 낮의 일식이 있을 때 밖에 있는 정착민들을 찍습니다. 종류마다 첫 번째, 그 뒤로는 한 계절에 최대 한 장.</MF_Set_SkyDesc>
+  <MF_Kind_memorynight>추억의 밤</MF_Kind_memorynight>
+  <MF_MemoryNightTitle>추억의 밤: {0}</MF_MemoryNightTitle>
+  <MF_MemoryNightReport>추억의 밤에서 사진을 보는 중.</MF_MemoryNightReport>
+  <MF_MemoryNightOpen>추억의 밤</MF_MemoryNightOpen>
+  <MF_MemoryNightOpenDesc>필름과 참석자, 감상 시간을 골라 추억의 밤을 준비합니다. 진행 중 다시 누르면 진행창이 열리며, 모이는 중에도 감상 중에도 행사 취소로 끝낼 수 있습니다. 창을 닫는 것만으로는 취소되지 않습니다.</MF_MemoryNightOpenDesc>
+  <MF_MemoryNightFewPhotos>필름에 사진이 {0}장 이상 있어야 합니다.</MF_MemoryNightFewPhotos>
+  <MF_MemoryNightAlready>이미 추억의 밤이 열려 있습니다.</MF_MemoryNightAlready>
+  <MF_MemoryNightNobody>지금은 추억의 밤을 열 사람이 없습니다.</MF_MemoryNightNobody>
+  <MF_FilmYear>{0}년</MF_FilmYear>
+  <MF_YearLetterTitle>사진으로 본 {0}년</MF_YearLetterTitle>
+  <MF_YearLetterText>{0}년이 지났습니다. 사진 {1}장. 그해의 순간들:\n\n{2}</MF_YearLetterText>
+  <MF_YearLetterNone>(그해의 이정표 사진은 없습니다)</MF_YearLetterNone>
+  <MF_YearLetterAlbum>앨범에서 그해 사진 보기</MF_YearLetterAlbum>
+  <MF_YearLetterNight>{0}년 사진으로 추억의 밤 열기</MF_YearLetterNight>
+  <MF_YearLetterNoProjector>환등기가 없습니다.</MF_YearLetterNoProjector>
+  <MF_Desc_memorynight_1>불이 꺼지고, 정착지는 자기 모습을 보았다. {2}.</MF_Desc_memorynight_1>
+  <MF_Desc_memorynight_2>오래된 사진들 앞의 {0}.</MF_Desc_memorynight_2>
+  <MF_Set_MemoryNight>추억의 밤</MF_Set_MemoryNight>
+  <MF_Set_MemoryNightDesc>저녁에 가끔 정착민 한 명이 모두를 환등기 앞에 모아 필름을 함께 봅니다. 환등기의 버튼으로는 언제든 열 수 있습니다.</MF_Set_MemoryNightDesc>
+  <MF_Set_YearLetter>사진으로 본 한 해</MF_Set_YearLetter>
+  <MF_Set_YearLetterDesc>정착지의 한 해가 바뀌면 지난해 편지가 옵니다: 사진 수, 그해의 순간들, 그리고 앨범이나 추억의 밤으로 가는 길.</MF_Set_YearLetterDesc>
+  <MF_Life_joined>정착지에 합류</MF_Life_joined>
+  <MF_Life_born>정착지에서 태어남</MF_Life_born>
+  <MF_Life_lover>{0}와(과) 연인이 됨</MF_Life_lover>
+  <MF_Life_fiance>{0}와(과) 약혼</MF_Life_fiance>
+  <MF_Life_spouse>{0}와(과) 결혼</MF_Life_spouse>
+  <MF_Life_brokeup>{0}와(과) 헤어짐</MF_Life_brokeup>
+  <MF_Life_divorced>{0}와(과) 이혼</MF_Life_divorced>
+  <MF_Life_bond>{0}와(과) 유대를 맺음</MF_Life_bond>
+  <MF_Life_captured>{0}에게 끌려감</MF_Life_captured>
+  <MF_Life_limb>{0}을(를) 잃음 ({1})</MF_Life_limb>
+  <MF_Life_limbPlain>{0}을(를) 잃음</MF_Life_limbPlain>
+  <MF_Set_Life>정착민 연대기에 인생 사건 기록</MF_Set_Life>
+  <MF_Set_LifeDesc>사진이 없는 순간을 그 정착민의 연대기에 사진 사이로 한 줄씩 남깁니다: 합류·태어남, 연인, 약혼, 결혼, 헤어짐·이혼, 동물과 유대, 습격자에게 끌려감, 팔다리를 잃음.</MF_Set_LifeDesc>
+  <MF_EndingAscension>승천의 시작</MF_EndingAscension>
+  <MF_EndingMechhive>기계 총뇌에 도달</MF_EndingMechhive>
+  <MF_EndingMechhiveDone>멈춰 선 기계 총뇌</MF_EndingMechhiveDone>
+  <MF_EndingRoyalAscent>왕국 결말의 시작</MF_EndingRoyalAscent>
+  <MF_EndingRoyalShuttle>황실 셔틀 도착</MF_EndingRoyalShuttle>
+  <MF_EndingArchonexusMove>아르코넥서스를 향해 떠나는 날 ({0}/2)</MF_EndingArchonexusMove>
+  <MF_SpecialTree>{0}이(가) 자리 잡다</MF_SpecialTree>
+  <MF_Set_Span>직접 촬영 범위 (세로 {0}칸, 가로는 1.5배 — 행사 사진은 참가자에 맞춰 자동)</MF_Set_Span>
+  <MF_Set_PxPerCell>사진 해상도: 칸당 {0}px ({1}칸 범위면 {2}×{3})</MF_Set_PxPerCell>
+  <MF_Set_PxPerCellDesc>기본은 칸당 192px입니다. 촬영 범위를 유지하면서 확대·잘라내기용 원본 해상도를 높입니다. 촬영·저장 시간과 파일 크기는 늘어날 수 있습니다(한 변 최대 4096px). 지도 위 액자는 기존 작은 썸네일을 사용합니다.</MF_Set_PxPerCellDesc>
+  <MF_Set_EventZoom>행사 사진 줌: {0}배 (클수록 가까이)</MF_Set_EventZoom>
+  <MF_Set_EventZoomDesc>결혼식·파티·의식·이정표처럼 모드가 알아서 구도를 잡는 사진에만 적용됩니다. 1.0이 지금까지의 범위이고, 1.1이면 그만큼 당겨서(좁게), 0.9면 그만큼 물러서서(넓게) 찍습니다. 직접 찍는 사진과 단체 사진은 각자 설정을 따릅니다.</MF_Set_EventZoomDesc>
+  <MF_Set_Bright>밤에 찍어도 낮처럼 밝게</MF_Set_Bright>
+  <MF_Set_Fx>촬영 연출</MF_Set_Fx>
+  <MF_Set_FxFlash>플래시 (화면이 하얗게 번쩍)</MF_Set_FxFlash>
+  <MF_Set_FxShutter>셔터음</MF_Set_FxShutter>
+  <MF_Set_FxPopup>사진 카드 (찍힌 사진이 화면 가운데서 구석으로 줄어들며 잠시 떠 있음, 클릭하면 크게 보기)</MF_Set_FxPopup>
+  <MF_Set_FxCamera>찍는 곳으로 화면 이동</MF_Set_FxCamera>
+  <MF_Set_FxCameraDesc>행사·이정표 사진을 찍을 때 화면이 그 자리로 옮겨가고, 사진에 담긴 범위만큼 확대·축소됩니다. 직접 찍은 사진에는 적용되지 않습니다.</MF_Set_FxCameraDesc>
+  <MF_Set_FxFreeze>정지 화면 (찍는 순간 게임을 0.5초 멈춤)</MF_Set_FxFreeze>
+  <MF_Set_FxFreezeDesc>배속은 건드리지 않고 잠깐만 멈춥니다. 습격 중 사망 사진처럼 바쁜 순간에도 멈추므로 기본은 꺼 둡니다.</MF_Set_FxFreezeDesc>
+  <MF_Set_Weddings>결혼식 자동 촬영</MF_Set_Weddings>
+  <MF_Set_Parties>파티·축제 자동 촬영 (파티, 이념의 축하 파티·하늘등불·나무 축제)</MF_Set_Parties>
+  <MF_Set_Funerals>장례식 자동 촬영</MF_Set_Funerals>
+  <MF_Set_Rituals>종교 의식 자동 촬영 (재판·처형·개종·희생·결투·나무 연결 등)</MF_Set_Rituals>
+  <MF_Set_RitualsDesc>자주 반복되는 의식은 찍지 않습니다: 지도자 연설, 왕좌 연설, 연기·불 서클, 영혼나무 연결, 역할 변경(취임 이정표로 대신), 출산 의식(출산 이정표로 대신), 그래브십 발사 의식(발사 이정표로 대신).</MF_Set_RitualsDesc>
+  <MF_Set_RitualExclude>추가로 찍지 않을 의식 (defName, 쉼표로 구분)</MF_Set_RitualExclude>
+  <MF_Set_Role>이념 역할 취임 (지도자·도덕 지도자·전문가)</MF_Set_Role>
+  <MF_Set_Bestow>작위 수여식</MF_Set_Bestow>
+  <MF_Funeral>장례식: {0}</MF_Funeral>
+  <MF_Celebration>{0}: {1} 주최</MF_Celebration>
+  <MF_CelebrationPlain>{0}</MF_CelebrationPlain>
+  <MF_Role>취임: {0} — {1}</MF_Role>
+  <MF_Bestow>작위 수여: {0} — {1}</MF_Bestow>
+  <MF_GravshipLaunch>그래브십 발사: {0}</MF_GravshipLaunch>
+  <MF_Set_Baby>출산</MF_Set_Baby>
+  <MF_Set_Death>정착민 사망</MF_Set_Death>
+  <MF_Set_Recruit>영입</MF_Set_Recruit>
+  <MF_Set_RecruitFirstOnly>영입은 첫 번째만</MF_Set_RecruitFirstOnly>
+  <MF_Set_Legendary>전설 품질 제작</MF_Set_Legendary>
+  <MF_Set_Ship>함선·그래브십 발사</MF_Set_Ship>
+  <MF_Set_MechBoss>메카노이드 보스 격파</MF_Set_MechBoss>
+  <MF_Set_ColonyStart>정착 첫날</MF_Set_ColonyStart>
+  <MF_Set_Mechlink>메크링크 설치</MF_Set_Mechlink>
+  <MF_Set_RelicFound>유물 획득</MF_Set_RelicFound>
+  <MF_Set_Personal>정착민 개인 사건</MF_Set_Personal>
+  <MF_Set_PersonalDesc>수술 대실패, 혈귀, 이종유전자 이식, 페르소나 무기 장착, 백작 이상 작위, 이념 개혁, 영혼나무가 정착지에 자리 잡을 때(옮겨심기·자연 발생).</MF_Set_PersonalDesc>
+  <MF_Set_RareAnimal>희귀 동물</MF_Set_RareAnimal>
+  <MF_Set_RareAnimalDesc>알파 트럼보·곤충 여왕을 처음 만났을 때와 길들였을 때.</MF_Set_RareAnimalDesc>
+  <MF_Set_Anomaly>이상 현상(어노말리)</MF_Set_Anomaly>
+  <MF_Set_Ending>결말 단계</MF_Set_Ending>
+  <MF_Set_EndingDesc>함선 발사 초읽기, 왕국 결말의 시작과 황실 셔틀 도착, 아르코넥서스를 향한 이주와 승천, 기계 총뇌 도달과 그 핵을 멈춘 순간, 아르코넥서스 핵·공허 노드 앞에 섰을 때.</MF_Set_EndingDesc>
+  <MF_Set_AnomalyDesc>레번트·노시오스피어·구울·드레드멜드·포식자·키메라·시선도둑·금속공포체, 그리고 살덩이 심장·구덩이 관문·황금 큐브·부자연스러운 시체를 처음 봤을 때. 첫 개체 격리도.</MF_Set_AnomalyDesc>
+  <MF_Set_Resurrect>정착민 부활 (사람마다 첫 번째)</MF_Set_Resurrect>
+  <MF_Set_Relic>이념 유물 안치 (이데올로기, 유물마다 첫 번째)</MF_Set_Relic>
+  <MF_Set_Monolith>모노리스 단계 전환 (어노말리)</MF_Set_Monolith>
+  <MF_Resurrect>부활: {0}</MF_Resurrect>
+  <MF_RelicInstalled>유물 안치: {0}</MF_RelicInstalled>
+  <MF_Monolith>모노리스: {0}</MF_Monolith>
+  <MF_Kind_resurrect>부활</MF_Kind_resurrect>
+  <MF_Kind_reliquary>유물 안치</MF_Kind_reliquary>
+  <MF_Kind_monolith>모노리스</MF_Kind_monolith>
+  <MF_Set_Folder>사진 저장 폴더 (비우면 기본: 세이브 폴더\MomentFrames). 이미 찍은 사진은 옮겨지지 않습니다. 바꾸면 되돌리거나 파일을 직접 옮기기 전까지 기존 사진이 '파일 없음'으로 보입니다.</MF_Set_Folder>
+  <MF_Set_Milestones>이정표 자동 촬영</MF_Set_Milestones>
+  <MF_AlbumTitle>정착지 앨범</MF_AlbumTitle>
+  <MF_Tab_Photos>사진</MF_Tab_Photos>
+  <MF_Tab_Chronicle>연대기</MF_Tab_Chronicle>
+  <MF_Filter_Kind>종류</MF_Filter_Kind>
+  <MF_Filter_Person>인물</MF_Filter_Person>
+  <MF_Filter_Year>연도</MF_Filter_Year>
+  <MF_All>전체</MF_All>
+  <MF_YearLabel>{0}년</MF_YearLabel>
+  <MF_PageOf>{0} / {1}쪽</MF_PageOf>
+  <MF_Export>HTML로 내보내기</MF_Export>
+  <MF_ExportDesc>사진 폴더에 album.html을 만들어 브라우저에서 연대기와 슬라이드쇼로 봅니다.</MF_ExportDesc>
+  <MF_Exported>내보냈습니다: {0}</MF_Exported>
+  <MF_IncludeManual>직접 촬영 포함</MF_IncludeManual>
+  <MF_NoPhotosAlbum>아직 사진이 없습니다.</MF_NoPhotosAlbum>
+  <MF_Delayed>지연 촬영: 사건 뒤에 찍혀 그 순간의 모습이 아닐 수 있습니다</MF_Delayed>
+  <MF_PawnPhotos>사진 {0}장</MF_PawnPhotos>
+  <MF_TabChronicle>연대기</MF_TabChronicle>
+  <MF_TabChronicleTitle>{0}의 연대기</MF_TabChronicleTitle>
+  <MF_TabMilestonesOnly>이정표만</MF_TabMilestonesOnly>
+  <MF_TabNoMilestones>{0}이(가) 나온 이정표 사진이 아직 없습니다.</MF_TabNoMilestones>
+  <MF_TabOpenAlbum>앨범에서 보기</MF_TabOpenAlbum>
+  <MF_TabNoPhotos>{0}이(가) 나온 사진이 아직 없습니다.</MF_TabNoPhotos>
+  <MF_Kind_wedding>결혼식</MF_Kind_wedding>
+  <MF_Kind_party>파티·축제</MF_Kind_party>
+  <MF_Kind_funeral>장례식</MF_Kind_funeral>
+  <MF_Kind_ritual>종교 의식</MF_Kind_ritual>
+  <MF_Kind_baby>출산</MF_Kind_baby>
+  <MF_Kind_death>영면</MF_Kind_death>
+  <MF_Kind_recruit>영입</MF_Kind_recruit>
+  <MF_Kind_legendary>전설 작품</MF_Kind_legendary>
+  <MF_Kind_ship>함선 발사</MF_Kind_ship>
+  <MF_Kind_gravship>그래브십 발사</MF_Kind_gravship>
+  <MF_Kind_mechboss>보스 격파</MF_Kind_mechboss>
+  <MF_Kind_colonystart>정착 첫날</MF_Kind_colonystart>
+  <MF_Kind_mechlink>메크링크</MF_Kind_mechlink>
+  <MF_Kind_relicfound>유물 획득</MF_Kind_relicfound>
+  <MF_Kind_surgeryfail>수술 대실패</MF_Kind_surgeryfail>
+  <MF_Kind_xenogerm>이종유전자 이식</MF_Kind_xenogerm>
+  <MF_Kind_sanguophage>혈귀</MF_Kind_sanguophage>
+  <MF_Kind_persona>페르소나 무기</MF_Kind_persona>
+  <MF_Kind_title>작위 승급</MF_Kind_title>
+  <MF_Kind_ideoreform>이념 개혁</MF_Kind_ideoreform>
+  <MF_Kind_rareseen>희귀 동물</MF_Kind_rareseen>
+  <MF_Kind_raretamed>희귀 동물 길들임</MF_Kind_raretamed>
+  <MF_Kind_anomaly>이상 현상</MF_Kind_anomaly>
+  <MF_Kind_contained>개체 격리</MF_Kind_contained>
+  <MF_Kind_ending>결말</MF_Kind_ending>
+  <MF_Kind_specialtree>영혼나무</MF_Kind_specialtree>
+  <MF_Kind_role>역할 취임</MF_Kind_role>
+  <MF_Kind_bestow>작위 수여</MF_Kind_bestow>
+  <MF_Kind_manual>직접 촬영</MF_Kind_manual>
+  <MF_Kind_test>테스트</MF_Kind_test>
+  <MF_Kind_reshoot>재촬영</MF_Kind_reshoot>
+  <MF_Kind_anniversary>정착 기념일</MF_Kind_anniversary>
+  <MF_Kind_population>인구 이정표</MF_Kind_population>
+  <MF_Kind_landing>그래브십 착륙</MF_Kind_landing>
+  <MF_Reunion>그때 그 사람들 다시</MF_Reunion>
+  <MF_ReunionDesc>이 사진에 찍힌 정착민들을 같은 자리로 불러 같은 구도로 다시 찍습니다. 못 오는 사람은 빼고 찍습니다.</MF_ReunionDesc>
+  <MF_ReunionSub>{0}\n이 사진에 찍힌 사람들을 같은 자리로 부릅니다.</MF_ReunionSub>
+  <MF_ReunionCall>{0}명 부르기</MF_ReunionCall>
+  <MF_ReunionNoOne>올 수 있는 사람이 없음</MF_ReunionNoOne>
+  <MF_ReunionFailed>지금은 부를 수 없습니다.</MF_ReunionFailed>
+  <MF_ReunionTitle>다시: {0}</MF_ReunionTitle>
+  <MF_Reunion_Ready>올 수 있음</MF_Reunion_Ready>
+  <MF_Reunion_Dead>세상을 떠남</MF_Reunion_Dead>
+  <MF_Reunion_Gone>기록에만 남음</MF_Reunion_Gone>
+  <MF_Reunion_Away>이 지도에 없음</MF_Reunion_Away>
+  <MF_Reunion_NotOurs>더는 정착민이 아님</MF_Reunion_NotOurs>
+  <MF_Why_Dead>사망</MF_Why_Dead>
+  <MF_Reshoot>같은 구도로 다시 찍기</MF_Reshoot>
+  <MF_ReshootQueued>같은 구도로 다시 찍습니다. 그 지도를 보고 있을 때 찍힙니다.</MF_ReshootQueued>
+  <MF_ReshootTitle>재촬영: {0}</MF_ReshootTitle>
+  <MF_NoMapForReshoot>그 지도가 더는 없어 같은 구도로 찍을 수 없습니다.</MF_NoMapForReshoot>
+  <MF_ViewOriginal>원본 보기</MF_ViewOriginal>
+  <MF_ViewReshoot>재촬영 보기</MF_ViewReshoot>
+  <MF_Anniversary>정착 {0}주년</MF_Anniversary>
+  <MF_Population>정착민 {0}명</MF_Population>
+  <MF_FirstLanding>첫 착륙: {0}</MF_FirstLanding>
+  <MF_Set_Historic>정착 기념일·인구 이정표(10·20·30·50·100명)·첫 그래브십 착륙</MF_Set_Historic>
+  <MF_Set_HistoricDesc>매년 정착일에 콜로니 전경 한 장, 정착민 수가 처음 10·20·30·50·100명이 될 때 한 장, 오디세이 그래브십 첫 착륙 한 장. 하루 한 번만 확인합니다.</MF_Set_HistoricDesc>
+  <MF_Set_AnniversaryLetter>기념일 봉투: 이정표 사진이 찍힌 지 꼭 1년 되는 날 편지로 옴 (사진마다 한 번, 하루 최대 한 통)</MF_Set_AnniversaryLetter>
+  <MF_Set_AlbumTilt>앨범: 사진을 살짝 기울여 붙임</MF_Set_AlbumTilt>
+  <MF_Set_ProjectorSeconds>환등기: 사진 한 장당 실제 {0}초</MF_Set_ProjectorSeconds>
+  <MF_Set_ProjectorSecondsDesc>게임 시간이 아니라 실제 시간이라 배속과 무관하게 같은 속도로 넘어갑니다(900 TPS면 게임 1시간이 3초). 일시정지 중에는 멈춥니다.</MF_Set_ProjectorSecondsDesc>
+  <MF_Set_Reminisce>추억 감상: 정착민이 여가로 걸린 사진을 보러 가고, 같은 사진에 함께 찍힌 둘은 가끔 "그때 기억나?" 하고 추억을 나눔</MF_Set_Reminisce>
+  <MF_Set_ReminisceDesc>액자에 걸린 사진만 해당합니다. 자기가 나온 사진을 보거나 추억을 나누면 하루 동안 기분 +3. 한 번에 하나만 남아 겹치지 않습니다.</MF_Set_ReminisceDesc>
+  <MF_Rename>제목 바꾸기</MF_Rename>
+  <MF_RenameTitle>사진 아래 제목 (액자·앨범·연대기·album.html에 모두 표시)</MF_RenameTitle>
+  <MF_RenameEmpty>제목을 비울 수 없습니다.</MF_RenameEmpty>
+  <MF_Slot>{0}번 칸</MF_Slot>
+  <MF_EmptySlot>비어 있음</MF_EmptySlot>
+  <MF_ChooseSlotDesc>네 칸 중 하나에 걸 사진을 고릅니다.</MF_ChooseSlotDesc>
+  <MF_ClearSlotDesc>한 칸의 사진을 뺍니다. 파일은 그대로 남습니다.</MF_ClearSlotDesc>
+  <MF_Html_kicker>Moment Frames · 정착지 앨범</MF_Html_kicker>
+  <MF_Html_title>{0}의 앨범</MF_Html_title>
+  <MF_Html_statPhotos>사진 {0}장</MF_Html_statPhotos>
+  <MF_Html_statPeople>정착민 {0}명</MF_Html_statPeople>
+  <MF_Html_statYears>{0}년의 기록</MF_Html_statYears>
+  <MF_Html_statMilestones>큰 순간 {0}번</MF_Html_statMilestones>
+  <MF_Html_chapterCount>{0}장의 순간</MF_Html_chapterCount>
+  <MF_Html_milestone>큰 순간</MF_Html_milestone>
+  <MF_Html_all>전체</MF_Html_all>
+  <MF_Html_everyone>모든 사람</MF_Html_everyone>
+  <MF_Html_slideshow>슬라이드쇼</MF_Html_slideshow>
+  <MF_Html_pause>멈춤</MF_Html_pause>
+  <MF_Html_footer>Moment Frames로 만든 앨범 · {0}</MF_Html_footer>
+  <MF_RenameEdit>편집본 제목</MF_RenameEdit>
+  <MF_EditNote>편집본 메모</MF_EditNote>
+  <MF_RenameEditTitle>편집 {0}의 제목 (비워 두면 사진 제목을 씁니다):</MF_RenameEditTitle>
+  <MF_EditNoteTitle>편집 {0}의 메모 (사진 설명 그대로 두면 사진 설명을 씁니다):</MF_EditNoteTitle>
+  <MF_EditTextDesc>지금 보고 있는 편집본의 제목·메모만 바꿉니다. 사진 자체의 제목·설명은 아래 띠에서 "원본"을 눌러 바꿉니다.</MF_EditTextDesc>
+  <MF_AlbumOpacity>투명도</MF_AlbumOpacity>
+  <MF_AlbumOpacityDesc>앨범 가죽·종이의 불투명도입니다. 낮추면 뒤의 정착지가 비쳐 보이고, 사진과 글자는 그대로입니다. 빈 곳을 끌어 창을 옮기고, 오른쪽 아래 모서리로 크기를 바꿉니다.</MF_AlbumOpacityDesc>
+  <MF_AlbumReset>앨범 창을 원래 크기와 위치로 되돌립니다.</MF_AlbumReset>
+  <MF_TalkPhotos>{0}이(가) 찍힌 사진: {1}</MF_TalkPhotos>
+  <MF_TalkPhoto>{0} ({1})</MF_TalkPhoto>
+  <MF_TalkPhotoWith>{0} ({1}, {2}와(과) 함께)</MF_TalkPhotoWith>
+  <MF_TalkAgo>{0} 전</MF_TalkAgo>
+  <MF_PlacesToggle>추억의 장소: 이 지도에서 사진을 찍은 자리마다 사진 핀을 보여 줍니다.</MF_PlacesToggle>
+  <MF_PlacesMore>외 {0}장</MF_PlacesMore>
+  <MF_PlacesThenNow>그때와 지금: {0}</MF_PlacesThenNow>
+  <MF_PlacesReshoot>여기서 같은 구도로 다시 찍기: {0}</MF_PlacesReshoot>
+  <MF_ThenNowTitle>그때와 지금</MF_ThenNowTitle>
+  <MF_Then>그때</MF_Then>
+  <MF_Now>지금</MF_Now>
+  <MF_SlotCrop>보일 부분</MF_SlotCrop>
+  <MF_SlotCropDesc>창에 맞추느라 많이 잘리는 사진(세로 사진·파노라마)의 어느 부분을 보일지 고릅니다(위·가운데·아래, 왼쪽·가운데·오른쪽).</MF_SlotCropDesc>
+  <MF_SlotCropNone>이 판에는 많이 잘리는 사진이 없습니다.</MF_SlotCropNone>
+  <MF_CropTitle>{0}번 칸: 보일 부분 고르기</MF_CropTitle>
+  <MF_CropPrompt>창에 맞추면 사진 일부가 잘립니다. 보일 부분을 누르세요.</MF_CropPrompt>
+  <MF_CropTop>위쪽</MF_CropTop>
+  <MF_CropMiddle>가운데</MF_CropMiddle>
+  <MF_CropBottom>아래쪽</MF_CropBottom>
+  <MF_CropLeft>왼쪽</MF_CropLeft>
+  <MF_CropRight>오른쪽</MF_CropRight>
+  <MF_CropRecommended>추천</MF_CropRecommended>
+  <MF_CollageCount>사진 {0}/{1}장</MF_CollageCount>
+  <MF_ProjectorShowing>상영 중: {0} ({1}/{2})</MF_ProjectorShowing>
+  <MF_ProjectorIdle>이 필름에 맞는 사진이 아직 없습니다.</MF_ProjectorIdle>
+  <MF_ProjectorFilm>필름 고르기</MF_ProjectorFilm>
+  <MF_ProjectorFilmDesc>환등기가 돌릴 사진을 고릅니다: 전체, 이정표만, 종류 하나, 인물 한 명.</MF_ProjectorFilmDesc>
+  <MF_ProjectorFilmLine>필름: {0}</MF_ProjectorFilmLine>
+  <MF_FilmAll>전체 사진</MF_FilmAll>
+  <MF_FilmMilestones>이정표만</MF_FilmMilestones>
+  <MF_FilmKind>종류: {0}</MF_FilmKind>
+  <MF_FilmPerson>인물: {0}</MF_FilmPerson>
+  <MF_ProjectorNext>다음 사진</MF_ProjectorNext>
+  <MF_ProjectorNextDesc>지금 바로 필름의 다음 사진으로 넘깁니다.</MF_ProjectorNextDesc>
+  <MF_MemorialOf>추모: {0}</MF_MemorialOf>
+  <MF_MemorialNoGrave>인접한 무덤에 시신이 없습니다. 무덤·석관 옆에 두거나 사진을 직접 고르세요.</MF_MemorialNoGrave>
+  <MF_Set_Fade>사진 바램: 액자에 건 사진이 세월 따라 누렇게 바램 (품질 '완벽' 이상 액자는 절반 속도)</MF_Set_Fade>
+  <MF_Set_FadeDesc>지도 위 액자의 색만 바뀝니다. 파일·앨범·크게 보기는 원본 그대로이고 저장되는 것도 없습니다. 옛 정착지 사진은 처음부터 반쯤 바랜 채로 옵니다. 개발자 모드 디버그 액션 "Fade preview"로 10년 뒤 모습을 미리 볼 수 있습니다.</MF_Set_FadeDesc>
+  <MF_Set_FadeYears>사진 바램: {0}년이 지나면 완전히 바램</MF_Set_FadeYears>
+  <MF_Kind_relic>옛 정착지 사진</MF_Kind_relic>
+  <MF_Relics>옛 정착지 사진</MF_Relics>
+  <MF_RelicsDesc>이 PC의 다른 정착지(세이브)에서 찍힌 사진을 이 앨범으로 가져옵니다. 누가 찍혔는지는 비운 채 들어오고(다른 세이브의 인물 번호는 여기서는 엉뚱한 사람을 가리키므로), 기념일 봉투·추억 나누기 대상은 아닙니다.</MF_RelicsDesc>
+  <MF_RelicTitle>옛 정착지의 사진</MF_RelicTitle>
+  <MF_RelicNoSources>다른 정착지의 사진 폴더가 없습니다. 사진 폴더에는 게임마다 폴더가 하나씩 생기며, 이 게임 것을 뺀 나머지를 찾습니다: {0}</MF_RelicNoSources>
+  <MF_RelicSource>{0}\n사진 {1}장 · 가져옴 {2}장</MF_RelicSource>
+  <MF_RelicImportAll>남은 {0}장 전부 가져오기</MF_RelicImportAll>
+  <MF_RelicImported>가져옴</MF_RelicImported>
+  <MF_RelicClickToImport>클릭하면 이 앨범으로 가져옵니다</MF_RelicClickToImport>
+  <MF_RelicImportedMsg>옛 정착지 사진 {0}장을 가져왔습니다.</MF_RelicImportedMsg>
+  <MF_RelicDesc>옛 정착지 '{0}'에서 온 사진. 누가 찍혔는지는 알 수 없습니다.</MF_RelicDesc>
+  <MF_RelicDate>옛 정착지 · {0}</MF_RelicDate>
+  <MF_RelicUnknownColony>이름 모를 정착지 ({0})</MF_RelicUnknownColony>
+  <MF_GroupStart>단체 사진 찍기 ({0}명)</MF_GroupStart>
+  <MF_GroupStartDesc>지도의 정착민들을 이 자리 뒤(북쪽)에 줄 세워 카메라 쪽을 보게 하고, 부른 사람이 모두 멈춰 서면 사진을 찍습니다. 일하거나 먹거나 놀던 사람은 하던 일을 멈추고 옵니다.\n\n부르지 않는 사람: 자는 사람, 쓰러진 사람, 전투 소집된 사람, 정신 붕괴 중, 죄수·노예·아기, 파티·의식·캐러밴 준비 같은 다른 일에 묶인 사람, 출혈·굶주림·탈진·치료가 필요한 사람, 수술 중인 의사와 환자, 직접 지시한 작업을 하는 사람.\n\n불 끄기·구조·치료 같은 급한 일이 생기면 그 사람은 잠시 빠졌다가 끝나면 돌아옵니다. 도중에 전투 소집·쓰러짐·정신 붕괴·직접 지시로 줄에서 빠진 사람은 이유와 함께 알려 주고, 다시 설 수 있게 되면 스스로 돌아옵니다. 다 모이기 전에는 저절로 찍히지 않습니다 — 기다리거나, 이 자리의 '이대로 찍기'로 지금 선 사람들만 찍거나, 취소하세요. 2시간이 지나도 다 모이지 않으면 누가 안 왔는지 알려 주고, 6시간이 지나면 사진 없이 해산합니다. 습격 같은 위협이 생기거나 누가 죽으면 해산합니다. 이 지도를 보고 있을 때만 찍힙니다.\n\n찍은 뒤에도 모두 자리를 지킵니다 — '다시 찍기'로 한 장 더 찍거나 '해산'으로 풀어 주세요(6시간이 지나면 저절로 풀립니다). '촬영 범위 정하기'로 사진에 담길 범위를 직접 드래그해 둘 수 있습니다.</MF_GroupStartDesc>
+  <MF_GroupShootNow>이대로 찍기 ({0}명)</MF_GroupShootNow>
+  <MF_GroupShootNowDesc>나머지를 기다리지 않고 지금 자리에 선 사람들을 찍습니다. 찍은 뒤에도 해산할 때까지 줄은 그대로입니다.</MF_GroupShootNowDesc>
+  <MF_GroupNoOneInPlace>아직 아무도 자리에 서지 않았습니다</MF_GroupNoOneInPlace>
+  <MF_GroupNotViewing>단체 사진: 이 지도를 보고 있을 때만 찍을 수 있습니다.</MF_GroupNotViewing>
+  <MF_GroupWaiting>단체 사진: {0}이(가) 아직 자리에 서지 않았습니다. 촬영 스팟의 '이대로 찍기'로 지금 선 사람들만 찍을 수 있습니다.</MF_GroupWaiting>
+  <MF_GroupDropped>{0}이(가) 줄에서 빠졌습니다: {1}</MF_GroupDropped>
+  <MF_GroupRejoined>{0}이(가) 줄로 돌아왔습니다.</MF_GroupRejoined>
+  <MF_GroupTimedOut>단체 사진: 6시간이 지나도 다 모이지 못해 해산했습니다.</MF_GroupTimedOut>
+  <MF_GroupStatusComing>오는 중: {0}</MF_GroupStatusComing>
+  <MF_GroupStatusDropped>빠짐: {0}</MF_GroupStatusDropped>
+  <MF_Why_Drafted>전투 소집 중</MF_Why_Drafted>
+  <MF_Why_Downed>쓰러짐</MF_Why_Downed>
+  <MF_Why_Mental>정신 붕괴</MF_Why_Mental>
+  <MF_Why_Unfit>치료·출혈·굶주림·탈진</MF_Why_Unfit>
+  <MF_Why_Busy>직접 지시한 일</MF_Why_Busy>
+  <MF_Why_OtherMap>다른 지도</MF_Why_OtherMap>
+  <MF_Why_Left>빠지기</MF_Why_Left>
+  <MF_GroupDefsMissing>모드 파일이 손상되어(정의 누락) 쓸 수 없습니다</MF_GroupDefsMissing>
+  <MF_GroupNotViewed>단체 사진: 6시간 동안 이 지도를 보지 않아 찍지 못하고 해산했습니다.</MF_GroupNotViewed>
+  <MF_GroupFailed>단체 사진: 촬영을 시작하지 못해 해산했습니다.</MF_GroupFailed>
+  <MF_GroupBusy>이미 단체 사진을 준비하는 중입니다</MF_GroupBusy>
+  <MF_GroupDanger>위협이 있는 동안은 찍을 수 없습니다</MF_GroupDanger>
+  <MF_GroupNoOne>지금 줄을 설 수 있는 정착민이 없습니다</MF_GroupNoOne>
+  <MF_GroupNoRoom>촬영 스팟 뒤에 사람이 설 자리가 없습니다. 북쪽에 빈 바닥이 필요합니다.</MF_GroupNoRoom>
+  <MF_GroupLessRoom>촬영 스팟 뒤에 {0}명 자리밖에 없어 {1}명 중 {0}명만 섭니다.</MF_GroupLessRoom>
+  <MF_GroupStarted>단체 사진: {0}명이 촬영 스팟 뒤로 모입니다.</MF_GroupStarted>
+  <MF_GroupCancel>단체 사진 취소</MF_GroupCancel>
+  <MF_GroupCancelDesc>줄 서던 사람들을 풀어줍니다. 사진은 찍지 않습니다.</MF_GroupCancelDesc>
+  <MF_GroupLeave>단체 사진에서 빠지기</MF_GroupLeave>
+  <MF_GroupLeaveDesc>이 사람은 줄에서 나가고, 나머지 사람들로 찍습니다.</MF_GroupLeaveDesc>
+  <MF_GroupStatus>단체 사진 준비 중: {1}명 중 {0}명이 자리에 섰음</MF_GroupStatus>
+  <MF_GroupIdle>지금 찍으면 {0}명이 섭니다</MF_GroupIdle>
+  <MF_GroupReport>단체 사진을 찍으러 모이는 중</MF_GroupReport>
+  <MF_GroupPhoto>단체 사진: {0}명</MF_GroupPhoto>
+  <MF_GroupCancelled>단체 사진을 취소했습니다.</MF_GroupCancelled>
+  <MF_GroupCalledOff_Danger>단체 사진 중단: 위협이 생겼습니다.</MF_GroupCalledOff_Danger>
+  <MF_GroupCalledOff_NoOne>단체 사진 중단: 자리에 선 사람이 없습니다.</MF_GroupCalledOff_NoOne>
+  <MF_GroupCalledOff_Killed>단체 사진 중단: {0}이(가) 죽었습니다.</MF_GroupCalledOff_Killed>
+  <MF_GroupCalledOff_SpotGone>단체 사진 중단: 촬영 스팟이 사라졌습니다.</MF_GroupCalledOff_SpotGone>
+  <MF_Kind_group>단체 사진</MF_Kind_group>
+  <MF_Tab_Gallery>갤러리</MF_Tab_Gallery>
+  <MF_EditDesc>설명 바꾸기</MF_EditDesc>
+  <MF_EditDescTitle>사진 아래 설명 (갤러리·연대기·album.html에 표시)</MF_EditDescTitle>
+  <MF_RoleRitual>취임 의식: {0}</MF_RoleRitual>
+  <MF_BestowCeremony>작위 수여식: {0}</MF_BestowCeremony>
+  <!-- 사진 아래 설명 문장. 종류마다 1~4개 중 하나가 찍힐 때 골라지고, 그 뒤엔 직접 고칠 수 있음. {0} 사람들 {1} 첫 사람 {2} 계절 {3} 정착지 {4} 세부(역할·작위·의식 이름 등) -->
+  <MF_Desc_Someone>정착민들</MF_Desc_Someone>
+  <MF_Desc_wedding_1>{2}, {3}에서 {0}이(가) 부부가 되었다. 모두가 두 사람을 둘러싸고 축하했다.</MF_Desc_wedding_1>
+  <MF_Desc_wedding_2>{0}의 결혼식. 오늘만큼은 일을 잊고 다 같이 모여 앉았다.</MF_Desc_wedding_2>
+  <MF_Desc_party_1>{1}이(가) 연 파티. {3}의 {2} 저녁이 시끌벅적했다.</MF_Desc_party_1>
+  <MF_Desc_party_2>{1}의 파티에 모두가 모였다. 내일 일은 내일 생각하기로 했다.</MF_Desc_party_2>
+  <MF_Desc_celebration_1>{4} — {1}이(가) 이끌었다. {3}의 {2}.</MF_Desc_celebration_1>
+  <MF_Desc_celebration_2>{3}에서 {4}을(를) 열었다. 한동안은 이 날을 이야기하게 될 것이다.</MF_Desc_celebration_2>
+  <MF_Desc_funeral_1>{4}을(를) 보내는 자리. {3} 사람들이 조용히 곁을 지켰다.</MF_Desc_funeral_1>
+  <MF_Desc_funeral_2>{4}의 장례식, {2}. 남은 사람들이 마지막 인사를 했다.</MF_Desc_funeral_2>
+  <MF_Desc_ritual_1>{4}. {3}에서 {2}에 치른 의식이다.</MF_Desc_ritual_1>
+  <MF_Desc_ritual_2>{3} 사람들이 모여 {4}을(를) 치렀다.</MF_Desc_ritual_2>
+  <MF_Desc_role_1>{1}이(가) {4}이(가) 되었다. {3}의 {2}, 새로운 책임이 시작되는 날.</MF_Desc_role_1>
+  <MF_Desc_role_2>오늘부터 {1}은(는) {3}의 {4}. 모두가 이 순간을 지켜보았다.</MF_Desc_role_2>
+  <MF_Desc_bestow_1>{1}이(가) {4} 작위를 받았다. 제국의 예법대로 무릎을 꿇었다가 일어섰다.</MF_Desc_bestow_1>
+  <MF_Desc_bestow_2>{4} — {1}. {3}에 제국의 사절이 온 날.</MF_Desc_bestow_2>
+  <MF_Desc_baby_1>{1}이(가) 태어난 날. {3}에 식구가 하나 늘었다.</MF_Desc_baby_1>
+  <MF_Desc_baby_2>{2}, {3}. {1}의 첫날.</MF_Desc_baby_2>
+  <MF_Desc_death_1>{1}을(를) 기억하며. {3}의 {2}.</MF_Desc_death_1>
+  <MF_Desc_death_2>{1}이(가) 우리 곁을 떠났다. 이 사진이 마지막 모습이다.</MF_Desc_death_2>
+  <MF_Desc_recruit_1>{1}이(가) {3}의 일원이 되었다.</MF_Desc_recruit_1>
+  <MF_Desc_recruit_2>새 얼굴, {1}. {2}에 {3}에 합류했다.</MF_Desc_recruit_2>
+  <MF_Desc_legendary_1>{1}이(가) 전설로 남을 작품을 완성했다.</MF_Desc_legendary_1>
+  <MF_Desc_legendary_2>{1}의 손에서 나온 전설급 작품. {3}의 자랑이 될 것이다.</MF_Desc_legendary_2>
+  <MF_Desc_ship_1>함선 발사. {3}의 이야기가 여기서 끝나거나, 다시 시작된다.</MF_Desc_ship_1>
+  <MF_Desc_gravship_1>그래브십이 떠오르기 직전. {3}의 {2}.</MF_Desc_gravship_1>
+  <MF_Desc_gravship_2>출발 전 마지막 사진. 모두 배에 올랐다.</MF_Desc_gravship_2>
+  <MF_Desc_mechboss_1>{3}이(가) 기계 괴수를 쓰러뜨린 날.</MF_Desc_mechboss_1>
+  <MF_Desc_mechboss_2>격전이 끝난 자리. {2}, {3}.</MF_Desc_mechboss_2>
+  <MF_Desc_resurrect_1>{1}이(가) 돌아왔다. 두 번째 삶의 첫날.</MF_Desc_resurrect_1>
+  <MF_Desc_reliquary_1>{3}의 유물이 제자리를 찾았다. {2}.</MF_Desc_reliquary_1>
+  <MF_Desc_monolith_1>모노리스가 변했다. {3} 사람들은 아직 그 뜻을 모른다.</MF_Desc_monolith_1>
+  <MF_Desc_anniversary_1>{3}의 정착 기념일. 위에서 내려다본 우리의 집.</MF_Desc_anniversary_1>
+  <MF_Desc_anniversary_2>또 한 해를 살아냈다. {3}, {2}.</MF_Desc_anniversary_2>
+  <MF_Desc_population_1>{3}에 이만큼의 사람이 모였다. {2}.</MF_Desc_population_1>
+  <MF_Desc_landing_1>{3}에 처음 내려선 날. 낯선 땅, 새 이름.</MF_Desc_landing_1>
+  <MF_Desc_group_1>{3} 사람들이 한 자리에 섰다. {2}.</MF_Desc_group_1>
+  <MF_Desc_group_2>단체 사진. 이 날의 이 얼굴들을 오래 기억하려고.</MF_Desc_group_2>
+  <MF_LetterYearsAgo>{0}년 전 오늘: {1}</MF_LetterYearsAgo>
+  <MF_LetterText>{0}년 전 오늘, 이 사진이 찍혔습니다.\n\n{1}\n{2}\n함께한 사람: {3}</MF_LetterText>
+  <MF_Edit>편집</MF_Edit>
+  <MF_EditDesc2>이 사진을 자르거나 필터를 입혀 새 편집본으로 저장합니다. 원본은 그대로 남습니다.</MF_EditDesc2>
+  <MF_EditTitle>편집: {0}</MF_EditTitle>
+  <MF_EditFilter>필터</MF_EditFilter>
+  <MF_EditCrop>자르기 비율</MF_EditCrop>
+  <MF_EditLock_Free>자유</MF_EditLock_Free>
+  <MF_EditLock_Original>원본 비율</MF_EditLock_Original>
+  <MF_EditLock_Square>정사각형 1:1</MF_EditLock_Square>
+  <MF_EditLock_Wide>가로 3:2</MF_EditLock_Wide>
+  <MF_EditLock_Tall>세로 2:3</MF_EditLock_Tall>
+  <MF_EditReset>처음으로</MF_EditReset>
+  <MF_EditSize>원본의 가로 {0}% · 세로 {1}% (비율 {2})</MF_EditSize>
+  <MF_EditSave>편집본으로 저장</MF_EditSave>
+  <MF_EditSaved>편집본을 저장했습니다 ({0}번째). 앨범과 액자에는 이 편집본이 걸립니다.</MF_EditSaved>
+  <MF_EditFailed>편집본을 저장하지 못했습니다. 원본 사진 파일이 있는지 확인하세요.</MF_EditFailed>
+  <MF_EditCount>편집본 {0}장</MF_EditCount>
+  <MF_VersionOriginal>원본</MF_VersionOriginal>
+  <MF_VersionEdit>편집 {0}</MF_VersionEdit>
+  <MF_UseVersion>이 판으로 걸기</MF_UseVersion>
+  <MF_UseVersionDesc>앨범 카드·액자·환등기·HTML 앨범에 지금 보고 있는 판을 씁니다.</MF_UseVersionDesc>
+  <MF_DeleteEdit>편집본 삭제</MF_DeleteEdit>
+  <MF_DeleteEditConfirm>이 편집본을 지웁니다. 파일도 함께 지워지고 되돌릴 수 없으며, 이 편집본을 쓰던 같은 정착지의 다른 세이브에서도 사라집니다. 원본은 남습니다.</MF_DeleteEditConfirm>
+  <MF_Filter_none>없음</MF_Filter_none>
+  <MF_Filter_mono>흑백</MF_Filter_mono>
+  <MF_Filter_sepia>세피아</MF_Filter_sepia>
+  <MF_Filter_warm>따뜻하게</MF_Filter_warm>
+  <MF_Filter_cool>차갑게</MF_Filter_cool>
+  <MF_Filter_faded>빛바램</MF_Filter_faded>
+  <MF_SpotFrame>촬영 범위 정하기</MF_SpotFrame>
+  <MF_SpotFrameDesc>지도 위를 드래그해 이 자리에서 찍는 단체 사진에 담길 범위를 정합니다(클릭하면 기본 크기). 정하지 않으면 줄 선 사람들에 맞춰 자동으로 잡습니다. 흰 칸은 사람들이 설 자리, 주황 테두리는 사진에 담기는 범위입니다.</MF_SpotFrameDesc>
+  <MF_SpotFrameClear>범위 자동으로</MF_SpotFrameClear>
+  <MF_SpotFrameClearDesc>직접 정한 범위를 지우고, 다시 줄 선 사람들에 맞춰 자동으로 잡습니다.</MF_SpotFrameClearDesc>
+  <MF_SpotFramed>촬영 범위: 직접 정함 (가로 {0}칸 × 세로 {1}칸)</MF_SpotFramed>
+  <MF_SpotAuto>촬영 범위: 자동 (줄 선 사람들에 맞춤)</MF_SpotAuto>
+  <MF_SpotFrameMisses>줄 설 자리 {0}칸이 촬영 범위 밖에 있습니다.</MF_SpotFrameMisses>
+  <MF_GroupRetake>다시 찍기 ({0}명)</MF_GroupRetake>
+  <MF_GroupRetakeDesc>같은 줄, 같은 구도로 한 장 더 찍습니다. 먼저 찍은 사진도 앨범에 그대로 남습니다.</MF_GroupRetakeDesc>
+  <MF_GroupDismiss>해산</MF_GroupDismiss>
+  <MF_GroupDismissDesc>줄을 풀고 모두 하던 일로 돌려보냅니다.</MF_GroupDismissDesc>
+  <MF_GroupHolding>단체 사진을 찍었습니다. 모두 자리를 지킵니다 — 촬영 스팟에서 '다시 찍기'나 '해산'을 누르세요.</MF_GroupHolding>
+  <MF_GroupStatusHolding>단체 사진 {0}장 찍음 — 해산할 때까지 줄을 유지합니다 ({2}명 중 {1}명이 자리에 있음)</MF_GroupStatusHolding>
+  <MF_GroupDismissed>단체 사진 줄을 풀었습니다.</MF_GroupDismissed>
+  <MF_GroupHeldEnd_Danger>위협이 생겨 단체 사진 줄을 풀었습니다.</MF_GroupHeldEnd_Danger>
+  <MF_GroupHeldEnd_TimedOut>6시간 동안 해산하지 않아 단체 사진 줄을 풀었습니다.</MF_GroupHeldEnd_TimedOut>
+  <MF_Kind_journey>여정</MF_Kind_journey>
+  <MF_JourneyPlace>{0} ({1})</MF_JourneyPlace>
+  <MF_JourneyFirstBiome>처음 와 본 {0}</MF_JourneyFirstBiome>
+  <MF_JourneyFirstBiomeLandmark>처음 와 본 {0}: {1}</MF_JourneyFirstBiomeLandmark>
+  <MF_JourneyLandmark>{0}에 도착</MF_JourneyLandmark>
+  <MF_JourneyAt>{0} — {1}</MF_JourneyAt>
+  <MF_Desc_journey_1>{1}와(과) 일행이 처음으로 {4}에 발을 디뎠다.</MF_Desc_journey_1>
+  <MF_Desc_journey_2>{3}에서 멀리 떠나 온 곳, {4}. {2}.</MF_Desc_journey_2>
+  <MF_Desc_journey_3>낯선 땅에 선 {0}. {4}.</MF_Desc_journey_3>
+  <MF_Set_Journey>새 장소 (처음 가 본 바이옴, 랜드마크)</MF_Set_Journey>
+  <MF_Set_JourneyDesc>캐러밴으로 걸어가든, 왕복선이나 그래브십으로 가든, 처음 가 본 바이옴이나 랜드마크(오디세이)가 있는 곳에 정착민이 자리를 잡으면 한 장 찍습니다. 막 착륙한 그래브십 사진이 있으면 새로 찍지 않고 그 사진에 장소 이름을 붙입니다.</MF_Set_JourneyDesc>
+  <MF_Set_JourneyRoute>세계지도에 첫 방문 순서 표시</MF_Set_JourneyRoute>
+  <MF_Set_JourneyRouteDesc>모든 일행의 첫 방문을 시간순으로 이은 선입니다. 원정대별 실제 이동 경로가 아니며 재방문은 포함하지 않습니다. 사진을 누르면 앨범이 열립니다.</MF_Set_JourneyRouteDesc>
+  <MF_Kind_birthday>생일</MF_Kind_birthday>
+  <MF_BirthdayTitle>{0}의 {1}번째 생일</MF_BirthdayTitle>
+  <MF_BirthdayLetterLabel>생일: {0}</MF_BirthdayLetterLabel>
+  <MF_BirthdayLetterText>오늘 {0}이(가) {1}살이 되었습니다. 생일 사진을 준비할까요?\n\n장소와 참석자를 고르면 모두 모인 뒤 자동으로 촬영합니다. 잠든 참석자는 깨워 부르고, 아기는 보호자가 안고 촬영 장소로 올 수 있습니다. 사진 저장에 성공하면 자동으로 해산합니다.\n\n취소하거나 실패해도 이 편지에서 다시 준비할 수 있습니다. 하루 뒤에는 보관된 편지를 열어 재시도할 수 있습니다. 생일 사진은 그 사람의 연대기에 남습니다.</MF_BirthdayLetterText>
+  <MF_BirthdayHere>지금 있는 곳에서 찍기</MF_BirthdayHere>
+  <MF_BirthdaySpot>촬영 스팟으로 불러서 찍기</MF_BirthdaySpot>
+  <MF_BirthdayPick>장소를 골라서 찍기</MF_BirthdayPick>
+  <MF_BirthdaySkip>이번엔 찍지 않기</MF_BirthdaySkip>
+  <MF_BirthdayNoSpot>이 지도에 촬영 스팟이 없습니다.</MF_BirthdayNoSpot>
+  <MF_BirthdayGone>{0}은(는) 지금 찍을 수 없습니다.</MF_BirthdayGone>
+  <MF_BirthdayDone>이미 찍었습니다.</MF_BirthdayDone>
+  <MF_BirthdayCantCome>{0}은(는) 지금 올 수 없습니다: {1}</MF_BirthdayCantCome>
+  <MF_BirthdayPickPrompt>대형 기준 위치를 누르세요. 다음 창에서 참석자와 서는 방향을 확인합니다. 오른쪽 클릭하면 취소합니다.</MF_BirthdayPickPrompt>
+  <MF_Desc_birthday_1>{1}의 생일. {2}, {3}에서.</MF_Desc_birthday_1>
+  <MF_Desc_birthday_2>케이크는 없어도 사진은 남았다. {1}의 생일.</MF_Desc_birthday_2>
+  <MF_Desc_birthday_3>{1}와(과) 함께한 또 한 해. {2}.</MF_Desc_birthday_3>
+  <MF_Set_Birthday>생일 사진</MF_Set_Birthday>
+  <MF_Set_BirthdayDesc>생일 사진은 그 사람의 연대기 탭(정보창)에 쌓입니다. 앨범에서는 기본으로 빠지고, 생일 포함을 켜거나 필터를 해제하거나 인물이나 종류 "생일"로 거를 때 보입니다. 정착지 연대기와 "1년 전 오늘" 편지에는 나오지 않습니다.</MF_Set_BirthdayDesc>
+  <MF_Set_BirthdayOff>끔</MF_Set_BirthdayOff>
+  <MF_Set_BirthdayAsk>편지로 묻기 (찍을지, 어디서 찍을지)</MF_Set_BirthdayAsk>
+  <MF_Set_BirthdayAuto>그 자리에서 바로 찍기</MF_Set_BirthdayAuto>
+  <MF_Set_BirthdayEvery>{0}년마다 한 번 (성인이 되는 생일은 늘)</MF_Set_BirthdayEvery>
+  <MF_Set_BirthdayFriends>불러서 찍을 때 가까운 사람들도 함께 (가족·연인·호감 +20 이상)</MF_Set_BirthdayFriends>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Stickers_Open>스티커</MF_Stickers_Open>
+  <MF_Stickers_Title>사진 여백에 작은 표시</MF_Stickers_Title>
+  <MF_Stickers_Hint>스티커를 고르고 종이 여백에서 끌어 옮겨 보세요. 원본 사진은 그대로 남습니다.</MF_Stickers_Hint>
+  <MF_Stickers_Count>{0} / {1}개 · 끌어서 위치 옮기기</MF_Stickers_Count>
+  <MF_Stickers_Limit>{0} / {1}개 · 하나를 지우면 더 붙일 수 있어요</MF_Stickers_Limit>
+  <MF_Stickers_Delete>선택 지우기</MF_Stickers_Delete>
+  <MF_Stickers_Cancel>취소</MF_Stickers_Cancel>
+  <MF_Stickers_Save>저장</MF_Stickers_Save>
+  <MF_Sticker_Heart>하트</MF_Sticker_Heart>
+  <MF_Sticker_Star>별</MF_Sticker_Star>
+  <MF_Sticker_Smile>웃음</MF_Sticker_Smile>
+  <MF_Sticker_Music>음표</MF_Sticker_Music>
+  <MF_Sticker_Exclamation>느낌표</MF_Sticker_Exclamation>
+  <MF_Sticker_Wave>물결</MF_Sticker_Wave>
+  <MF_Sticker_Paw>발자국</MF_Sticker_Paw>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_DesignYear_Kicker>정착지의 한 해</MF_DesignYear_Kicker>
+  <MF_DesignYear_Summary>남겨 둔 사진 {0}장, 기억할 이정표 {1}개.</MF_DesignYear_Summary>
+  <MF_DesignYear_Hint>사진을 눌러 그날을 다시 보거나, 함께 모여 한 해의 추억을 감상하세요.</MF_DesignYear_Hint>
+  <MF_DesignYear_NoPhotos>이 해의 사진이 지금은 남아 있지 않습니다. 앨범에서 그해 기록을 확인할 수 있습니다.</MF_DesignYear_NoPhotos>
+  <MF_DesignYear_Album>그해 앨범 열기</MF_DesignYear_Album>
+  <MF_DesignYear_Night>추억의 밤 열기</MF_DesignYear_Night>
+</LanguageData>

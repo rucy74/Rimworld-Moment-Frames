@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Storage_Title>사용 중인 용량</MF_Storage_Title>
+  <MF_Storage_Counting>사진 폴더 용량을 세는 중…</MF_Storage_Counting>
+  <MF_Storage_Colony>이 정착지: 사진 {0}장 · {1} (원본 보호 사본 {2} 포함)</MF_Storage_Colony>
+  <MF_Storage_ColonyPlain>이 정착지: 사진 {0}장 · {1}</MF_Storage_ColonyPlain>
+  <MF_Storage_All>사진 폴더 전체: 정착지 {0}곳 · {1}</MF_Storage_All>
+  <MF_Storage_Hint>설정 창이 열려 있는 동안 따로 계산합니다(게임은 멈추지 않음). 해상도를 낮추면 새 사진부터 작아집니다.</MF_Storage_Hint>
+  <MF_Storage_Resolution>이 설정이면 한 장이 최대 {0}×{1}px입니다.</MF_Storage_Resolution>
+  <MF_Storage_ResolutionAverage>이 정착지 최근 사진은 평균 {0}이고, 원본마다 보호 사본이 한 벌 더 생깁니다.</MF_Storage_ResolutionAverage>
+</LanguageData>

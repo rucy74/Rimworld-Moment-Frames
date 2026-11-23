@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_StudioBackdrop.label>사진관 배경막</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>가족사진과 단체사진을 위한 천 배경막입니다. 선택하여 참가자를 부르면 배경 앞에 모인 뒤 자동으로 촬영합니다. 자동 구도는 사람과 배경막을 함께 담습니다. 서 있는 참가자 최대 15명, 아기는 보호자가 안고 옵니다. 건설 전에 회전하여 촬영 방향을 정하세요.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>사진 정원 아치</MF_StudioArch.label>
+  <MF_StudioArch.description>야외 기념사진을 위한 원형 아치입니다. 사진관 배경막과 같은 참가자 선택·자동 촬영 기능을 사용합니다. 표시되는 촬영 자리를 비워 두세요. 아기는 보호자와 함께 오며, 건설 전에 회전하여 촬영 방향을 정합니다.</MF_StudioArch.description>
+</LanguageData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Reminiscing memories. One at a time (stackLimit 1), a day each; looking at the same photo again only renews it. -->
+  <ThoughtDef>
+    <defName>MF_ViewedOwnPhoto</defName>
+    <thoughtClass>MomentFrames.Thought_MFPhoto</thoughtClass>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <showBubble>true</showBubble>
+    <icon>UI/MomentFrames/Camera</icon>
+    <stages>
+      <li>
+        <label>looked at a photo of myself</label>
+        <description>I stood in front of a photograph I am in and remembered that day.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>MF_RememberedTogether</defName>
+    <thoughtClass>MomentFrames.Thought_MFPhoto</thoughtClass>
+    <durationDays>1</durationDays>
+    <stackLimit>1</stackLimit>
+    <showBubble>true</showBubble>
+    <icon>UI/MomentFrames/Camera</icon>
+    <stages>
+      <li>
+        <label>reminisced with {0}</label>
+        <description>We looked at an old photograph we are both in and talked about that day.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <!-- Memory night: scaled by how much of it one was there for, like the game's party. -->
+  <ThoughtDef>
+    <defName>MF_MemoryNight</defName>
+    <durationDays>2</durationDays>
+    <stackLimit>1</stackLimit>
+    <icon>UI/MomentFrames/Camera</icon>
+    <stages>
+      <li>
+        <label>memory night</label>
+        <description>We watched the colony's photographs together on the projector and remembered how we got here.</description>
+        <baseMoodEffect>6</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>soirée souvenirs</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Soirée souvenirs</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} organise une soirée souvenirs devant le projecteur. Tous ceux qui viendront regarderont ensemble les photographies de la colonie et en garderont une bonne humeur durable.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>La soirée souvenirs a été annulée.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>La soirée souvenirs est terminée.</MF_MemoryNight.finishedMessage>
+</LanguageData>

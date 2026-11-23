@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>fabrică proiector de diapozitive</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Fabrică un proiector de diapozitive. Această rețetă veche rămâne pentru comenzile salvate existente; proiectoarele noi se construiesc din meniul Diverse.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Fabricarea unui proiector de diapozitive.</Make_MF_Projector.jobString>
+</LanguageData>

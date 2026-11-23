@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Set_Reactions>촬영할 때 작은 반응</MF_Set_Reactions>
+  <MF_Set_ReactionsDesc>일반·단체·생일·결혼·재회·파티 사진에서 깨어 있는 일부 정착민이 잠깐 반응합니다. 최대 세 명이며 아기·수면·전투·애도 장면에는 붙이지 않습니다. 변경은 앞으로 찍는 사진에 적용됩니다.</MF_Set_ReactionsDesc>
+  <MF_Set_ReactionsAfter>촬영 직후 지도에서만 보기 (기본)</MF_Set_ReactionsAfter>
+  <MF_Set_ReactionsPhoto>사진에 함께 담기</MF_Set_ReactionsPhoto>
+  <MF_Set_ReactionsOff>끄기</MF_Set_ReactionsOff>
+</LanguageData>

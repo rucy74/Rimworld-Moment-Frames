@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>fotoram</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>En liten väggram för ett kolonifotografi. Markera den för att välja eller byta foto; den behåller fotot när den avinstalleras och flyttas. Måste hänga på en vägg. Tillverkas vid skulptörbordet; kvaliteten avgör dess skönhet.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>bred fotoram</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>En väggram på två rutor, bredare än den lilla: gjord för breda fotografier. Hänger bara på vågräta väggar. Behåller sitt foto när den flyttas. Tillverkas vid skulptörbordet; kvaliteten avgör dess skönhet.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>fotostaffli</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Ett fristående staffli (2x2) som visar ett kolonifotografi stort nog att urskilja personerna på det. Kan placeras var som helst och flyttas senare utan att fotot försvinner. Tillverkas vid skulptörbordet; kvaliteten avgör dess skönhet.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>visningstavla för foton</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>En stor fristående visningstavla (3x2) för ett kolonifotografi, det största sättet att visa ett ögonblick. Kan flyttas utan att fotot försvinner. Tillverkas vid skulptörbordet; kvaliteten avgör dess skönhet.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>collagetavla för foton</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>En fristående tavla med passepartout (3x2) och fyra lika stora fönster för kolonifotografier, där varje foto beskärs för att fylla sitt fönster. Välj ett foto för varje fönster; tomma fönster förblir tomma. Kan flyttas utan att fotona försvinner. Tillverkas vid skulptörbordet.</MF_PhotoCollage.description>
+  <MF_Projector.label>diaprojektor</MF_Projector.label>
+  <MF_Projector.description>Projicerar kolonifotografier framför sig. Välj ett fast fotografi eller en film, och en förinställd eller egen bredd och höjd. Reglaget för ritordning placerar bilden bakom eller framför föremål. Vanliga filmer byter bild i realtid; minneskvällsfilmer byter bild efter evenemangets speltid. Kolonister kan titta på den som fritid. Behöver ingen el. Placera den från Diverse bredvid fotoverktygen; kolonister bygger den av det valda materialet.</MF_Projector.description>
+  <MF_MemorialFrame.label>minnesställ för foto</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Ett litet stående ställ att ha bredvid en grav eller sarkofag. Av sig självt visar det det senaste fotografiet av personen som ligger begravd intill; du kan också välja ett foto för hand. Tomt tills en grav med en kropp finns intill. Tillverkas vid skulptörbordet.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>fotoplats</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Markerar var gruppfoton tas. Markera den och tryck på 'Gruppfoto': alla kolonister på kartan som är vakna och lediga ställer upp bakom den (norrut, yngst längst fram), vänder sig mot kameran, och fotot tas när alla står stilla. Lämna öppet golv bakom platsen för raderna. Placeras direkt, kostar ingenting.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>minnesträd</MF_MemoryTree.label>
+  <MF_MemoryTree.description>En träställning för 35 kolonifotografier. Nya foton fyller tomma grenar och ersätter sedan det äldsta foto som inte är fäst. Välj och fäst favoriter eller filtrera automatiska foton efter typ. Tillverkas vid skulptörbordet; behåller sina fotografier när det flyttas.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fotostudiobakgrund</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>En dukbakgrund för familje- och grupporträtt. Markera den för att välja deltagare. Alla samlas framför bakgrunden och ett fotografi tas automatiskt. Den automatiska inramningen omfattar både personerna och bakgrunden. Upp till femton stående deltagare; bebisar bärs i en vårdares armar. Rotera före bygget för att bestämma poseringsriktningen.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>trädgårdsbåge för foto</MF_StudioArch.label>
+  <MF_StudioArch.description>En rund båge för utomhusporträtt. Använder samma deltagarval och automatiska inramning som studiobakgrunden. Håll det markerade poseringsområdet fritt. Bebisar följer med en vårdare. Rotera före bygget för att bestämma poseringsriktningen.</MF_StudioArch.description>
+  <MF_StudioSofa.label>fotostudiosoffa (rekvisita)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>En porträttsoffa med tre platser. Placera den inom en studios poseringsområde, vänd åt samma håll som bakgrunden. Deltagarna använder de här platserna före de stående raderna. Figurerna ritas på vanligt sätt, utan någon ny sittanimation. Rekvisita för posering, inte en sittplats för vardagliga måltider eller fritid.</MF_StudioSofa.description>
+  <MF_StudioBench.label>fotostudiobänk (rekvisita)</MF_StudioBench.label>
+  <MF_StudioBench.description>En stoppad bänk med tre platser för porträtt. Placera den i poseringsområdet, vänd åt samma håll som bakgrunden. Rekvisita för posering, inte en sittplats för vardagliga måltider eller fritid.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotostudiofåtölj (rekvisita)</MF_StudioChair.label>
+  <MF_StudioChair.description>En enkel porträttstol. Placera den längst fram i mitten för födelsedagsbarnet, eller lägg till den i studions poseringsområde. Rekvisita för posering, inte en sittplats för vardagliga måltider eller fritid.</MF_StudioChair.description>
+  <MF_StudioLamp.label>fotostudiolampa</MF_StudioLamp.label>
+  <MF_StudioLamp.description>En eldriven porträttlampa. I automatiskt läge tänds den medan den närmaste studion i samma rum (inom tio rutor) samlar folk eller väntar på omtagningar. När gruppen skickas iväg släcks den. Lägena På och Av går före den automatiska styrningen. Studiofoton behåller den här belysningen.</MF_StudioLamp.description>
+</LanguageData>

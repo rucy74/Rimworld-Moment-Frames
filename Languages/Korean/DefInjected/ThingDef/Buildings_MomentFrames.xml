@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>사진 액자</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>정착지 사진 한 장을 거는 작은 벽걸이 액자. 선택해서 사진을 고르거나 바꿉니다. 포장해서 옮겨도 사진은 그대로 남습니다. 벽에 붙여서 설치해야 합니다. 조소 작업대에서 만들고, 품질에 따라 아름다움이 달라집니다.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>와이드 사진 액자</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>두 칸짜리 벽걸이 액자. 한 칸 액자보다 넓어 가로로 긴 사진에 어울립니다. 가로 벽에만 걸 수 있습니다. 옮겨도 사진은 그대로. 조소 작업대에서 만들고, 품질에 따라 아름다움이 달라집니다.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>사진 이젤</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>바닥에 세우는 2×2 이젤. 사진 속 사람을 알아볼 만큼 크게 보여 줍니다. 아무 곳에나 놓고 나중에 옮겨도 사진은 그대로. 조소 작업대에서 만들고, 품질에 따라 아름다움이 달라집니다.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>사진 전시판</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>바닥에 세우는 3×2 대형 전시판. 순간을 가장 크게 보여 주는 방법입니다. 옮겨도 사진은 그대로. 조소 작업대에서 만들고, 품질에 따라 아름다움이 달라집니다.</MF_PhotoBoard.description>
+</LanguageData>

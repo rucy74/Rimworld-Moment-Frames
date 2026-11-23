@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Why_OtherGathering>Attending another gathering</MF_Why_OtherGathering>
+  <MF_Why_Surgery>Performing surgery</MF_Why_Surgery>
+  <MF_Why_MedicalRest>Resting for treatment</MF_Why_MedicalRest>
+  <MF_Why_Starving>Starving</MF_Why_Starving>
+  <MF_Why_Bleeding>Bleeding</MF_Why_Bleeding>
+  <MF_Why_BloodLoss>Blood loss</MF_Why_BloodLoss>
+  <MF_Why_Exhausted>Exhausted</MF_Why_Exhausted>
+  <MF_Why_Treatment>Needs treatment</MF_Why_Treatment>
+  <MF_Why_Labor>In labor</MF_Why_Labor>
+  <MF_Why_Emergency>Doing emergency work</MF_Why_Emergency>
+  <MF_Why_Unavailable>Cannot attend right now</MF_Why_Unavailable>
+  <MF_GroupBabyNoGuardian>{0}: No caregiver can carry this baby right now. Select the baby once another adult is available.</MF_GroupBabyNoGuardian>
+  <MF_GroupBabyNoGuardianShort>Needs a caregiver</MF_GroupBabyNoGuardianShort>
+  <MF_GroupBabySharedGuardian>{0}: Can carry only one baby at a time.</MF_GroupBabySharedGuardian>
+  <MF_GroupBabyWithGuardian>Carried by {0}</MF_GroupBabyWithGuardian>
+  <MF_GroupBabyGuardianRequired>Baby caregiver (required)</MF_GroupBabyGuardianRequired>
+  <MF_GroupBabySelectHelp>Selecting a baby also includes a caregiver. Each baby needs a different caregiver.</MF_GroupBabySelectHelp>
+  <MF_GroupBabyReady>Once everyone arrives, the photo is taken automatically and the group leaves. Caregivers return the babies to a safe place.</MF_GroupBabyReady>
+  <MF_PhotoMissingSubject>The photo does not include every required participant. Check the framing and participants.</MF_PhotoMissingSubject>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <JoyGiverDef>
+    <defName>MF_ViewPhoto</defName>
+    <giverClass>MomentFrames.JoyGiver_ViewPhoto</giverClass>
+    <baseChance>0.8</baseChance>
+    <jobDef>MF_ViewPhoto</jobDef>
+    <joyKind>Meditative</joyKind>
+    <requiredCapacities>
+      <li>Sight</li>
+    </requiredCapacities>
+  </JoyGiverDef>
+
+</Defs>

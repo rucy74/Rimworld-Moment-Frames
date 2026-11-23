@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>fabriquer un projecteur de diapositives</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Fabriquer un projecteur de diapositives. Cette ancienne recette reste pour les commandes déjà enregistrées ; les nouveaux projecteurs se construisent depuis l'onglet Divers.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Fabrique un projecteur de diapositives.</Make_MF_Projector.jobString>
+</LanguageData>

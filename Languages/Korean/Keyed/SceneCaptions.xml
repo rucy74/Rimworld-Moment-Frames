@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Complete sentences for facts verified at capture. Selection and saved history are handled by code. -->
+  <!-- Slots: 0 recorded names; 6 subject/remains; 7 verified companion; 8 birthday occasion; 9 parent role; 10 species/instrument. -->
+  <!-- After/later/record banks intentionally need no names or other slots. Attendance does not imply sitting or listening. -->
+  <!-- MF_Caption_scene_birthday_carried_parent: 6 candidates -->
+  <MF_Caption_scene_birthday_carried_parent_1>{9} {7}의 품에 안긴 {6}, {8}의 모습이다.</MF_Caption_scene_birthday_carried_parent_1>
+  <MF_Caption_scene_birthday_carried_parent_2>{6}의 {8}. {9} {7}의 품에 안긴 모습이 한 장에 담겼다.</MF_Caption_scene_birthday_carried_parent_2>
+  <MF_Caption_scene_birthday_carried_parent_3>{6}의 {8}, {9} {7}의 품에 안겨 있는 한때.</MF_Caption_scene_birthday_carried_parent_3>
+  <MF_Caption_scene_birthday_carried_parent_4>{9} {7}의 품에 안겨 있는 {6}의 {8}을 사진으로 남겼다.</MF_Caption_scene_birthday_carried_parent_4>
+  <MF_Caption_scene_birthday_carried_parent_5>{6}의 {8} 사진에는 아기를 안고 있는 {9} {7}의 모습도 있다.</MF_Caption_scene_birthday_carried_parent_5>
+  <MF_Caption_scene_birthday_carried_parent_6>{8}의 한 장에 담긴 {6}의 모습, 그리고 아기를 안은 {9} {7}.</MF_Caption_scene_birthday_carried_parent_6>
+  <!-- MF_Caption_scene_birthday_carried: 6 candidates -->
+  <MF_Caption_scene_birthday_carried_1>{7}의 품에 안긴 {6}, {8}의 모습이다.</MF_Caption_scene_birthday_carried_1>
+  <MF_Caption_scene_birthday_carried_2>{6}의 {8}. 아기를 안고 있는 {7}의 모습도 담겼다.</MF_Caption_scene_birthday_carried_2>
+  <MF_Caption_scene_birthday_carried_3>{6}의 {8}, {7}의 품에 안겨 있는 한때.</MF_Caption_scene_birthday_carried_3>
+  <MF_Caption_scene_birthday_carried_4>{7}의 품에 안겨 있는 {6}의 {8}을 사진으로 남겼다.</MF_Caption_scene_birthday_carried_4>
+  <MF_Caption_scene_birthday_carried_5>{6}의 {8} 한 장. {7}의 품에 안긴 모습이 함께 남았다.</MF_Caption_scene_birthday_carried_5>
+  <MF_Caption_scene_birthday_carried_6>{8}의 사진에 담긴 {6}, 그리고 아기를 안은 {7}.</MF_Caption_scene_birthday_carried_6>
+  <!-- MF_Caption_scene_birthday_parent: 6 candidates -->
+  <MF_Caption_scene_birthday_parent_1>{6}의 {8}에 {9} {7}의 모습도 함께 담겼다.</MF_Caption_scene_birthday_parent_1>
+  <MF_Caption_scene_birthday_parent_2>{8}의 {6}, {9} {7}와(과) 같은 한 장에 담긴 모습이다.</MF_Caption_scene_birthday_parent_2>
+  <MF_Caption_scene_birthday_parent_3>{6}의 {8}을 {9} {7}와(과) 함께한 사진으로 남겼다.</MF_Caption_scene_birthday_parent_3>
+  <MF_Caption_scene_birthday_parent_4>{6}의 {8} 사진에는 {9} {7}도 함께 있다.</MF_Caption_scene_birthday_parent_4>
+  <MF_Caption_scene_birthday_parent_5>{9} {7}와(과) 함께 찍은 {6}의 {8}. 두 모습이 한 장에 담겼다.</MF_Caption_scene_birthday_parent_5>
+  <MF_Caption_scene_birthday_parent_6>{9} {7}의 모습도 함께 담긴 {6}의 {8}.</MF_Caption_scene_birthday_parent_6>
+  <!-- MF_Caption_scene_birthday_group: 6 candidates -->
+  <MF_Caption_scene_birthday_group_1>{6}의 {8}, 함께 찍은 이들의 모습도 한 장에 담겼다.</MF_Caption_scene_birthday_group_1>
+  <MF_Caption_scene_birthday_group_2>{8}의 {6}. 다른 사람들의 모습도 같은 사진에 있다.</MF_Caption_scene_birthday_group_2>
+  <MF_Caption_scene_birthday_group_3>{6}의 {8}을 함께한 사람들의 모습과 나란히 남겼다.</MF_Caption_scene_birthday_group_3>
+  <MF_Caption_scene_birthday_group_4>이번 {8}의 주인공은 {6}. 함께 찍힌 이들의 모습도 담겨 있다.</MF_Caption_scene_birthday_group_4>
+  <MF_Caption_scene_birthday_group_5>함께 찍은 이들의 모습이 담긴 {6}의 {8} 한 장.</MF_Caption_scene_birthday_group_5>
+  <MF_Caption_scene_birthday_group_6>{6}의 {8} 사진에는 주인공과 다른 사람들의 모습이 함께 있다.</MF_Caption_scene_birthday_group_6>
+  <!-- MF_Caption_scene_birthday_solo: 6 candidates -->
+  <MF_Caption_scene_birthday_solo_1>{8}의 {6}, 이번 생일의 모습을 한 장에 담았다.</MF_Caption_scene_birthday_solo_1>
+  <MF_Caption_scene_birthday_solo_2>{6}의 {8}을 담은 한 장.</MF_Caption_scene_birthday_solo_2>
+  <MF_Caption_scene_birthday_solo_3>{6}의 {8}. 주인공의 모습을 사진으로 남겼다.</MF_Caption_scene_birthday_solo_3>
+  <MF_Caption_scene_birthday_solo_4>{8}의 사진 속에 {6}의 모습이 있다.</MF_Caption_scene_birthday_solo_4>
+  <MF_Caption_scene_birthday_solo_5>{6}의 이번 {8} 모습을 사진으로 담아 두었다.</MF_Caption_scene_birthday_solo_5>
+  <MF_Caption_scene_birthday_solo_6>{6}의 모습으로 남긴 {8}의 한 장.</MF_Caption_scene_birthday_solo_6>
+  <!-- MF_Caption_scene_carried_parent: 6 candidates -->
+  <MF_Caption_scene_carried_parent_1>{9} {7}의 품에 안긴 {6}의 모습이다.</MF_Caption_scene_carried_parent_1>
+  <MF_Caption_scene_carried_parent_2>{6}의 모습이 {9} {7}의 품에 안긴 채 담겼다.</MF_Caption_scene_carried_parent_2>
+  <MF_Caption_scene_carried_parent_3>사진 속 {6}의 모습은 {9} {7}의 품에 안겨 있다.</MF_Caption_scene_carried_parent_3>
+  <MF_Caption_scene_carried_parent_4>{9} {7}의 품에 안긴 {6}의 모습을 한 장에 담았다.</MF_Caption_scene_carried_parent_4>
+  <MF_Caption_scene_carried_parent_5>{6}의 사진에는 아기를 안고 있는 {9} {7}의 모습도 함께 있다.</MF_Caption_scene_carried_parent_5>
+  <MF_Caption_scene_carried_parent_6>한 장에 담긴 {6}, 그리고 아기를 안은 {9} {7}.</MF_Caption_scene_carried_parent_6>
+  <!-- MF_Caption_scene_animal_bond: 6 candidates -->
+  <MF_Caption_scene_animal_bond_1>유대가 맺어진 {10} {6}, 그리고 {7}. 둘의 모습을 함께 남겼다.</MF_Caption_scene_animal_bond_1>
+  <MF_Caption_scene_animal_bond_2>{7}, {10} {6}. 유대가 있는 둘의 모습을 한 장에 담았다.</MF_Caption_scene_animal_bond_2>
+  <MF_Caption_scene_animal_bond_3>{10} {6}의 모습과 {7}의 모습이 함께 있다. 둘 사이에는 유대가 맺어져 있다.</MF_Caption_scene_animal_bond_3>
+  <MF_Caption_scene_animal_bond_4>같은 사진에 담긴 {10} {6}, 그리고 {7}. 유대 관계가 있는 둘의 모습이다.</MF_Caption_scene_animal_bond_4>
+  <MF_Caption_scene_animal_bond_5>{7}, {10} {6}의 함께 촬영. 두 이름 사이에는 유대 관계가 있다.</MF_Caption_scene_animal_bond_5>
+  <MF_Caption_scene_animal_bond_6>유대로 이어진 {10} {6}, {7}의 모습을 한 장에 남겼다.</MF_Caption_scene_animal_bond_6>
+  <!-- MF_Caption_scene_concert_playing_audience: 6 candidates -->
+  <MF_Caption_scene_concert_playing_audience_1>{10} 연주 중인 {6}, 같은 연주회에 함께한 {7}. 두 모습이 한 장에 담겼다.</MF_Caption_scene_concert_playing_audience_1>
+  <MF_Caption_scene_concert_playing_audience_2>{6}의 {10} 연주가 진행되는 동안, 참석자 {7}의 모습도 사진에 담겼다.</MF_Caption_scene_concert_playing_audience_2>
+  <MF_Caption_scene_concert_playing_audience_3>연주 중인 {6}의 모습과 연주회 참석자 {7}의 모습을 함께 담았다.</MF_Caption_scene_concert_playing_audience_3>
+  <MF_Caption_scene_concert_playing_audience_4>{10} 연주가 이어지는 한때. {6}, 참석자 {7}의 모습이 같은 사진에 있다.</MF_Caption_scene_concert_playing_audience_4>
+  <MF_Caption_scene_concert_playing_audience_5>사진 속 {6}의 {10} 연주가 진행 중이다. 같은 연주회에 참석한 {7}의 모습도 담겼다.</MF_Caption_scene_concert_playing_audience_5>
+  <MF_Caption_scene_concert_playing_audience_6>{6}의 {10} 연주 중에 남긴 한 장. 참석자 {7}의 모습도 함께 있다.</MF_Caption_scene_concert_playing_audience_6>
+  <!-- MF_Caption_scene_concert_playing: 6 candidates -->
+  <MF_Caption_scene_concert_playing_1>{6}의 {10} 연주가 진행되는 동안 남긴 사진이다.</MF_Caption_scene_concert_playing_1>
+  <MF_Caption_scene_concert_playing_2>연주 중인 {6}의 모습과 {10}의 모습을 한 장에 담았다.</MF_Caption_scene_concert_playing_2>
+  <MF_Caption_scene_concert_playing_3>{6}, {10}, 연주회. 진행 중인 연주를 사진으로 남겼다.</MF_Caption_scene_concert_playing_3>
+  <MF_Caption_scene_concert_playing_4>사진 속 {6}의 {10} 연주가 진행 중이다.</MF_Caption_scene_concert_playing_4>
+  <MF_Caption_scene_concert_playing_5>{10} 연주 중의 {6}의 모습을 담았다.</MF_Caption_scene_concert_playing_5>
+  <MF_Caption_scene_concert_playing_6>{6}의 {10} 연주 중 모습이 이번 연주회 사진에 담겼다.</MF_Caption_scene_concert_playing_6>
+  <!-- MF_Caption_scene_concert_after: 6 candidates -->
+  <MF_Caption_scene_concert_after_1>연주회 뒤에 남긴 한 장.</MF_Caption_scene_concert_after_1>
+  <MF_Caption_scene_concert_after_2>연주회가 끝난 뒤의 모습을 사진으로 남겼다.</MF_Caption_scene_concert_after_2>
+  <MF_Caption_scene_concert_after_3>이번 사진은 연주회가 끝난 뒤에 찍었다.</MF_Caption_scene_concert_after_3>
+  <MF_Caption_scene_concert_after_4>연주회 이후의 장면을 담은 사진이다.</MF_Caption_scene_concert_after_4>
+  <MF_Caption_scene_concert_after_5>행사가 끝난 뒤의 한때를 연주회 기록에 곁들였다.</MF_Caption_scene_concert_after_5>
+  <MF_Caption_scene_concert_after_6>연주회 뒤의 모습을 한 장에 담아 두었다.</MF_Caption_scene_concert_after_6>
+  <!-- MF_Caption_scene_concert_later: 6 candidates -->
+  <MF_Caption_scene_concert_later_1>나중에 찍은 이 장면을 연주회 기록에 곁들였다.</MF_Caption_scene_concert_later_1>
+  <MF_Caption_scene_concert_later_2>연주회 기록에 더해 둔, 이후에 찍은 한 장.</MF_Caption_scene_concert_later_2>
+  <MF_Caption_scene_concert_later_3>연주회 이후에 남긴 사진을 같은 기록에 함께 보관한다.</MF_Caption_scene_concert_later_3>
+  <MF_Caption_scene_concert_later_4>이 한 장은 나중에 찍어 연주회 기록에 덧붙였다.</MF_Caption_scene_concert_later_4>
+  <MF_Caption_scene_concert_later_5>나중의 장면도 연주회 기록 곁에 한 장으로 남겼다.</MF_Caption_scene_concert_later_5>
+  <MF_Caption_scene_concert_later_6>연주회와 연결해 둔 이 사진은 이후에 찍은 장면이다.</MF_Caption_scene_concert_later_6>
+  <!-- MF_Caption_scene_concert_record: 6 candidates -->
+  <MF_Caption_scene_concert_record_1>연주회에 곁들인 사진이다.</MF_Caption_scene_concert_record_1>
+  <MF_Caption_scene_concert_record_2>연주회와 함께 보관한 한 장.</MF_Caption_scene_concert_record_2>
+  <MF_Caption_scene_concert_record_3>연주회 기록에 이 사진을 곁들였다.</MF_Caption_scene_concert_record_3>
+  <MF_Caption_scene_concert_record_4>연주회에 관한 한 장의 사진 기록.</MF_Caption_scene_concert_record_4>
+  <MF_Caption_scene_concert_record_5>이 장면을 연주회 항목에 남겼다.</MF_Caption_scene_concert_record_5>
+  <MF_Caption_scene_concert_record_6>연주회 기록 곁의 한 장.</MF_Caption_scene_concert_record_6>
+  <!-- MF_Caption_scene_battle_remains: 6 candidates -->
+  <MF_Caption_scene_battle_remains_1>교전 뒤의 사진 속에 {6}의 모습이 있다.</MF_Caption_scene_battle_remains_1>
+  <MF_Caption_scene_battle_remains_2>교전 뒤에 남긴 한 장에 {6}의 모습이 담겼다.</MF_Caption_scene_battle_remains_2>
+  <MF_Caption_scene_battle_remains_3>{6}의 모습을 담은 사진이다. 교전 뒤에 이 장면을 찍었다.</MF_Caption_scene_battle_remains_3>
+  <MF_Caption_scene_battle_remains_4>교전 뒤에 찍은 장면에는 {6}의 모습도 함께 있다.</MF_Caption_scene_battle_remains_4>
+  <MF_Caption_scene_battle_remains_5>사진에 남은 {6}의 모습. 교전 뒤의 한 장이다.</MF_Caption_scene_battle_remains_5>
+  <MF_Caption_scene_battle_remains_6>교전 뒤의 장면을 담았다. {6}의 모습이 사진 안에 있다.</MF_Caption_scene_battle_remains_6>
+  <!-- MF_Caption_scene_battle_later: 6 candidates -->
+  <MF_Caption_scene_battle_later_1>나중에 찍은 사진에 {6}의 모습이 담겼다.</MF_Caption_scene_battle_later_1>
+  <MF_Caption_scene_battle_later_2>{6}의 모습을 담은 한 장. 교전 기록에 곁들인 나중의 사진이다.</MF_Caption_scene_battle_later_2>
+  <MF_Caption_scene_battle_later_3>교전 기록과 함께 둔 이 사진은 나중에 찍은 {6}의 모습이다.</MF_Caption_scene_battle_later_3>
+  <MF_Caption_scene_battle_later_4>{6}의 모습도 사진 안에 있다. 이 장면은 나중에 찍었다.</MF_Caption_scene_battle_later_4>
+  <MF_Caption_scene_battle_later_5>나중에 남긴 {6}의 사진을 교전 기록에 더했다.</MF_Caption_scene_battle_later_5>
+  <MF_Caption_scene_battle_later_6>사진 속 {6}. 교전 기록에 덧붙인 이후의 장면이다.</MF_Caption_scene_battle_later_6>
+  <!-- MF_Caption_scene_battle_record: 6 candidates -->
+  <MF_Caption_scene_battle_record_1>교전 기록에 곁들인 사진이다.</MF_Caption_scene_battle_record_1>
+  <MF_Caption_scene_battle_record_2>교전과 연결해 보관한 한 장.</MF_Caption_scene_battle_record_2>
+  <MF_Caption_scene_battle_record_3>이 장면을 교전 기록과 함께 남겼다.</MF_Caption_scene_battle_record_3>
+  <MF_Caption_scene_battle_record_4>교전 기록 곁에 둔 사진 한 장.</MF_Caption_scene_battle_record_4>
+  <MF_Caption_scene_battle_record_5>교전 항목에 사진을 곁들였다.</MF_Caption_scene_battle_record_5>
+  <MF_Caption_scene_battle_record_6>교전에 관한 기록과 함께 보관한 사진이다.</MF_Caption_scene_battle_record_6>
+  <!-- Labels measured from event/relationship/corpse facts. -->
+  <MF_SceneBirthdayFirst>첫 생일</MF_SceneBirthdayFirst>
+  <MF_SceneBirthdayAge>{0}번째 생일</MF_SceneBirthdayAge>
+  <MF_SceneBirthday>생일</MF_SceneBirthday>
+  <MF_SceneMother>어머니</MF_SceneMother>
+  <MF_SceneFather>아버지</MF_SceneFather>
+  <MF_SceneParent>부모</MF_SceneParent>
+  <MF_SceneMechRemains>메카노이드 잔해</MF_SceneMechRemains>
+  <MF_SceneAnimalRemains>동물 사체</MF_SceneAnimalRemains>
+  <MF_SceneHumanRemains>사람의 시신</MF_SceneHumanRemains>
+  <MF_Caption_scene_battle_engagement_1>첫 공격이 시작된 순간의 현장. 전투가 끝난 뒤 돌아보는 한 장이다.</MF_Caption_scene_battle_engagement_1>
+  <MF_Caption_scene_battle_engagement_2>싸움이 시작되던 순간의 {3}. 결과를 알기 전에 찍힌 모습이다.</MF_Caption_scene_battle_engagement_2>
+  <MF_Caption_scene_battle_engagement_3>전투가 시작된 날을 돌아볼 수 있도록, 첫 공격 때의 모습을 남겼다.</MF_Caption_scene_battle_engagement_3>
+  <MF_Caption_scene_battle_engagement_4>{2}의 전투가 시작되던 때를 담았다.</MF_Caption_scene_battle_engagement_4>
+  <MF_Caption_scene_battle_engagement_5>이 싸움의 기록은 첫 공격이 시작된 장면에서 시작된다.</MF_Caption_scene_battle_engagement_5>
+  <MF_Caption_scene_battle_engagement_6>전투의 시작과 끝 사이에서, 사진은 시작의 모습을 남긴다.</MF_Caption_scene_battle_engagement_6>
+  <MF_Caption_scene_battle_engagement_7>{3}에서 첫 공격이 시작되던 순간의 모습.</MF_Caption_scene_battle_engagement_7>
+  <MF_Caption_scene_battle_engagement_8>전투가 끝난 자리가 아닌, 싸움이 막 시작된 때의 사진.</MF_Caption_scene_battle_engagement_8>
+  <MF_BattleNoExchange>전투는 기록했지만 첫 교전 순간의 사진은 남기지 못했다.</MF_BattleNoExchange>
+</LanguageData>
+

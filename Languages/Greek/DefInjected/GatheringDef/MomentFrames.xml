@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>βραδιά αναμνήσεων</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Βραδιά αναμνήσεων</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} διοργανώνει βραδιά αναμνήσεων στον προβολέα. Όσοι έρθουν θα δουν μαζί τις φωτογραφίες της αποικίας και θα κερδίσουν διαρκή καλή διάθεση.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Η βραδιά αναμνήσεων ακυρώθηκε.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Η βραδιά αναμνήσεων τελείωσε.</MF_MemoryNight.finishedMessage>
+</LanguageData>

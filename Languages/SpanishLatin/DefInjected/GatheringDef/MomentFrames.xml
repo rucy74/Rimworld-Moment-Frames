@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>noche de recuerdos</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Noche de recuerdos</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} celebra una noche de recuerdos junto al proyector. Quienes acudan verán en grupo las fotografías de la colonia y tendrán un buen humor duradero.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>La noche de recuerdos se canceló.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>La noche de recuerdos terminó.</MF_MemoryNight.finishedMessage>
+</LanguageData>

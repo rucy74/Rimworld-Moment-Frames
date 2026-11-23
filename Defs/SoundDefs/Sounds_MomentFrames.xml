@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Camera shutter: two short clicks 70 ms apart (synthesised, Sounds/MomentFrames/CameraShutter.wav). UI feedback, played on the camera. -->
+  <SoundDef>
+    <defName>MF_CameraShutter</defName>
+    <context>Any</context>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <onCamera>true</onCamera>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>MomentFrames/CameraShutter</clipPath>
+          </li>
+        </grains>
+        <volumeRange>35~35</volumeRange>
+        <pitchRange>0.97~1.03</pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+</Defs>

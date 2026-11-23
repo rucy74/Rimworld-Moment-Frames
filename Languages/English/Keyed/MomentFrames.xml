@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ChoosePhoto>Choose photo</MF_ChoosePhoto>
+  <MF_ChoosePhotoDesc>Choose the photograph displayed in this frame.</MF_ChoosePhotoDesc>
+  <MF_FrameStyle>Frame style</MF_FrameStyle>
+  <MF_FrameStyleDesc>Change how this frame looks (now: {0}). With several frames selected, all of them change.</MF_FrameStyleDesc>
+  <MF_Style_Material>Moulding in its material</MF_Style_Material>
+  <MF_Style_BlackMat>Thin black, white mat</MF_Style_BlackMat>
+  <MF_Style_Gilded>Gilded</MF_Style_Gilded>
+  <MF_Style_Polaroid>Polaroid</MF_Style_Polaroid>
+  <MF_Style_Canvas>Canvas, no frame</MF_Style_Canvas>
+  <MF_StyleCurrent>(current)</MF_StyleCurrent>
+  <MF_ViewPhoto>View</MF_ViewPhoto>
+  <MF_ViewPhotoDesc>View the displayed photograph at full size.</MF_ViewPhotoDesc>
+  <MF_ClearPhoto>Clear</MF_ClearPhoto>
+  <MF_ClearPhotoDesc>Remove the photograph from this frame. The file is kept.</MF_ClearPhotoDesc>
+  <MF_TakePhoto>Take photo</MF_TakePhoto>
+  <MF_TakePhotoDesc>Photograph the area around the chosen cell and save it as a file. It can then be hung in a photo frame.</MF_TakePhotoDesc>
+  <MF_ManualTitle>Snapshot {0}</MF_ManualTitle>
+  <MF_PhotoTaken>Photo taken: {0}</MF_PhotoTaken>
+  <MF_PhotoTakenBirthday>Photo taken: {0}. Birthday photos are kept in that person's chronicle tab.</MF_PhotoTakenBirthday>
+  <MF_PhotoFailed>Photo failed: {0}</MF_PhotoFailed>
+  <MF_NoPhoto>No photo</MF_NoPhoto>
+  <MF_NoPhotosYet>No photos yet. Use 'Take photo' in the Misc tab, or wait for a wedding, party or ritual.</MF_NoPhotosYet>
+  <MF_MissingFile>Photo file missing</MF_MissingFile>
+  <MF_OpenFolder>Open folder</MF_OpenFolder>
+  <MF_People>People: {0}</MF_People>
+  <MF_ChooserTitle>Choose photo — {0}</MF_ChooserTitle>
+  <MF_NorthSouthOnly>Can only hang on horizontal (north/south) walls</MF_NorthSouthOnly>
+  <MF_DragHint>Drag to choose the area to photograph. The photo keeps the dragged proportions and frames follow it (between 2:3 portrait and 3:1 panorama). A plain click uses the default 3:2 span.</MF_DragHint>
+  <MF_Wedding>Wedding: {0} ♥ {1}</MF_Wedding>
+  <MF_Party>Party hosted by {0}</MF_Party>
+  <MF_Ritual>Ritual: {0}</MF_Ritual>
+  <MF_Baby>Birth: {0}</MF_Baby>
+  <MF_Death>In memory of {0}</MF_Death>
+  <MF_Recruit>Recruited: {0}</MF_Recruit>
+  <MF_Legendary>Legendary work: {0}</MF_Legendary>
+  <MF_ShipLaunch>Ship launch</MF_ShipLaunch>
+  <MF_MechBoss>Defeated: {0}</MF_MechBoss>
+  <MF_ColonyStart>First day of {0}</MF_ColonyStart>
+  <MF_Mechlink>Mechlink: {0}</MF_Mechlink>
+  <MF_RelicFound>Relic obtained: {0}</MF_RelicFound>
+  <MF_SurgeryFail>On the table: {0}</MF_SurgeryFail>
+  <MF_Xenogerm>Xenogerm implanted: {0}</MF_Xenogerm>
+  <MF_Sanguophage>Sanguophage: {0}</MF_Sanguophage>
+  <MF_Persona>{0} and {1}</MF_Persona>
+  <MF_TitleGained>{0}, now {1}</MF_TitleGained>
+  <MF_IdeoReform>Reformed: {0}</MF_IdeoReform>
+  <MF_RareSeen>Met a {0}</MF_RareSeen>
+  <MF_RareTamed>Tamed a {0}</MF_RareTamed>
+  <MF_Anomaly>{0} appeared</MF_Anomaly>
+  <MF_Contained>{0} contained</MF_Contained>
+  <MF_ShipCountdown>The ship's countdown</MF_ShipCountdown>
+  <MF_EndingPlace>Before the {0}</MF_EndingPlace>
+  <MF_Kind_battle>Battle won</MF_Kind_battle>
+  <MF_Battle_raid>The day we held off {0}</MF_Battle_raid>
+  <MF_Battle_siege>The siege by {0}, outlasted</MF_Battle_siege>
+  <MF_Battle_mechcluster>The mech cluster, broken</MF_Battle_mechcluster>
+  <MF_Battle_infestation>The infestation, driven out</MF_Battle_infestation>
+  <MF_Battle_animals>The manhunting pack, held off</MF_Battle_animals>
+  <MF_Battle_threat>The day we held off {0}</MF_Battle_threat>
+  <MF_Battle_Enemy>the enemy</MF_Battle_Enemy>
+  <MF_Desc_battle_1>When it was over, they were still standing. {2}, {3}.</MF_Desc_battle_1>
+  <MF_Desc_battle_2>{0}, after the fight. Nobody said much.</MF_Desc_battle_2>
+  <MF_Desc_battle_3>The day {3} held. {2}.</MF_Desc_battle_3>
+  <MF_Set_Battle>Fights the colony won</MF_Set_Battle>
+  <MF_Set_BattleDesc>After a big threat (a raid, a siege, a mech cluster, an infestation, a manhunting pack) once the map is calm again: the colonists where the enemies fell.</MF_Set_BattleDesc>
+  <MF_Set_BattleOff>Off</MF_Set_BattleOff>
+  <MF_Set_BattleFirsts>The first of each kind only</MF_Set_BattleFirsts>
+  <MF_Set_BattleHard>The first of each kind, then hard fights (someone downed or killed, or outnumbered), at most one a season</MF_Set_BattleHard>
+  <MF_Set_BattleEvery>Every fight won</MF_Set_BattleEvery>
+  <MF_Kind_disaster>Disaster weathered</MF_Kind_disaster>
+  <MF_Kind_sky>Sky</MF_Kind_sky>
+  <MF_DisasterDuring>In the {0}</MF_DisasterDuring>
+  <MF_SkyUnder>Under the {0}</MF_SkyUnder>
+  <MF_Cond_DeathPall>death pall</MF_Cond_DeathPall>
+  <MF_Cond_GrayPall>gray pall</MF_Cond_GrayPall>
+  <MF_Desc_disaster_1>Everyone waited for it to pass. {2}, {3}.</MF_Desc_disaster_1>
+  <MF_Desc_disaster_2>A day in {3}. It was not over yet.</MF_Desc_disaster_2>
+  <MF_Desc_sky_1>Everyone who was outside looked up. {2}.</MF_Desc_sky_1>
+  <MF_Desc_sky_2>{0}, under a strange sky.</MF_Desc_sky_2>
+  <MF_Set_Disaster>Disasters weathered</MF_Set_Disaster>
+  <MF_Set_DisasterDesc>While a disaster lasts (toxic fallout, a volcanic winter, a cold snap or heat wave, a flashstorm, acidic smog, and the expansions' own): the colony in it, by day. The first of each kind, then at most one a season.</MF_Set_DisasterDesc>
+  <MF_Set_Sky>The sky</MF_Set_Sky>
+  <MF_Set_SkyDesc>An aurora or glowing spores at night, an eclipse by day: the colonists out under it. The first of each kind, then at most one a season.</MF_Set_SkyDesc>
+  <MF_Kind_memorynight>Memory night</MF_Kind_memorynight>
+  <MF_MemoryNightTitle>Memory night: {0}</MF_MemoryNightTitle>
+  <MF_MemoryNightReport>Watching photographs at the memory night.</MF_MemoryNightReport>
+  <MF_MemoryNightOpen>Memory night</MF_MemoryNightOpen>
+  <MF_MemoryNightOpenDesc>Choose the film, guests and viewing time to prepare a memory night. Press again while it is running to open its progress window. Cancel the event during gathering or watching; closing the window alone does not cancel it.</MF_MemoryNightOpenDesc>
+  <MF_MemoryNightFewPhotos>The film needs at least {0} photos.</MF_MemoryNightFewPhotos>
+  <MF_MemoryNightAlready>A memory night is already on.</MF_MemoryNightAlready>
+  <MF_MemoryNightNobody>Nobody can host a memory night right now.</MF_MemoryNightNobody>
+  <MF_FilmYear>The year {0}</MF_FilmYear>
+  <MF_YearLetterTitle>The year {0} in photos</MF_YearLetterTitle>
+  <MF_YearLetterText>{0} is over: {1} photos. Its moments:\n\n{2}</MF_YearLetterText>
+  <MF_YearLetterNone>(no milestones that year)</MF_YearLetterNone>
+  <MF_YearLetterAlbum>Open the album on that year</MF_YearLetterAlbum>
+  <MF_YearLetterNight>Hold a memory night with the photos of {0}</MF_YearLetterNight>
+  <MF_YearLetterNoProjector>There is no slide projector.</MF_YearLetterNoProjector>
+  <MF_Desc_memorynight_1>The lights went down and the colony watched itself. {2}.</MF_Desc_memorynight_1>
+  <MF_Desc_memorynight_2>{0}, in front of the old photographs.</MF_Desc_memorynight_2>
+  <MF_Set_MemoryNight>Memory nights</MF_Set_MemoryNight>
+  <MF_Set_MemoryNightDesc>Now and then in the evening a colonist gathers everyone at a slide projector to watch its film. The projector's button opens one at any time either way.</MF_Set_MemoryNightDesc>
+  <MF_Set_YearLetter>The year in photos</MF_Set_YearLetter>
+  <MF_Set_YearLetterDesc>When the colony's year turns, a letter about the year that ended: how many photos, its moments, and the way to the album or a memory night on them.</MF_Set_YearLetterDesc>
+  <MF_Life_joined>Joined the colony</MF_Life_joined>
+  <MF_Life_born>Born in the colony</MF_Life_born>
+  <MF_Life_lover>Became lovers with {0}</MF_Life_lover>
+  <MF_Life_fiance>Engaged to {0}</MF_Life_fiance>
+  <MF_Life_spouse>Married {0}</MF_Life_spouse>
+  <MF_Life_brokeup>Broke up with {0}</MF_Life_brokeup>
+  <MF_Life_divorced>Divorced {0}</MF_Life_divorced>
+  <MF_Life_bond>Bonded with {0}</MF_Life_bond>
+  <MF_Life_captured>Carried off by {0}</MF_Life_captured>
+  <MF_Life_limb>Lost the {0} ({1})</MF_Life_limb>
+  <MF_Life_limbPlain>Lost the {0}</MF_Life_limbPlain>
+  <MF_Set_Life>Life events in each colonist's chronicle</MF_Set_Life>
+  <MF_Set_LifeDesc>Moments without a photo, as lines between the photos in a colonist's own chronicle: joining or being born, lovers, engagement, marriage, a break-up or divorce, a bond with an animal, being carried off by raiders, losing a limb.</MF_Set_LifeDesc>
+  <MF_EndingAscension>The ascension begins</MF_EndingAscension>
+  <MF_EndingMechhive>At the mech hive</MF_EndingMechhive>
+  <MF_EndingMechhiveDone>The mech hive falls silent</MF_EndingMechhiveDone>
+  <MF_EndingRoyalAscent>The royal ascent</MF_EndingRoyalAscent>
+  <MF_EndingRoyalShuttle>The royal shuttle arrives</MF_EndingRoyalShuttle>
+  <MF_EndingArchonexusMove>Setting out for the archonexus ({0}/2)</MF_EndingArchonexusMove>
+  <MF_SpecialTree>A {0} took root</MF_SpecialTree>
+  <MF_Set_Span>Manual capture span ({0} cells tall, 1.5x wide — event photos frame their participants automatically)</MF_Set_Span>
+  <MF_Set_PxPerCell>Photo resolution: {0} px per cell (a {1}-cell span = {2}×{3})</MF_Set_PxPerCell>
+  <MF_Set_PxPerCellDesc>The default is 192 pixels per cell. Keep the scene framing while saving more pixels for zooming and cropping. Capture time, saving time and file size may increase (at most 4096 pixels per side). Frames on the map still use small thumbnails.</MF_Set_PxPerCellDesc>
+  <MF_Set_EventZoom>Event photo zoom: {0}x (higher = closer)</MF_Set_EventZoom>
+  <MF_Set_EventZoomDesc>Applies only to photos the mod frames for you (weddings, parties, rituals, milestones). 1.0 is the framing so far; 1.1 takes it a tenth closer, 0.9 a tenth wider. Photos you take by hand and group photos keep their own settings.</MF_Set_EventZoomDesc>
+  <MF_Set_Bright>Always daylight in photos</MF_Set_Bright>
+  <MF_Set_Fx>Capture effects</MF_Set_Fx>
+  <MF_Set_FxFlash>Flash (the screen whites out for a moment)</MF_Set_FxFlash>
+  <MF_Set_FxShutter>Shutter sound</MF_Set_FxShutter>
+  <MF_Set_FxPopup>Photo card (the new photo shrinks from the centre of the screen into a corner card; click to view)</MF_Set_FxPopup>
+  <MF_Set_FxCamera>Move the view to the shot</MF_Set_FxCamera>
+  <MF_Set_FxCameraDesc>When an event or milestone photo is taken, the view jumps to that spot and zooms to the framed area. Photos you take by hand are left alone.</MF_Set_FxCameraDesc>
+  <MF_Set_FxFreeze>Freeze frame (hold the game for half a second)</MF_Set_FxFreeze>
+  <MF_Set_FxFreezeDesc>Does not change the game speed, only holds it briefly. It also fires during busy moments (a death during a raid), so it is off by default.</MF_Set_FxFreezeDesc>
+  <MF_Set_Weddings>Photograph weddings</MF_Set_Weddings>
+  <MF_Set_Parties>Photograph parties and festivals (parties, ideoligion celebrations, skylantern and tree festivals)</MF_Set_Parties>
+  <MF_Set_Funerals>Photograph funerals</MF_Set_Funerals>
+  <MF_Set_Rituals>Photograph religious rituals (trials, executions, conversions, sacrifices, duels, tree connection...)</MF_Set_Rituals>
+  <MF_Set_RitualsDesc>Frequent rituals are never photographed: leader speech, throne speech, smoke and burn circles, anima tree linking, role change (the role milestone covers it), childbirth ritual (the birth milestone covers it), gravship launch ritual (the launch milestone covers it).</MF_Set_RitualsDesc>
+  <MF_Set_RitualExclude>Additional rituals to skip (defNames, comma separated)</MF_Set_RitualExclude>
+  <MF_Set_Role>Ideoligion role assigned (leader, moral guide, specialists)</MF_Set_Role>
+  <MF_Set_Bestow>Title bestowing ceremony</MF_Set_Bestow>
+  <MF_Funeral>Funeral: {0}</MF_Funeral>
+  <MF_Celebration>{0} hosted by {1}</MF_Celebration>
+  <MF_CelebrationPlain>{0}</MF_CelebrationPlain>
+  <MF_Role>Appointed: {0} — {1}</MF_Role>
+  <MF_Bestow>Title bestowed: {0} — {1}</MF_Bestow>
+  <MF_GravshipLaunch>Gravship launch: {0}</MF_GravshipLaunch>
+  <MF_Set_Baby>Births</MF_Set_Baby>
+  <MF_Set_Death>Colonist deaths</MF_Set_Death>
+  <MF_Set_Recruit>Recruits</MF_Set_Recruit>
+  <MF_Set_RecruitFirstOnly>Only the first recruit</MF_Set_RecruitFirstOnly>
+  <MF_Set_Legendary>Legendary crafts</MF_Set_Legendary>
+  <MF_Set_Ship>Ship and gravship launch</MF_Set_Ship>
+  <MF_Set_MechBoss>Mechanoid boss kills</MF_Set_MechBoss>
+  <MF_Set_ColonyStart>Colony's first day</MF_Set_ColonyStart>
+  <MF_Set_Mechlink>Mechlink installed</MF_Set_Mechlink>
+  <MF_Set_RelicFound>Relic obtained</MF_Set_RelicFound>
+  <MF_Set_Personal>Personal milestones</MF_Set_Personal>
+  <MF_Set_PersonalDesc>A surgery gone badly wrong, a sanguophage, a xenogerm, a persona weapon, a title of Count or higher, an ideoligion reform, a gauranlen tree taking root at home.</MF_Set_PersonalDesc>
+  <MF_Set_RareAnimal>Rare beasts</MF_Set_RareAnimal>
+  <MF_Set_RareAnimalDesc>Meeting or taming an alpha thrumbo or a hive queen.</MF_Set_RareAnimalDesc>
+  <MF_Set_Anomaly>Anomalies</MF_Set_Anomaly>
+  <MF_Set_Ending>Ending steps</MF_Set_Ending>
+  <MF_Set_EndingDesc>The ship countdown, the royal ascent and its shuttle, each move toward the archonexus and the ascension, reaching the mech hive and switching off its core, and standing before the archonexus core or the void node.</MF_Set_EndingDesc>
+  <MF_Set_AnomalyDesc>The first sight of each strange creature (revenant, nociosphere, ghoul, dreadmeld, devourer, chimera, sightstealer, metalhorror) or object (fleshmass heart, pit gate, golden cube, unnatural corpse), and the first entity contained.</MF_Set_AnomalyDesc>
+  <MF_Set_Resurrect>Colonist resurrected (first time per person)</MF_Set_Resurrect>
+  <MF_Set_Relic>Relic placed in a reliquary (Ideology, first time per relic)</MF_Set_Relic>
+  <MF_Set_Monolith>Void monolith advanced (Anomaly)</MF_Set_Monolith>
+  <MF_Resurrect>Resurrected: {0}</MF_Resurrect>
+  <MF_RelicInstalled>Relic installed: {0}</MF_RelicInstalled>
+  <MF_Monolith>Monolith: {0}</MF_Monolith>
+  <MF_Kind_resurrect>Resurrection</MF_Kind_resurrect>
+  <MF_Kind_reliquary>Relic installed</MF_Kind_reliquary>
+  <MF_Kind_monolith>Monolith</MF_Kind_monolith>
+  <MF_Set_Folder>Photo folder (empty = default: save data folder\MomentFrames). Photos already taken are not moved: after a change they show as missing until you set it back or move the files yourself.</MF_Set_Folder>
+  <MF_Set_Milestones>Milestone photos</MF_Set_Milestones>
+  <MF_AlbumTitle>Colony album</MF_AlbumTitle>
+  <MF_Tab_Photos>Photos</MF_Tab_Photos>
+  <MF_Tab_Chronicle>Chronicle</MF_Tab_Chronicle>
+  <MF_Filter_Kind>Kind</MF_Filter_Kind>
+  <MF_Filter_Person>Person</MF_Filter_Person>
+  <MF_Filter_Year>Year</MF_Filter_Year>
+  <MF_All>All</MF_All>
+  <MF_YearLabel>{0}</MF_YearLabel>
+  <MF_PageOf>Page {0} of {1}</MF_PageOf>
+  <MF_Export>Export HTML</MF_Export>
+  <MF_ExportDesc>Writes album.html into the photo folder: chronicle and slideshow in your browser.</MF_ExportDesc>
+  <MF_Exported>Exported: {0}</MF_Exported>
+  <MF_IncludeManual>Include manual</MF_IncludeManual>
+  <MF_NoPhotosAlbum>No photos yet.</MF_NoPhotosAlbum>
+  <MF_Delayed>Delayed capture: taken after the event, so it may not show the moment itself</MF_Delayed>
+  <MF_PawnPhotos>{0} photos</MF_PawnPhotos>
+  <MF_TabChronicle>Chronicle</MF_TabChronicle>
+  <MF_TabChronicleTitle>{0}'s chronicle</MF_TabChronicleTitle>
+  <MF_TabMilestonesOnly>Milestones only</MF_TabMilestonesOnly>
+  <MF_TabNoMilestones>No milestone photo of {0} yet.</MF_TabNoMilestones>
+  <MF_TabOpenAlbum>Open in album</MF_TabOpenAlbum>
+  <MF_TabNoPhotos>{0} is not in any photo yet.</MF_TabNoPhotos>
+  <MF_Kind_wedding>Wedding</MF_Kind_wedding>
+  <MF_Kind_party>Party / festival</MF_Kind_party>
+  <MF_Kind_funeral>Funeral</MF_Kind_funeral>
+  <MF_Kind_ritual>Ritual</MF_Kind_ritual>
+  <MF_Kind_baby>Birth</MF_Kind_baby>
+  <MF_Kind_death>In memory</MF_Kind_death>
+  <MF_Kind_recruit>Recruit</MF_Kind_recruit>
+  <MF_Kind_legendary>Legendary work</MF_Kind_legendary>
+  <MF_Kind_ship>Ship launch</MF_Kind_ship>
+  <MF_Kind_gravship>Gravship launch</MF_Kind_gravship>
+  <MF_Kind_mechboss>Boss defeated</MF_Kind_mechboss>
+  <MF_Kind_colonystart>First day</MF_Kind_colonystart>
+  <MF_Kind_mechlink>Mechlink</MF_Kind_mechlink>
+  <MF_Kind_relicfound>Relic obtained</MF_Kind_relicfound>
+  <MF_Kind_surgeryfail>Surgery gone wrong</MF_Kind_surgeryfail>
+  <MF_Kind_xenogerm>Xenogerm implanted</MF_Kind_xenogerm>
+  <MF_Kind_sanguophage>Sanguophage</MF_Kind_sanguophage>
+  <MF_Kind_persona>Persona weapon</MF_Kind_persona>
+  <MF_Kind_title>Title granted</MF_Kind_title>
+  <MF_Kind_ideoreform>Ideoligion reformed</MF_Kind_ideoreform>
+  <MF_Kind_rareseen>Rare beast</MF_Kind_rareseen>
+  <MF_Kind_raretamed>Rare beast tamed</MF_Kind_raretamed>
+  <MF_Kind_anomaly>Anomaly</MF_Kind_anomaly>
+  <MF_Kind_contained>Entity contained</MF_Kind_contained>
+  <MF_Kind_ending>Ending</MF_Kind_ending>
+  <MF_Kind_specialtree>Sacred tree</MF_Kind_specialtree>
+  <MF_Kind_role>Role appointed</MF_Kind_role>
+  <MF_Kind_bestow>Title bestowed</MF_Kind_bestow>
+  <MF_Kind_manual>Snapshot</MF_Kind_manual>
+  <MF_Kind_test>Test</MF_Kind_test>
+  <MF_Kind_reshoot>Re-shoot</MF_Kind_reshoot>
+  <MF_Kind_anniversary>Colony anniversary</MF_Kind_anniversary>
+  <MF_Kind_population>Population milestone</MF_Kind_population>
+  <MF_Kind_landing>Gravship landing</MF_Kind_landing>
+  <MF_Reunion>The same people again</MF_Reunion>
+  <MF_ReunionDesc>Calls the colonists in this photo back to the same place and takes it again with the same framing. Whoever cannot come is left out.</MF_ReunionDesc>
+  <MF_ReunionSub>{0}\nCalling the people in this photo back to where it was taken.</MF_ReunionSub>
+  <MF_ReunionCall>Call {0}</MF_ReunionCall>
+  <MF_ReunionNoOne>Nobody can come</MF_ReunionNoOne>
+  <MF_ReunionFailed>They cannot be called right now.</MF_ReunionFailed>
+  <MF_ReunionTitle>Again: {0}</MF_ReunionTitle>
+  <MF_Reunion_Ready>can come</MF_Reunion_Ready>
+  <MF_Reunion_Dead>has died</MF_Reunion_Dead>
+  <MF_Reunion_Gone>only in the record</MF_Reunion_Gone>
+  <MF_Reunion_Away>not on this map</MF_Reunion_Away>
+  <MF_Reunion_NotOurs>no longer one of us</MF_Reunion_NotOurs>
+  <MF_Why_Dead>dead</MF_Why_Dead>
+  <MF_Reshoot>Shoot again, same framing</MF_Reshoot>
+  <MF_ReshootQueued>Queued: the same framing will be photographed while that map is being viewed.</MF_ReshootQueued>
+  <MF_ReshootTitle>Re-shoot: {0}</MF_ReshootTitle>
+  <MF_NoMapForReshoot>That map no longer exists, so the framing cannot be repeated.</MF_NoMapForReshoot>
+  <MF_ViewOriginal>View original</MF_ViewOriginal>
+  <MF_ViewReshoot>View re-shoot</MF_ViewReshoot>
+  <MF_Anniversary>Colony anniversary: year {0}</MF_Anniversary>
+  <MF_Population>{0} colonists</MF_Population>
+  <MF_FirstLanding>First landing: {0}</MF_FirstLanding>
+  <MF_Set_Historic>Colony anniversaries, population milestones (10/20/30/50/100), first gravship landing</MF_Set_Historic>
+  <MF_Set_HistoricDesc>A colony-wide shot on each settlement anniversary, one when the colony first reaches 10/20/30/50/100 people, one on the first Odyssey gravship landing. Checked once a day.</MF_Set_HistoricDesc>
+  <MF_Set_AnniversaryLetter>Anniversary letter: exactly one year after a milestone photo it arrives as a letter (once per photo, at most one a day)</MF_Set_AnniversaryLetter>
+  <MF_Set_AlbumTilt>Album: pin the photos at a slight angle</MF_Set_AlbumTilt>
+  <MF_Set_ProjectorSeconds>Projector: {0} real seconds per photo</MF_Set_ProjectorSeconds>
+  <MF_Set_ProjectorSecondsDesc>Real time, not game time, so the slideshow keeps the same pace at any speed (at 900 TPS a game hour is 3 seconds). The clock stops while the game is paused.</MF_Set_ProjectorSecondsDesc>
+  <MF_Set_Reminisce>Reminiscing: colonists look at hung photos for recreation, and two people in the same hung photo sometimes reminisce together ("remember when?")</MF_Set_Reminisce>
+  <MF_Set_ReminisceDesc>Only photos hung in a frame count. Looking at a photo you are in, or reminiscing about one, gives +3 mood for a day; one such memory at a time, so it cannot stack.</MF_Set_ReminisceDesc>
+  <MF_Rename>Edit caption</MF_Rename>
+  <MF_RenameTitle>Caption under the photo (frame, album, chronicle, album.html)</MF_RenameTitle>
+  <MF_RenameEmpty>The caption cannot be empty.</MF_RenameEmpty>
+  <MF_Slot>Place {0}</MF_Slot>
+  <MF_EmptySlot>empty</MF_EmptySlot>
+  <MF_ChooseSlotDesc>Choose the photograph for one of the four places.</MF_ChooseSlotDesc>
+  <MF_ClearSlotDesc>Remove the photograph from one place. Files are kept.</MF_ClearSlotDesc>
+  <MF_Html_kicker>Moment Frames · Colony album</MF_Html_kicker>
+  <MF_Html_title>The {0} album</MF_Html_title>
+  <MF_Html_statPhotos>{0} photos</MF_Html_statPhotos>
+  <MF_Html_statPeople>{0} colonists</MF_Html_statPeople>
+  <MF_Html_statYears>{0} years</MF_Html_statYears>
+  <MF_Html_statMilestones>{0} big moments</MF_Html_statMilestones>
+  <MF_Html_chapterCount>{0} moments</MF_Html_chapterCount>
+  <MF_Html_milestone>Big moment</MF_Html_milestone>
+  <MF_Html_all>All</MF_Html_all>
+  <MF_Html_everyone>Everyone</MF_Html_everyone>
+  <MF_Html_slideshow>Slideshow</MF_Html_slideshow>
+  <MF_Html_pause>Pause</MF_Html_pause>
+  <MF_Html_footer>An album made with Moment Frames · {0}</MF_Html_footer>
+  <MF_RenameEdit>Version title</MF_RenameEdit>
+  <MF_EditNote>Version note</MF_EditNote>
+  <MF_RenameEditTitle>Title of edit {0} (leave empty to use the photo's title):</MF_RenameEditTitle>
+  <MF_EditNoteTitle>Note of edit {0} (left as the photo's sentence, it keeps using the photo's):</MF_EditNoteTitle>
+  <MF_EditTextDesc>These change the title and note of the edited version on screen only. The photo's own title and sentence are changed on the original (click "Original" in the strip).</MF_EditTextDesc>
+  <MF_AlbumOpacity>Opacity</MF_AlbumOpacity>
+  <MF_AlbumOpacityDesc>How solid the album's leather and paper are; lower it to see the colony through the book. Photos and text stay solid. Drag the window by an empty spot to move it; resize it from the bottom-right corner.</MF_AlbumOpacityDesc>
+  <MF_AlbumReset>Put the album back to its usual size and place.</MF_AlbumReset>
+  <MF_TalkPhotos>Photos {0} is in: {1}</MF_TalkPhotos>
+  <MF_TalkPhoto>{0} ({1})</MF_TalkPhoto>
+  <MF_TalkPhotoWith>{0} ({1}, with {2})</MF_TalkPhotoWith>
+  <MF_TalkAgo>{0} ago</MF_TalkAgo>
+  <MF_PlacesToggle>Places of memory: show a photo pin wherever a photo was taken on this map.</MF_PlacesToggle>
+  <MF_PlacesMore>...and {0} more</MF_PlacesMore>
+  <MF_PlacesThenNow>Then and now: {0}</MF_PlacesThenNow>
+  <MF_PlacesReshoot>Shoot here again, same framing: {0}</MF_PlacesReshoot>
+  <MF_ThenNowTitle>Then and now</MF_ThenNowTitle>
+  <MF_Then>Then</MF_Then>
+  <MF_Now>Now</MF_Now>
+  <MF_SlotCrop>Visible part</MF_SlotCrop>
+  <MF_SlotCropDesc>For a tall photo or a panorama that its window trims: choose which part shows (top, middle or bottom; left, middle or right).</MF_SlotCropDesc>
+  <MF_SlotCropNone>No photo on this board is trimmed much.</MF_SlotCropNone>
+  <MF_CropTitle>Place {0}: which part to show</MF_CropTitle>
+  <MF_CropPrompt>the window trims this photo. Click the part to show.</MF_CropPrompt>
+  <MF_CropTop>Top</MF_CropTop>
+  <MF_CropMiddle>Middle</MF_CropMiddle>
+  <MF_CropBottom>Bottom</MF_CropBottom>
+  <MF_CropLeft>Left</MF_CropLeft>
+  <MF_CropRight>Right</MF_CropRight>
+  <MF_CropRecommended>suggested</MF_CropRecommended>
+  <MF_CollageCount>Photos: {0}/{1}</MF_CollageCount>
+  <MF_ProjectorShowing>Showing: {0} ({1}/{2})</MF_ProjectorShowing>
+  <MF_ProjectorIdle>No photos on this film yet.</MF_ProjectorIdle>
+  <MF_ProjectorFilm>Choose film</MF_ProjectorFilm>
+  <MF_ProjectorFilmDesc>Which photos the projector cycles through: all of them, milestones only, one kind, or one person.</MF_ProjectorFilmDesc>
+  <MF_ProjectorFilmLine>Film: {0}</MF_ProjectorFilmLine>
+  <MF_FilmAll>All photos</MF_FilmAll>
+  <MF_FilmMilestones>Milestones only</MF_FilmMilestones>
+  <MF_FilmKind>Kind: {0}</MF_FilmKind>
+  <MF_FilmPerson>Person: {0}</MF_FilmPerson>
+  <MF_ProjectorNext>Next photo</MF_ProjectorNext>
+  <MF_ProjectorNextDesc>Skip to the next photo on the film right now.</MF_ProjectorNextDesc>
+  <MF_MemorialOf>In memory of {0}</MF_MemorialOf>
+  <MF_MemorialNoGrave>No body in an adjacent grave: place it beside a grave or sarcophagus, or choose a photo by hand.</MF_MemorialNoGrave>
+  <MF_Set_Fade>Fading: framed photos yellow with age (excellent or better frames at half speed)</MF_Set_Fade>
+  <MF_Set_FadeDesc>Only the frames on the map change colour; the files, the album and the viewer keep the original, and nothing is saved. Photos from an old colony arrive already half faded. The dev-mode debug action "Fade preview" shows every photo ten years older.</MF_Set_FadeDesc>
+  <MF_Set_FadeYears>Fading: fully faded after {0} years</MF_Set_FadeYears>
+  <MF_Kind_relic>Old colony photo</MF_Kind_relic>
+  <MF_Relics>Old colonies</MF_Relics>
+  <MF_RelicsDesc>Bring photos taken in another colony (another save on this PC) into this album. They arrive without people (pawn ids from another save would point at the wrong colonists here) and never count as milestones or for reminiscing.</MF_RelicsDesc>
+  <MF_RelicTitle>Photos of old colonies</MF_RelicTitle>
+  <MF_RelicNoSources>No other colony's photo folder found. Each game gets its own folder inside the photo folder; every folder but this game's is searched: {0}</MF_RelicNoSources>
+  <MF_RelicSource>{0}\n{1} photos · {2} imported</MF_RelicSource>
+  <MF_RelicImportAll>Import the remaining {0}</MF_RelicImportAll>
+  <MF_RelicImported>imported</MF_RelicImported>
+  <MF_RelicClickToImport>Click to bring it into this album</MF_RelicClickToImport>
+  <MF_RelicImportedMsg>Imported {0} old colony photos.</MF_RelicImportedMsg>
+  <MF_RelicDesc>A photo from the old colony '{0}'. Who is in it is not known.</MF_RelicDesc>
+  <MF_RelicDate>Old colony · {0}</MF_RelicDate>
+  <MF_RelicUnknownColony>Unnamed colony ({0})</MF_RelicUnknownColony>
+  <MF_GroupStart>Group photo ({0})</MF_GroupStart>
+  <MF_GroupStartDesc>The colonists on the map line up behind this spot (to the north), face the camera, and the photo is taken once everyone called stands still. People who are working, eating or relaxing stop what they are doing and come.\n\nNot called: sleeping, downed, drafted or mentally broken people, prisoners, slaves and babies, anyone bound to another activity (a party, a ritual, a caravan forming), anyone bleeding, starving, exhausted or in need of treatment, a surgeon and their patient, and anyone doing a job you ordered by hand.\n\nEmergencies (fire, rescue, tending) take someone away for a moment; they come back afterwards. Someone who leaves the line (drafted, downed, breaking down, given a job by hand) is announced with the reason and comes back by themselves once they can. Nothing is taken before everyone is there: wait, take it now with those in place ('Take it now' on the spot), or cancel. After two hours a message names who is still missing; after six hours the line-up disbands without a photo. A threat (a raid) or a death calls it off. The photo is only taken while you are looking at this map.\n\nAfterwards everyone stays in line: 'Take another' for one more picture, or 'Dismiss' to let them go (after six hours they go by themselves). 'Set the framing' lets you drag what the picture will show.</MF_GroupStartDesc>
+  <MF_GroupShootNow>Take it now ({0})</MF_GroupShootNow>
+  <MF_GroupShootNowDesc>Photograph those standing in place now without waiting for the rest. Everyone stays in line afterwards until you dismiss them.</MF_GroupShootNowDesc>
+  <MF_GroupNoOneInPlace>Nobody stands in place yet</MF_GroupNoOneInPlace>
+  <MF_GroupNotViewing>Group photo: it can only be taken while you are looking at this map.</MF_GroupNotViewing>
+  <MF_GroupWaiting>Group photo: {0} still not in place. 'Take it now' on the photo spot photographs those who are.</MF_GroupWaiting>
+  <MF_GroupDropped>{0} left the line: {1}</MF_GroupDropped>
+  <MF_GroupRejoined>{0} is back in the line.</MF_GroupRejoined>
+  <MF_GroupTimedOut>Group photo: six hours passed without everyone in place; the line-up disbanded.</MF_GroupTimedOut>
+  <MF_GroupStatusComing>On the way: {0}</MF_GroupStatusComing>
+  <MF_GroupStatusDropped>Out: {0}</MF_GroupStatusDropped>
+  <MF_Why_Drafted>drafted</MF_Why_Drafted>
+  <MF_Why_Downed>downed</MF_Why_Downed>
+  <MF_Why_Mental>mental break</MF_Why_Mental>
+  <MF_Why_Unfit>needs treatment, bleeding, starving or exhausted</MF_Why_Unfit>
+  <MF_Why_Busy>a job ordered by hand</MF_Why_Busy>
+  <MF_Why_OtherMap>on another map</MF_Why_OtherMap>
+  <MF_Why_Left>left</MF_Why_Left>
+  <MF_GroupDefsMissing>Mod files are damaged (definitions missing); cannot be used</MF_GroupDefsMissing>
+  <MF_GroupNotViewed>Group photo: this map was not viewed for six hours, so the line-up disbanded without a photo.</MF_GroupNotViewed>
+  <MF_GroupFailed>Group photo: the capture could not start; the line-up disbanded.</MF_GroupFailed>
+  <MF_GroupBusy>A group photo is already being set up</MF_GroupBusy>
+  <MF_GroupDanger>Not while there is a threat</MF_GroupDanger>
+  <MF_GroupNoOne>Nobody can line up right now</MF_GroupNoOne>
+  <MF_GroupNoRoom>There is no room behind the photo spot. It needs open floor to the north.</MF_GroupNoRoom>
+  <MF_GroupLessRoom>Only {0} places behind the photo spot: {0} of {1} line up.</MF_GroupLessRoom>
+  <MF_GroupStarted>Group photo: {0} people gather behind the photo spot.</MF_GroupStarted>
+  <MF_GroupCancel>Cancel group photo</MF_GroupCancel>
+  <MF_GroupCancelDesc>Lets everyone go. No photo is taken.</MF_GroupCancelDesc>
+  <MF_GroupLeave>Leave the group photo</MF_GroupLeave>
+  <MF_GroupLeaveDesc>This person leaves the line; the rest are photographed.</MF_GroupLeaveDesc>
+  <MF_GroupStatus>Group photo: {0} of {1} in place</MF_GroupStatus>
+  <MF_GroupIdle>{0} people would line up now</MF_GroupIdle>
+  <MF_GroupReport>Gathering for a group photo</MF_GroupReport>
+  <MF_GroupPhoto>Group photo: {0} people</MF_GroupPhoto>
+  <MF_GroupCancelled>Group photo cancelled.</MF_GroupCancelled>
+  <MF_GroupCalledOff_Danger>Group photo called off: a threat appeared.</MF_GroupCalledOff_Danger>
+  <MF_GroupCalledOff_NoOne>Group photo called off: nobody in place.</MF_GroupCalledOff_NoOne>
+  <MF_GroupCalledOff_Killed>Group photo called off: {0} died.</MF_GroupCalledOff_Killed>
+  <MF_GroupCalledOff_SpotGone>Group photo called off: the photo spot is gone.</MF_GroupCalledOff_SpotGone>
+  <MF_Kind_group>Group photo</MF_Kind_group>
+  <MF_Tab_Gallery>Gallery</MF_Tab_Gallery>
+  <MF_EditDesc>Edit description</MF_EditDesc>
+  <MF_EditDescTitle>The sentence under the photo (gallery, chronicle, album.html)</MF_EditDescTitle>
+  <MF_RoleRitual>Role ceremony: {0}</MF_RoleRitual>
+  <MF_BestowCeremony>Bestowing ceremony: {0}</MF_BestowCeremony>
+  <!-- The sentence under a photo: one of 1-4 per kind is picked when it is taken, then it can be edited. {0} people {1} first person {2} season {3} colony {4} detail (role, title, ritual name...) -->
+  <MF_Desc_Someone>the colonists</MF_Desc_Someone>
+  <MF_Desc_wedding_1>{2} at {3}: {0} were married, with everyone gathered round.</MF_Desc_wedding_1>
+  <MF_Desc_wedding_2>The wedding of {0}. For one day the work could wait.</MF_Desc_wedding_2>
+  <MF_Desc_party_1>A party thrown by {1}. A loud {2} evening at {3}.</MF_Desc_party_1>
+  <MF_Desc_party_2>Everyone came to {1}'s party. Tomorrow's troubles were left for tomorrow.</MF_Desc_party_2>
+  <MF_Desc_celebration_1>{4}, led by {1}. {2} at {3}.</MF_Desc_celebration_1>
+  <MF_Desc_celebration_2>{3} held {4}. They would talk about this day for a while.</MF_Desc_celebration_2>
+  <MF_Desc_funeral_1>Saying goodbye to {4}. The people of {3} stood by in silence.</MF_Desc_funeral_1>
+  <MF_Desc_funeral_2>The funeral of {4}, {2}. Those who remained said their last words.</MF_Desc_funeral_2>
+  <MF_Desc_ritual_1>{4}, held at {3} in {2}.</MF_Desc_ritual_1>
+  <MF_Desc_ritual_2>The people of {3} gathered for {4}.</MF_Desc_ritual_2>
+  <MF_Desc_role_1>{1} became {4}. {2} at {3}: a new responsibility begins.</MF_Desc_role_1>
+  <MF_Desc_role_2>From today {1} is the {4} of {3}. Everyone watched the moment.</MF_Desc_role_2>
+  <MF_Desc_bestow_1>{1} received the title of {4}, kneeling and rising as the Empire's custom demands.</MF_Desc_bestow_1>
+  <MF_Desc_bestow_2>{4}: {1}. The day an Imperial envoy came to {3}.</MF_Desc_bestow_2>
+  <MF_Desc_baby_1>The day {1} was born. One more at the table of {3}.</MF_Desc_baby_1>
+  <MF_Desc_baby_2>{2}, {3}. {1}'s first day.</MF_Desc_baby_2>
+  <MF_Desc_death_1>Remembering {1}. {2} at {3}.</MF_Desc_death_1>
+  <MF_Desc_death_2>{1} left us. This is the last picture.</MF_Desc_death_2>
+  <MF_Desc_recruit_1>{1} became one of {3}.</MF_Desc_recruit_1>
+  <MF_Desc_recruit_2>A new face, {1}, joined {3} in {2}.</MF_Desc_recruit_2>
+  <MF_Desc_legendary_1>{1} finished a work that will be remembered as legendary.</MF_Desc_legendary_1>
+  <MF_Desc_legendary_2>A legendary piece from the hands of {1}, the pride of {3}.</MF_Desc_legendary_2>
+  <MF_Desc_ship_1>Ship launch. The story of {3} ends here, or begins again.</MF_Desc_ship_1>
+  <MF_Desc_gravship_1>Moments before the gravship rose. {2} at {3}.</MF_Desc_gravship_1>
+  <MF_Desc_gravship_2>The last picture before departure. Everyone was aboard.</MF_Desc_gravship_2>
+  <MF_Desc_mechboss_1>The day {3} brought down a mechanoid monster.</MF_Desc_mechboss_1>
+  <MF_Desc_mechboss_2>Where the battle ended. {2}, {3}.</MF_Desc_mechboss_2>
+  <MF_Desc_resurrect_1>{1} came back. The first day of a second life.</MF_Desc_resurrect_1>
+  <MF_Desc_reliquary_1>The relic of {3} found its place. {2}.</MF_Desc_reliquary_1>
+  <MF_Desc_monolith_1>The monolith changed. The people of {3} do not yet know what it means.</MF_Desc_monolith_1>
+  <MF_Desc_anniversary_1>The founding anniversary of {3}. Our home, seen from above.</MF_Desc_anniversary_1>
+  <MF_Desc_anniversary_2>Another year survived. {3}, {2}.</MF_Desc_anniversary_2>
+  <MF_Desc_population_1>This many people now call {3} home. {2}.</MF_Desc_population_1>
+  <MF_Desc_landing_1>The day we first set foot on {3}. Strange ground, a new name.</MF_Desc_landing_1>
+  <MF_Desc_group_1>The people of {3}, all in one place. {2}.</MF_Desc_group_1>
+  <MF_Desc_group_2>A group photo, to remember these faces on this day.</MF_Desc_group_2>
+  <MF_LetterYearsAgo>{0} years ago today: {1}</MF_LetterYearsAgo>
+  <MF_LetterText>{0} years ago today this photograph was taken.\n\n{1}\n{2}\nPeople: {3}</MF_LetterText>
+  <MF_Edit>Edit</MF_Edit>
+  <MF_EditDesc2>Crop this photo or give it a look, and save the result as a new edited version. The original stays as it is.</MF_EditDesc2>
+  <MF_EditTitle>Edit: {0}</MF_EditTitle>
+  <MF_EditFilter>Look</MF_EditFilter>
+  <MF_EditCrop>Crop shape</MF_EditCrop>
+  <MF_EditLock_Free>Free</MF_EditLock_Free>
+  <MF_EditLock_Original>Same as the photo</MF_EditLock_Original>
+  <MF_EditLock_Square>Square 1:1</MF_EditLock_Square>
+  <MF_EditLock_Wide>Landscape 3:2</MF_EditLock_Wide>
+  <MF_EditLock_Tall>Portrait 2:3</MF_EditLock_Tall>
+  <MF_EditReset>Start over</MF_EditReset>
+  <MF_EditSize>{0}% of the width · {1}% of the height (ratio {2})</MF_EditSize>
+  <MF_EditSave>Save as an edited version</MF_EditSave>
+  <MF_EditSaved>Edited version saved (no. {0}). The album and frames now show it.</MF_EditSaved>
+  <MF_EditFailed>The edited version could not be saved. Check that the original photo file is still there.</MF_EditFailed>
+  <MF_EditCount>{0} edited</MF_EditCount>
+  <MF_VersionOriginal>Original</MF_VersionOriginal>
+  <MF_VersionEdit>Edit {0}</MF_VersionEdit>
+  <MF_UseVersion>Show this one</MF_UseVersion>
+  <MF_UseVersionDesc>Album cards, frames, the projector and the HTML album will use the version you are looking at.</MF_UseVersionDesc>
+  <MF_DeleteEdit>Delete this edit</MF_DeleteEdit>
+  <MF_DeleteEditConfirm>Delete this edited version? Its file goes too and it cannot be undone, also in other saves of this colony that still use it. The original stays.</MF_DeleteEditConfirm>
+  <MF_Filter_none>None</MF_Filter_none>
+  <MF_Filter_mono>Black and white</MF_Filter_mono>
+  <MF_Filter_sepia>Sepia</MF_Filter_sepia>
+  <MF_Filter_warm>Warm</MF_Filter_warm>
+  <MF_Filter_cool>Cool</MF_Filter_cool>
+  <MF_Filter_faded>Faded print</MF_Filter_faded>
+  <MF_SpotFrame>Set the framing</MF_SpotFrame>
+  <MF_SpotFrameDesc>Drag on the map to choose what the group photos taken at this spot will show (a click gives the default size). Without it the picture fits whoever stands in the line-up. White cells are where people will stand; the amber outline is what the photo will show.</MF_SpotFrameDesc>
+  <MF_SpotFrameClear>Automatic framing</MF_SpotFrameClear>
+  <MF_SpotFrameClearDesc>Forget the chosen framing: the picture fits whoever stands in the line-up again.</MF_SpotFrameClearDesc>
+  <MF_SpotFramed>Framing: chosen by hand ({0} × {1} cells)</MF_SpotFramed>
+  <MF_SpotAuto>Framing: automatic (fits the line-up)</MF_SpotAuto>
+  <MF_SpotFrameMisses>{0} line-up cells are outside the framing.</MF_SpotFrameMisses>
+  <MF_GroupRetake>Take another ({0})</MF_GroupRetake>
+  <MF_GroupRetakeDesc>One more picture of the same line-up, framed the same way. The earlier picture stays in the album.</MF_GroupRetakeDesc>
+  <MF_GroupDismiss>Dismiss</MF_GroupDismiss>
+  <MF_GroupDismissDesc>Let everyone go back to what they were doing.</MF_GroupDismissDesc>
+  <MF_GroupHolding>Group photo taken. Everyone stays in line: use 'Take another' or 'Dismiss' on the photo spot.</MF_GroupHolding>
+  <MF_GroupStatusHolding>{0} taken: the line-up holds until dismissed ({1} of {2} in place)</MF_GroupStatusHolding>
+  <MF_GroupDismissed>The group photo line-up was dismissed.</MF_GroupDismissed>
+  <MF_GroupHeldEnd_Danger>A threat appeared: the group photo line-up broke up.</MF_GroupHeldEnd_Danger>
+  <MF_GroupHeldEnd_TimedOut>Nobody dismissed the group photo line-up for six hours, so it broke up.</MF_GroupHeldEnd_TimedOut>
+  <MF_Kind_journey>Journey</MF_Kind_journey>
+  <MF_JourneyPlace>{0} ({1})</MF_JourneyPlace>
+  <MF_JourneyFirstBiome>First time in {0}</MF_JourneyFirstBiome>
+  <MF_JourneyFirstBiomeLandmark>First time in {0}: {1}</MF_JourneyFirstBiomeLandmark>
+  <MF_JourneyLandmark>Arrived at {0}</MF_JourneyLandmark>
+  <MF_JourneyAt>{0} — {1}</MF_JourneyAt>
+  <MF_Desc_journey_1>{1} and the others set foot on {4} for the first time.</MF_Desc_journey_1>
+  <MF_Desc_journey_2>A long way from {3}: {4}. {2}.</MF_Desc_journey_2>
+  <MF_Desc_journey_3>{0}, standing on strange ground. {4}.</MF_Desc_journey_3>
+  <MF_Set_Journey>New places (a biome for the first time, a landmark)</MF_Set_Journey>
+  <MF_Set_JourneyDesc>Whether the colonists walk there with a caravan or come by shuttle or gravship: once they have settled on a place in a biome they have never been to, or with a landmark (Odyssey), it is photographed. If the gravship that brought them was just photographed landing, that photo gets the place in its title instead of a second one.</MF_Set_JourneyDesc>
+  <MF_Set_JourneyRoute>Show first-visit order on the world map</MF_Set_JourneyRoute>
+  <MF_Set_JourneyRouteDesc>Lines connect first visits by all parties in chronological order. They are not individual travel routes and do not include return visits. Click a photograph to open it in the album.</MF_Set_JourneyRouteDesc>
+  <MF_Kind_birthday>Birthday</MF_Kind_birthday>
+  <MF_BirthdayTitle>{0} turns {1}</MF_BirthdayTitle>
+  <MF_BirthdayLetterLabel>Birthday: {0}</MF_BirthdayLetterLabel>
+  <MF_BirthdayLetterText>{0} turns {1} today. Prepare a birthday photo?\n\nChoose a place and guests. The photo is taken automatically once everyone arrives. Sleeping guests are woken when called, and a caregiver can carry a baby to the photo spot. Guests leave after the photo is saved.\n\nReopen this letter after cancellation or failure. After a day, the archived letter still allows a retry. Birthday photos belong to the person’s chronicle.</MF_BirthdayLetterText>
+  <MF_BirthdayHere>Take it where they are</MF_BirthdayHere>
+  <MF_BirthdaySpot>Call them to the photo spot</MF_BirthdaySpot>
+  <MF_BirthdayPick>Pick a place on the map</MF_BirthdayPick>
+  <MF_BirthdaySkip>Not this time</MF_BirthdaySkip>
+  <MF_BirthdayNoSpot>There is no photo spot on this map.</MF_BirthdayNoSpot>
+  <MF_BirthdayGone>{0} can't be photographed now.</MF_BirthdayGone>
+  <MF_BirthdayDone>Already photographed.</MF_BirthdayDone>
+  <MF_BirthdayCantCome>{0} can't come right now: {1}</MF_BirthdayCantCome>
+  <MF_BirthdayPickPrompt>Choose the formation anchor. The next window lets you pick guests and direction. Right-click cancels.</MF_BirthdayPickPrompt>
+  <MF_Desc_birthday_1>{1}'s birthday. {2} at {3}.</MF_Desc_birthday_1>
+  <MF_Desc_birthday_2>No cake, but a photo. {1}'s birthday.</MF_Desc_birthday_2>
+  <MF_Desc_birthday_3>One more year with {1}. {2}.</MF_Desc_birthday_3>
+  <MF_Set_Birthday>Birthday photos</MF_Set_Birthday>
+  <MF_Set_BirthdayDesc>Birthday photos go into that person's own chronicle tab (the info window). The album leaves them out unless you include birthdays, clear the filters, or filter to that person or to the kind "Birthday"; the colony chronicle and the "a year ago today" letters leave them out.</MF_Set_BirthdayDesc>
+  <MF_Set_BirthdayOff>Off</MF_Set_BirthdayOff>
+  <MF_Set_BirthdayAsk>Ask with a letter (whether, and where)</MF_Set_BirthdayAsk>
+  <MF_Set_BirthdayAuto>Take it at once, where they are</MF_Set_BirthdayAuto>
+  <MF_Set_BirthdayEvery>Once every {0} years (the birthday that makes them an adult always)</MF_Set_BirthdayEvery>
+  <MF_Set_BirthdayFriends>When calling them somewhere, the people close to them come too (family, partner, opinion +20 or more)</MF_Set_BirthdayFriends>
+</LanguageData>

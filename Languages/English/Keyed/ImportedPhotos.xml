@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Imports_Tab>Imported photos</MF_Imports_Tab>
+  <MF_Imports_Current>This colony</MF_Imports_Current>
+  <MF_Imports_Computer>From my computer</MF_Imports_Computer>
+  <MF_Imports_Legacy>From past colonies</MF_Imports_Legacy>
+  <MF_Imports_AddFile>Import file</MF_Imports_AddFile>
+  <MF_Imports_AddColony>Import from a past colony</MF_Imports_AddColony>
+  <MF_Imports_AllColonies>All past colonies</MF_Imports_AllColonies>
+  <MF_Imports_UnknownColony>Unknown past colony</MF_Imports_UnknownColony>
+  <MF_Imports_ColonyId>Past colony ({0})</MF_Imports_ColonyId>
+  <MF_Imports_Back>Back to imported photos</MF_Imports_Back>
+  <MF_Imports_EmptyComputer>No photos imported from your computer yet.\nChoose a PNG with Import file above. You can also use it in a projector or as a studio background.</MF_Imports_EmptyComputer>
+  <MF_Imports_EmptyLegacy>No photos imported from past colonies yet.\nUse Import from a past colony above to choose photographs from another colony.</MF_Imports_EmptyLegacy>
+  <MF_Imports_Select>Choose this photo</MF_Imports_Select>
+  <MF_Imports_NoSelection>Choose a photo</MF_Imports_NoSelection>
+  <MF_Imports_Count>{0} photos</MF_Imports_Count>
+</LanguageData>

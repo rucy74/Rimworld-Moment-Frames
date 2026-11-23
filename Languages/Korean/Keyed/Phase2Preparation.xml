@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PreparationMedicalWarning>치료를 위해 쉬는 중 · 불러올 수 있음</MF_PreparationMedicalWarning>
+  <MF_PreparationReaction>촬영 반응</MF_PreparationReaction>
+  <MF_PreparationReactionLive>지도에서만</MF_PreparationReactionLive>
+  <MF_PreparationReactionPhoto>사진에도</MF_PreparationReactionPhoto>
+  <MF_PreparationReactionOff>끔</MF_PreparationReactionOff>
+  <MF_PreparationRememberReaction>다음 촬영도 이 반응 선택 기억</MF_PreparationRememberReaction>
+  <MF_PreparationReactionHelp>이번 촬영에서 림 머리 위에 잠깐 뜨는 반응입니다. '사진에도'는 저장되는 사진 안에도 남깁니다. 기억을 체크하면 다음 준비창의 기본 선택으로 저장합니다. 기존 사진은 바뀌지 않습니다.</MF_PreparationReactionHelp>
+  <MF_PreparationSearchHelp>선택 {0}명 · 검색 밖 {1}명. 전체·랜덤 선택은 모든 이름에 적용돼요.</MF_PreparationSearchHelp>
+  <MF_PreparationNameSearch>이름 검색 · 검색해도 선택한 사람은 유지돼요.</MF_PreparationNameSearch>
+  <MF_PreparationPeopleFocus>인물 중심 (줌인)</MF_PreparationPeopleFocus>
+  <MF_PreparationScenery>배경 함께 (줌아웃)</MF_PreparationScenery>
+  <MF_PreparationFramingHelp>인물 중심은 함께 찍는 사람 곁까지 가까이 담습니다. 배경 함께는 주변 공간까지 담습니다. 촬영 스팟에서 직접 지정한 구도와 이전 사진의 재촬영 구도가 우선합니다.</MF_PreparationFramingHelp>
+  <MF_PreparationSelectedSpot>{0} ({1}, {2})</MF_PreparationSelectedSpot>
+  <MF_PreparationChangeSpot>촬영 스팟 선택</MF_PreparationChangeSpot>
+  <MF_PreparationSpotGone>선택한 촬영 스팟이 없어졌어요. 자리·구도에서 다시 선택해주세요.</MF_PreparationSpotGone>
+  <MF_PreparationSpotPolicy>일반 촬영은 선택한 스팟에서 시작합니다. 생일의 첫 자동 선택은 지도에 놓인 첫 스팟입니다. 다른 스팟은 옆의 촬영 스팟 선택 버튼으로 고르세요.</MF_PreparationSpotPolicy>
+</LanguageData>

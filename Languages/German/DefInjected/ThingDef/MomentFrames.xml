@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>Fotorahmen</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Ein kleiner Wandrahmen für ein Foto der Kolonie. Auswählen, um das Foto zu wählen oder zu ersetzen; beim Abbauen und Umstellen behält er das Foto. Muss an einer Wand hängen. Wird am Künstlertisch hergestellt; die Qualität bestimmt seine Attraktivität.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>Breiter Fotorahmen</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Ein zwei Felder breiter Wandrahmen, breiter als der kleine: gemacht für breite Fotos. Hängt nur an waagerechten Wänden. Behält beim Umstellen sein Foto. Wird am Künstlertisch hergestellt; die Qualität bestimmt seine Attraktivität.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>Fotostaffelei</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Eine frei stehende Staffelei (2x2), die ein Foto der Kolonie so groß zeigt, dass man die Menschen darauf erkennt. Kann überall aufgestellt und später umgestellt werden, ohne das Foto zu verlieren. Wird am Künstlertisch hergestellt; die Qualität bestimmt ihre Attraktivität.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>Foto-Schautafel</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Eine große, frei stehende Schautafel (3x2) für ein Foto der Kolonie, die größte Art, einen Moment zu zeigen. Umstellbar, ohne das Foto zu verlieren. Wird am Künstlertisch hergestellt; die Qualität bestimmt ihre Attraktivität.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>Foto-Collagetafel</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Eine frei stehende Tafel mit Passepartout (3x2) und vier gleich großen Fenstern für Fotos der Kolonie; jedes Foto wird so zugeschnitten, dass es sein Fenster füllt. Wähle für jedes Fenster ein Foto; leere Fenster bleiben frei. Umstellbar, ohne die Fotos zu verlieren. Wird am Künstlertisch hergestellt.</MF_PhotoCollage.description>
+  <MF_Projector.label>Diaprojektor</MF_Projector.label>
+  <MF_Projector.description>Projiziert Fotos der Kolonie vor sich. Wähle ein festes Foto oder einen Film sowie eine vorgegebene oder eigene Breite und Höhe. Mit der Ebenenfolge legst du das Bild hinter oder vor Objekte. Normale Filme wechseln in Echtzeit; Filme am Fotoabend wechseln nach der Spielzeit des Ereignisses. Kolonisten können ihn zur Entspannung ansehen. Braucht keinen Strom. Platziere ihn über Diverses neben den Fotowerkzeugen; Kolonisten bauen ihn aus dem gewählten Material.</MF_Projector.description>
+  <MF_MemorialFrame.label>Gedenkständer</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Ein kleiner Standrahmen für neben ein Grab oder einen Sarkophag. Von selbst zeigt er das neueste Foto der daneben begrabenen Person; du kannst auch von Hand ein Foto wählen. Bleibt leer, bis ein Grab mit einem Leichnam angrenzt. Wird am Künstlertisch hergestellt.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>Fotoplatz</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Markiert, wo Gruppenfotos entstehen. Auswählen und 'Gruppenfoto' drücken: Jeder Kolonist auf der Karte, der wach und frei ist, stellt sich dahinter auf (nach Norden, die Jüngsten vorn), schaut in die Kamera, und das Foto wird gemacht, sobald alle stillstehen. Lass hinter dem Platz freien Boden für die Reihen. Wird sofort platziert und kostet nichts.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>Erinnerungsbaum</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Eine hölzerne Auslage für 35 Fotos der Kolonie. Neue Fotos füllen leere Äste und ersetzen dann das älteste nicht angepinnte Foto. Wähle Lieblingsfotos und pinne sie an oder filtere automatische Fotos nach Art. Wird am Künstlertisch hergestellt; behält beim Umstellen seine Fotos.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>Studiokulisse</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Eine Leinwandkulisse für Familien- und Gruppenporträts. Auswählen, um die Teilnehmer zu bestimmen. Alle versammeln sich vor der Kulisse, und das Foto wird automatisch gemacht. Der automatische Bildausschnitt erfasst die Menschen und die Kulisse. Bis zu fünfzehn stehende Teilnehmer; Babys kommen in den Armen einer Betreuungsperson. Vor dem Bau drehen, um die Posierrichtung festzulegen.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>Gartenbogen</MF_StudioArch.label>
+  <MF_StudioArch.description>Ein runder Bogen für Porträts im Freien. Nutzt dieselbe Teilnehmerauswahl und denselben automatischen Bildausschnitt wie die Studiokulisse. Halte den markierten Posierbereich frei. Babys kommen mit einer Betreuungsperson. Vor dem Bau drehen, um die Posierrichtung festzulegen.</MF_StudioArch.description>
+  <MF_StudioSofa.label>Studiosofa (Requisite)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Ein Porträtsofa mit drei Plätzen. Stelle es in den Posierbereich eines Studios, in dieselbe Richtung wie die Kulisse. Teilnehmer nutzen diese Plätze vor den stehenden Reihen. Es wird die übliche Figurendarstellung verwendet, ohne neue Sitzanimation. Eine Posier-Requisite, kein Sitzplatz für alltägliches Essen oder Entspannung.</MF_StudioSofa.description>
+  <MF_StudioBench.label>Studiobank (Requisite)</MF_StudioBench.label>
+  <MF_StudioBench.description>Eine gepolsterte Porträtbank mit drei Plätzen. Stelle sie in den Posierbereich, in dieselbe Richtung wie die Kulisse. Eine Posier-Requisite, kein Sitzplatz für alltägliches Essen oder Entspannung.</MF_StudioBench.description>
+  <MF_StudioChair.label>Studiosessel (Requisite)</MF_StudioChair.label>
+  <MF_StudioChair.description>Ein einzelner Porträtsessel. Stelle ihn vorn in die Mitte für das Geburtstagskind oder ergänze ihn im Posierbereich des Studios. Eine Posier-Requisite, kein Sitzplatz für alltägliches Essen oder Entspannung.</MF_StudioChair.description>
+  <MF_StudioLamp.label>Studiolicht</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Eine strombetriebene Porträtleuchte. Im Automatikmodus ist sie an, solange das nächste Studio im selben Raum (innerhalb von zehn Feldern) eine Gruppe versammelt oder für Neuaufnahmen wartet. Wird die Gruppe entlassen, geht sie aus. Die Modi An und Aus übergehen die Automatik. Studiofotos bewahren diese Beleuchtung.</MF_StudioLamp.description>
+</LanguageData>

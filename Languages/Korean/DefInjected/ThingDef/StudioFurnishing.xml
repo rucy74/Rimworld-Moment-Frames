@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_StudioSofa.label>촬영용 소파 (소품)</MF_StudioSofa.label><MF_StudioSofa.description>가족사진을 위한 3인 소파. 사진관의 인물 배치 구역에 배경막과 같은 방향으로 놓으세요. 좌석에 먼저 배정된 뒤 나머지 사람은 뒤에 섭니다. 림의 기본 모습을 사용하며 별도의 앉기 애니메이션은 없습니다. 촬영 배치용 소품이며 평소 식사나 휴식에 앉는 의자는 아닙니다.</MF_StudioSofa.description>
+  <MF_StudioBench.label>촬영용 벤치 (소품)</MF_StudioBench.label><MF_StudioBench.description>정원 사진을 위한 3인 벤치. 사진관의 인물 배치 구역에 배경막과 같은 방향으로 놓으세요. 촬영 배치용 소품이며 평소 식사나 휴식에 앉는 의자는 아닙니다.</MF_StudioBench.description>
+  <MF_StudioChair.label>촬영용 의자 (소품)</MF_StudioChair.label><MF_StudioChair.description>한 사람을 위한 촬영 의자. 사진관 앞줄 가운데 놓으면 생일 주인공이 먼저 배정됩니다. 촬영 배치용 소품이며 평소 식사나 휴식에 앉는 의자는 아닙니다.</MF_StudioChair.description>
+  <MF_StudioLamp.label>촬영 조명</MF_StudioLamp.label><MF_StudioLamp.description>전력을 사용하는 촬영 조명. 같은 방 안에서 10칸 이내의 가장 가까운 사진관에 연결됩니다. 자동 모드에서는 사람을 부를 때부터 재촬영 대기까지 켜지고, 해산하면 꺼집니다. 항상 켜기와 끄기로 직접 조절할 수도 있습니다. 사진에는 현장 조명이 그대로 담깁니다.</MF_StudioLamp.description>
+</LanguageData>

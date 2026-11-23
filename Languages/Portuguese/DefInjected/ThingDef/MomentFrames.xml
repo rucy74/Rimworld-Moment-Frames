@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>moldura de foto</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Uma pequena moldura de parede para uma fotografia da colónia. Seleciona-a para escolher ou trocar a foto; mantém a foto ao ser desinstalada e movida. Tem de ficar numa parede. Feita na bancada de arte; a qualidade define a sua beleza.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>moldura de foto larga</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Uma moldura de parede de duas células, mais larga do que a pequena: feita para fotografias largas. Só fica em paredes horizontais. Mantém a foto ao ser movida. Feita na bancada de arte; a qualidade define a sua beleza.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>cavalete de foto</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Um cavalete independente (2x2) que mostra uma fotografia da colónia suficientemente grande para distinguir as pessoas nela. Pode ser colocado em qualquer lugar e movido depois sem perder a foto. Feito na bancada de arte; a qualidade define a sua beleza.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>painel de exibição de foto</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Um grande painel independente (3x2) para uma fotografia da colónia, a maior forma de mostrar um momento. Pode ser movido sem perder a foto. Feito na bancada de arte; a qualidade define a sua beleza.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>painel de colagem de fotos</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Um painel independente com passe-partout (3x2) e quatro janelas iguais para fotografias da colónia, cada foto recortada para preencher a sua janela. Escolhe uma foto para cada janela; as vazias ficam em branco. Pode ser movido sem perder as fotos. Feito na bancada de arte.</MF_PhotoCollage.description>
+  <MF_Projector.label>projetor de diapositivos</MF_Projector.label>
+  <MF_Projector.description>Projeta fotografias da colónia à sua frente. Escolhe uma fotografia fixa ou um filme, e uma largura e altura predefinidas ou personalizadas. O controlo de ordem de desenho coloca a imagem atrás dos objetos ou à frente deles. Os filmes normais mudam em tempo real; os filmes de noite de memórias mudam com o relógio de jogo do evento. Os colonos podem vê-lo como recreação. Não precisa de energia. Coloca-o a partir de Diversos, junto às ferramentas de fotografia; os colonos constroem-no com o material selecionado.</MF_Projector.description>
+  <MF_MemorialFrame.label>porta-retratos memorial</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Uma pequena moldura de pé para colocar junto a uma sepultura ou sarcófago. Sozinha, mostra a fotografia mais recente da pessoa sepultada ao lado; também podes escolher uma foto à mão. Fica vazia até haver uma sepultura com um corpo adjacente. Feita na bancada de arte.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>ponto de foto</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Marca onde são tiradas as fotos de grupo. Seleciona-o e carrega em 'Foto de grupo': todos os colonos do mapa que estejam acordados e livres alinham-se atrás dele (a norte, os mais novos à frente), olham para a câmara, e a foto é tirada quando todos ficam parados. Deixa chão livre atrás do ponto para as filas. Colocado de imediato, sem custo.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>árvore de memórias</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Um expositor de madeira para 35 fotografias da colónia. As novas fotos preenchem os ramos vazios e depois substituem a foto não fixada mais antiga. Escolhe e fixa as favoritas ou filtra as fotos automáticas por tipo. Feita na bancada de arte; mantém as fotografias ao ser movida.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fundo de estúdio fotográfico</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Um fundo de lona para retratos de família e de grupo. Seleciona-o para escolher os participantes. Todos se reúnem em frente do fundo e é tirada uma fotografia automaticamente. O enquadramento automático inclui as pessoas e o fundo. Até quinze participantes de pé; os bebés vão ao colo de um responsável. Roda antes de construir para definir a direção da pose.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>arco de jardim para fotos</MF_StudioArch.label>
+  <MF_StudioArch.description>Um arco circular para retratos ao ar livre. Usa a mesma seleção de participantes e o mesmo enquadramento automático do fundo de estúdio. Deixa livre a área de pose marcada. Os bebés vão com um responsável. Roda antes de construir para definir a direção da pose.</MF_StudioArch.description>
+  <MF_StudioSofa.label>sofá de estúdio fotográfico (adereço)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Um sofá de retrato de três lugares. Coloca-o na área de pose de um estúdio, virado para a mesma direção do fundo. Os participantes usam estes lugares antes das filas de pé. Usa o desenho normal das personagens, sem nova animação de sentar. Um adereço de pose, não um assento para as refeições ou a recreação do dia a dia.</MF_StudioSofa.description>
+  <MF_StudioBench.label>banco de estúdio fotográfico (adereço)</MF_StudioBench.label>
+  <MF_StudioBench.description>Um banco estofado de três lugares para retratos. Coloca-o na área de pose, virado para a mesma direção do fundo. Um adereço de pose, não um assento para as refeições ou a recreação do dia a dia.</MF_StudioBench.description>
+  <MF_StudioChair.label>poltrona de estúdio fotográfico (adereço)</MF_StudioChair.label>
+  <MF_StudioChair.description>Uma poltrona individual de retrato. Coloca-a ao centro, à frente, para o aniversariante, ou acrescenta-a à área de pose do estúdio. Um adereço de pose, não um assento para as refeições ou a recreação do dia a dia.</MF_StudioChair.description>
+  <MF_StudioLamp.label>luz de estúdio fotográfico</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Uma luz de retrato elétrica. O modo automático acende-a enquanto o estúdio mais próximo na mesma divisão (até dez células) reúne pessoas ou aguarda repetições de fotos. Dispensar o grupo apaga-a. Os modos Ligada e Desligada substituem o controlo automático. As fotografias de estúdio preservam esta iluminação.</MF_StudioLamp.description>
+</LanguageData>

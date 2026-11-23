@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Complete prewritten sentences: eligible unused candidates are drawn by a per-save bag. -->
+  <!-- Photo slots: 0 recorded people, 1 first recorded person, 2 season, 3 photo map, 4 explicit event detail. -->
+  <!-- Life slots: 0 other person/animal/faction/part, 1 cause, 2 this viewer's recorded name, 3 recorded date. -->
+  <!-- Keys 1..3 retain the prior text so saved life notes stay unchanged. -->
+  <!-- MF_Caption_anniversary: 8 candidates -->
+  <MF_Caption_anniversary_1>정착지가 또 한 번의 기념일을 맞았다. 처음의 모습과는 얼마나 달라졌을까.</MF_Caption_anniversary_1>
+  <MF_Caption_anniversary_2>{3}에서 맞은 정착지의 기념일.</MF_Caption_anniversary_2>
+  <MF_Caption_anniversary_3>정착지의 기념일의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_anniversary_3>
+  <MF_Caption_anniversary_4>{2}에 있었던 일, 정착지의 기념일.</MF_Caption_anniversary_4>
+  <MF_Caption_anniversary_5>정착지의 기념일의 정착지는 이런 모습이었다.</MF_Caption_anniversary_5>
+  <MF_Caption_anniversary_6>언젠가 {3}의 지난날을 돌아본다면, 정착지의 기념일도 그 안에 있을 것이다.</MF_Caption_anniversary_6>
+  <MF_Caption_anniversary_7>정착지의 기념일. 그날을 기억하는 사진.</MF_Caption_anniversary_7>
+  <MF_Caption_anniversary_8>하루의 모습이 남았다. 정착지의 기념일.</MF_Caption_anniversary_8>
+  <!-- MF_Caption_baby: 8 candidates -->
+  <MF_Caption_baby_1>새 생명이 정착지에 왔다. 앞으로 함께 남길 사진들의 시작이다.</MF_Caption_baby_1>
+  <MF_Caption_baby_2>{3}에서 맞은 새 생명을 맞은 날.</MF_Caption_baby_2>
+  <MF_Caption_baby_3>새 생명을 맞은 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_baby_3>
+  <MF_Caption_baby_4>{2}에 있었던 일, 새 생명을 맞은 날.</MF_Caption_baby_4>
+  <MF_Caption_baby_5>새 생명을 맞은 날의 정착지는 이런 모습이었다.</MF_Caption_baby_5>
+  <MF_Caption_baby_6>언젠가 {3}의 지난날을 돌아본다면, 새 생명을 맞은 날도 그 안에 있을 것이다.</MF_Caption_baby_6>
+  <MF_Caption_baby_7>새 생명을 맞은 날. 그날을 기억하는 사진.</MF_Caption_baby_7>
+  <MF_Caption_baby_8>하루의 모습이 남았다. 새 생명을 맞은 날.</MF_Caption_baby_8>
+  <!-- MF_Caption_battle: 8 candidates -->
+  <MF_Caption_battle_1>정착지를 지켜 낸 싸움. 그날의 현장을 남겼다.</MF_Caption_battle_1>
+  <MF_Caption_battle_2>{3}에서 벌어진 전투의 한 장면이다.</MF_Caption_battle_2>
+  <MF_Caption_battle_3>싸움이 있었던 날의 모습. 사진 속 풍경에도 그때의 흔적이 남는다.</MF_Caption_battle_3>
+  <MF_Caption_battle_4>정착지의 {2}에는 이 전투도 있었다.</MF_Caption_battle_4>
+  <MF_Caption_battle_5>전투를 지나온 날을 다시 돌아볼 한 장.</MF_Caption_battle_5>
+  <MF_Caption_battle_6>{3}를 둘러싼 싸움이 정착지의 지난날이 되었다.</MF_Caption_battle_6>
+  <MF_Caption_battle_7>이날의 전투를 잊지 않기 위해 남긴 모습.</MF_Caption_battle_7>
+  <MF_Caption_battle_8>싸움이 지나간 뒤에도 이 사진은 그 날짜를 남긴다.</MF_Caption_battle_8>
+  <!-- MF_Caption_bestow: 8 candidates -->
+  <MF_Caption_bestow_1>작위를 받던 날. 이때의 풍경을 함께 남겼다.</MF_Caption_bestow_1>
+  <MF_Caption_bestow_2>{3}에서 맞은 작위를 받던 날.</MF_Caption_bestow_2>
+  <MF_Caption_bestow_3>작위를 받던 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_bestow_3>
+  <MF_Caption_bestow_4>{2}에 있었던 일, 작위를 받던 날.</MF_Caption_bestow_4>
+  <MF_Caption_bestow_5>작위를 받던 날의 정착지는 이런 모습이었다.</MF_Caption_bestow_5>
+  <MF_Caption_bestow_6>언젠가 {3}의 지난날을 돌아본다면, 작위를 받던 날도 그 안에 있을 것이다.</MF_Caption_bestow_6>
+  <MF_Caption_bestow_7>작위를 받던 날. 그날을 기억하는 사진.</MF_Caption_bestow_7>
+  <MF_Caption_bestow_8>하루의 모습이 남았다. 작위를 받던 날.</MF_Caption_bestow_8>
+  <!-- MF_Caption_birthday: 12 candidates -->
+  <MF_Caption_birthday_1>한 살을 더한 날의 모습. 다음 생일에는 또 무엇이 달라져 있을까.</MF_Caption_birthday_1>
+  <MF_Caption_birthday_2>이번 생일의 한 장. 해마다 같은 날짜에 서로 다른 모습이 남는다.</MF_Caption_birthday_2>
+  <MF_Caption_birthday_3>{2}에 돌아온 생일. 이날의 풍경을 함께 담았다.</MF_Caption_birthday_3>
+  <MF_Caption_birthday_4>생일이 지나기 전에 남긴 사진 한 장.</MF_Caption_birthday_4>
+  <MF_Caption_birthday_5>{3}에서 맞은 생일. 이곳에서의 시간이 한 해 더 이어졌다.</MF_Caption_birthday_5>
+  <MF_Caption_birthday_6>지난 생일과 다음 생일 사이에 놓일 올해의 모습.</MF_Caption_birthday_6>
+  <MF_Caption_birthday_7>오늘의 생일 사진은 나중에 시간을 세어 볼 한 장이 된다.</MF_Caption_birthday_7>
+  <MF_Caption_birthday_8>생일이라는 날짜에 이때의 모습을 남겼다.</MF_Caption_birthday_8>
+  <MF_Caption_birthday_9>매년 돌아오는 날에도 모습은 조금씩 달라진다.</MF_Caption_birthday_9>
+  <MF_Caption_birthday_10>이번 생일도 사진으로 남겨 두었다. 다음에 꺼내 볼 수 있도록.</MF_Caption_birthday_10>
+  <MF_Caption_birthday_11>해가 지나 다시 찍을 사진과 나란히 두고 싶은 생일의 한때.</MF_Caption_birthday_11>
+  <MF_Caption_birthday_12>생일날의 정착지. 사람들과 주변 풍경이 함께 나이를 먹어 간다.</MF_Caption_birthday_12>
+  <!-- MF_Caption_celebration: 8 candidates -->
+  <MF_Caption_celebration_1>기념 행사가 열린 날. 이때의 풍경을 함께 남겼다.</MF_Caption_celebration_1>
+  <MF_Caption_celebration_2>{3}에서 맞은 기념 행사가 열린 날.</MF_Caption_celebration_2>
+  <MF_Caption_celebration_3>기념 행사가 열린 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_celebration_3>
+  <MF_Caption_celebration_4>{2}에 있었던 일, 기념 행사가 열린 날.</MF_Caption_celebration_4>
+  <MF_Caption_celebration_5>기념 행사가 열린 날의 정착지는 이런 모습이었다.</MF_Caption_celebration_5>
+  <MF_Caption_celebration_6>언젠가 {3}의 지난날을 돌아본다면, 기념 행사가 열린 날도 그 안에 있을 것이다.</MF_Caption_celebration_6>
+  <MF_Caption_celebration_7>기념 행사가 열린 날. 그날을 기억하는 사진.</MF_Caption_celebration_7>
+  <MF_Caption_celebration_8>하루의 모습이 남았다. 기념 행사가 열린 날.</MF_Caption_celebration_8>
+  <!-- MF_Caption_death: 8 candidates -->
+  <MF_Caption_death_1>한 사람의 삶이 끝났다. 남은 사진들은 그날 이전의 시간까지 이어진다.</MF_Caption_death_1>
+  <MF_Caption_death_2>{3}에서 맞은 한 삶이 끝난 날.</MF_Caption_death_2>
+  <MF_Caption_death_3>한 삶이 끝난 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_death_3>
+  <MF_Caption_death_4>{2}에 있었던 일, 한 삶이 끝난 날.</MF_Caption_death_4>
+  <MF_Caption_death_5>한 삶이 끝난 날의 정착지는 이런 모습이었다.</MF_Caption_death_5>
+  <MF_Caption_death_6>언젠가 {3}의 지난날을 돌아본다면, 한 삶이 끝난 날도 그 안에 있을 것이다.</MF_Caption_death_6>
+  <MF_Caption_death_7>한 삶이 끝난 날. 그날을 기억하는 사진.</MF_Caption_death_7>
+  <MF_Caption_death_8>하루의 모습이 남았다. 한 삶이 끝난 날.</MF_Caption_death_8>
+  <!-- MF_Caption_disaster: 8 candidates -->
+  <MF_Caption_disaster_1>평소와 다른 날의 정착지. 재해가 찾아온 때의 모습을 남겼다.</MF_Caption_disaster_1>
+  <MF_Caption_disaster_2>{3}에서 맞은 재해가 찾아온 때.</MF_Caption_disaster_2>
+  <MF_Caption_disaster_3>재해가 찾아온 때의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_disaster_3>
+  <MF_Caption_disaster_4>{2}에 있었던 일, 재해가 찾아온 때.</MF_Caption_disaster_4>
+  <MF_Caption_disaster_5>재해가 찾아온 때의 정착지는 이런 모습이었다.</MF_Caption_disaster_5>
+  <MF_Caption_disaster_6>언젠가 {3}의 지난날을 돌아본다면, 재해가 찾아온 때도 그 안에 있을 것이다.</MF_Caption_disaster_6>
+  <MF_Caption_disaster_7>재해가 찾아온 때. 그날을 기억하는 사진.</MF_Caption_disaster_7>
+  <MF_Caption_disaster_8>하루의 모습이 남았다. 재해가 찾아온 때.</MF_Caption_disaster_8>
+  <!-- MF_Caption_funeral: 8 candidates -->
+  <MF_Caption_funeral_1>한 사람을 떠나보내는 날. 장례가 열린 때의 모습을 남겼다.</MF_Caption_funeral_1>
+  <MF_Caption_funeral_2>{3}에서 맞은 장례를 치른 날.</MF_Caption_funeral_2>
+  <MF_Caption_funeral_3>장례를 치른 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_funeral_3>
+  <MF_Caption_funeral_4>{2}에 있었던 일, 장례를 치른 날.</MF_Caption_funeral_4>
+  <MF_Caption_funeral_5>장례를 치른 날의 정착지는 이런 모습이었다.</MF_Caption_funeral_5>
+  <MF_Caption_funeral_6>언젠가 {3}의 지난날을 돌아본다면, 장례를 치른 날도 그 안에 있을 것이다.</MF_Caption_funeral_6>
+  <MF_Caption_funeral_7>장례를 치른 날. 그날을 기억하는 사진.</MF_Caption_funeral_7>
+  <MF_Caption_funeral_8>하루의 모습이 남았다. 장례를 치른 날.</MF_Caption_funeral_8>
+  <!-- MF_Caption_gravship: 8 candidates -->
+  <MF_Caption_gravship_1>중력선의 여정. 이때의 풍경을 함께 남겼다.</MF_Caption_gravship_1>
+  <MF_Caption_gravship_2>{3}에서 맞은 중력선의 여정.</MF_Caption_gravship_2>
+  <MF_Caption_gravship_3>중력선의 여정의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_gravship_3>
+  <MF_Caption_gravship_4>{2}에 있었던 일, 중력선의 여정.</MF_Caption_gravship_4>
+  <MF_Caption_gravship_5>중력선의 여정의 정착지는 이런 모습이었다.</MF_Caption_gravship_5>
+  <MF_Caption_gravship_6>언젠가 {3}의 지난날을 돌아본다면, 중력선의 여정도 그 안에 있을 것이다.</MF_Caption_gravship_6>
+  <MF_Caption_gravship_7>중력선의 여정. 그날을 기억하는 사진.</MF_Caption_gravship_7>
+  <MF_Caption_gravship_8>하루의 모습이 남았다. 중력선의 여정.</MF_Caption_gravship_8>
+  <!-- MF_Caption_group: 12 candidates -->
+  <MF_Caption_group_1>함께 찍은 한 장. 이때의 얼굴들, {0}.</MF_Caption_group_1>
+  <MF_Caption_group_2>{0}. 같은 사진 속에 모인 이날의 모습이다.</MF_Caption_group_2>
+  <MF_Caption_group_3>한 사람씩 보아도, 모두 함께 보아도 남겨 둘 만한 한때.</MF_Caption_group_3>
+  <MF_Caption_group_4>{3}의 풍경 속에 함께 담긴 사람들. {0}.</MF_Caption_group_4>
+  <MF_Caption_group_5>같은 날, 같은 사진. 시간이 흐른 뒤에는 이 모습도 달라져 있을 것이다.</MF_Caption_group_5>
+  <MF_Caption_group_6>{2}에 함께 남긴 한 장. 사진 속 사람들은 {0}.</MF_Caption_group_6>
+  <MF_Caption_group_7>오늘의 사람들과 오늘의 풍경을 한 장에 담았다.</MF_Caption_group_7>
+  <MF_Caption_group_8>{0}의 단체 사진. 함께 있는 모습을 다시 꺼내 볼 수 있도록.</MF_Caption_group_8>
+  <MF_Caption_group_9>특별한 사건의 이름 없이도 남겨 둘 수 있는 하루의 모습.</MF_Caption_group_9>
+  <MF_Caption_group_10>얼굴들 사이로 이날의 풍경도 보인다. {3}에서 찍은 단체 사진.</MF_Caption_group_10>
+  <MF_Caption_group_11>나중에 다시 같은 사람들을 찍는다면, 무엇부터 달라져 있을까.</MF_Caption_group_11>
+  <MF_Caption_group_12>사진 한 장에 함께 들어온 이름들, {0}.</MF_Caption_group_12>
+  <!-- MF_Caption_journey: 8 candidates -->
+  <MF_Caption_journey_1>새 장소에 닿은 날. 이때의 풍경을 함께 남겼다.</MF_Caption_journey_1>
+  <MF_Caption_journey_2>{3}에서 맞은 새 장소에 닿은 날.</MF_Caption_journey_2>
+  <MF_Caption_journey_3>새 장소에 닿은 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_journey_3>
+  <MF_Caption_journey_4>{2}에 있었던 일, 새 장소에 닿은 날.</MF_Caption_journey_4>
+  <MF_Caption_journey_5>새 장소에 닿은 날의 정착지는 이런 모습이었다.</MF_Caption_journey_5>
+  <MF_Caption_journey_6>언젠가 {3}의 지난날을 돌아본다면, 새 장소에 닿은 날도 그 안에 있을 것이다.</MF_Caption_journey_6>
+  <MF_Caption_journey_7>새 장소에 닿은 날. 그날을 기억하는 사진.</MF_Caption_journey_7>
+  <MF_Caption_journey_8>하루의 모습이 남았다. 새 장소에 닿은 날.</MF_Caption_journey_8>
+  <!-- MF_Caption_landing: 8 candidates -->
+  <MF_Caption_landing_1>새 여정의 한 지점에 내려선 날. 착륙한 곳의 모습을 남겼다.</MF_Caption_landing_1>
+  <MF_Caption_landing_2>{3}에서 맞은 착륙한 날.</MF_Caption_landing_2>
+  <MF_Caption_landing_3>착륙한 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_landing_3>
+  <MF_Caption_landing_4>{2}에 있었던 일, 착륙한 날.</MF_Caption_landing_4>
+  <MF_Caption_landing_5>착륙한 날의 정착지는 이런 모습이었다.</MF_Caption_landing_5>
+  <MF_Caption_landing_6>언젠가 {3}의 지난날을 돌아본다면, 착륙한 날도 그 안에 있을 것이다.</MF_Caption_landing_6>
+  <MF_Caption_landing_7>착륙한 날. 그날을 기억하는 사진.</MF_Caption_landing_7>
+  <MF_Caption_landing_8>하루의 모습이 남았다. 착륙한 날.</MF_Caption_landing_8>
+  <!-- MF_Caption_legendary: 8 candidates -->
+  <MF_Caption_legendary_1>전설급 작품 하나가 완성되었다. 정착지의 손길이 남긴 결과다.</MF_Caption_legendary_1>
+  <MF_Caption_legendary_2>{3}에서 맞은 전설급 작품이 완성된 날.</MF_Caption_legendary_2>
+  <MF_Caption_legendary_3>전설급 작품이 완성된 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_legendary_3>
+  <MF_Caption_legendary_4>{2}에 있었던 일, 전설급 작품이 완성된 날.</MF_Caption_legendary_4>
+  <MF_Caption_legendary_5>전설급 작품이 완성된 날의 정착지는 이런 모습이었다.</MF_Caption_legendary_5>
+  <MF_Caption_legendary_6>언젠가 {3}의 지난날을 돌아본다면, 전설급 작품이 완성된 날도 그 안에 있을 것이다.</MF_Caption_legendary_6>
+  <MF_Caption_legendary_7>전설급 작품이 완성된 날. 그날을 기억하는 사진.</MF_Caption_legendary_7>
+  <MF_Caption_legendary_8>하루의 모습이 남았다. 전설급 작품이 완성된 날.</MF_Caption_legendary_8>
+  <!-- MF_Caption_mechboss: 8 candidates -->
+  <MF_Caption_mechboss_1>기계 보스가 쓰러진 날. 이때의 풍경을 함께 남겼다.</MF_Caption_mechboss_1>
+  <MF_Caption_mechboss_2>{3}에서 맞은 기계 보스가 쓰러진 날.</MF_Caption_mechboss_2>
+  <MF_Caption_mechboss_3>기계 보스가 쓰러진 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_mechboss_3>
+  <MF_Caption_mechboss_4>{2}에 있었던 일, 기계 보스가 쓰러진 날.</MF_Caption_mechboss_4>
+  <MF_Caption_mechboss_5>기계 보스가 쓰러진 날의 정착지는 이런 모습이었다.</MF_Caption_mechboss_5>
+  <MF_Caption_mechboss_6>언젠가 {3}의 지난날을 돌아본다면, 기계 보스가 쓰러진 날도 그 안에 있을 것이다.</MF_Caption_mechboss_6>
+  <MF_Caption_mechboss_7>기계 보스가 쓰러진 날. 그날을 기억하는 사진.</MF_Caption_mechboss_7>
+  <MF_Caption_mechboss_8>하루의 모습이 남았다. 기계 보스가 쓰러진 날.</MF_Caption_mechboss_8>
+  <!-- MF_Caption_memorynight: 8 candidates -->
+  <MF_Caption_memorynight_1>지난 사진들을 돌아보던 날이 새로운 사진이 되었다.</MF_Caption_memorynight_1>
+  <MF_Caption_memorynight_2>{3}에서 맞은 지난 사진들을 함께 돌아본 날.</MF_Caption_memorynight_2>
+  <MF_Caption_memorynight_3>지난 사진들을 함께 돌아본 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_memorynight_3>
+  <MF_Caption_memorynight_4>{2}에 있었던 일, 지난 사진들을 함께 돌아본 날.</MF_Caption_memorynight_4>
+  <MF_Caption_memorynight_5>지난 사진들을 함께 돌아본 날의 정착지는 이런 모습이었다.</MF_Caption_memorynight_5>
+  <MF_Caption_memorynight_6>언젠가 {3}의 지난날을 돌아본다면, 지난 사진들을 함께 돌아본 날도 그 안에 있을 것이다.</MF_Caption_memorynight_6>
+  <MF_Caption_memorynight_7>지난 사진들을 함께 돌아본 날. 그날을 기억하는 사진.</MF_Caption_memorynight_7>
+  <MF_Caption_memorynight_8>하루의 모습이 남았다. 지난 사진들을 함께 돌아본 날.</MF_Caption_memorynight_8>
+  <!-- MF_Caption_monolith: 8 candidates -->
+  <MF_Caption_monolith_1>모노리스가 달라진 때. 이때의 풍경을 함께 남겼다.</MF_Caption_monolith_1>
+  <MF_Caption_monolith_2>{3}에서 맞은 모노리스가 달라진 때.</MF_Caption_monolith_2>
+  <MF_Caption_monolith_3>모노리스가 달라진 때의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_monolith_3>
+  <MF_Caption_monolith_4>{2}에 있었던 일, 모노리스가 달라진 때.</MF_Caption_monolith_4>
+  <MF_Caption_monolith_5>모노리스가 달라진 때의 정착지는 이런 모습이었다.</MF_Caption_monolith_5>
+  <MF_Caption_monolith_6>언젠가 {3}의 지난날을 돌아본다면, 모노리스가 달라진 때도 그 안에 있을 것이다.</MF_Caption_monolith_6>
+  <MF_Caption_monolith_7>모노리스가 달라진 때. 그날을 기억하는 사진.</MF_Caption_monolith_7>
+  <MF_Caption_monolith_8>하루의 모습이 남았다. 모노리스가 달라진 때.</MF_Caption_monolith_8>
+  <!-- MF_Caption_party: 8 candidates -->
+  <MF_Caption_party_1>파티가 열린 날. 이때의 풍경을 함께 남겼다.</MF_Caption_party_1>
+  <MF_Caption_party_2>{3}에서 맞은 파티가 열린 날.</MF_Caption_party_2>
+  <MF_Caption_party_3>파티가 열린 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_party_3>
+  <MF_Caption_party_4>{2}에 있었던 일, 파티가 열린 날.</MF_Caption_party_4>
+  <MF_Caption_party_5>파티가 열린 날의 정착지는 이런 모습이었다.</MF_Caption_party_5>
+  <MF_Caption_party_6>언젠가 {3}의 지난날을 돌아본다면, 파티가 열린 날도 그 안에 있을 것이다.</MF_Caption_party_6>
+  <MF_Caption_party_7>파티가 열린 날. 그날을 기억하는 사진.</MF_Caption_party_7>
+  <MF_Caption_party_8>하루의 모습이 남았다. 파티가 열린 날.</MF_Caption_party_8>
+  <!-- MF_Caption_population: 8 candidates -->
+  <MF_Caption_population_1>정착지에 사람이 늘었다. 함께 살 공간의 모습도 남겨 두었다.</MF_Caption_population_1>
+  <MF_Caption_population_2>{3}에서 맞은 정착지의 인구가 늘어난 날.</MF_Caption_population_2>
+  <MF_Caption_population_3>정착지의 인구가 늘어난 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_population_3>
+  <MF_Caption_population_4>{2}에 있었던 일, 정착지의 인구가 늘어난 날.</MF_Caption_population_4>
+  <MF_Caption_population_5>정착지의 인구가 늘어난 날의 정착지는 이런 모습이었다.</MF_Caption_population_5>
+  <MF_Caption_population_6>언젠가 {3}의 지난날을 돌아본다면, 정착지의 인구가 늘어난 날도 그 안에 있을 것이다.</MF_Caption_population_6>
+  <MF_Caption_population_7>정착지의 인구가 늘어난 날. 그날을 기억하는 사진.</MF_Caption_population_7>
+  <MF_Caption_population_8>하루의 모습이 남았다. 정착지의 인구가 늘어난 날.</MF_Caption_population_8>
+  <!-- MF_Caption_recruit: 12 candidates -->
+  <MF_Caption_recruit_1>새로운 정착민을 맞은 날. 앞으로의 사진에는 함께할 사람이 늘었다.</MF_Caption_recruit_1>
+  <MF_Caption_recruit_2>{1}의 정착지 생활이 시작되었다. 첫날의 모습을 남긴다.</MF_Caption_recruit_2>
+  <MF_Caption_recruit_3>정착지에 새 이름이 더해졌다. {1}.</MF_Caption_recruit_3>
+  <MF_Caption_recruit_4>합류한 날의 {1}. 훗날의 모습과 나란히 놓아 볼 첫 장이다.</MF_Caption_recruit_4>
+  <MF_Caption_recruit_5>{3}에 새로운 정착민이 생겼다. 함께할 날들이 이때부터 시작된다.</MF_Caption_recruit_5>
+  <MF_Caption_recruit_6>{2}에 찾아온 새 동료. 합류한 때의 풍경도 함께 남았다.</MF_Caption_recruit_6>
+  <MF_Caption_recruit_7>처음 함께하게 된 날을 기억하기 위한 한 장.</MF_Caption_recruit_7>
+  <MF_Caption_recruit_8>{1}을 맞이한 날의 정착지. 나중에는 익숙해질 이곳의 첫 모습이다.</MF_Caption_recruit_8>
+  <MF_Caption_recruit_9>{1}, 정착지의 새 동료가 되던 날.</MF_Caption_recruit_9>
+  <MF_Caption_recruit_10>새 정착민의 첫 사진에는 이때의 정착지도 담겨 있다.</MF_Caption_recruit_10>
+  <MF_Caption_recruit_11>{1}의 합류로 정착지의 이야기에 한 사람이 더해졌다.</MF_Caption_recruit_11>
+  <MF_Caption_recruit_12>앞으로 남길 사진들에 앞서, 합류한 날의 한 장.</MF_Caption_recruit_12>
+  <!-- MF_Caption_reliquary: 8 candidates -->
+  <MF_Caption_reliquary_1>유물이 안치된 날. 이때의 풍경을 함께 남겼다.</MF_Caption_reliquary_1>
+  <MF_Caption_reliquary_2>{3}에서 맞은 유물이 안치된 날.</MF_Caption_reliquary_2>
+  <MF_Caption_reliquary_3>유물이 안치된 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_reliquary_3>
+  <MF_Caption_reliquary_4>{2}에 있었던 일, 유물이 안치된 날.</MF_Caption_reliquary_4>
+  <MF_Caption_reliquary_5>유물이 안치된 날의 정착지는 이런 모습이었다.</MF_Caption_reliquary_5>
+  <MF_Caption_reliquary_6>언젠가 {3}의 지난날을 돌아본다면, 유물이 안치된 날도 그 안에 있을 것이다.</MF_Caption_reliquary_6>
+  <MF_Caption_reliquary_7>유물이 안치된 날. 그날을 기억하는 사진.</MF_Caption_reliquary_7>
+  <MF_Caption_reliquary_8>하루의 모습이 남았다. 유물이 안치된 날.</MF_Caption_reliquary_8>
+  <!-- MF_Caption_resurrect: 8 candidates -->
+  <MF_Caption_resurrect_1>끝났다고 여겼던 삶에 다음 날이 생겼다. 죽음에서 돌아온 날의 사진.</MF_Caption_resurrect_1>
+  <MF_Caption_resurrect_2>{3}에서 맞은 죽음에서 돌아온 날.</MF_Caption_resurrect_2>
+  <MF_Caption_resurrect_3>죽음에서 돌아온 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_resurrect_3>
+  <MF_Caption_resurrect_4>{2}에 있었던 일, 죽음에서 돌아온 날.</MF_Caption_resurrect_4>
+  <MF_Caption_resurrect_5>죽음에서 돌아온 날의 정착지는 이런 모습이었다.</MF_Caption_resurrect_5>
+  <MF_Caption_resurrect_6>언젠가 {3}의 지난날을 돌아본다면, 죽음에서 돌아온 날도 그 안에 있을 것이다.</MF_Caption_resurrect_6>
+  <MF_Caption_resurrect_7>죽음에서 돌아온 날. 그날을 기억하는 사진.</MF_Caption_resurrect_7>
+  <MF_Caption_resurrect_8>하루의 모습이 남았다. 죽음에서 돌아온 날.</MF_Caption_resurrect_8>
+  <!-- MF_Caption_ritual: 8 candidates -->
+  <MF_Caption_ritual_1>의식이 열린 날. 이때의 풍경을 함께 남겼다.</MF_Caption_ritual_1>
+  <MF_Caption_ritual_2>{3}에서 맞은 의식이 열린 날.</MF_Caption_ritual_2>
+  <MF_Caption_ritual_3>의식이 열린 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_ritual_3>
+  <MF_Caption_ritual_4>{2}에 있었던 일, 의식이 열린 날.</MF_Caption_ritual_4>
+  <MF_Caption_ritual_5>의식이 열린 날의 정착지는 이런 모습이었다.</MF_Caption_ritual_5>
+  <MF_Caption_ritual_6>언젠가 {3}의 지난날을 돌아본다면, 의식이 열린 날도 그 안에 있을 것이다.</MF_Caption_ritual_6>
+  <MF_Caption_ritual_7>의식이 열린 날. 그날을 기억하는 사진.</MF_Caption_ritual_7>
+  <MF_Caption_ritual_8>하루의 모습이 남았다. 의식이 열린 날.</MF_Caption_ritual_8>
+  <!-- MF_Caption_role: 8 candidates -->
+  <MF_Caption_role_1>새로운 역할을 맡은 날. 이때의 풍경을 함께 남겼다.</MF_Caption_role_1>
+  <MF_Caption_role_2>{3}에서 맞은 새로운 역할을 맡은 날.</MF_Caption_role_2>
+  <MF_Caption_role_3>새로운 역할을 맡은 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_role_3>
+  <MF_Caption_role_4>{2}에 있었던 일, 새로운 역할을 맡은 날.</MF_Caption_role_4>
+  <MF_Caption_role_5>새로운 역할을 맡은 날의 정착지는 이런 모습이었다.</MF_Caption_role_5>
+  <MF_Caption_role_6>언젠가 {3}의 지난날을 돌아본다면, 새로운 역할을 맡은 날도 그 안에 있을 것이다.</MF_Caption_role_6>
+  <MF_Caption_role_7>새로운 역할을 맡은 날. 그날을 기억하는 사진.</MF_Caption_role_7>
+  <MF_Caption_role_8>하루의 모습이 남았다. 새로운 역할을 맡은 날.</MF_Caption_role_8>
+  <!-- MF_Caption_ship: 8 candidates -->
+  <MF_Caption_ship_1>우주선을 띄운 날. 이때의 풍경을 함께 남겼다.</MF_Caption_ship_1>
+  <MF_Caption_ship_2>{3}에서 맞은 우주선을 띄운 날.</MF_Caption_ship_2>
+  <MF_Caption_ship_3>우주선을 띄운 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_ship_3>
+  <MF_Caption_ship_4>{2}에 있었던 일, 우주선을 띄운 날.</MF_Caption_ship_4>
+  <MF_Caption_ship_5>우주선을 띄운 날의 정착지는 이런 모습이었다.</MF_Caption_ship_5>
+  <MF_Caption_ship_6>언젠가 {3}의 지난날을 돌아본다면, 우주선을 띄운 날도 그 안에 있을 것이다.</MF_Caption_ship_6>
+  <MF_Caption_ship_7>우주선을 띄운 날. 그날을 기억하는 사진.</MF_Caption_ship_7>
+  <MF_Caption_ship_8>하루의 모습이 남았다. 우주선을 띄운 날.</MF_Caption_ship_8>
+  <!-- MF_Caption_sky: 8 candidates -->
+  <MF_Caption_sky_1>평소와 달라진 하늘. 정착지 위의 변화를 남겼다.</MF_Caption_sky_1>
+  <MF_Caption_sky_2>{3}에서 맞은 하늘의 변화를 바라본 때.</MF_Caption_sky_2>
+  <MF_Caption_sky_3>하늘의 변화를 바라본 때의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_sky_3>
+  <MF_Caption_sky_4>{2}에 있었던 일, 하늘의 변화를 바라본 때.</MF_Caption_sky_4>
+  <MF_Caption_sky_5>하늘의 변화를 바라본 때의 정착지는 이런 모습이었다.</MF_Caption_sky_5>
+  <MF_Caption_sky_6>언젠가 {3}의 지난날을 돌아본다면, 하늘의 변화를 바라본 때도 그 안에 있을 것이다.</MF_Caption_sky_6>
+  <MF_Caption_sky_7>하늘의 변화를 바라본 때. 그날을 기억하는 사진.</MF_Caption_sky_7>
+  <MF_Caption_sky_8>하루의 모습이 남았다. 하늘의 변화를 바라본 때.</MF_Caption_sky_8>
+  <!-- MF_Caption_wedding: 8 candidates -->
+  <MF_Caption_wedding_1>두 사람의 삶이 부부라는 이름으로 이어진 날.</MF_Caption_wedding_1>
+  <MF_Caption_wedding_2>{3}에서 맞은 두 사람이 결혼한 날.</MF_Caption_wedding_2>
+  <MF_Caption_wedding_3>두 사람이 결혼한 날의 한 장. 시간이 지난 뒤에도 다시 돌아볼 수 있도록.</MF_Caption_wedding_3>
+  <MF_Caption_wedding_4>{2}에 있었던 일, 두 사람이 결혼한 날.</MF_Caption_wedding_4>
+  <MF_Caption_wedding_5>두 사람이 결혼한 날의 정착지는 이런 모습이었다.</MF_Caption_wedding_5>
+  <MF_Caption_wedding_6>언젠가 {3}의 지난날을 돌아본다면, 두 사람이 결혼한 날도 그 안에 있을 것이다.</MF_Caption_wedding_6>
+  <MF_Caption_wedding_7>두 사람이 결혼한 날. 그날을 기억하는 사진.</MF_Caption_wedding_7>
+  <MF_Caption_wedding_8>하루의 모습이 남았다. 두 사람이 결혼한 날.</MF_Caption_wedding_8>
+  <!-- MF_Caption_group_solo: 12 candidates -->
+  <MF_Caption_group_solo_1>{1}의 모습을 남긴 한 장. 이날의 풍경도 함께 담았다.</MF_Caption_group_solo_1>
+  <MF_Caption_group_solo_2>{3}에서 찍은 {1}. 시간이 흘러도 이 모습은 여기 남아 있다.</MF_Caption_group_solo_2>
+  <MF_Caption_group_solo_3>{1}의 {2} 사진. 다음 사진과 나란히 두고 볼 한때다.</MF_Caption_group_solo_3>
+  <MF_Caption_group_solo_4>사진 속에는 {1}. 배경에는 이때의 정착지가 남았다.</MF_Caption_group_solo_4>
+  <MF_Caption_group_solo_5>{1}, 이날의 모습 그대로.</MF_Caption_group_solo_5>
+  <MF_Caption_group_solo_6>한 사람의 모습을 남기는 데 꼭 큰 사건이 필요한 것은 아니다.</MF_Caption_group_solo_6>
+  <MF_Caption_group_solo_7>{3}의 풍경과 {1}을 함께 남겼다.</MF_Caption_group_solo_7>
+  <MF_Caption_group_solo_8>나중의 {1}과 비교해 볼 오늘의 한 장.</MF_Caption_group_solo_8>
+  <MF_Caption_group_solo_9>{2}의 어느 날, {1}의 모습.</MF_Caption_group_solo_9>
+  <MF_Caption_group_solo_10>이날을 다시 꺼내 보면 먼저 보일 얼굴, {1}.</MF_Caption_group_solo_10>
+  <MF_Caption_group_solo_11>{1}의 사진에는 그때 머물던 장소도 함께 남는다.</MF_Caption_group_solo_11>
+  <MF_Caption_group_solo_12>{1}. 이름 옆에 오래 두고 볼 모습.</MF_Caption_group_solo_12>
+  <!-- MF_Caption_group_group: 12 candidates -->
+  <MF_Caption_group_group_1>함께 찍은 한 장. 이때의 얼굴들, {0}.</MF_Caption_group_group_1>
+  <MF_Caption_group_group_2>{0}. 같은 사진 속에 모인 이날의 모습이다.</MF_Caption_group_group_2>
+  <MF_Caption_group_group_3>한 사람씩 보아도, 모두 함께 보아도 남겨 둘 만한 한때.</MF_Caption_group_group_3>
+  <MF_Caption_group_group_4>{3}의 풍경 속에 함께 담긴 사람들. {0}.</MF_Caption_group_group_4>
+  <MF_Caption_group_group_5>같은 날, 같은 사진. 시간이 흐른 뒤에는 이 모습도 달라져 있을 것이다.</MF_Caption_group_group_5>
+  <MF_Caption_group_group_6>{2}에 함께 남긴 한 장. 사진 속 사람들은 {0}.</MF_Caption_group_group_6>
+  <MF_Caption_group_group_7>오늘의 사람들과 오늘의 풍경을 한 장에 담았다.</MF_Caption_group_group_7>
+  <MF_Caption_group_group_8>{0}의 단체 사진. 함께 있는 모습을 다시 꺼내 볼 수 있도록.</MF_Caption_group_group_8>
+  <MF_Caption_group_group_9>특별한 사건의 이름 없이도 남겨 둘 수 있는 하루의 모습.</MF_Caption_group_group_9>
+  <MF_Caption_group_group_10>얼굴들 사이로 이날의 풍경도 보인다. {3}에서 찍은 단체 사진.</MF_Caption_group_group_10>
+  <MF_Caption_group_group_11>나중에 다시 같은 사람들을 찍는다면, 무엇부터 달라져 있을까.</MF_Caption_group_group_11>
+  <MF_Caption_group_group_12>사진 한 장에 함께 들어온 이름들, {0}.</MF_Caption_group_group_12>
+  <!-- MF_Caption_group_scene: 8 candidates -->
+  <MF_Caption_group_scene_1>인물이 없어도 이날의 장소는 남길 수 있다.</MF_Caption_group_scene_1>
+  <MF_Caption_group_scene_2>{3}의 이때 모습. 다음에 같은 곳을 찍으면 무엇이 달라져 있을까.</MF_Caption_group_scene_2>
+  <MF_Caption_group_scene_3>사진에 담긴 풍경을 천천히 돌아본다.</MF_Caption_group_scene_3>
+  <MF_Caption_group_scene_4>{2}의 {3}. 이때의 풍경을 한 장에 남겼다.</MF_Caption_group_scene_4>
+  <MF_Caption_group_scene_5>정착지의 변화는 이런 풍경 사이에도 남는다.</MF_Caption_group_scene_5>
+  <MF_Caption_group_scene_6>그날 그곳의 모습. 이 장면을 다시 볼 수 있도록.</MF_Caption_group_scene_6>
+  <MF_Caption_group_scene_7>{3}의 풍경 한 장. 작은 구석까지 나중에 다시 살펴볼 수 있다.</MF_Caption_group_scene_7>
+  <MF_Caption_group_scene_8>시간이 지나기 전, 이곳이 이렇게 보였다는 기록.</MF_Caption_group_scene_8>
+  <!-- MF_Caption_role_detail: 12 candidates -->
+  <MF_Caption_role_detail_1>{1}의 새로운 역할, {4}. 정착지에서 맡을 일이 하나 달라졌다.</MF_Caption_role_detail_1>
+  <MF_Caption_role_detail_2>{4}의 자리를 맡은 {1}. 이날부터 이어질 역할의 첫 모습이다.</MF_Caption_role_detail_2>
+  <MF_Caption_role_detail_3>정착지의 {4}, {1}. 새로운 직책을 맡던 날을 남겼다.</MF_Caption_role_detail_3>
+  <MF_Caption_role_detail_4>{1}에게 {4}의 역할이 주어진 날. 앞으로의 모습과 나란히 두고 볼 한 장이다.</MF_Caption_role_detail_4>
+  <MF_Caption_role_detail_5>{3}의 {4} 자리에 {1}의 이름이 올랐다.</MF_Caption_role_detail_5>
+  <MF_Caption_role_detail_6>{1}의 취임일. 이번에 맡은 역할은 {4}.</MF_Caption_role_detail_6>
+  <MF_Caption_role_detail_7>{4}의 역할을 맡기 전과 후를 가르는 날, {1}의 모습.</MF_Caption_role_detail_7>
+  <MF_Caption_role_detail_8>{2}, {1}에게 새로운 역할이 생겼다. {4}.</MF_Caption_role_detail_8>
+  <MF_Caption_role_detail_9>{1}의 정착지 생활에 {4}의 역할이 더해졌다.</MF_Caption_role_detail_9>
+  <MF_Caption_role_detail_10>{4}의 역할을 맡은 {1}. 맡은 일이 달라진 날의 모습이다.</MF_Caption_role_detail_10>
+  <MF_Caption_role_detail_11>{3}에서 {4}의 역할을 맡은 {1}. 그 시작을 남긴 사진이다.</MF_Caption_role_detail_11>
+  <MF_Caption_role_detail_12>{1}, {4}의 첫날.</MF_Caption_role_detail_12>
+  <!-- MF_Caption_bestow_detail: 8 candidates -->
+  <MF_Caption_bestow_detail_1>{1}에게 {4}의 작위가 주어진 날.</MF_Caption_bestow_detail_1>
+  <MF_Caption_bestow_detail_2>{4}의 작위를 받은 {1}. 새로운 지위의 시작이다.</MF_Caption_bestow_detail_2>
+  <MF_Caption_bestow_detail_3>{1}의 이름에 {4}의 작위가 더해졌다.</MF_Caption_bestow_detail_3>
+  <MF_Caption_bestow_detail_4>{3}에서 작위를 받은 {1}. 이번 작위는 {4}.</MF_Caption_bestow_detail_4>
+  <MF_Caption_bestow_detail_5>{1}의 수여식. 새 작위를 받던 때의 모습을 남겼다.</MF_Caption_bestow_detail_5>
+  <MF_Caption_bestow_detail_6>{4}의 작위와 함께 시작될 {1}의 다음 날들.</MF_Caption_bestow_detail_6>
+  <MF_Caption_bestow_detail_7>{2}, {1}에게 {4}의 작위가 주어졌다.</MF_Caption_bestow_detail_7>
+  <MF_Caption_bestow_detail_8>{1}, {4}의 작위를 받던 날의 모습.</MF_Caption_bestow_detail_8>
+  <!-- MF_Caption_journey_detail: 8 candidates -->
+  <MF_Caption_journey_detail_1>{4}. 그때의 모습을 남겼다.</MF_Caption_journey_detail_1>
+  <MF_Caption_journey_detail_2>{3}에서의 방문, {4}.</MF_Caption_journey_detail_2>
+  <MF_Caption_journey_detail_3>방문 당시의 풍경. {4}.</MF_Caption_journey_detail_3>
+  <MF_Caption_journey_detail_4>{2}에 있었던 {4}의 한 장.</MF_Caption_journey_detail_4>
+  <MF_Caption_journey_detail_5>{4}. 나중에 이날을 돌아볼 수 있도록.</MF_Caption_journey_detail_5>
+  <MF_Caption_journey_detail_6>{4}의 모습을 {3}에서 남겼다.</MF_Caption_journey_detail_6>
+  <MF_Caption_journey_detail_7>{4}의 날짜와 함께 두고 볼 사진.</MF_Caption_journey_detail_7>
+  <MF_Caption_journey_detail_8>이때의 방문 이름은 {4}. 그 주변의 풍경도 함께 남아 있다.</MF_Caption_journey_detail_8>
+  <!-- MF_Caption_celebration_detail: 8 candidates -->
+  <MF_Caption_celebration_detail_1>{4}. 그때의 모습을 남겼다.</MF_Caption_celebration_detail_1>
+  <MF_Caption_celebration_detail_2>{3}에서의 행사, {4}.</MF_Caption_celebration_detail_2>
+  <MF_Caption_celebration_detail_3>행사 당시의 풍경. {4}.</MF_Caption_celebration_detail_3>
+  <MF_Caption_celebration_detail_4>{2}에 있었던 {4}의 한 장.</MF_Caption_celebration_detail_4>
+  <MF_Caption_celebration_detail_5>{4}. 나중에 이날을 돌아볼 수 있도록.</MF_Caption_celebration_detail_5>
+  <MF_Caption_celebration_detail_6>{4}의 모습을 {3}에서 남겼다.</MF_Caption_celebration_detail_6>
+  <MF_Caption_celebration_detail_7>{4}의 날짜와 함께 두고 볼 사진.</MF_Caption_celebration_detail_7>
+  <MF_Caption_celebration_detail_8>이때의 행사 이름은 {4}. 그 주변의 풍경도 함께 남아 있다.</MF_Caption_celebration_detail_8>
+  <!-- MF_Caption_ritual_detail: 8 candidates -->
+  <MF_Caption_ritual_detail_1>{4}. 그때의 모습을 남겼다.</MF_Caption_ritual_detail_1>
+  <MF_Caption_ritual_detail_2>{3}에서의 의식, {4}.</MF_Caption_ritual_detail_2>
+  <MF_Caption_ritual_detail_3>의식 당시의 풍경. {4}.</MF_Caption_ritual_detail_3>
+  <MF_Caption_ritual_detail_4>{2}에 있었던 {4}의 한 장.</MF_Caption_ritual_detail_4>
+  <MF_Caption_ritual_detail_5>{4}. 나중에 이날을 돌아볼 수 있도록.</MF_Caption_ritual_detail_5>
+  <MF_Caption_ritual_detail_6>{4}의 모습을 {3}에서 남겼다.</MF_Caption_ritual_detail_6>
+  <MF_Caption_ritual_detail_7>{4}의 날짜와 함께 두고 볼 사진.</MF_Caption_ritual_detail_7>
+  <MF_Caption_ritual_detail_8>이때의 의식 이름은 {4}. 그 주변의 풍경도 함께 남아 있다.</MF_Caption_ritual_detail_8>
+  <!-- MF_Caption_funeral_detail: 8 candidates -->
+  <MF_Caption_funeral_detail_1>{4}. 그때의 모습을 남겼다.</MF_Caption_funeral_detail_1>
+  <MF_Caption_funeral_detail_2>{3}에서의 장례, {4}.</MF_Caption_funeral_detail_2>
+  <MF_Caption_funeral_detail_3>장례 당시의 풍경. {4}.</MF_Caption_funeral_detail_3>
+  <MF_Caption_funeral_detail_4>{2}에 있었던 {4}의 한 장.</MF_Caption_funeral_detail_4>
+  <MF_Caption_funeral_detail_5>{4}. 나중에 이날을 돌아볼 수 있도록.</MF_Caption_funeral_detail_5>
+  <MF_Caption_funeral_detail_6>{4}의 모습을 {3}에서 남겼다.</MF_Caption_funeral_detail_6>
+  <MF_Caption_funeral_detail_7>{4}의 날짜와 함께 두고 볼 사진.</MF_Caption_funeral_detail_7>
+  <MF_Caption_funeral_detail_8>이때의 장례 이름은 {4}. 그 주변의 풍경도 함께 남아 있다.</MF_Caption_funeral_detail_8>
+  <!-- MF_LifeNote_joined: 24 candidates -->
+  <MF_LifeNote_joined_1>정착지의 기록에 새 이름이 더해졌다. 연대기에 합류한 날이 남았다.</MF_LifeNote_joined_1>
+  <MF_LifeNote_joined_2>정착민 명단에 한 사람이 더해졌다. 합류의 기록이 연대기의 한 페이지가 되었다.</MF_LifeNote_joined_2>
+  <MF_LifeNote_joined_3>합류한 날이 연대기에 남았다. 정착지의 기록에 한 사람의 이름이 더해졌다.</MF_LifeNote_joined_3>
+  <MF_LifeNote_joined_4>정착민 명단에 새 이름이 올랐다.</MF_LifeNote_joined_4>
+  <MF_LifeNote_joined_5>{2}의 정착지 합류.</MF_LifeNote_joined_5>
+  <MF_LifeNote_joined_6>합류한 날짜는 {3}.</MF_LifeNote_joined_6>
+  <MF_LifeNote_joined_7>{3}, {2}의 이름을 정착민 명단에 적었다.</MF_LifeNote_joined_7>
+  <MF_LifeNote_joined_8>정착지에 합류한 사람이 한 명 늘었다.</MF_LifeNote_joined_8>
+  <MF_LifeNote_joined_9>{2}의 이름이 이곳의 명단에 올랐다.</MF_LifeNote_joined_9>
+  <MF_LifeNote_joined_10>이날 정착지에 합류했다.</MF_LifeNote_joined_10>
+  <MF_LifeNote_joined_11>{3}의 합류 소식이다.</MF_LifeNote_joined_11>
+  <MF_LifeNote_joined_12>합류한 사람, {2}.</MF_LifeNote_joined_12>
+  <MF_LifeNote_joined_13>명단에 새 이름을 적으며 합류한 날을 남긴다.</MF_LifeNote_joined_13>
+  <MF_LifeNote_joined_14>{2}의 이름 옆에 합류일을 적어 두었다. {3}.</MF_LifeNote_joined_14>
+  <MF_LifeNote_joined_15>이곳의 정착민으로 명단에 올랐다.</MF_LifeNote_joined_15>
+  <MF_LifeNote_joined_16>한 사람의 합류를 연대기에 적어 둔다.</MF_LifeNote_joined_16>
+  <MF_LifeNote_joined_17>{3}에 정착민 명단이 바뀌었다. 새 합류자가 생겼다.</MF_LifeNote_joined_17>
+  <MF_LifeNote_joined_18>{2}의 합류를 짧게 남긴다.</MF_LifeNote_joined_18>
+  <MF_LifeNote_joined_19>합류 소식의 날짜 옆에는 {2}의 이름이 있다.</MF_LifeNote_joined_19>
+  <MF_LifeNote_joined_20>정착민 명단의 새 항목. 합류한 날을 뜻한다.</MF_LifeNote_joined_20>
+  <MF_LifeNote_joined_21>{3}에 정착민 명단에 이름이 남았다.</MF_LifeNote_joined_21>
+  <MF_LifeNote_joined_22>이날 명단에 {2}의 이름도 올랐다.</MF_LifeNote_joined_22>
+  <MF_LifeNote_joined_23>정착지 합류라는 짧은 문장으로 이날을 남긴다.</MF_LifeNote_joined_23>
+  <MF_LifeNote_joined_24>{2}의 합류일, {3}.</MF_LifeNote_joined_24>
+  <!-- MF_LifeNote_born: 12 candidates -->
+  <MF_LifeNote_born_1>어린 정착민의 이름이 명단에 더해졌다. 명단에 남긴 첫 기록이 연대기에 더해졌다.</MF_LifeNote_born_1>
+  <MF_LifeNote_born_2>어린 정착민이 명단에 남긴 첫 기록이다. 그 기록이 연대기의 한 페이지로 더해졌다.</MF_LifeNote_born_2>
+  <MF_LifeNote_born_3>새로 기록된 어린 정착민의 한 페이지다. 명단 합류의 기록을 연대기에 남겼다.</MF_LifeNote_born_3>
+  <MF_LifeNote_born_4>어린 정착민이 처음 명단에 올랐다.</MF_LifeNote_born_4>
+  <MF_LifeNote_born_5>{2}의 이름이 어린 정착민으로 처음 적혔다.</MF_LifeNote_born_5>
+  <MF_LifeNote_born_6>어린 정착민의 첫 명단 등재일은 {3}.</MF_LifeNote_born_6>
+  <MF_LifeNote_born_7>{3}, 어린 정착민 {2}의 이름을 명단에 적었다.</MF_LifeNote_born_7>
+  <MF_LifeNote_born_8>명단에 어린 정착민의 이름이 새로 보인다.</MF_LifeNote_born_8>
+  <MF_LifeNote_born_9>어린 정착민 {2}의 첫 명단 등재를 남긴다.</MF_LifeNote_born_9>
+  <MF_LifeNote_born_10>{3}에 어린 정착민을 명단에 처음 적었다.</MF_LifeNote_born_10>
+  <MF_LifeNote_born_11>어린 정착민의 이름을 명단에 처음 적은 날이다.</MF_LifeNote_born_11>
+  <MF_LifeNote_born_12>{2}의 이름 옆에 첫 명단 등재일을 적어 두었다. {3}.</MF_LifeNote_born_12>
+  <!-- MF_LifeNote_lover: 24 candidates -->
+  <MF_LifeNote_lover_1>이날 두 사람이 연인이 되었다. 연대기에 남은 상대는 {0}.</MF_LifeNote_lover_1>
+  <MF_LifeNote_lover_2>연인이 된 날이 기록에 남았다. {0}의 이름과 함께 관계의 한 페이지가 더해졌다.</MF_LifeNote_lover_2>
+  <MF_LifeNote_lover_3>새 연인 관계가 기록되었다. {0}의 이름이 연대기의 다음 장에 남았다.</MF_LifeNote_lover_3>
+  <MF_LifeNote_lover_4>연인이 되었다. 상대는 {0}.</MF_LifeNote_lover_4>
+  <MF_LifeNote_lover_5>연인으로 남은 두 이름, {2} · {0}.</MF_LifeNote_lover_5>
+  <MF_LifeNote_lover_6>{3}, 연인이 된 날. 상대는 {0}.</MF_LifeNote_lover_6>
+  <MF_LifeNote_lover_7>관계의 이름이 바뀌었다. 새 연인은 {0}.</MF_LifeNote_lover_7>
+  <MF_LifeNote_lover_8>연인 관계가 시작된 상대는 {0}.</MF_LifeNote_lover_8>
+  <MF_LifeNote_lover_9>{2} · {0}. 두 사람의 연인 관계를 이날부터 적어 둔다.</MF_LifeNote_lover_9>
+  <MF_LifeNote_lover_10>{0}의 이름 옆에 연인이라는 말을 적었다.</MF_LifeNote_lover_10>
+  <MF_LifeNote_lover_11>이날부터 관계 목록에는 {0}와의 연인 관계가 있다.</MF_LifeNote_lover_11>
+  <MF_LifeNote_lover_12>연인이 된 날짜는 {3}. 상대의 이름은 {0}.</MF_LifeNote_lover_12>
+  <MF_LifeNote_lover_13>새로 맺어진 연인 관계. 상대의 이름은 {0}.</MF_LifeNote_lover_13>
+  <MF_LifeNote_lover_14>{2} · {0}. 이날 두 사람은 연인이 되었다.</MF_LifeNote_lover_14>
+  <MF_LifeNote_lover_15>관계의 새 항목에 {0}의 이름이 있다. 연인 관계다.</MF_LifeNote_lover_15>
+  <MF_LifeNote_lover_16>{3}의 연인 관계 소식에는 {0}의 이름이 남았다.</MF_LifeNote_lover_16>
+  <MF_LifeNote_lover_17>연인이 된 일을 짧게 남긴다. 함께 적힌 이름은 {0}.</MF_LifeNote_lover_17>
+  <MF_LifeNote_lover_18>두 사람이 연인이 된 날이다.</MF_LifeNote_lover_18>
+  <MF_LifeNote_lover_19>{0}와의 관계를 연인으로 적기 시작했다.</MF_LifeNote_lover_19>
+  <MF_LifeNote_lover_20>{3}, 두 사람의 관계가 연인으로 바뀌었다.</MF_LifeNote_lover_20>
+  <MF_LifeNote_lover_21>이날의 관계 변화는 연인 관계의 시작이었다. 상대는 {0}.</MF_LifeNote_lover_21>
+  <MF_LifeNote_lover_22>{2}의 연인으로 {0}의 이름을 적어 두었다.</MF_LifeNote_lover_22>
+  <MF_LifeNote_lover_23>새 연인 관계가 생겼다.</MF_LifeNote_lover_23>
+  <MF_LifeNote_lover_24>두 사람의 연인 관계가 시작된 날, {3}. {2} · {0}.</MF_LifeNote_lover_24>
+  <!-- MF_LifeNote_fiance: 12 candidates -->
+  <MF_LifeNote_fiance_1>이날 두 사람이 약혼했다. 연대기에 남은 상대는 {0}.</MF_LifeNote_fiance_1>
+  <MF_LifeNote_fiance_2>약혼한 날이다. {0}의 이름과 함께 관계가 연대기의 다음 장으로 이어졌다.</MF_LifeNote_fiance_2>
+  <MF_LifeNote_fiance_3>약혼한 기록이 남았다. {0}의 이름이 관계의 한 페이지에 더해졌다.</MF_LifeNote_fiance_3>
+  <MF_LifeNote_fiance_4>약혼했다. 상대는 {0}.</MF_LifeNote_fiance_4>
+  <MF_LifeNote_fiance_5>약혼한 두 이름, {2} · {0}.</MF_LifeNote_fiance_5>
+  <MF_LifeNote_fiance_6>{3}, 약혼한 날. 상대는 {0}.</MF_LifeNote_fiance_6>
+  <MF_LifeNote_fiance_7>{0}와의 관계에 약혼이라는 말을 적었다.</MF_LifeNote_fiance_7>
+  <MF_LifeNote_fiance_8>약혼 상대의 이름은 {0}.</MF_LifeNote_fiance_8>
+  <MF_LifeNote_fiance_9>이날 두 사람이 약혼했다.</MF_LifeNote_fiance_9>
+  <MF_LifeNote_fiance_10>약혼 소식에 두 이름이 남았다. {2} · {0}.</MF_LifeNote_fiance_10>
+  <MF_LifeNote_fiance_11>약혼한 날짜를 적어 둔다. {3}. 상대는 {0}.</MF_LifeNote_fiance_11>
+  <MF_LifeNote_fiance_12>관계 목록에 약혼이 생겼다. 함께 적힌 이름은 {0}.</MF_LifeNote_fiance_12>
+  <!-- MF_LifeNote_spouse: 12 candidates -->
+  <MF_LifeNote_spouse_1>이날 두 사람이 결혼했다. 연대기에 남은 상대는 {0}.</MF_LifeNote_spouse_1>
+  <MF_LifeNote_spouse_2>결혼한 날이 연대기에 남았다. {0}의 이름과 함께 관계의 다음 장이 이어졌다.</MF_LifeNote_spouse_2>
+  <MF_LifeNote_spouse_3>배우자 관계가 기록되었다. {0}의 이름과 함께 관계의 한 페이지가 더해졌다.</MF_LifeNote_spouse_3>
+  <MF_LifeNote_spouse_4>결혼했다. 배우자는 {0}.</MF_LifeNote_spouse_4>
+  <MF_LifeNote_spouse_5>배우자로 남은 두 이름, {2} · {0}.</MF_LifeNote_spouse_5>
+  <MF_LifeNote_spouse_6>{3}, 결혼한 날. 배우자는 {0}.</MF_LifeNote_spouse_6>
+  <MF_LifeNote_spouse_7>{0}와의 관계를 배우자로 적었다.</MF_LifeNote_spouse_7>
+  <MF_LifeNote_spouse_8>배우자의 이름은 {0}.</MF_LifeNote_spouse_8>
+  <MF_LifeNote_spouse_9>이날 두 사람이 결혼했다.</MF_LifeNote_spouse_9>
+  <MF_LifeNote_spouse_10>결혼 소식에 두 이름이 남았다. {2} · {0}.</MF_LifeNote_spouse_10>
+  <MF_LifeNote_spouse_11>결혼 날짜는 {3}. 함께 적힌 이름은 {0}.</MF_LifeNote_spouse_11>
+  <MF_LifeNote_spouse_12>관계 목록에 혼인 관계가 생겼다. 상대는 {0}.</MF_LifeNote_spouse_12>
+  <!-- MF_LifeNote_brokeup: 12 candidates -->
+  <MF_LifeNote_brokeup_1>이별한 날이다. {0}의 이름과 함께 관계의 변화가 연대기에 남았다.</MF_LifeNote_brokeup_1>
+  <MF_LifeNote_brokeup_2>연인 관계가 끝난 날이다. {0}의 이름과 함께 이별의 기록이 남았다.</MF_LifeNote_brokeup_2>
+  <MF_LifeNote_brokeup_3>이별의 기록이 남았다. {0}의 이름과 함께 지나온 관계의 한 페이지가 보관되었다.</MF_LifeNote_brokeup_3>
+  <MF_LifeNote_brokeup_4>{0}와의 연인 관계가 끝났다.</MF_LifeNote_brokeup_4>
+  <MF_LifeNote_brokeup_5>이별한 두 이름, {2} · {0}.</MF_LifeNote_brokeup_5>
+  <MF_LifeNote_brokeup_6>{3}, 헤어진 날. 상대는 {0}.</MF_LifeNote_brokeup_6>
+  <MF_LifeNote_brokeup_7>{0}와의 관계를 이제 과거의 연인으로 적었다.</MF_LifeNote_brokeup_7>
+  <MF_LifeNote_brokeup_8>연인 관계가 끝난 상대는 {0}.</MF_LifeNote_brokeup_8>
+  <MF_LifeNote_brokeup_9>이날 두 사람의 연인 관계가 끝났다.</MF_LifeNote_brokeup_9>
+  <MF_LifeNote_brokeup_10>이별로 남은 관계 변화. 두 이름은 {2} · {0}.</MF_LifeNote_brokeup_10>
+  <MF_LifeNote_brokeup_11>이별 날짜는 {3}. 상대의 이름은 {0}.</MF_LifeNote_brokeup_11>
+  <MF_LifeNote_brokeup_12>연인 관계가 끝났다는 사실을 남긴다. 상대는 {0}.</MF_LifeNote_brokeup_12>
+  <!-- MF_LifeNote_divorced: 12 candidates -->
+  <MF_LifeNote_divorced_1>이혼한 날이다. {0}의 이름과 함께 혼인 관계의 변화가 연대기에 남았다.</MF_LifeNote_divorced_1>
+  <MF_LifeNote_divorced_2>혼인 관계가 끝난 날이다. {0}의 이름과 함께 이혼의 기록이 남았다.</MF_LifeNote_divorced_2>
+  <MF_LifeNote_divorced_3>이혼의 기록이 남았다. {0}의 이름과 함께 지나온 관계의 한 페이지가 보관되었다.</MF_LifeNote_divorced_3>
+  <MF_LifeNote_divorced_4>{0}와의 혼인 관계가 끝났다.</MF_LifeNote_divorced_4>
+  <MF_LifeNote_divorced_5>이혼한 두 이름, {2} · {0}.</MF_LifeNote_divorced_5>
+  <MF_LifeNote_divorced_6>{3}, 이혼한 날. 상대는 {0}.</MF_LifeNote_divorced_6>
+  <MF_LifeNote_divorced_7>{0}와의 관계를 이제 과거의 배우자로 적었다.</MF_LifeNote_divorced_7>
+  <MF_LifeNote_divorced_8>혼인 관계가 끝난 상대는 {0}.</MF_LifeNote_divorced_8>
+  <MF_LifeNote_divorced_9>이날 두 사람의 혼인 관계가 끝났다.</MF_LifeNote_divorced_9>
+  <MF_LifeNote_divorced_10>이혼으로 남은 관계 변화. 두 이름은 {2} · {0}.</MF_LifeNote_divorced_10>
+  <MF_LifeNote_divorced_11>이혼 날짜는 {3}. 상대의 이름은 {0}.</MF_LifeNote_divorced_11>
+  <MF_LifeNote_divorced_12>혼인 관계가 끝났다는 사실을 남긴다. 상대는 {0}.</MF_LifeNote_divorced_12>
+  <!-- MF_LifeNote_bond: 24 candidates -->
+  <MF_LifeNote_bond_1>새 유대가 맺어진 날이다. 연대기에 남은 상대는 {0}.</MF_LifeNote_bond_1>
+  <MF_LifeNote_bond_2>유대가 맺어진 날이 기록에 남았다. {0}의 이름과 함께 한 페이지가 더해졌다.</MF_LifeNote_bond_2>
+  <MF_LifeNote_bond_3>{0}의 이름과 함께 새로운 유대가 기록되었다. 이날의 관계가 연대기의 한 장이 되었다.</MF_LifeNote_bond_3>
+  <MF_LifeNote_bond_4>새 유대가 생겼다. 상대는 {0}.</MF_LifeNote_bond_4>
+  <MF_LifeNote_bond_5>새 유대의 상대는 {0}.</MF_LifeNote_bond_5>
+  <MF_LifeNote_bond_6>{3}, 유대가 맺어진 날. 상대는 {0}.</MF_LifeNote_bond_6>
+  <MF_LifeNote_bond_7>두 이름 사이에 유대가 생겼다. {2} · {0}.</MF_LifeNote_bond_7>
+  <MF_LifeNote_bond_8>유대 관계에 {0}의 이름을 적었다.</MF_LifeNote_bond_8>
+  <MF_LifeNote_bond_9>이날 새로운 유대가 맺어졌다.</MF_LifeNote_bond_9>
+  <MF_LifeNote_bond_10>{0}의 이름 옆에 유대라는 말을 남긴다.</MF_LifeNote_bond_10>
+  <MF_LifeNote_bond_11>새로 맺어진 관계, {0}와의 유대.</MF_LifeNote_bond_11>
+  <MF_LifeNote_bond_12>유대가 생긴 날짜는 {3}. 상대는 {0}.</MF_LifeNote_bond_12>
+  <MF_LifeNote_bond_13>{2}의 유대 상대에 {0}의 이름이 올랐다.</MF_LifeNote_bond_13>
+  <MF_LifeNote_bond_14>새로 맺어진 유대를 짧게 남긴다. 상대는 {0}.</MF_LifeNote_bond_14>
+  <MF_LifeNote_bond_15>관계 목록에 새로운 유대가 있다.</MF_LifeNote_bond_15>
+  <MF_LifeNote_bond_16>{3}의 유대 소식에는 {0}의 이름이 남았다.</MF_LifeNote_bond_16>
+  <MF_LifeNote_bond_17>{2} · {0}. 이날 유대로 이어진 두 이름이다.</MF_LifeNote_bond_17>
+  <MF_LifeNote_bond_18>유대 관계가 시작된 상대의 이름은 {0}.</MF_LifeNote_bond_18>
+  <MF_LifeNote_bond_19>{0}와의 관계에 유대가 더해졌다.</MF_LifeNote_bond_19>
+  <MF_LifeNote_bond_20>{3}에 새로운 유대가 생겼다.</MF_LifeNote_bond_20>
+  <MF_LifeNote_bond_21>관계의 새 항목은 유대. 함께 적힌 이름은 {0}.</MF_LifeNote_bond_21>
+  <MF_LifeNote_bond_22>{2} · {0}. 두 이름의 유대를 이날부터 적어 둔다.</MF_LifeNote_bond_22>
+  <MF_LifeNote_bond_23>동물과 새 유대를 맺은 날이다.</MF_LifeNote_bond_23>
+  <MF_LifeNote_bond_24>두 이름의 유대가 시작된 날, {3}. {2} · {0}.</MF_LifeNote_bond_24>
+  <!-- MF_LifeNote_captured: 12 candidates -->
+  <MF_LifeNote_captured_1>{0}에 의한 끌려감이 기록되었다. 이날의 사건이 연대기에 남았다.</MF_LifeNote_captured_1>
+  <MF_LifeNote_captured_2>{0}에 의한 끌려감이 연대기에 남았다. 사건의 기록이 한 페이지가 되었다.</MF_LifeNote_captured_2>
+  <MF_LifeNote_captured_3>{0}에 관한 납치 기록이 더해졌다. 이날의 사건을 연대기에 남겼다.</MF_LifeNote_captured_3>
+  <MF_LifeNote_captured_4>{0}에 의해 납치되었다.</MF_LifeNote_captured_4>
+  <MF_LifeNote_captured_5>{2}의 납치 사건. 납치 세력은 {0}.</MF_LifeNote_captured_5>
+  <MF_LifeNote_captured_6>{3}, {0}에 의해 끌려간 날.</MF_LifeNote_captured_6>
+  <MF_LifeNote_captured_7>이날의 사건은 납치였다. 관련 세력의 이름은 {0}.</MF_LifeNote_captured_7>
+  <MF_LifeNote_captured_8>납치 세력 {0}의 이름을 사건 옆에 적었다.</MF_LifeNote_captured_8>
+  <MF_LifeNote_captured_9>{2}의 연대기에 납치가 남았다. 관련 세력은 {0}.</MF_LifeNote_captured_9>
+  <MF_LifeNote_captured_10>납치된 날짜는 {3}.</MF_LifeNote_captured_10>
+  <MF_LifeNote_captured_11>이날 납치되는 일이 일어났다.</MF_LifeNote_captured_11>
+  <MF_LifeNote_captured_12>{0}에 의해 끌려간 사건을 짧게 남긴다.</MF_LifeNote_captured_12>
+  <!-- MF_LifeNote_limb: 12 candidates -->
+  <MF_LifeNote_limb_1>이날 {0} 상실이 기록되었다. 기록에 남은 원인은 {1}이다.</MF_LifeNote_limb_1>
+  <MF_LifeNote_limb_2>{0} 상실의 기록이 남았다 ({1}). 이날의 손상이 연대기의 한 페이지가 되었다.</MF_LifeNote_limb_2>
+  <MF_LifeNote_limb_3>{1}에 의한 {0} 상실이 기록되었다. 이날의 기록을 연대기에 남겼다.</MF_LifeNote_limb_3>
+  <MF_LifeNote_limb_4>{0} 상실. 남은 손상 원인은 {1}.</MF_LifeNote_limb_4>
+  <MF_LifeNote_limb_5>{1}에 의한 손상으로 {0} 상실이 남았다.</MF_LifeNote_limb_5>
+  <MF_LifeNote_limb_6>{2}의 {0} 상실. 기록된 원인은 {1}.</MF_LifeNote_limb_6>
+  <MF_LifeNote_limb_7>{3}, {0} 상실이 남은 날이다. 원인에는 {1}.</MF_LifeNote_limb_7>
+  <MF_LifeNote_limb_8>손상된 부위는 {0}. 상실 원인은 {1}.</MF_LifeNote_limb_8>
+  <MF_LifeNote_limb_9>이날의 손상은 {0} 상실이었다. 남은 손상 원인은 {1}.</MF_LifeNote_limb_9>
+  <MF_LifeNote_limb_10>{0} 상실이라는 손상 항목 옆에 원인을 적었다. {1}.</MF_LifeNote_limb_10>
+  <MF_LifeNote_limb_11>{1}에 의한 {0} 상실을 짧게 남긴다.</MF_LifeNote_limb_11>
+  <MF_LifeNote_limb_12>{2}의 손상 항목에 {0} 상실이 남았다. 원인은 {1}.</MF_LifeNote_limb_12>
+  <!-- MF_LifeNote_limbPlain: 12 candidates -->
+  <MF_LifeNote_limbPlain_1>이날 {0} 상실이 기록되었다. 연대기에 사건의 한 페이지가 남았다.</MF_LifeNote_limbPlain_1>
+  <MF_LifeNote_limbPlain_2>{0} 상실의 기록이 남았다. 이날의 손상이 연대기에 더해졌다.</MF_LifeNote_limbPlain_2>
+  <MF_LifeNote_limbPlain_3>{0} 상실이 연대기의 한 페이지가 되었다. 기록된 사건을 이곳에 남겼다.</MF_LifeNote_limbPlain_3>
+  <MF_LifeNote_limbPlain_4>{0} 상실.</MF_LifeNote_limbPlain_4>
+  <MF_LifeNote_limbPlain_5>이날 {0} 상실이 남았다.</MF_LifeNote_limbPlain_5>
+  <MF_LifeNote_limbPlain_6>{2}의 {0} 상실.</MF_LifeNote_limbPlain_6>
+  <MF_LifeNote_limbPlain_7>{3}, {0} 상실이 생긴 날.</MF_LifeNote_limbPlain_7>
+  <MF_LifeNote_limbPlain_8>상실된 신체 부위는 {0}.</MF_LifeNote_limbPlain_8>
+  <MF_LifeNote_limbPlain_9>손상 목록에 {0} 상실이 남았다.</MF_LifeNote_limbPlain_9>
+  <MF_LifeNote_limbPlain_10>{0} 상실을 이날의 손상으로 적어 둔다.</MF_LifeNote_limbPlain_10>
+  <MF_LifeNote_limbPlain_11>{2}의 손상 항목에 {0} 상실을 적었다.</MF_LifeNote_limbPlain_11>
+  <MF_LifeNote_limbPlain_12>{0} 상실의 날짜는 {3}.</MF_LifeNote_limbPlain_12>
+  <!-- Specific existing concert/celebration/ritual events: 12 candidates per subtype; observed instrument is photo slot 5. -->
+  <MF_Caption_concert_1>연주회를 위해 모인 자리의 한때를 사진으로 남겼다.</MF_Caption_concert_1>
+  <MF_Caption_concert_2>{1}의 연주회가 열린 모습을 담았다.</MF_Caption_concert_2>
+  <MF_Caption_concert_3>{3}에서 진행된 연주회에 사진 한 장을 곁들였다.</MF_Caption_concert_3>
+  <MF_Caption_concert_4>연주회를 듣는 모임이 열렸다. 이 사진은 그 자리에서 남겼다.</MF_Caption_concert_4>
+  <MF_Caption_concert_5>연주회 사진의 인물 명단에는 {0}의 이름이 있다.</MF_Caption_concert_5>
+  <MF_Caption_concert_6>음악을 듣기 위해 모인 연주회의 모습을 담았다.</MF_Caption_concert_6>
+  <MF_Caption_concert_7>{2}의 연주회에 남긴 사진이다. 이날의 모임이 앨범에 더해졌다.</MF_Caption_concert_7>
+  <MF_Caption_concert_8>{1}의 이름으로 찾아볼 연주회 사진을 남겼다.</MF_Caption_concert_8>
+  <MF_Caption_concert_9>연주회가 진행되던 때의 모습을 앨범에 끼워 두었다.</MF_Caption_concert_9>
+  <MF_Caption_concert_10>{3}의 연주회가 사진으로 남았다. 인물 기록에는 {0}의 이름이 있다.</MF_Caption_concert_10>
+  <MF_Caption_concert_11>이날 {1}의 연주회가 열렸다. 그 자리의 모습을 사진으로 남겼다.</MF_Caption_concert_11>
+  <MF_Caption_concert_12>연주회에 모인 모습을 찍었다. 사진 아래에 모임의 날짜를 적었다.</MF_Caption_concert_12>
+  <MF_Caption_concert_detail_1>{1}의 {5} 연주를 듣는 자리에 사진 한 장을 남겼다.</MF_Caption_concert_detail_1>
+  <MF_Caption_concert_detail_2>{3}에서 열린 연주회를 담았다. 연주자는 {1}, 악기는 {5}였다.</MF_Caption_concert_detail_2>
+  <MF_Caption_concert_detail_3>{1}의 {5} 연주회가 진행되던 때의 모습을 찍었다.</MF_Caption_concert_detail_3>
+  <MF_Caption_concert_detail_4>연주회 사진에는 {1}의 {5} 연주가 담겨 있다.</MF_Caption_concert_detail_4>
+  <MF_Caption_concert_detail_5>{5} 앞의 {1}을 연주회 사진으로 남겼다.</MF_Caption_concert_detail_5>
+  <MF_Caption_concert_detail_6>{2}의 연주회에서 {1}의 {5} 연주를 사진에 담았다.</MF_Caption_concert_detail_6>
+  <MF_Caption_concert_detail_7>{1}의 {5} 연주를 위해 모인 자리의 한때를 담았다.</MF_Caption_concert_detail_7>
+  <MF_Caption_concert_detail_8>사진 아래에 연주자 {1}과 악기 {5}의 이름을 적었다.</MF_Caption_concert_detail_8>
+  <MF_Caption_concert_detail_9>이날의 연주회를 {1}의 {5} 연주 장면으로 기록했다.</MF_Caption_concert_detail_9>
+  <MF_Caption_concert_detail_10>{3}의 연주회 사진에는 {1}의 {5} 연주가 남아 있다.</MF_Caption_concert_detail_10>
+  <MF_Caption_concert_detail_11>음악을 듣는 모임에서 {1}의 {5} 연주 모습을 찍었다.</MF_Caption_concert_detail_11>
+  <MF_Caption_concert_detail_12>{1}의 연주회가 열린 때를 담았다. 이날의 악기는 {5}였다.</MF_Caption_concert_detail_12>
+  <MF_Caption_sky_lanterns_1>풍등을 띄우는 축제에 모인 모습을 사진으로 남겼다.</MF_Caption_sky_lanterns_1>
+  <MF_Caption_sky_lanterns_2>{3}에서 열린 풍등 축제를 담았다.</MF_Caption_sky_lanterns_2>
+  <MF_Caption_sky_lanterns_3>하늘로 풍등을 보내는 축제의 한 장면이 앨범에 남았다.</MF_Caption_sky_lanterns_3>
+  <MF_Caption_sky_lanterns_4>풍등 축제 사진에 {0}의 이름을 함께 적어 두었다.</MF_Caption_sky_lanterns_4>
+  <MF_Caption_sky_lanterns_5>{2}에 풍등 축제가 열렸다. 그 자리의 모습을 찍었다.</MF_Caption_sky_lanterns_5>
+  <MF_Caption_sky_lanterns_6>이날은 풍등을 띄우는 축제가 있었다. 사진 한 장으로 그 모임을 남겼다.</MF_Caption_sky_lanterns_6>
+  <MF_Caption_sky_lanterns_7>풍등 축제가 진행되는 동안의 모습을 담았다.</MF_Caption_sky_lanterns_7>
+  <MF_Caption_sky_lanterns_8>{1}의 이름이 남은 풍등 축제 사진을 앨범에 끼워 두었다.</MF_Caption_sky_lanterns_8>
+  <MF_Caption_sky_lanterns_9>{4}의 이름으로 열린 풍등 축제에서 사진을 남겼다.</MF_Caption_sky_lanterns_9>
+  <MF_Caption_sky_lanterns_10>{3}의 풍등 축제 모습을 날짜와 함께 보관했다.</MF_Caption_sky_lanterns_10>
+  <MF_Caption_sky_lanterns_11>풍등을 위한 모임이 사진으로 남았다. 인물 기록에는 {0}의 이름이 있다.</MF_Caption_sky_lanterns_11>
+  <MF_Caption_sky_lanterns_12>풍등 축제의 한때를 찍었다. 그날의 모임을 다시 찾아볼 한 장이다.</MF_Caption_sky_lanterns_12>
+  <MF_Caption_tree_celebration_1>나무를 중심으로 여는 축제의 모습을 사진에 담았다.</MF_Caption_tree_celebration_1>
+  <MF_Caption_tree_celebration_2>{3}에서 열린 나무 축제에 사진 한 장을 곁들였다.</MF_Caption_tree_celebration_2>
+  <MF_Caption_tree_celebration_3>나무를 기념하는 축제가 진행되던 때를 남겼다.</MF_Caption_tree_celebration_3>
+  <MF_Caption_tree_celebration_4>나무 축제 사진의 명단에는 {0}의 이름이 있다.</MF_Caption_tree_celebration_4>
+  <MF_Caption_tree_celebration_5>{2}의 나무 축제에서 남긴 사진이다.</MF_Caption_tree_celebration_5>
+  <MF_Caption_tree_celebration_6>나무를 위한 모임이 열렸다. 이 사진은 그 모임의 한때를 담고 있다.</MF_Caption_tree_celebration_6>
+  <MF_Caption_tree_celebration_7>나무 축제의 장면을 앨범에 끼워 두었다.</MF_Caption_tree_celebration_7>
+  <MF_Caption_tree_celebration_8>{1}의 이름과 함께 보관할 나무 축제 사진을 남겼다.</MF_Caption_tree_celebration_8>
+  <MF_Caption_tree_celebration_9>{4}의 이름으로 열린 나무 축제를 사진에 담았다.</MF_Caption_tree_celebration_9>
+  <MF_Caption_tree_celebration_10>{3}에서 나무 축제가 열린 모습을 찍었다.</MF_Caption_tree_celebration_10>
+  <MF_Caption_tree_celebration_11>나무 축제를 기록한 사진이다. 함께 남긴 이름은 {0}이다.</MF_Caption_tree_celebration_11>
+  <MF_Caption_tree_celebration_12>나무를 중심에 둔 축제의 한때가 정착지 앨범에 더해졌다.</MF_Caption_tree_celebration_12>
+  <MF_Caption_drum_dance_1>북과 춤을 위한 축제의 한 장면을 사진으로 남겼다.</MF_Caption_drum_dance_1>
+  <MF_Caption_drum_dance_2>{3}에서 열린 드럼 댄스 축제를 담았다.</MF_Caption_drum_dance_2>
+  <MF_Caption_drum_dance_3>북 장단에 맞춰 춤추는 축제가 진행되던 때를 찍었다.</MF_Caption_drum_dance_3>
+  <MF_Caption_drum_dance_4>드럼 댄스 사진에는 {0}의 이름이 함께 남아 있다.</MF_Caption_drum_dance_4>
+  <MF_Caption_drum_dance_5>{2}의 드럼 댄스 축제에서 사진을 남겼다.</MF_Caption_drum_dance_5>
+  <MF_Caption_drum_dance_6>북과 춤이 중심인 모임이 열렸다. 사진 한 장으로 그 자리를 남겼다.</MF_Caption_drum_dance_6>
+  <MF_Caption_drum_dance_7>드럼 댄스 축제가 진행되는 동안의 모습을 앨범에 담았다.</MF_Caption_drum_dance_7>
+  <MF_Caption_drum_dance_8>{1}의 이름을 드럼 댄스 사진에 곁들였다.</MF_Caption_drum_dance_8>
+  <MF_Caption_drum_dance_9>{4}의 이름으로 열린 드럼 댄스 축제를 기록했다.</MF_Caption_drum_dance_9>
+  <MF_Caption_drum_dance_10>{3}의 드럼 댄스 모임을 날짜와 사진으로 남겼다.</MF_Caption_drum_dance_10>
+  <MF_Caption_drum_dance_11>북과 춤을 위한 모임의 사진이다. 인물 명단에는 {0}의 이름이 있다.</MF_Caption_drum_dance_11>
+  <MF_Caption_drum_dance_12>드럼 댄스의 한때를 담은 사진이 정착지 앨범에 더해졌다.</MF_Caption_drum_dance_12>
+  <MF_Caption_tech_dance_1>음악과 춤을 위한 댄스 축제를 사진으로 남겼다.</MF_Caption_tech_dance_1>
+  <MF_Caption_tech_dance_2>{3}에서 열린 테크노 댄스 축제의 모습을 담았다.</MF_Caption_tech_dance_2>
+  <MF_Caption_tech_dance_3>춤을 추기 위해 모인 축제의 한때를 찍었다.</MF_Caption_tech_dance_3>
+  <MF_Caption_tech_dance_4>테크노 댄스 사진의 명단에는 {0}의 이름이 남아 있다.</MF_Caption_tech_dance_4>
+  <MF_Caption_tech_dance_5>{2}의 테크노 댄스 축제를 앨범에 기록했다.</MF_Caption_tech_dance_5>
+  <MF_Caption_tech_dance_6>춤과 음악을 중심으로 한 모임이 열렸다. 이 사진은 그 모임에서 남겼다.</MF_Caption_tech_dance_6>
+  <MF_Caption_tech_dance_7>테크노 댄스 축제가 진행되던 때의 모습을 보관했다.</MF_Caption_tech_dance_7>
+  <MF_Caption_tech_dance_8>{1}의 이름과 함께 찾아볼 테크노 댄스 사진이다.</MF_Caption_tech_dance_8>
+  <MF_Caption_tech_dance_9>{4}의 이름으로 열린 테크노 댄스 축제를 담았다.</MF_Caption_tech_dance_9>
+  <MF_Caption_tech_dance_10>{3}의 댄스 축제에 날짜와 사진 한 장을 남겼다.</MF_Caption_tech_dance_10>
+  <MF_Caption_tech_dance_11>테크노 댄스 모임의 사진에 {0}의 이름을 적어 두었다.</MF_Caption_tech_dance_11>
+  <MF_Caption_tech_dance_12>정착지의 테크노 댄스 축제가 앨범의 한 장면이 되었다.</MF_Caption_tech_dance_12>
+  <MF_Caption_cannibal_feast_1>식인 잔치를 위해 모인 자리의 모습을 남겼다.</MF_Caption_cannibal_feast_1>
+  <MF_Caption_cannibal_feast_2>{3}에서 열린 식인 잔치의 한때를 담았다.</MF_Caption_cannibal_feast_2>
+  <MF_Caption_cannibal_feast_3>인육을 나누기 위한 식인 잔치의 한 장면이 사진으로 남았다.</MF_Caption_cannibal_feast_3>
+  <MF_Caption_cannibal_feast_4>식인 잔치 사진에 함께 기록된 이름은 {0}이다.</MF_Caption_cannibal_feast_4>
+  <MF_Caption_cannibal_feast_5>{2}의 식인 잔치를 사진 한 장으로 기록했다.</MF_Caption_cannibal_feast_5>
+  <MF_Caption_cannibal_feast_6>식인 잔치가 열렸다. 이 사진은 잔치가 진행되는 동안 남겼다.</MF_Caption_cannibal_feast_6>
+  <MF_Caption_cannibal_feast_7>식인 잔치의 한 장면을 정착지 앨범에 보관했다.</MF_Caption_cannibal_feast_7>
+  <MF_Caption_cannibal_feast_8>식인 잔치 사진 옆에 {1}의 이름을 적었다.</MF_Caption_cannibal_feast_8>
+  <MF_Caption_cannibal_feast_9>{4}의 이름으로 열린 식인 잔치에서 사진을 찍었다.</MF_Caption_cannibal_feast_9>
+  <MF_Caption_cannibal_feast_10>{3}의 식인 잔치가 열린 때를 날짜와 함께 남겼다.</MF_Caption_cannibal_feast_10>
+  <MF_Caption_cannibal_feast_11>식인 잔치의 사진을 펼치면 {0}의 이름도 함께 볼 수 있다.</MF_Caption_cannibal_feast_11>
+  <MF_Caption_cannibal_feast_12>식인 잔치가 진행되던 모습을 사진에 담았다. 이날의 모임이 앨범에 더해졌다.</MF_Caption_cannibal_feast_12>
+  <MF_Caption_date_festival_1>사교 축제가 열렸다. 축하 모임의 한 장면을 사진으로 남겼다.</MF_Caption_date_festival_1>
+  <MF_Caption_date_festival_2>{4}의 축하 모임이 진행되던 모습을 앨범에 담았다.</MF_Caption_date_festival_2>
+  <MF_Caption_date_festival_3>{3}에서 열린 사교 축제에 사진 한 장을 남겼다.</MF_Caption_date_festival_3>
+  <MF_Caption_date_festival_4>함께 모여 축하하는 사교 축제의 모습을 찍었다.</MF_Caption_date_festival_4>
+  <MF_Caption_date_festival_5>{2}의 축하 모임이 사진으로 남았다.</MF_Caption_date_festival_5>
+  <MF_Caption_date_festival_6>사교 축제를 위해 모인 자리의 한때를 담았다.</MF_Caption_date_festival_6>
+  <MF_Caption_date_festival_7>{4}의 사교 축제 사진에는 {0}의 이름이 기록되어 있다.</MF_Caption_date_festival_7>
+  <MF_Caption_date_festival_8>축하 모임이 한창일 때의 모습을 앨범에 끼워 두었다.</MF_Caption_date_festival_8>
+  <MF_Caption_date_festival_9>{3}의 사교 축제를 사진으로 기록했다.</MF_Caption_date_festival_9>
+  <MF_Caption_date_festival_10>사교 축제의 모임이 사진으로 남았다. 이 장면은 {4}의 기록이다.</MF_Caption_date_festival_10>
+  <MF_Caption_date_festival_11>사진 아래에 {4}와 모임의 날짜를 적었다.</MF_Caption_date_festival_11>
+  <MF_Caption_date_festival_12>이날의 축하 모임을 사진 한 장으로 남겼다.</MF_Caption_date_festival_12>
+  <MF_Caption_execution_1>공개 처형 의식이 진행되는 동안의 모습을 사진으로 남겼다.</MF_Caption_execution_1>
+  <MF_Caption_execution_2>{3}에서 열린 처형 의식의 한때를 담았다.</MF_Caption_execution_2>
+  <MF_Caption_execution_3>처형을 위한 의식에 모인 모습을 기록했다.</MF_Caption_execution_3>
+  <MF_Caption_execution_4>처형 의식 사진의 인물 명단에는 {0}의 이름이 있다.</MF_Caption_execution_4>
+  <MF_Caption_execution_5>{2}의 처형 의식을 사진 한 장으로 남겼다.</MF_Caption_execution_5>
+  <MF_Caption_execution_6>처형 의식의 한 장면이 정착지 앨범에 더해졌다.</MF_Caption_execution_6>
+  <MF_Caption_execution_7>공개 처형을 위해 마련된 의식의 모습을 담았다.</MF_Caption_execution_7>
+  <MF_Caption_execution_8>{1}의 이름과 함께 남긴 처형 의식 사진이다.</MF_Caption_execution_8>
+  <MF_Caption_execution_9>{4}의 이름으로 진행된 처형 의식을 기록했다.</MF_Caption_execution_9>
+  <MF_Caption_execution_10>{3}의 처형 의식이 열린 때를 날짜와 함께 보관했다.</MF_Caption_execution_10>
+  <MF_Caption_execution_11>처형 의식 사진에 기록된 이름은 {0}이다.</MF_Caption_execution_11>
+  <MF_Caption_execution_12>처형 의식이 열린 날의 한때를 담았다. 이 사진은 의식 도중에 남긴 장면이다.</MF_Caption_execution_12>
+  <MF_Caption_prisoner_sacrifice_1>포로를 제물로 삼는 의식이 진행되는 동안의 모습을 담았다.</MF_Caption_prisoner_sacrifice_1>
+  <MF_Caption_prisoner_sacrifice_2>{3}에서 열린 포로 희생 의식을 사진으로 남겼다.</MF_Caption_prisoner_sacrifice_2>
+  <MF_Caption_prisoner_sacrifice_3>포로 희생 의식에 모인 자리의 한때를 기록했다.</MF_Caption_prisoner_sacrifice_3>
+  <MF_Caption_prisoner_sacrifice_4>포로 희생 의식 사진의 명단에는 {0}의 이름이 있다.</MF_Caption_prisoner_sacrifice_4>
+  <MF_Caption_prisoner_sacrifice_5>{2}의 포로 희생 의식에 사진 한 장을 곁들였다.</MF_Caption_prisoner_sacrifice_5>
+  <MF_Caption_prisoner_sacrifice_6>포로를 제물로 바치는 의식의 한 장면이 앨범에 남았다.</MF_Caption_prisoner_sacrifice_6>
+  <MF_Caption_prisoner_sacrifice_7>포로 희생 의식이 진행되던 때를 찍었다.</MF_Caption_prisoner_sacrifice_7>
+  <MF_Caption_prisoner_sacrifice_8>{1}의 이름이 기록된 포로 희생 의식 사진을 남겼다.</MF_Caption_prisoner_sacrifice_8>
+  <MF_Caption_prisoner_sacrifice_9>{4}의 이름으로 열린 포로 희생 의식을 담았다.</MF_Caption_prisoner_sacrifice_9>
+  <MF_Caption_prisoner_sacrifice_10>{3}의 포로 희생 의식에 날짜와 사진을 남겼다.</MF_Caption_prisoner_sacrifice_10>
+  <MF_Caption_prisoner_sacrifice_11>포로 희생 의식 사진과 함께 {0}의 이름을 보관했다.</MF_Caption_prisoner_sacrifice_11>
+  <MF_Caption_prisoner_sacrifice_12>포로 희생 의식 도중의 모습을 찍었다. 이 한 장이 그날의 기록에 더해졌다.</MF_Caption_prisoner_sacrifice_12>
+  <MF_Caption_animal_sacrifice_1>동물을 제물로 삼는 의식의 한때를 사진으로 남겼다.</MF_Caption_animal_sacrifice_1>
+  <MF_Caption_animal_sacrifice_2>{3}에서 열린 동물 희생 의식을 담았다.</MF_Caption_animal_sacrifice_2>
+  <MF_Caption_animal_sacrifice_3>동물 희생 의식에 모인 모습을 기록했다.</MF_Caption_animal_sacrifice_3>
+  <MF_Caption_animal_sacrifice_4>동물 희생 의식 사진에는 {0}의 이름이 남아 있다.</MF_Caption_animal_sacrifice_4>
+  <MF_Caption_animal_sacrifice_5>{2}의 동물 희생 의식에서 사진을 찍었다.</MF_Caption_animal_sacrifice_5>
+  <MF_Caption_animal_sacrifice_6>동물을 제물로 바치는 의식이 진행되는 동안의 장면을 담았다.</MF_Caption_animal_sacrifice_6>
+  <MF_Caption_animal_sacrifice_7>동물 희생 의식의 한 장면이 정착지 앨범에 더해졌다.</MF_Caption_animal_sacrifice_7>
+  <MF_Caption_animal_sacrifice_8>{1}의 이름과 함께 찾아볼 동물 희생 의식 사진이다.</MF_Caption_animal_sacrifice_8>
+  <MF_Caption_animal_sacrifice_9>{4}의 이름으로 열린 동물 희생 의식을 남겼다.</MF_Caption_animal_sacrifice_9>
+  <MF_Caption_animal_sacrifice_10>{3}의 동물 희생 의식을 날짜와 사진으로 보관했다.</MF_Caption_animal_sacrifice_10>
+  <MF_Caption_animal_sacrifice_11>동물 희생 의식의 사진 곁에 {0}의 이름을 적었다.</MF_Caption_animal_sacrifice_11>
+  <MF_Caption_animal_sacrifice_12>동물 희생 의식이 진행되던 때의 모습을 앨범에 끼워 두었다.</MF_Caption_animal_sacrifice_12>
+  <MF_Caption_scarification_1>몸에 의식의 흉터를 새기기 위해 마련된 자리를 사진으로 남겼다.</MF_Caption_scarification_1>
+  <MF_Caption_scarification_2>{3}에서 열린 흉터 의식의 한때를 담았다.</MF_Caption_scarification_2>
+  <MF_Caption_scarification_3>흉터를 남기는 의식을 위해 모인 모습을 기록했다.</MF_Caption_scarification_3>
+  <MF_Caption_scarification_4>흉터 의식 사진의 명단에는 {0}의 이름이 있다.</MF_Caption_scarification_4>
+  <MF_Caption_scarification_5>{2}의 흉터 의식을 사진 한 장으로 남겼다.</MF_Caption_scarification_5>
+  <MF_Caption_scarification_6>몸에 표식을 새기는 흉터 의식의 한 장면을 담았다.</MF_Caption_scarification_6>
+  <MF_Caption_scarification_7>흉터 의식이 진행되는 동안의 모습이 앨범에 더해졌다.</MF_Caption_scarification_7>
+  <MF_Caption_scarification_8>{1}의 이름과 함께 보관할 흉터 의식 사진이다.</MF_Caption_scarification_8>
+  <MF_Caption_scarification_9>{4}의 이름으로 열린 흉터 의식을 기록했다.</MF_Caption_scarification_9>
+  <MF_Caption_scarification_10>{3}의 흉터 의식을 날짜와 함께 사진으로 남겼다.</MF_Caption_scarification_10>
+  <MF_Caption_scarification_11>흉터 의식 사진에는 {0}의 이름도 함께 적혀 있다.</MF_Caption_scarification_11>
+  <MF_Caption_scarification_12>흉터 의식 도중의 모습을 찍었다. 이날의 의식이 앨범의 한 장면이 되었다.</MF_Caption_scarification_12>
+  <MF_Caption_blinding_1>시력을 바치는 실명 의식이 진행되던 모습을 사진으로 남겼다.</MF_Caption_blinding_1>
+  <MF_Caption_blinding_2>{3}에서 열린 실명 의식의 한때를 담았다.</MF_Caption_blinding_2>
+  <MF_Caption_blinding_3>실명 의식을 위해 모인 자리의 모습을 기록했다.</MF_Caption_blinding_3>
+  <MF_Caption_blinding_4>실명 의식 사진의 인물 명단에는 {0}의 이름이 있다.</MF_Caption_blinding_4>
+  <MF_Caption_blinding_5>{2}의 실명 의식에 사진 한 장을 곁들였다.</MF_Caption_blinding_5>
+  <MF_Caption_blinding_6>시력을 바치는 의식을 위해 열린 모임의 한때가 앨범에 남았다.</MF_Caption_blinding_6>
+  <MF_Caption_blinding_7>실명 의식이 진행되는 동안의 모습을 담았다.</MF_Caption_blinding_7>
+  <MF_Caption_blinding_8>{1}의 이름을 실명 의식의 사진과 함께 남겼다.</MF_Caption_blinding_8>
+  <MF_Caption_blinding_9>{4}의 이름으로 진행된 실명 의식을 기록했다.</MF_Caption_blinding_9>
+  <MF_Caption_blinding_10>{3}의 실명 의식에 날짜와 사진을 남겼다.</MF_Caption_blinding_10>
+  <MF_Caption_blinding_11>실명 의식 사진과 함께 보관된 이름은 {0}이다.</MF_Caption_blinding_11>
+  <MF_Caption_blinding_12>실명 의식이 열린 날의 한때를 찍었다. 이 사진은 의식 도중에 남긴 장면이다.</MF_Caption_blinding_12>
+  <MF_Caption_duel_1>두 사람이 맞서는 결투 의식의 한 장면을 사진으로 남겼다.</MF_Caption_duel_1>
+  <MF_Caption_duel_2>{3}에서 열린 결투 의식을 담았다.</MF_Caption_duel_2>
+  <MF_Caption_duel_3>결투를 위해 모인 자리의 한때를 기록했다.</MF_Caption_duel_3>
+  <MF_Caption_duel_4>결투 의식 사진의 명단에는 {0}의 이름이 있다.</MF_Caption_duel_4>
+  <MF_Caption_duel_5>{2}의 결투 의식을 사진 한 장으로 남겼다.</MF_Caption_duel_5>
+  <MF_Caption_duel_6>의식으로 치르는 결투가 진행되던 모습을 담았다.</MF_Caption_duel_6>
+  <MF_Caption_duel_7>결투 의식의 한 장면이 정착지 앨범에 더해졌다.</MF_Caption_duel_7>
+  <MF_Caption_duel_8>{1}의 이름과 함께 남긴 결투 의식 사진이다.</MF_Caption_duel_8>
+  <MF_Caption_duel_9>{4}의 이름으로 열린 결투 의식을 기록했다.</MF_Caption_duel_9>
+  <MF_Caption_duel_10>{3}의 결투 의식이 열린 때를 날짜와 함께 보관했다.</MF_Caption_duel_10>
+  <MF_Caption_duel_11>결투 의식 사진에 함께 적힌 이름은 {0}이다.</MF_Caption_duel_11>
+  <MF_Caption_duel_12>결투 의식 도중에 사진을 남겼다. 이날의 겨룸이 앨범의 한 장면이 되었다.</MF_Caption_duel_12>
+  <!-- Successful-capture context: 6 verified baby/animal, 7 verified carrier/person. Original complete sentences. -->
+  <MF_PhotoContextFact>{0}. 촬영 명단: {1}.</MF_PhotoContextFact>
+  <MF_Caption_carried_baby_1>{7}의 품에 안긴 {6}의 모습을 사진에 담았다.</MF_Caption_carried_baby_1>
+  <MF_Caption_carried_baby_2>이번 사진에는 {6}의 모습과, 아기를 안고 있는 {7}의 모습이 함께 남았다.</MF_Caption_carried_baby_2>
+  <MF_Caption_carried_baby_3>사진에는 아기 {6}, 아기를 안고 있는 {7}의 모습이 있다.</MF_Caption_carried_baby_3>
+  <MF_Caption_carried_baby_4>한 장에 {7}의 모습과 품에 안긴 {6}의 모습을 함께 남겼다.</MF_Caption_carried_baby_4>
+  <MF_Caption_carried_baby_5>{6}의 사진에는 아기를 안고 있는 {7}의 이름도 함께 적었다.</MF_Caption_carried_baby_5>
+  <MF_Caption_carried_baby_6>아기 {6}의 모습은 {7}의 품에 안긴 채로 사진에 남았다.</MF_Caption_carried_baby_6>
+  <MF_Caption_carried_baby_7>{7}에게 안겨 있는 {6}의 모습을 한 장으로 남겼다.</MF_Caption_carried_baby_7>
+  <MF_Caption_carried_baby_8>이 사진에는 아기 {6}, 그리고 아기를 안고 있는 {7}의 모습이 담겨 있다.</MF_Caption_carried_baby_8>
+  <MF_Caption_carried_baby_9>아기를 안은 {7}의 모습과 품에 안긴 {6}의 모습을 함께 찍었다.</MF_Caption_carried_baby_9>
+  <MF_Caption_carried_baby_10>사진에 남긴 {6}의 모습은 {7}에게 안겨 있는 모습이다.</MF_Caption_carried_baby_10>
+  <MF_Caption_carried_baby_11>{7}의 품에 안긴 아기 {6}도 이 사진의 촬영 명단에 있다.</MF_Caption_carried_baby_11>
+  <MF_Caption_carried_baby_12>{6}의 모습을 남긴 한 장에 아기를 안고 있는 {7}의 모습도 함께 담았다.</MF_Caption_carried_baby_12>
+  <MF_Caption_animal_pair_1>{6}, {7}. 같은 사진에 담긴 모습.</MF_Caption_animal_pair_1>
+  <MF_Caption_animal_pair_2>{7}의 사진에 {6}도 함께 들어왔다.</MF_Caption_animal_pair_2>
+  <MF_Caption_animal_pair_3>사람과 동물이 함께 남긴 한 장. {7}, {6}.</MF_Caption_animal_pair_3>
+  <MF_Caption_animal_pair_4>{6}도 빠지지 않은 이날의 사진.</MF_Caption_animal_pair_4>
+  <MF_Caption_animal_pair_5>{7}의 모습과 {6}의 모습을 나란히 돌아볼 수 있는 한 장이다.</MF_Caption_animal_pair_5>
+  <MF_Caption_animal_pair_6>{7}의 곁에는 {6}. 이때의 모습을 함께 남겼다.</MF_Caption_animal_pair_6>
+  <MF_Caption_animal_pair_7>{3}에서 함께 사진에 담긴 {6}, {7}.</MF_Caption_animal_pair_7>
+  <MF_Caption_animal_pair_8>{7}, {6}. 함께 있던 때의 모습.</MF_Caption_animal_pair_8>
+  <MF_Caption_animal_pair_9>사진 속에 함께 있는 두 이름, {6} 그리고 {7}.</MF_Caption_animal_pair_9>
+  <MF_Caption_animal_pair_10>{2}의 사진. {7}의 모습과 {6}의 모습이 함께 보인다.</MF_Caption_animal_pair_10>
+  <MF_Caption_animal_pair_11>{6}의 모습까지 함께 남기기로 한 사진.</MF_Caption_animal_pair_11>
+  <MF_Caption_animal_pair_12>나중에 돌아볼 이때의 {7}, 그리고 함께 담긴 {6}.</MF_Caption_animal_pair_12>
+</LanguageData>

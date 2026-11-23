@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_HtmlExport_Working>사진 기록을 HTML로 묶고 있어요.</MF_HtmlExport_Working>
+  <MF_HtmlExport_Failed>HTML 내보내기를 마치지 못했습니다. 기존 사진은 그대로 보관되어 있습니다.</MF_HtmlExport_Failed>
+</LanguageData>

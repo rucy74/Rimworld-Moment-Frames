@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Records_On>켜짐</MF_Records_On>
+  <MF_Records_Off>꺼짐</MF_Records_Off>
+  <MF_Records_WorldDisplayHint>Moment Frames 세계지도 표시\n사진: {0} · 첫 방문 순서선: {1}\n선은 모든 일행의 발견 순서이며 실제 이동 경로가 아니에요.\n클릭하면 각각 켜고 끌 수 있어요. 방문 기록과 자동 촬영은 유지돼요.</MF_Records_WorldDisplayHint>
+  <MF_Records_AllPlaces>모든 장소</MF_Records_AllPlaces>
+  <MF_Records_ThisPlace>이 장소만</MF_Records_ThisPlace>
+  <MF_Records_PlaceFilterHint>이 장소의 사진 또는 해당 시기에 찍힌 모든 장소의 사진을 볼 수 있어요. 전체 전경과 네 구역은 위에 따로 표시돼요.</MF_Records_PlaceFilterHint>
+  <MF_Records_PeriodScope>{0} · {1} · 사진 {2}장</MF_Records_PeriodScope>
+  <MF_Records_UnnamedPlace>이름이 남아 있지 않은 장소 #{0}</MF_Records_UnnamedPlace>
+  <MF_Records_Library>도서관</MF_Records_Library>
+</LanguageData>

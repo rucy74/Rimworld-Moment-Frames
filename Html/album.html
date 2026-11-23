@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Album</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@400;500&display=swap">
+<style>
+/* Moment Frames album — a leather-bound book of the colony's photographs. Works offline (the fonts fall back to the system's). */
+:root{
+  --leather:#2a1b12; --leather2:#3b271a; --gold:#d9b46a; --gold2:#f3dc9f; --paper:#f7f1e3; --ink:#3a2a1c; --ink2:#7a6448;
+  --serif:"Gowun Batang","Batang",Georgia,serif; --hand:"Nanum Pen Script","Segoe Print",cursive; --sans:"Noto Sans KR","Malgun Gothic","Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;color:#ecdcc0;font-family:var(--sans);min-height:100vh;
+  background:
+    radial-gradient(1200px 600px at 50% -10%,rgba(255,200,120,.10),transparent 60%),
+    radial-gradient(900px 900px at 110% 120%,rgba(0,0,0,.55),transparent 60%),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.2  0 0 0 0 0.12  0 0 0 0 0.07  0 0 0 .55 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>"),
+    linear-gradient(160deg,var(--leather2),var(--leather) 55%,#1c120b);
+  background-attachment:fixed}
+a{color:inherit}
+
+/* ---------- cover ---------- */
+.cover{position:relative;margin:36px auto 0;max-width:1180px;padding:56px 48px 44px;border-radius:14px;
+  background:linear-gradient(145deg,#4a3020,#2d1d13);box-shadow:0 30px 60px rgba(0,0,0,.55),inset 0 0 0 1px rgba(255,220,160,.08),inset 0 0 90px rgba(0,0,0,.45);overflow:hidden}
+.cover:before{content:"";position:absolute;inset:14px;border:1.5px solid rgba(217,180,106,.45);border-radius:9px;pointer-events:none}
+.cover:after{content:"";position:absolute;inset:20px;border:1px dashed rgba(217,180,106,.22);border-radius:7px;pointer-events:none}
+.cover .inner{position:relative;display:grid;grid-template-columns:1.2fr 1fr;gap:30px;align-items:center}
+.cover .kicker{font-family:var(--serif);letter-spacing:.35em;font-size:13px;color:var(--gold);text-transform:uppercase;opacity:.85}
+.cover h1{margin:10px 0 6px;font-family:var(--serif);font-weight:700;font-size:clamp(34px,5vw,58px);line-height:1.1;
+  background:linear-gradient(180deg,var(--gold2),var(--gold) 55%,#a67c34);-webkit-background-clip:text;background-clip:text;color:transparent;
+  text-shadow:0 2px 0 rgba(0,0,0,.25)}
+.cover .range{font-family:var(--serif);color:#e6d2ad;font-size:17px}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.stat{padding:8px 14px;border-radius:999px;background:rgba(0,0,0,.28);border:1px solid rgba(217,180,106,.35);font-size:14px}
+.stat b{color:var(--gold2);font-weight:500}
+.fan{position:relative;height:250px}
+.fan .pc{position:absolute;width:62%;left:19%;top:12px;background:var(--paper);padding:9px 9px 26px;box-shadow:0 14px 28px rgba(0,0,0,.5);border-radius:2px}
+.fan .pc img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block}
+.fan .pc:nth-child(1){transform:rotate(-9deg) translate(-22%,6%)}
+.fan .pc:nth-child(2){transform:rotate(7deg) translate(22%,4%)}
+.fan .pc:nth-child(3){transform:rotate(-1deg) translate(0,-4%)}
+
+/* ---------- navigation ---------- */
+nav{position:sticky;top:0;z-index:5;margin:26px auto 0;max-width:1180px;padding:12px 18px;display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;
+  background:rgba(28,18,11,.82);backdrop-filter:blur(8px);border:1px solid rgba(217,180,106,.18);border-radius:12px}
+nav .years a{display:inline-block;margin-right:6px;padding:4px 10px;border-radius:6px;text-decoration:none;font-family:var(--serif);color:var(--gold2);border:1px solid rgba(217,180,106,.28)}
+nav .years a:hover{background:rgba(217,180,106,.14)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{cursor:pointer;padding:5px 11px;border-radius:999px;font-size:13px;border:1px solid rgba(236,220,192,.22);background:rgba(255,255,255,.04);color:#ecdcc0;user-select:none}
+.chip.on{background:var(--gold);color:#2a1b12;border-color:var(--gold)}
+nav select,nav button{font:inherit;font-size:13px;color:#ecdcc0;background:#3a2719;border:1px solid rgba(217,180,106,.35);border-radius:8px;padding:6px 10px;cursor:pointer}
+nav .grow{flex:1}
+
+/* ---------- chapters ---------- */
+main{max-width:1180px;margin:0 auto;padding:10px 18px 60px}
+.chapter{margin-top:54px;scroll-margin-top:80px}
+.chapter h2{display:flex;align-items:baseline;gap:16px;margin:0 0 26px;font-family:var(--serif);font-weight:700;color:var(--gold2)}
+.chapter h2 .yr{font-size:46px;line-height:1}
+.chapter h2 .cnt{font-size:15px;color:#c9ad7d;font-weight:400}
+.chapter h2:after{content:"";flex:1;height:1px;background:linear-gradient(90deg,rgba(217,180,106,.6),transparent)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:40px 30px}
+@media (min-width:760px){.card.big{grid-column:span 2}}
+
+/* ---------- polaroid cards ---------- */
+.card{margin:0;position:relative;background:var(--paper);color:var(--ink);padding:12px 12px 16px;border-radius:2px;cursor:zoom-in;
+  transform:rotate(var(--t));box-shadow:0 2px 0 rgba(0,0,0,.06),0 14px 26px rgba(0,0,0,.45);transition:transform .18s ease,box-shadow .18s ease}
+.card:hover{transform:rotate(0) translateY(-4px) scale(1.02);box-shadow:0 24px 40px rgba(0,0,0,.55);z-index:2}
+.card:before{content:"";position:absolute;top:-13px;left:50%;width:96px;height:26px;transform:translateX(-50%) rotate(var(--tape));
+  background:var(--tapec);box-shadow:0 1px 3px rgba(0,0,0,.18);opacity:.82;mask:linear-gradient(90deg,transparent 0 3px,#000 3px calc(100% - 3px),transparent 0)}
+.card .ph{position:relative;background:#222;overflow:hidden}
+.card .ph img{width:100%;display:block;aspect-ratio:var(--ar);object-fit:cover;filter:saturate(1.03) contrast(1.02)}
+.card .ph:after{content:"";position:absolute;inset:0;box-shadow:inset 0 0 22px rgba(0,0,0,.35);pointer-events:none}
+.card .title{margin:12px 2px 2px;font-family:var(--hand);font-size:25px;line-height:1.08;color:#2d2014}
+.card .meta{display:flex;gap:6px;align-items:center;margin:4px 2px 0;font-size:12px;color:var(--ink2)}
+.card .people{display:flex;flex-wrap:wrap;gap:4px;margin:8px 2px 0}
+.card .people span{font-size:11px;padding:2px 7px;border-radius:999px;background:#ece2cc;color:#5a4630}
+.card .desc{margin:9px 2px 0;font-family:var(--serif);font-size:13px;line-height:1.5;color:#4a3a2a;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card.big .title{font-size:31px}
+.ribbon{position:absolute;z-index:3;top:18px;right:-7px;padding:4px 12px 4px 14px;font-size:12px;font-weight:500;color:#3a2410;
+  background:linear-gradient(180deg,var(--gold2),var(--gold));box-shadow:0 3px 6px rgba(0,0,0,.35)}
+.ribbon:after{content:"";position:absolute;right:0;bottom:-7px;border:3.5px solid #8a6326;border-right-color:transparent;border-bottom-color:transparent}
+.hidden{display:none!important}
+
+/* ---------- lightbox ---------- */
+#lb{position:fixed;inset:0;z-index:20;display:none;align-items:center;justify-content:center;background:rgba(10,6,3,.82);backdrop-filter:blur(10px)}
+#lb.on{display:flex}
+#lb .frame{max-width:min(1200px,92vw);background:var(--paper);padding:16px 16px 18px;border-radius:3px;box-shadow:0 30px 80px rgba(0,0,0,.7);color:var(--ink)}
+#lb img{display:block;max-width:100%;max-height:70vh;margin:0 auto}
+#lb .cap{display:flex;justify-content:space-between;gap:20px;margin-top:12px;align-items:flex-start}
+#lb .t{font-family:var(--hand);font-size:32px;line-height:1}
+#lb .s{font-size:13px;color:var(--ink2);margin-top:6px}
+#lb .d{font-family:var(--serif);font-size:14px;margin-top:8px;max-width:760px;white-space:pre-line;color:#4a3a2a}
+#lb .n{font-family:var(--serif);color:var(--ink2);white-space:nowrap}
+#lb .nav{position:fixed;top:50%;transform:translateY(-50%);font-size:34px;width:58px;height:58px;border-radius:50%;border:none;background:rgba(255,255,255,.1);color:#f3e6cc;cursor:pointer}
+#lb .nav:hover{background:rgba(255,255,255,.2)}
+#lb .prev{left:22px}#lb .next{right:22px}
+#lb .bar{position:fixed;top:18px;right:22px;display:flex;gap:8px}
+#lb .bar button{font:inherit;background:rgba(255,255,255,.1);border:none;color:#f3e6cc;border-radius:8px;padding:8px 12px;cursor:pointer}
+
+footer{max-width:1180px;margin:30px auto 40px;padding:0 18px;color:#9c8566;font-size:12px;text-align:center;font-family:var(--serif)}
+@media print{body{background:#fff;color:#000}nav,#lb{display:none!important}.cover{box-shadow:none}.card{break-inside:avoid;box-shadow:none;border:1px solid #ccc}}
+</style>
+</head>
+<body>
+<header class="cover"><div class="inner"><div>
+  <div class="kicker" id="kicker"></div>
+  <h1 id="title"></h1>
+  <div class="range" id="range"></div>
+  <div class="stats" id="stats"></div>
+</div><div class="fan" id="fan"></div></div></header>
+<nav>
+  <div class="years" id="years"></div>
+  <div class="chips" id="chips"></div>
+  <div class="grow"></div>
+  <select id="person"></select>
+  <button id="play"></button>
+</nav>
+<main id="main"></main>
+<footer id="foot"></footer>
+<div id="lb"><div class="bar"><button id="lbplay"></button><button id="lbx">&times;</button></div>
+  <button class="nav prev" id="lbp">&#8249;</button><button class="nav next" id="lbn">&#8250;</button>
+  <div class="frame"><img id="lbi" alt=""><div class="cap"><div><div class="t" id="lbt"></div><div class="s" id="lbs"></div><div class="d" id="lbd"></div></div><div class="n" id="lbc"></div></div></div></div>
+<script>
+var MF = /*MF_DATA*/{"colony":"Sample","L":{},"photos":[]}/*MF_END*/;
+(function(){
+  var L = MF.L || {}, P = MF.photos || [];
+  function tr(k, a){ var s = L[k] || k; if (a) for (var i = 0; i < a.length; i++) s = s.split('{' + i + '}').join(a[i]); return s; }
+  function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  var TAPES = ['rgba(236,196,126,.85)','rgba(162,196,178,.85)','rgba(214,160,160,.85)','rgba(170,182,214,.85)','rgba(226,214,150,.85)'];
+  document.title = tr('title', [MF.colony]);
+  document.getElementById('kicker').textContent = tr('kicker');
+  document.getElementById('title').textContent = tr('title', [MF.colony]);
+  document.getElementById('range').textContent = P.length ? P[0].dl + '  —  ' + P[P.length - 1].dl : '';
+  var people = {}; P.forEach(function(p){ (p.p || []).forEach(function(n){ people[n] = (people[n] || 0) + 1; }); });
+  var years = []; P.forEach(function(p){ if (years.indexOf(p.y) < 0) years.push(p.y); });
+  var st = document.getElementById('stats');
+  // "{0}" in each label is where the number goes, in bold (Korean counters follow the number: 사진 11장)
+  [[P.length, tr('statPhotos')], [Object.keys(people).length, tr('statPeople')], [years.length, tr('statYears')], [P.filter(function(p){ return p.m; }).length, tr('statMilestones')]]
+    .forEach(function(s){ var c = el('span', 'stat'), parts = s[1].split('{0}'); c.appendChild(document.createTextNode(parts[0])); c.appendChild(el('b', null, String(s[0]))); if (parts[1]) c.appendChild(document.createTextNode(parts[1])); st.appendChild(c); });
+  // the cover: the three latest milestones (or photos), fanned
+  var fanSrc = P.filter(function(p){ return p.m; }).slice(-3); if (fanSrc.length < 3) fanSrc = P.slice(-3);
+  var fan = document.getElementById('fan'); fanSrc.forEach(function(p){ var c = el('div', 'pc'); var i = el('img'); i.src = p.f; i.alt = ''; c.appendChild(i); fan.appendChild(c); });
+  // chapters by year
+  var main = document.getElementById('main'), cards = [];
+  years.forEach(function(y){
+    var list = P.filter(function(p){ return p.y === y; });
+    var sec = el('section', 'chapter'); sec.id = 'y' + y;
+    var h = el('h2'); h.appendChild(el('span', 'yr', list[0].yl)); h.appendChild(el('span', 'cnt', tr('chapterCount', [String(list.length)]))); sec.appendChild(h);
+    var g = el('div', 'grid');
+    list.forEach(function(p){
+      var idx = P.indexOf(p), c = el('figure', 'card' + (p.m ? ' big' : ''));
+      c.style.setProperty('--t', ((idx * 37 % 9) - 4) * 0.45 + 'deg');
+      c.style.setProperty('--tape', ((idx * 53 % 11) - 5) + 'deg');
+      c.style.setProperty('--tapec', TAPES[idx % TAPES.length]);
+      c.style.setProperty('--ar', p.m ? '16/9' : String(Math.max(1, Math.min(1.8, p.a || 1.5))));
+      if (p.m) c.appendChild(el('div', 'ribbon', tr('milestone')));
+      var ph = el('div', 'ph'), img = el('img'); img.loading = 'lazy'; img.src = p.f; img.alt = p.t; ph.appendChild(img); c.appendChild(ph);
+      c.appendChild(el('div', 'title', p.t));
+      c.appendChild(el('div', 'meta', (p.e ? p.e + '  ' : '') + p.kl + ' · ' + p.dl));
+      if (p.p && p.p.length) { var pp = el('div', 'people'); p.p.slice(0, 8).forEach(function(n){ pp.appendChild(el('span', null, n)); }); if (p.p.length > 8) pp.appendChild(el('span', null, '+' + (p.p.length - 8))); c.appendChild(pp); }
+      if (p.d) c.appendChild(el('div', 'desc', p.d));
+      c.onclick = function(){ show(idx); };
+      c.dataset.k = p.k; c.dataset.people = '|' + (p.p || []).join('|') + '|';
+      g.appendChild(c); cards.push({ el: c, p: p, sec: sec });
+    });
+    sec.appendChild(g); main.appendChild(sec);
+    var a = el('a', null, list[0].yl); a.href = '#y' + y; document.getElementById('years').appendChild(a);
+  });
+  // filters: kind chips and a person
+  var kinds = [], fk = null, fp = '';
+  P.forEach(function(p){ if (!kinds.some(function(k){ return k.k === p.k; })) kinds.push({ k: p.k, l: p.kl, e: p.e }); });
+  var chips = document.getElementById('chips');
+  function chip(label, key){ var c = el('span', 'chip' + (key === fk ? ' on' : ''), label); c.onclick = function(){ fk = key; renderChips(); apply(); }; return c; }
+  function renderChips(){ chips.innerHTML = ''; chips.appendChild(chip(tr('all'), null)); kinds.forEach(function(k){ chips.appendChild(chip((k.e ? k.e + ' ' : '') + k.l, k.k)); }); }
+  renderChips();
+  var sel = document.getElementById('person'); sel.appendChild(new Option(tr('everyone'), ''));
+  Object.keys(people).sort().forEach(function(n){ sel.appendChild(new Option(n + ' (' + people[n] + ')', n)); });
+  sel.onchange = function(){ fp = sel.value; apply(); };
+  function visible(c){ return (!fk || c.p.k === fk) && (!fp || (c.p.p || []).indexOf(fp) >= 0); }
+  function apply(){
+    cards.forEach(function(c){ c.el.classList.toggle('hidden', !visible(c)); });
+    document.querySelectorAll('.chapter').forEach(function(s){ s.classList.toggle('hidden', !s.querySelector('.card:not(.hidden)')); });
+  }
+  // lightbox and slideshow, over the photos that pass the filters
+  var cur = 0, tm = null, lb = document.getElementById('lb');
+  function order(){ return cards.filter(visible).map(function(c){ return P.indexOf(c.p); }); }
+  function show(i){ cur = i; var p = P[i], o = order(); document.getElementById('lbi').src = p.f; document.getElementById('lbt').textContent = p.t;
+    document.getElementById('lbs').textContent = (p.e ? p.e + '  ' : '') + p.kl + ' · ' + p.dl + (p.p && p.p.length ? ' · ' + p.p.join(', ') : '');
+    document.getElementById('lbd').textContent = p.d || ''; document.getElementById('lbc').textContent = (o.indexOf(i) + 1) + ' / ' + o.length; lb.classList.add('on'); }
+  function go(d){ var o = order(); if (!o.length) return; var k = o.indexOf(cur); show(o[(k + d + o.length) % o.length]); }
+  function hide(){ lb.classList.remove('on'); stop(); }
+  function play(){ if (tm) { stop(); return; } if (!lb.classList.contains('on')) { var o = order(); if (!o.length) return; show(o[0]); } tm = setInterval(function(){ go(1); }, 3500); label(); }
+  function stop(){ if (tm) clearInterval(tm); tm = null; label(); }
+  function label(){ var t = tm ? '⏸ ' + tr('pause') : '▶ ' + tr('slideshow'); document.getElementById('play').textContent = t; document.getElementById('lbplay').textContent = t; }
+  label();
+  document.getElementById('play').onclick = play; document.getElementById('lbplay').onclick = play;
+  document.getElementById('lbx').onclick = hide; document.getElementById('lbp').onclick = function(){ go(-1); }; document.getElementById('lbn').onclick = function(){ go(1); };
+  lb.onclick = function(e){ if (e.target === lb) hide(); };
+  document.addEventListener('keydown', function(e){ if (!lb.classList.contains('on')) return; if (e.key === 'ArrowRight') go(1); else if (e.key === 'ArrowLeft') go(-1); else if (e.key === 'Escape') hide(); else if (e.key === ' ') { e.preventDefault(); play(); } });
+  var tx = null; lb.addEventListener('touchstart', function(e){ tx = e.touches[0].clientX; }); lb.addEventListener('touchend', function(e){ if (tx == null) return; var dx = e.changedTouches[0].clientX - tx; if (Math.abs(dx) > 50) go(dx < 0 ? 1 : -1); tx = null; });
+  document.getElementById('foot').textContent = tr('footer', [MF.made || '']);
+})();
+</script>
+</body>
+</html>

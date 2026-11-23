@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Why_OtherGathering>다른 모임 참여 중</MF_Why_OtherGathering>
+  <MF_Why_Surgery>수술 중</MF_Why_Surgery>
+  <MF_Why_MedicalRest>치료를 위해 쉬는 중</MF_Why_MedicalRest>
+  <MF_Why_Starving>굶주림</MF_Why_Starving>
+  <MF_Why_Bleeding>출혈</MF_Why_Bleeding>
+  <MF_Why_BloodLoss>혈액 손실</MF_Why_BloodLoss>
+  <MF_Why_Exhausted>탈진</MF_Why_Exhausted>
+  <MF_Why_Treatment>치료 필요</MF_Why_Treatment>
+  <MF_Why_Labor>분만 중</MF_Why_Labor>
+  <MF_Why_Emergency>긴급 작업 중</MF_Why_Emergency>
+  <MF_Why_Unavailable>지금 참여할 수 없음</MF_Why_Unavailable>
+  <MF_GroupBabyNoGuardian>{0}: 지금 안고 올 보호자가 없습니다. 다른 성인이 참여할 수 있을 때 선택해주세요.</MF_GroupBabyNoGuardian>
+  <MF_GroupBabyNoGuardianShort>보호자 필요</MF_GroupBabyNoGuardianShort>
+  <MF_GroupBabySharedGuardian>{0}: 한 번에 아기 한 명만 안을 수 있습니다.</MF_GroupBabySharedGuardian>
+  <MF_GroupBabyWithGuardian>안아줄 사람: {0}</MF_GroupBabyWithGuardian>
+  <MF_GroupBabyGuardianRequired>아기 보호자 (필수)</MF_GroupBabyGuardianRequired>
+  <MF_GroupBabySelectHelp>아기를 선택하면 안아줄 보호자도 함께 참여합니다. 아기 한 명마다 보호자 한 명이 필요합니다.</MF_GroupBabySelectHelp>
+  <MF_GroupBabyReady>모두 모이면 자동으로 찍고 해산해요. 보호자는 아기를 안전한 자리로 데려다줘요.</MF_GroupBabyReady>
+  <MF_PhotoMissingSubject>필수 참석자가 사진에 모두 담기지 않았습니다. 촬영 구도와 참석자를 확인해주세요.</MF_PhotoMissingSubject>
+</LanguageData>

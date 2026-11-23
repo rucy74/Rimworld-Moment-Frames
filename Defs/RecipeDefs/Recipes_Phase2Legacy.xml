@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- RecipeDefGenerator's former MF_Projector recipeMaker produced exactly this name.
+       Keep saved bills/unfinished sculptures valid; no recipeUsers means no new sculpting-table menu entry.
+       WorkAmount=-1 preserves the product's WorkToMake fallback, including stuff work multipliers. -->
+  <RecipeDef>
+    <defName>Make_MF_Projector</defName>
+    <label>make slide projector</label>
+    <description>Make a slide projector. This legacy recipe remains for existing saved bills; new projectors are built from Misc.</description>
+    <jobString>Making slide projector.</jobString>
+    <workAmount>-1</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Artistic</workSkill>
+    <workSkillLearnFactor>1</workSkillLearnFactor>
+    <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+    <effectWorking>Sculpt</effectWorking>
+    <soundWorking>Recipe_Sculpt</soundWorking>
+    <ingredients>
+      <li>
+        <filter><allowAllWhoCanMake><li>MF_Projector</li></allowAllWhoCanMake></filter>
+        <count>35</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter><allowAllWhoCanMake><li>MF_Projector</li></allowAllWhoCanMake></fixedIngredientFilter>
+    <defaultIngredientFilter><categories><li>Root</li></categories></defaultIngredientFilter>
+    <products><MF_Projector>1</MF_Projector></products>
+    <productHasIngredientStuff>true</productHasIngredientStuff>
+    <useIngredientsForColor>true</useIngredientsForColor>
+    <targetCountAdjustment>1</targetCountAdjustment>
+  </RecipeDef>
+</Defs>

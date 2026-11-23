@@ -1,0 +1,60 @@
+[
+  {
+    "file": "family.jpg",
+    "source": "runs/guide-assets-20261026-16-current/default-group-result.png",
+    "source_sha256": "8bdfd4124fa6b09ca5babcc733129c30f321a58846ab8b174f305205b281ee8e",
+    "sha256": "b5d50ada8ffb3c1e2363b15c778dc130825b04b90a2ef52b510535353d60a950",
+    "crop": null,
+    "dimensions": [
+      2112,
+      1344
+    ],
+    "kind": "actual saved photograph"
+  },
+  {
+    "file": "birthday.jpg",
+    "source": "runs/studio-followup-2026-10-23/matrix16final/matrix-birthday.png",
+    "sha256": "a008a9a1e10acf9622229f5550308b3fcfbef3ec9f18ed99876181d1db1a6866",
+    "kind": "actual saved photograph or captured screen"
+  },
+  {
+    "file": "display.jpg",
+    "source": "runs/shots18/show-wall.png",
+    "sha256": "4e43f71558cc0a46e36bdf4a9e6a529d632226de3acd1fd91e057882d15ea3c8",
+    "kind": "native screenshot lossless crop",
+    "source_sha256": "36024b0be279c1bf120b01835e06e6a53d1a013e247d15372b8d982aa7ef06fa",
+    "crop": [
+      50,
+      165,
+      1650,
+      815
+    ],
+    "dimensions": [
+      1600,
+      650
+    ]
+  },
+  {
+    "file": "projector.jpg",
+    "source": "runs/guide-assets-20261026-16-current/projector-real-photo.png",
+    "source_sha256": "e028c2168981ad12d47211f35e44093df677825097799af06c175f67a8a28ddd",
+    "sha256": "e5494978690b64d1cbf3acfd9e973b75f18ce8895753e3d0980be82683d28fb4",
+    "crop": [
+      515,
+      90,
+      1085,
+      535
+    ],
+    "dimensions": [
+      570,
+      445
+    ],
+    "kind": "native screenshot lossless crop"
+  },
+  {
+    "file": "export.jpg",
+    "source": "runs/workshop-v6/html-opening.png",
+    "sha256": "5538716ce5fb21cee0ec22026925602e308eafb6e4ff3017e664513a9b3234d8",
+    "kind": "actual saved photograph or captured screen"
+  }
+]

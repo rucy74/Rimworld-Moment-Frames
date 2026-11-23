@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>환등기 제작</Make_MF_Projector.label>
+  <Make_MF_Projector.description>환등기를 제작합니다. 기존 저장에 남은 제작 주문을 위한 호환 정의이며, 새 환등기는 기타 메뉴에서 건설합니다.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>환등기를 제작 중.</Make_MF_Projector.jobString>
+</LanguageData>

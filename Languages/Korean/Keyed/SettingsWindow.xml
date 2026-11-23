@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Settings_Title>Moment Frames 설정</MF_Settings_Title>
+  <MF_Settings_Search>설정 검색</MF_Settings_Search>
+  <MF_Settings_SearchResults>모든 분류에서 {0}개를 찾았어요.</MF_Settings_SearchResults>
+  <MF_Settings_NoResults>일치하는 설정이 없어요. 다른 단어로 찾아보세요.</MF_Settings_NoResults>
+  <MF_Settings_ExpandAll>모두 펼치기</MF_Settings_ExpandAll>
+  <MF_Settings_CollapseAll>모두 접기</MF_Settings_CollapseAll>
+  <MF_Settings_On>켜기</MF_Settings_On>
+  <MF_Settings_Off>끄기</MF_Settings_Off>
+  <MF_Settings_Example>예시 보기</MF_Settings_Example>
+  <MF_Settings_ExampleClose>예시 접기</MF_Settings_ExampleClose>
+  <MF_Settings_AutoCapture>자동 촬영</MF_Settings_AutoCapture>
+  <MF_Settings_AutoCaptureHelp>선택한 사건이 생기면 자동으로 사진을 남기거나 생일 촬영을 제안합니다. 꺼도 직접 촬영과 직접 부르는 단체 사진은 계속 쓸 수 있어요.</MF_Settings_AutoCaptureHelp>
+  <MF_Settings_ManualOnly>직접 촬영만</MF_Settings_ManualOnly>
+  <MF_Settings_AutoDisabled>자동 촬영이 꺼져 있어요. 아래 선택은 보관되며 다시 켜면 그대로 적용됩니다.</MF_Settings_AutoDisabled>
+  <MF_Settings_EnabledCount>{0}/{1} 켜짐</MF_Settings_EnabledCount>
+  <MF_Settings_StoredChoices>선택 보관됨</MF_Settings_StoredChoices>
+  <MF_Settings_Presets>남길 순간의 양</MF_Settings_Presets>
+  <MF_Settings_PresetImportant>주요 순간</MF_Settings_PresetImportant>
+  <MF_Settings_PresetNormal>보통</MF_Settings_PresetNormal>
+  <MF_Settings_PresetRich>풍성하게</MF_Settings_PresetRich>
+  <MF_Settings_PresetCustom>맞춤 설정</MF_Settings_PresetCustom>
+  <MF_Settings_PresetDefault>현재 기본</MF_Settings_PresetDefault>
+  <MF_Settings_PresetUndo>마지막 단계 선택 되돌리기</MF_Settings_PresetUndo>
+  <MF_Settings_PresetImportantHint>큰 사건과 이정표 중심. 생일은 5년마다, 전투는 종류별 첫 기록.</MF_Settings_PresetImportantHint>
+  <MF_Settings_PresetNormalHint>일상보다 사건 중심. 생일은 2년마다, 첫 전투와 힘든 싸움.</MF_Settings_PresetNormalHint>
+  <MF_Settings_PresetRichHint>현재 기본값. 매년 생일과 파티·하늘 현상·전설 제작도 함께.</MF_Settings_PresetRichHint>
+  <MF_Settings_PresetHelp>촬영할 사건과 간격만 바꿉니다. 생일 촬영 방식·동행, 연출·앨범·추억·저장 설정은 유지해요.</MF_Settings_PresetHelp>
+  <MF_Settings_BirthdayDisabled>생일 사진을 켜면 선택할 수 있어요.</MF_Settings_BirthdayDisabled>
+  <MF_Settings_RecruitDisabled>정착민 영입 촬영을 켜면 선택할 수 있어요.</MF_Settings_RecruitDisabled>
+  <MF_Settings_FadeDisabled>액자 사진 바램을 켜면 선택할 수 있어요.</MF_Settings_FadeDisabled>
+  <MF_Settings_RitualDisabled>종교 의식 촬영을 켜면 적용됩니다.</MF_Settings_RitualDisabled>
+  <MF_Settings_UnitYears>년</MF_Settings_UnitYears>
+  <MF_Settings_UnitCells>칸</MF_Settings_UnitCells>
+  <MF_Settings_UnitPixels>px/칸</MF_Settings_UnitPixels>
+  <MF_Settings_UnitZoom>배</MF_Settings_UnitZoom>
+  <MF_Settings_UnitSeconds>초</MF_Settings_UnitSeconds>
+  <MF_Settings_AlbumPreview>앨범 미리보기</MF_Settings_AlbumPreview>
+  <MF_Settings_PreviewTitle>우리 정착지의 기억들</MF_Settings_PreviewTitle>
+  <MF_Settings_PreviewBody>함께한 날들을 한 장씩 모았습니다.</MF_Settings_PreviewBody>
+  <MF_Settings_PreviewCaption>정착지에서 남긴 한 장</MF_Settings_PreviewCaption>
+  <MF_Settings_FramingTitle>얼마나 넓게 담을까요</MF_Settings_FramingTitle>
+  <MF_Settings_FramingWide>직접 촬영 · 넓은 범위</MF_Settings_FramingWide>
+  <MF_Settings_FramingNear>직접 촬영 · 좁은 범위</MF_Settings_FramingNear>
+  <MF_Settings_ZoomWide>자동 촬영 · 기본 줌</MF_Settings_ZoomWide>
+  <MF_Settings_ZoomNear>자동 촬영 · 더 큰 줌</MF_Settings_ZoomNear>
+  <MF_Settings_FramingNote>구도를 설명하는 도식입니다. 클릭 촬영은 칸 수가 클수록 넓게 담고, 행사 줌은 배율이 클수록 가까이 담아요. 드래그 촬영은 직접 지정한 범위를 씁니다.</MF_Settings_FramingNote>
+  <MF_Settings_NightTitle>밤 사진을 밝게 남길까요</MF_Settings_NightTitle>
+  <MF_Settings_NightOff>끄기 · 그때의 밤 분위기</MF_Settings_NightOff>
+  <MF_Settings_NightOn>켜기 · 인물이 잘 보이게</MF_Settings_NightOn>
+  <MF_Settings_NightNote>밝기를 설명하는 도식입니다. 새 사진에 적용하며 기존 사진은 바뀌지 않아요. 재해·오로라·일식 등 하늘이 주제인 사진은 원래 빛을 유지해요.</MF_Settings_NightNote>
+  <MF_Settings_ReactionsTitle>림 반응을 어디에 남길까요</MF_Settings_ReactionsTitle>
+  <MF_Settings_ReactionsMap>지도에서만 · 기본</MF_Settings_ReactionsMap>
+  <MF_Settings_ReactionsPhoto>사진에도 저장</MF_Settings_ReactionsPhoto>
+  <MF_Settings_ReactionsNote>실제 저장 사진 예시입니다. 일부 사진에서 깨어 있는 정착민 최대 세 명이 실시간 약 1초 동안 반응해요. 아기·수면·쓰러짐·징집·정신이상·구도 밖 정착민은 제외합니다.</MF_Settings_ReactionsNote>
+  <MF_Settings_StorageHint>저장 폴더를 바꾸면 기존 사진은 자동으로 옮겨지지 않아요.</MF_Settings_StorageHint>
+  <MF_Settings_PreviewUnavailable>예시 사진을 불러올 수 없어요.</MF_Settings_PreviewUnavailable>
+  <MF_Settings_StylePreview>앨범 미리보기</MF_Settings_StylePreview>
+  <MF_Settings_PreviewHint>테마·글꼴·글자 크기를 여기서 미리 볼 수 있어요.</MF_Settings_PreviewHint>
+  <MF_Settings_PreviewSample>함께한 날들을 한 장씩 모았습니다.</MF_Settings_PreviewSample>
+  <MF_Settings_FramingHint>클릭 촬영은 칸 수가 클수록 주변을 넓게 담아요.</MF_Settings_FramingHint>
+  <MF_Settings_NightHint>앞으로 찍는 사진에 적용해요. 재해·오로라·일식 등 하늘이 주제인 사진은 원래 빛을 유지합니다.</MF_Settings_NightHint>
+  <MF_Settings_ReactionsHint>일부 사진에서 깨어 있는 정착민 최대 세 명이 약 1초 반응해요. 아기·수면·쓰러짐·징집·정신이상·구도 밖 정착민은 제외합니다.</MF_Settings_ReactionsHint>
+  <MF_Settings_Fewer>더 가까이</MF_Settings_Fewer>
+  <MF_Settings_Wider>더 넓게</MF_Settings_Wider>
+  <MF_Settings_Natural>그때의 빛</MF_Settings_Natural>
+  <MF_Settings_Bright>인물이 잘 보이게</MF_Settings_Bright>
+  <MF_Settings_After>지도에서만 · 기본</MF_Settings_After>
+  <MF_Settings_WithPhoto>사진에도 저장</MF_Settings_WithPhoto>
+  <MF_Settings_ExampleDiagram>효과를 설명하는 도식입니다.</MF_Settings_ExampleDiagram>
+  <MF_Settings_Category_capture>자동 촬영</MF_Settings_Category_capture>
+  <MF_Settings_Hint_capture>남길 순간을 고르고, 필요할 때 세부 설정을 펼쳐보세요.</MF_Settings_Hint_capture>
+  <MF_Settings_Category_photo>사진·연출</MF_Settings_Category_photo>
+  <MF_Settings_Hint_photo>구도와 화질, 촬영할 때의 작은 연출을 고릅니다.</MF_Settings_Hint_photo>
+  <MF_Settings_Category_appearance>앨범 모양</MF_Settings_Category_appearance>
+  <MF_Settings_Hint_appearance>테마와 글꼴을 미리 보고, 읽기 좋은 크기로 맞춥니다.</MF_Settings_Hint_appearance>
+  <MF_Settings_Category_memories>추억·알림</MF_Settings_Category_memories>
+  <MF_Settings_Hint_memories>사진을 함께 보고, 지난 순간을 다시 만나는 방법입니다.</MF_Settings_Hint_memories>
+  <MF_Settings_Category_storage>저장·고급</MF_Settings_Category_storage>
+  <MF_Settings_Hint_storage>사진 저장 위치와 추가 의식 제외를 설정합니다.</MF_Settings_Hint_storage>
+  <MF_Settings_Group_birthdays>생일 사진</MF_Settings_Group_birthdays>
+  <MF_Settings_Group_people>사람과 일상</MF_Settings_Group_people>
+  <MF_Settings_Group_gatherings>모임과 의식</MF_Settings_Group_gatherings>
+  <MF_Settings_Group_combat>전투와 재해</MF_Settings_Group_combat>
+  <MF_Settings_Group_discoveries>발견과 여정</MF_Settings_Group_discoveries>
+  <MF_Settings_Group_milestones>정착지의 이정표</MF_Settings_Group_milestones>
+  <MF_Settings_Group_framing>화면과 품질</MF_Settings_Group_framing>
+  <MF_Settings_Group_effects>셔터와 화면</MF_Settings_Group_effects>
+  <MF_Settings_Group_reactions>사진 반응</MF_Settings_Group_reactions>
+  <MF_Settings_Group_style>앨범의 모양</MF_Settings_Group_style>
+  <MF_Settings_Group_layout>사진 배치</MF_Settings_Group_layout>
+  <MF_Settings_Group_viewing>환등과 감상</MF_Settings_Group_viewing>
+  <MF_Settings_Group_chronicles>연대기와 편지</MF_Settings_Group_chronicles>
+  <MF_Settings_Group_location>저장 위치</MF_Settings_Group_location>
+  <MF_Settings_Group_exclusions>세부 제외</MF_Settings_Group_exclusions>
+  <MF_Settings_Label_birthdayMode>생일 사진</MF_Settings_Label_birthdayMode>
+  <MF_Settings_Help_birthdayMode>생일에 편지로 물을지, 현재 자리에서 바로 찍을지 고릅니다.</MF_Settings_Help_birthdayMode>
+  <MF_Settings_Label_birthdayEvery>생일 촬영 간격</MF_Settings_Label_birthdayEvery>
+  <MF_Settings_Help_birthdayEvery>정한 연수마다 찍으며 성인이 되는 생일은 항상 대상입니다.</MF_Settings_Help_birthdayEvery>
+  <MF_Settings_Label_birthdayFriends>가까운 사람도 함께</MF_Settings_Label_birthdayFriends>
+  <MF_Settings_Help_birthdayFriends>생일 장소로 부를 때 가족·연인·호감 +20 이상인 사람을 기본 동행으로 포함합니다.</MF_Settings_Help_birthdayFriends>
+  <MF_Settings_Label_msBaby>출산</MF_Settings_Label_msBaby>
+  <MF_Settings_Help_msBaby>태어나는 순간을 자동으로 사진에 남깁니다.</MF_Settings_Help_msBaby>
+  <MF_Settings_Label_msDeath>정착민 사망</MF_Settings_Label_msDeath>
+  <MF_Settings_Help_msDeath>정착민의 사망을 사진으로 기록합니다.</MF_Settings_Help_msDeath>
+  <MF_Settings_Label_msRecruit>정착민 영입</MF_Settings_Label_msRecruit>
+  <MF_Settings_Help_msRecruit>새로 영입한 정착민을 사진으로 남깁니다.</MF_Settings_Help_msRecruit>
+  <MF_Settings_Label_msRecruitFirstOnly>영입은 첫 번째만</MF_Settings_Label_msRecruitFirstOnly>
+  <MF_Settings_Help_msRecruitFirstOnly>영입 사진을 첫 영입으로 제한합니다.</MF_Settings_Help_msRecruitFirstOnly>
+  <MF_Settings_Label_msResurrect>정착민 부활</MF_Settings_Label_msResurrect>
+  <MF_Settings_Help_msResurrect>사람마다 첫 부활을 한 번 기록합니다.</MF_Settings_Help_msResurrect>
+  <MF_Settings_Label_msPersonal>개인 사건</MF_Settings_Label_msPersonal>
+  <MF_Settings_Help_msPersonal>수술 대실패·혈귀·이종유전자·페르소나 무기·높은 작위 등 개인 사건을 남깁니다.</MF_Settings_Help_msPersonal>
+  <MF_Settings_Label_capturePetArrivals>반려 동물 합류</MF_Settings_Label_capturePetArrivals>
+  <MF_Settings_Help_capturePetArrivals>이름·유대·주인 등이 있는 동물이 새로 합류할 때 한 번 찍습니다.</MF_Settings_Help_capturePetArrivals>
+  <MF_Settings_Label_captureWeddings>결혼식</MF_Settings_Label_captureWeddings>
+  <MF_Settings_Help_captureWeddings>결혼식을 자동 촬영합니다.</MF_Settings_Help_captureWeddings>
+  <MF_Settings_Label_captureParties>파티와 축제</MF_Settings_Label_captureParties>
+  <MF_Settings_Help_captureParties>파티·축하 파티·하늘등불·나무 축제를 자동 촬영합니다.</MF_Settings_Help_captureParties>
+  <MF_Settings_Label_captureFunerals>장례식</MF_Settings_Label_captureFunerals>
+  <MF_Settings_Help_captureFunerals>장례식을 자동 촬영합니다.</MF_Settings_Help_captureFunerals>
+  <MF_Settings_Label_captureRituals>종교 의식</MF_Settings_Label_captureRituals>
+  <MF_Settings_Help_captureRituals>재판·처형·개종·희생·결투·나무 연결 등을 남기며 일부 반복 의식은 제외합니다.</MF_Settings_Help_captureRituals>
+  <MF_Settings_Label_msRole>이념 역할 취임</MF_Settings_Label_msRole>
+  <MF_Settings_Help_msRole>지도자·도덕 지도자·전문가가 취임할 때 기록합니다.</MF_Settings_Help_msRole>
+  <MF_Settings_Label_msBestow>작위 수여식</MF_Settings_Label_msBestow>
+  <MF_Settings_Help_msBestow>작위 수여식을 사진으로 남깁니다.</MF_Settings_Help_msBestow>
+  <MF_Settings_Label_msRelic>이념 유물 안치</MF_Settings_Label_msRelic>
+  <MF_Settings_Help_msRelic>이데올로기 유물을 안치할 때 유물마다 한 번 남깁니다.</MF_Settings_Help_msRelic>
+  <MF_Settings_Label_battleMode>막아낸 싸움</MF_Settings_Label_battleMode>
+  <MF_Settings_Help_battleMode>종류별 첫 전투는 남겨요. 이후 짐승 떼는 이번 싸움에서 새 부상(손상량 5 이상 증가)·출혈·쓰러짐·사망이 생겼을 때 기록해요. 다른 전투는 이 조건 또는 적 수가 정착민 수 이상일 때 기록해요. 첫 기록을 제외하면 전투 사진 사이에 15일을 두며, 모든 전투는 이 제한을 건너뛰어요.</MF_Settings_Help_battleMode>
+  <MF_Settings_Label_msMechBoss>메카노이드 보스 격파</MF_Settings_Label_msMechBoss>
+  <MF_Settings_Help_msMechBoss>메카노이드 보스를 막아낸 순간을 기록합니다.</MF_Settings_Help_msMechBoss>
+  <MF_Settings_Label_msDisaster>재해의 모습</MF_Settings_Label_msDisaster>
+  <MF_Settings_Help_msDisaster>재해가 한창일 때 낮에 정착지를 넓게 찍습니다. 종류별 첫 기록 이후에는 한 계절에 최대 한 장입니다.</MF_Settings_Help_msDisaster>
+  <MF_Settings_Label_msSky>하늘 현상</MF_Settings_Label_msSky>
+  <MF_Settings_Help_msSky>오로라·빛나는 포자·일식 때 밖에 있는 정착민들을 남깁니다.</MF_Settings_Help_msSky>
+  <MF_Settings_Label_msMechlink>메크링크 설치</MF_Settings_Label_msMechlink>
+  <MF_Settings_Help_msMechlink>바이오테크의 메크링크 설치를 사람마다 한 번 기록합니다.</MF_Settings_Help_msMechlink>
+  <MF_Settings_Label_msRelicFound>유물 획득</MF_Settings_Label_msRelicFound>
+  <MF_Settings_Help_msRelicFound>새 유물을 획득했을 때 기록합니다.</MF_Settings_Help_msRelicFound>
+  <MF_Settings_Label_msRareAnimal>희귀 동물</MF_Settings_Label_msRareAnimal>
+  <MF_Settings_Help_msRareAnimal>알파 트럼보·곤충 여왕을 처음 만났거나 길들였을 때 남깁니다.</MF_Settings_Help_msRareAnimal>
+  <MF_Settings_Label_msAnomaly>이상 현상</MF_Settings_Label_msAnomaly>
+  <MF_Settings_Help_msAnomaly>어노말리의 낯선 생물·물체를 처음 봤을 때와 첫 개체 격리를 남깁니다.</MF_Settings_Help_msAnomaly>
+  <MF_Settings_Label_msMonolith>모노리스 단계 전환</MF_Settings_Label_msMonolith>
+  <MF_Settings_Help_msMonolith>어노말리의 모노리스 단계가 바뀌는 순간을 기록합니다.</MF_Settings_Help_msMonolith>
+  <MF_Settings_Label_msJourney>새 장소</MF_Settings_Label_msJourney>
+  <MF_Settings_Help_msJourney>처음 가 본 바이옴이나 랜드마크에 정착민이 자리를 잡으면 남깁니다.</MF_Settings_Help_msJourney>
+  <MF_Settings_Label_msColonyStart>정착 첫날</MF_Settings_Label_msColonyStart>
+  <MF_Settings_Help_msColonyStart>처음 도착한 사람들이 수송포드에서 모두 나온 뒤 첫 사진을 남깁니다.</MF_Settings_Help_msColonyStart>
+  <MF_Settings_Label_msLegendary>전설 품질 제작</MF_Settings_Label_msLegendary>
+  <MF_Settings_Help_msLegendary>전설 품질의 물건을 만든 순간을 남깁니다.</MF_Settings_Help_msLegendary>
+  <MF_Settings_Label_msShip>함선과 그래브십 발사</MF_Settings_Label_msShip>
+  <MF_Settings_Help_msShip>함선 또는 그래브십이 발사되는 순간을 기록합니다.</MF_Settings_Help_msShip>
+  <MF_Settings_Label_msHistoric>정착 기념일과 인구</MF_Settings_Label_msHistoric>
+  <MF_Settings_Help_msHistoric>매년 정착일·인구 10/20/30/50/100명 첫 달성·첫 그래브십 착륙을 남깁니다.</MF_Settings_Help_msHistoric>
+  <MF_Settings_Label_msEnding>결말의 주요 순간</MF_Settings_Label_msEnding>
+  <MF_Settings_Help_msEnding>함선 초읽기·왕국 결말·아르코넥서스·기계 총뇌 등 결말 단계의 순간을 남깁니다.</MF_Settings_Help_msEnding>
+  <MF_Settings_Label_spanCells>직접 촬영 범위</MF_Settings_Label_spanCells>
+  <MF_Settings_Help_spanCells>한 번 클릭해 찍을 때의 기본 범위예요. 클수록 넓게 담고, 드래그 촬영은 직접 지정한 범위를 써요.</MF_Settings_Help_spanCells>
+  <MF_Settings_Label_photoFormat>사진 파일 형식</MF_Settings_Label_photoFormat>
+  <MF_Settings_Help_photoFormat>새로 찍는 사진의 파일 형식입니다. JPG는 크기가 약 4분의 1이고 보통 배율에서는 똑같이 보입니다. PNG는 모든 점을 그대로 남기지만 공간을 훨씬 많이 씁니다. 이미 찍은 사진은 원래 형식 그대로 둡니다.</MF_Settings_Help_photoFormat>
+  <MF_Settings_Option_photoFormat_0>JPG (작게)</MF_Settings_Option_photoFormat_0>
+  <MF_Settings_Option_photoFormat_1>PNG (원본 그대로)</MF_Settings_Option_photoFormat_1>
+  <MF_Settings_Label_pxPerCell>사진 해상도</MF_Settings_Label_pxPerCell>
+  <MF_Settings_Help_pxPerCell>촬영 범위는 유지하고 원본의 선명도를 정합니다. 기본 192px/칸이며, 확대하거나 잘라 편집할 여유가 생깁니다. 높은 값은 촬영·저장 시간과 파일 크기를 늘립니다. 한 변은 최대 4096px이며, 정착지 전경 해상도는 별도로 설정합니다.</MF_Settings_Help_pxPerCell>
+  <MF_Settings_Label_eventZoom>행사 사진 줌</MF_Settings_Label_eventZoom>
+  <MF_Settings_Help_eventZoom>참가자에 맞춘 자동 구도를 조정해요. 배율이 클수록 인물을 가까이 담아요.</MF_Settings_Help_eventZoom>
+  <MF_Settings_Label_brightPhotos>야간 사진 밝게</MF_Settings_Label_brightPhotos>
+  <MF_Settings_Help_brightPhotos>새 사진을 낮처럼 밝게 남겨요. 재해·오로라·일식 등 하늘이 주제인 사진은 원래 빛을 유지해요.</MF_Settings_Help_brightPhotos>
+  <MF_Settings_Label_fxFlash>플래시</MF_Settings_Label_fxFlash>
+  <MF_Settings_Help_fxFlash>촬영할 때 화면이 하얗게 번쩍입니다.</MF_Settings_Help_fxFlash>
+  <MF_Settings_Label_fxShutter>셔터 소리</MF_Settings_Label_fxShutter>
+  <MF_Settings_Help_fxShutter>촬영할 때 셔터음을 재생합니다.</MF_Settings_Help_fxShutter>
+  <MF_Settings_Label_fxPopup>촬영한 사진 카드</MF_Settings_Label_fxPopup>
+  <MF_Settings_Help_fxPopup>찍힌 사진이 화면 가운데서 구석으로 줄어들며 잠시 나타납니다. 클릭하면 크게 봅니다.</MF_Settings_Help_fxPopup>
+  <MF_Settings_Label_fxFreeze>순간 정지</MF_Settings_Label_fxFreeze>
+  <MF_Settings_Help_fxFreeze>촬영 순간 게임을 약 0.5초 멈춥니다. 선택한 배속은 바꾸지 않습니다. 습격이나 전투 중에는 멈추지 않습니다.</MF_Settings_Help_fxFreeze>
+  <MF_Settings_Label_fxCamera>촬영 장소로 화면 이동</MF_Settings_Label_fxCamera>
+  <MF_Settings_Help_fxCamera>자동 행사·이정표 촬영 때 화면을 해당 장소로 옮기고 구도에 맞춰 확대·축소합니다.</MF_Settings_Help_fxCamera>
+  <MF_Settings_Label_captureReactionMode>림들의 작은 반응</MF_Settings_Label_captureReactionMode>
+  <MF_Settings_Help_captureReactionMode>생일 등 일부 사진에서 림이 약 1초 동안 반응해요. 기본은 촬영 뒤 지도에서만, 원하면 새 사진에도 남길 수 있어요.</MF_Settings_Help_captureReactionMode>
+  <MF_Settings_Label_albumTheme>테마</MF_Settings_Label_albumTheme>
+  <MF_Settings_Help_albumTheme>앨범·인물 연대기·한 해 회고의 모양을 고릅니다. 글꼴과 글자 크기는 유지됩니다.</MF_Settings_Help_albumTheme>
+  <MF_Settings_Label_albumFont>글꼴</MF_Settings_Label_albumFont>
+  <MF_Settings_Help_albumFont>테마 기본 또는 다른 글꼴을 고릅니다.</MF_Settings_Help_albumFont>
+  <MF_Settings_Label_albumTextSize>글자 크기</MF_Settings_Label_albumTextSize>
+  <MF_Settings_Help_albumTextSize>앨범·인물 연대기·회고에 쓰는 글자 크기를 고릅니다.</MF_Settings_Help_albumTextSize>
+  <MF_Settings_Label_albumAppearanceReset>앨범 모양 초기화</MF_Settings_Label_albumAppearanceReset>
+  <MF_Settings_Help_albumAppearanceReset>테마를 연필 수채 일지, 글꼴을 테마 기본, 글자 크기를 100%로 되돌립니다.</MF_Settings_Help_albumAppearanceReset>
+  <MF_Settings_Label_albumTilt>사진을 살짝 기울이기</MF_Settings_Label_albumTilt>
+  <MF_Settings_Help_albumTilt>앨범에 붙은 사진을 살짝 기울여 배치합니다.</MF_Settings_Help_albumTilt>
+  <MF_Settings_Label_fade>액자 사진 바램</MF_Settings_Label_fade>
+  <MF_Settings_Help_fade>지도 위 액자의 사진만 세월에 따라 바램을 표현합니다. 원본 파일과 앨범은 바뀌지 않습니다.</MF_Settings_Help_fade>
+  <MF_Settings_Label_fadeYears>완전히 바래는 시간</MF_Settings_Label_fadeYears>
+  <MF_Settings_Help_fadeYears>일반 액자에서 완전히 바래기까지의 연수입니다. 완벽 이상 품질 액자는 절반 속도로 바랩니다.</MF_Settings_Help_fadeYears>
+  <MF_Settings_Label_creditsPhotos>엔딩 크레딧에 사진</MF_Settings_Label_creditsPhotos>
+  <MF_Settings_Help_creditsPhotos>게임을 끝내면 크레딧 양옆으로 정착지 사진이 오래된 순서로 지나갑니다. 크레딧이 멈추면 큰 순간 몇 장을 크게 다시 보여 주고, 엔딩 사진으로 마무리합니다.</MF_Settings_Help_creditsPhotos>
+  <MF_Settings_Label_memoryNight>자동으로 여는 추억의 밤</MF_Settings_Label_memoryNight>
+  <MF_Settings_Help_memoryNight>저녁에 가끔 정착민이 환등기 앞에 모여 사진을 봅니다. 수동 개최 버튼은 계속 쓸 수 있습니다.</MF_Settings_Help_memoryNight>
+  <MF_Settings_Label_projectorSeconds>환등 사진 전환 간격</MF_Settings_Label_projectorSeconds>
+  <MF_Settings_Help_projectorSeconds>실제 시간 기준 한 사진을 보여 주는 간격입니다. 배속과 무관하며 게임 일시정지 중에는 멈춥니다.</MF_Settings_Help_projectorSeconds>
+  <MF_Settings_Label_reminisce>정착민의 추억 감상</MF_Settings_Label_reminisce>
+  <MF_Settings_Help_reminisce>정착민이 여가로 걸린 사진을 보며 함께 찍힌 둘은 가끔 추억을 나눕니다.</MF_Settings_Help_reminisce>
+  <MF_Settings_Label_chronicleTab>연대기 탭</MF_Settings_Label_chronicleTab>
+  <MF_Settings_Help_chronicleTab>인물을 선택하면 연대기 탭을 보여줘요. 꺼도 탭만 사라지고 사진과 기록은 그대로 남아요.</MF_Settings_Help_chronicleTab>
+  <MF_Settings_Label_lifeEvents>인생 사건 연대기</MF_Settings_Label_lifeEvents>
+  <MF_Settings_Help_lifeEvents>사진이 없는 합류·연애·유대·이별·납치·팔다리 상실 같은 순간을 인물 연대기에 기록합니다.</MF_Settings_Help_lifeEvents>
+  <MF_Settings_Label_yearLetter>사진으로 본 한 해 편지</MF_Settings_Label_yearLetter>
+  <MF_Settings_Help_yearLetter>한 해가 바뀌면 지난해 사진과 순간을 돌아보는 편지가 옵니다.</MF_Settings_Help_yearLetter>
+  <MF_Settings_Label_msAnniversaryLetter>1년 전 오늘 편지</MF_Settings_Label_msAnniversaryLetter>
+  <MF_Settings_Help_msAnniversaryLetter>이정표 사진과 현지 달력 날짜가 같고 정확히 1년 지난 날, 가장 이른 사진을 편지로 보여줘요. 사진마다 한 번·하루 한 통이며 저장을 불러와도 발송 기록을 유지해요.</MF_Settings_Help_msAnniversaryLetter>
+  <MF_Settings_Label_journeyRoute>월드맵의 사진과 여정</MF_Settings_Label_journeyRoute>
+  <MF_Settings_Help_journeyRoute>정착민이 들른 장소를 선으로 잇고 사진이 있는 곳에 사진을 표시합니다.</MF_Settings_Help_journeyRoute>
+  <MF_Settings_Label_folderOverride>사진 저장 폴더</MF_Settings_Label_folderOverride>
+  <MF_Settings_Help_folderOverride>비우면 기본 폴더를 씁니다. 기존 사진은 자동 이동하지 않아 경로 변경 뒤에는 파일이 없다고 보일 수 있습니다.</MF_Settings_Help_folderOverride>
+  <MF_Settings_Label_ritualExclude>추가로 제외할 의식</MF_Settings_Label_ritualExclude>
+  <MF_Settings_Help_ritualExclude>찍지 않을 의식의 defName을 쉼표로 구분해 입력합니다.</MF_Settings_Help_ritualExclude>
+  <MF_Settings_Option_birthdayMode_0>끄기</MF_Settings_Option_birthdayMode_0>
+  <MF_Settings_Option_birthdayMode_1>편지로 묻기</MF_Settings_Option_birthdayMode_1>
+  <MF_Settings_Option_birthdayMode_2>현재 자리에서 바로 촬영</MF_Settings_Option_birthdayMode_2>
+  <MF_Settings_Option_battleMode_0>찍지 않기</MF_Settings_Option_battleMode_0>
+  <MF_Settings_Option_battleMode_1>종류마다 첫 번째</MF_Settings_Option_battleMode_1>
+  <MF_Settings_Option_battleMode_2>첫 번째와 힘든 싸움</MF_Settings_Option_battleMode_2>
+  <MF_Settings_Option_battleMode_3>막아낼 때마다</MF_Settings_Option_battleMode_3>
+  <MF_Settings_Option_captureReactionMode_1>촬영 직후 지도에서만</MF_Settings_Option_captureReactionMode_1>
+  <MF_Settings_Option_captureReactionMode_2>사진에도 남기기</MF_Settings_Option_captureReactionMode_2>
+  <MF_Settings_Option_captureReactionMode_0>끄기</MF_Settings_Option_captureReactionMode_0>
+  <MF_Settings_ZoomHint>행사 줌 배율이 클수록 인물을 더 가까이 담아요. 촬영 범위는 참석자에 맞춰 자동으로 정해집니다.</MF_Settings_ZoomHint>
+  <MF_Settings_RealPhotoExample>실제 생일 사진을 같은 위치에서 넓게·가까이 비교한 예시입니다.</MF_Settings_RealPhotoExample>
+  <MF_Settings_BrightnessSample>같은 사진의 밝기를 바꾼 비교 예시입니다. 실제 밤 촬영 결과는 장소의 빛에 따라 달라요.</MF_Settings_BrightnessSample>
+  <MF_Settings_ReactionEnlarged>반응이 보이도록 인물 주변을 확대했습니다.</MF_Settings_ReactionEnlarged>
+  <MF_Settings_EnlargeExample>사진을 누르면 크게 볼 수 있어요.</MF_Settings_EnlargeExample>
+</LanguageData>

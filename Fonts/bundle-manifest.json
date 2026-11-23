@@ -1,0 +1,16 @@
+{
+  "bundle": "dev\\Fonts\\momentframesfonts",
+  "sha256": "08f6f3d57ab7f3e674d5f35651aa0338ed3e5800ee65a17361159dd6b4f2b199",
+  "bytes": 5484516,
+  "objects": 13,
+  "fonts": [
+    "light",
+    "pencil",
+    "pen",
+    "brush"
+  ],
+  "schema_template": "tools\\font-bundle-template\\empty-fonts",
+  "schema_template_sha256": "93e4adf0d0459023d5e1c7fca2380ccac4a44e291b5eb78b962b908a14e648ff",
+  "excluded": "all source font data, glyph geometry, font names, kerning and other objects",
+  "unity_version": "2019.4.40f1"
+}

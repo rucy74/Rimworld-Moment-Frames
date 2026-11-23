@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>κατασκευή προβολέα διαφανειών</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Κατασκευή προβολέα διαφανειών. Αυτή η παλιά συνταγή παραμένει για ήδη αποθηκευμένες εντολές. Οι νέοι προβολείς χτίζονται από την κατηγορία Διάφορα.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Κατασκευάζει προβολέα διαφανειών.</Make_MF_Projector.jobString>
+</LanguageData>

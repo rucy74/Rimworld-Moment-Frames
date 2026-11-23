@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>he mirat una foto on surto</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>M’he aturat davant d’una fotografia on surto i he recordat aquell dia.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>he evocat records amb {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Hem mirat una fotografia antiga on sortim tots dos i hem parlat d’aquell dia.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>nit de records</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Hem mirat junts les fotografies de la colònia al projector i hem recordat com hem arribat fins aquí.</MF_MemoryNight.stages.0.description>
+</LanguageData>

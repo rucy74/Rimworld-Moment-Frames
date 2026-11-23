@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Bridge_ShareMenu>사진 공유 · RimGram…</MF_Bridge_ShareMenu>
+  <MF_Bridge_TalkMenu>RimTalk 사진 한마디…</MF_Bridge_TalkMenu>
+  <MF_Bridge_ShareTitle>선택한 사진 공유</MF_Bridge_ShareTitle>
+  <MF_Bridge_TalkTitle>사진을 보며 한마디</MF_Bridge_TalkTitle>
+  <MF_Bridge_LocalHint>현재 선택한 원본 또는 편집본을 RimGram 정착지 계정에 로컬 게시해요. 온라인 전송은 하지 않아요. RimGram의 게시 간격과 반응 규칙이 적용돼요. 공유용 복사본도 만들 수 있어요.</MF_Bridge_LocalHint>
+  <MF_Bridge_TalkHint>직접 누를 때만 설정된 RimTalk AI로 한 번 요청해요. 사진 파일은 보내지 않고, 아래 글을 선택한 인물의 회상으로 요청해요. AI 사용량이 발생할 수 있어요. 앨범 설명문은 그대로예요.</MF_Bridge_TalkHint>
+  <MF_Bridge_TalkPrompt>지난 사진을 떠올리며 짧은 한 문장으로 말해 주세요. 현재 벌어지는 사건으로 오해하지 말고, 아래 기록에 없는 감정·장소·사건은 만들지 마세요. 선택된 인물만 말해 주세요.
+사진 제목: {0}
+사진 날짜: {1}
+기록: {2}</MF_Bridge_TalkPrompt>
+  <MF_Bridge_NoSpeaker>현재 지도에 말할 수 있는 정착민이 없어요</MF_Bridge_NoSpeaker>
+  <MF_Bridge_Speaker>말할 사람: {0}</MF_Bridge_Speaker>
+  <MF_Bridge_RequestLabel>요청문 · 보내기 전에 확인할 수 있어요</MF_Bridge_RequestLabel>
+  <MF_Bridge_CaptionLabel>RimGram에 남길 글</MF_Bridge_CaptionLabel>
+  <MF_Bridge_CopyPath>선택 사진 경로 복사</MF_Bridge_CopyPath>
+  <MF_Bridge_Export>공유 복사본 만들기</MF_Bridge_Export>
+  <MF_Bridge_PathCopied>사진 경로를 복사했어요.</MF_Bridge_PathCopied>
+  <MF_Bridge_OpenRimGram>RimGram 열기</MF_Bridge_OpenRimGram>
+  <MF_Bridge_NoRimGram>RimGram의 공개 사진 게시 기능을 사용할 수 없어요. 공유 복사본과 경로 복사는 쓸 수 있어요.</MF_Bridge_NoRimGram>
+  <MF_Bridge_NoRimTalk>이 RimTalk 버전에서는 공개 대화 요청 기능을 사용할 수 없어요.</MF_Bridge_NoRimTalk>
+  <MF_Bridge_Stale>선택한 사진이나 저장 게임이 바뀌었어요. 앨범에서 다시 열어 주세요.</MF_Bridge_Stale>
+  <MF_Bridge_Cooldown>RimGram 게시까지 게임 시간 {0}시간 남았어요.</MF_Bridge_Cooldown>
+  <MF_Bridge_Done>요청 완료</MF_Bridge_Done>
+  <MF_Bridge_RequestOnce>검토한 글로 RimTalk에 한 번 요청</MF_Bridge_RequestOnce>
+  <MF_Bridge_PublishLocal>RimGram에 로컬 게시</MF_Bridge_PublishLocal>
+  <MF_Bridge_Exported>공유 폴더 경로를 복사했어요. photo.png, caption.txt, manifest.json이 들어 있어요.</MF_Bridge_Exported>
+  <MF_Bridge_ExportFailed>공유 복사본을 만들지 못했어요. 원본은 바뀌지 않았어요.</MF_Bridge_ExportFailed>
+  <MF_Bridge_TalkAccepted>RimTalk가 요청을 받았어요.</MF_Bridge_TalkAccepted>
+  <MF_Bridge_Posted>RimGram에 로컬 게시했어요.</MF_Bridge_Posted>
+  <MF_Bridge_TalkRejected>RimTalk가 현재 요청을 받지 못했어요. 설정·배속·사용 중인 대화를 확인해 주세요. 자동 재시도는 하지 않아요.</MF_Bridge_TalkRejected>
+  <MF_Bridge_PostRejected>RimGram이 게시를 받지 못했어요. 게시 간격이나 저장 게임 상태를 확인해 주세요.</MF_Bridge_PostRejected>
+  <MF_Bridge_CallFailed>연결 중 오류가 났어요. 중복 요청을 막기 위해 다시 보내지 않았어요. 상대 모드에서 처리 여부를 확인해 주세요.</MF_Bridge_CallFailed>
+</LanguageData>

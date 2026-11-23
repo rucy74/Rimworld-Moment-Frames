@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>制作幻灯机</Make_MF_Projector.label>
+  <Make_MF_Projector.description>制作一台幻灯机。这个旧配方是为存档中已有的清单保留的；新的幻灯机请从「杂项」建造。</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>正在制作幻灯机。</Make_MF_Projector.jobString>
+</LanguageData>

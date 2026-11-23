@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>noite de memórias</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Noite de memórias</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} está a organizar uma noite de memórias no projetor. Todos os que vierem verão as fotografias da colónia e ganharão um bom humor duradouro.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>A noite de memórias foi cancelada.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>A noite de memórias terminou.</MF_MemoryNight.finishedMessage>
+</LanguageData>

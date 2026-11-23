@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>ramka na zdjęcie</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Mała ramka wieszana na ścianie, na jedno zdjęcie kolonii. Zaznacz ją, by wybrać lub zmienić zdjęcie; po demontażu i przeniesieniu zachowuje zdjęcie. Musi wisieć na ścianie. Wytwarzana przy stole rzeźbiarskim; od jakości zależy jej piękno.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>szeroka ramka na zdjęcie</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Dwupolowa ramka wieszana na ścianie, szersza od małej: do szerokich zdjęć. Wisi tylko na ścianach poziomych. Po przeniesieniu zachowuje zdjęcie. Wytwarzana przy stole rzeźbiarskim; od jakości zależy jej piękno.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>sztaluga na zdjęcie</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Wolnostojąca sztaluga (2x2) ze zdjęciem kolonii na tyle dużym, że da się rozpoznać ludzi. Można ją postawić gdziekolwiek i później przenieść bez utraty zdjęcia. Wytwarzana przy stole rzeźbiarskim; od jakości zależy jej piękno.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>tablica na zdjęcie</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Duża wolnostojąca tablica (3x2) na zdjęcie kolonii: największy sposób pokazania chwili. Można ją przenieść bez utraty zdjęcia. Wytwarzana przy stole rzeźbiarskim; od jakości zależy jej piękno.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>tablica kolażowa</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Wolnostojąca tablica z passe-partout (3x2) z czterema równymi okienkami na zdjęcia kolonii; każde zdjęcie jest przycięte tak, by wypełnić okienko. Wybierz zdjęcie do każdego okienka; niewybrane pozostają puste. Można ją przenieść bez utraty zdjęć. Wytwarzana przy stole rzeźbiarskim.</MF_PhotoCollage.description>
+  <MF_Projector.label>projektor slajdów</MF_Projector.label>
+  <MF_Projector.description>Wyświetla zdjęcia kolonii przed sobą. Wybierz jedno stałe zdjęcie lub film oraz gotowy albo własny rozmiar (szerokość i wysokość). Kolejność rysowania ustawia obraz za obiektami lub przed nimi. Zwykłe filmy zmieniają się w czasie rzeczywistym; filmy wieczoru wspomnień zmieniają się według zegara gry. Koloniści mogą je oglądać dla rekreacji. Nie wymaga zasilania. Postaw go z zakładki Różne, obok narzędzi fotograficznych; koloniści budują go z wybranego materiału.</MF_Projector.description>
+  <MF_MemorialFrame.label>pamiątkowy stojak na zdjęcie</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Mała stojąca ramka do postawienia obok grobu lub sarkofagu. Sama pokazuje najnowsze zdjęcie osoby pochowanej obok; zdjęcie można też wybrać ręcznie. Pusta, dopóki obok nie ma grobu z ciałem. Wytwarzana przy stole rzeźbiarskim.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>miejsce do zdjęć</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Oznacza miejsce robienia zdjęć grupowych. Zaznacz je i naciśnij „Zdjęcie grupowe”: każdy przytomny i wolny kolonista na mapie ustawia się za nim (na północ, najmłodsi z przodu), patrzy w kamerę, a zdjęcie powstaje, gdy wszyscy stoją nieruchomo. Zostaw za tym miejscem wolną podłogę na rzędy. Stawiane od razu, nic nie kosztuje.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>drzewo wspomnień</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Drewniany stojak na 35 zdjęć kolonii. Nowe zdjęcia zajmują puste gałęzie, potem zastępują najstarsze nieprzypięte. Wybierz i przypnij ulubione albo filtruj zdjęcia automatyczne według rodzaju. Wytwarzany przy stole rzeźbiarskim; po przeniesieniu zachowuje zdjęcia.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>tło studyjne</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Płócienne tło do portretów rodzinnych i grupowych. Zaznacz je, by wybrać uczestników. Wszyscy zbierają się przed tłem i zdjęcie powstaje automatycznie. Automatyczny kadr obejmuje ludzi i tło. Do piętnastu uczestników na stojąco; niemowlęta są niesione w ramionach opiekuna. Obróć przed budową, by ustawić kierunek pozowania.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>łuk ogrodowy do zdjęć</MF_StudioArch.label>
+  <MF_StudioArch.description>Okrągły łuk do portretów na zewnątrz. Działa tak samo jak tło studyjne: ten sam wybór uczestników i automatyczny kadr. Nie zastawiaj oznaczonego miejsca do pozowania. Niemowlęta przenosi opiekun. Obróć przed budową, by ustawić kierunek pozowania.</MF_StudioArch.description>
+  <MF_StudioSofa.label>sofa studyjna (rekwizyt)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Trzyosobowa sofa portretowa. Postaw ją w strefie pozowania studia, skierowaną tak samo jak tło. Uczestnicy zajmują te miejsca przed stojącymi rzędami. Używa zwykłego rysowania postaci, bez nowej animacji siedzenia. Rekwizyt do pozowania, nie siedzisko do codziennych posiłków czy rekreacji.</MF_StudioSofa.description>
+  <MF_StudioBench.label>ławka studyjna (rekwizyt)</MF_StudioBench.label>
+  <MF_StudioBench.description>Trzyosobowa ławka z poduszkami do portretów. Postaw ją w strefie pozowania, skierowaną tak samo jak tło. Rekwizyt do pozowania, nie siedzisko do codziennych posiłków czy rekreacji.</MF_StudioBench.description>
+  <MF_StudioChair.label>fotel studyjny (rekwizyt)</MF_StudioChair.label>
+  <MF_StudioChair.description>Pojedynczy fotel portretowy. Postaw go z przodu na środku dla osoby świętującej urodziny albo dodaj do strefy pozowania studia. Rekwizyt do pozowania, nie siedzisko do codziennych posiłków czy rekreacji.</MF_StudioChair.description>
+  <MF_StudioLamp.label>lampa studyjna</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Zasilana lampa portretowa. W trybie automatycznym włącza się, gdy najbliższe studio w tym samym pokoju (do dziesięciu pól) zbiera ludzi lub czeka na powtórki. Rozpuszczenie grupy ją wyłącza. Tryby Wł. i Wył. zastępują sterowanie automatyczne. Zdjęcia ze studia zachowują to oświetlenie.</MF_StudioLamp.description>
+</LanguageData>

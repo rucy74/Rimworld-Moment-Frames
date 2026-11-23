@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_UX_ReactionsOn>촬영 이모티콘 켜기</MF_UX_ReactionsOn>
+  <MF_UX_ReactionsSave>사진에도 남기기</MF_UX_ReactionsSave>
+  <MF_UX_RememberMode>이 켜기·저장 방식을 다음 촬영에도 사용</MF_UX_RememberMode>
+  <MF_UX_ReactionsHelp>아래 참가자별 버튼에서 촬영 이모티콘을 골라요. 사진에 남기지 않으면 촬영 뒤 지도에서만 보여요. 얼굴 표정과는 별개예요. 림별 조합 저장은 별도 메뉴예요.</MF_UX_ReactionsHelp>
+  <MF_UX_SavedFrame>스팟에 저장한 범위</MF_UX_SavedFrame>
+  <MF_UX_AutoFrame>이번에는 자동 구도</MF_UX_AutoFrame>
+  <MF_UX_FramePreserved>이번 촬영에만 적용해요. 스팟에 저장해 둔 촬영 범위는 지워지지 않아요.</MF_UX_FramePreserved>
+  <MF_UX_PawnExpression>{0}의 촬영 이모티콘</MF_UX_PawnExpression>
+  <MF_UX_ExpressionHelp>없음이 기본이에요. 자동 선택은 사건과 림에 맞춰 고릅니다. 실제 감정이나 관계를 바꾸는 기능은 아니에요.</MF_UX_ExpressionHelp>
+  <MF_UX_Locate>장소 보기</MF_UX_Locate>
+  <MF_UX_GatheringNext>모임 {0}/{1}</MF_UX_GatheringNext>
+  <MF_UX_CancelGathering>모임 끝내기</MF_UX_CancelGathering>
+  <MF_UX_CancelGatheringConfirm>이 촬영 모임을 끝내고 참석자들을 돌려보낼까요? 이미 찍은 사진은 유지돼요.</MF_UX_CancelGatheringConfirm>
+  <MF_UX_DiscardEdits>저장하지 않은 편집 내용이 있어요. 버리고 닫을까요? 원본과 이전 편집본은 유지돼요.</MF_UX_DiscardEdits>
+  <MF_UX_Discard>변경 버리고 닫기</MF_UX_Discard>
+  <MF_UX_KeepEditing>계속 편집</MF_UX_KeepEditing>
+  <MF_UX_ResetCrop>자르기만 초기화</MF_UX_ResetCrop>
+  <MF_UX_ResetFilter>필터만 초기화</MF_UX_ResetFilter>
+  <MF_UX_UndoEdit>한 단계 되돌리기</MF_UX_UndoEdit>
+  <MF_UX_ClearAll>모든 조건 초기화</MF_UX_ClearAll>
+  <MF_UX_ClearSearch>검색어만 지우기</MF_UX_ClearSearch>
+  <MF_UX_PickerSearch>제목·인물·날짜 검색</MF_UX_PickerSearch>
+  <MF_UX_Newest>최근 사진부터</MF_UX_Newest>
+  <MF_UX_Oldest>오래된 사진부터</MF_UX_Oldest>
+  <MF_UX_PickerCount>{0}/{1}장 표시 · {2}장 선택 (숨겨진 선택 {3}장)</MF_UX_PickerCount>
+  <MF_UX_VersionApplied>앨범·액자에 사용 중</MF_UX_VersionApplied>
+  <MF_UX_ApplyVersion>이 버전을 앨범·액자에 사용</MF_UX_ApplyVersion>
+  <MF_UX_StoryLess>설명 접기</MF_UX_StoryLess>
+  <MF_UX_StoryMore>설명 더 읽기</MF_UX_StoryMore>
+  <MF_UX_MissingPhoto>사진 파일을 찾을 수 없음</MF_UX_MissingPhoto>
+  <MF_UX_MissingShort>파일 없음</MF_UX_MissingShort>
+  <MF_UX_GroupOff>모두 꺼짐</MF_UX_GroupOff>
+  <MF_UX_MoreValues>외 {0}개 설정</MF_UX_MoreValues>
+  <MF_UX_SurveyQueued>전경 촬영 대기 · 해당 정착지 지도를 열고 게임을 진행해 주세요.</MF_UX_SurveyQueued>
+  <MF_UX_SurveyCapture>구역 촬영 중 · {0}/4 구역 완료</MF_UX_SurveyCapture>
+  <MF_UX_SurveyComposing>전체 전경을 합치는 중 · 4/4 구역 완료</MF_UX_SurveyComposing>
+  <MF_UX_SurveySaving>전경 사진 저장 중 · {0}/5장</MF_UX_SurveySaving>
+  <MF_UX_SurveyComplete>전경 촬영 완료 · {0}/5장 저장됨</MF_UX_SurveyComplete>
+  <MF_UX_SurveyFailed>전경 촬영을 완료하지 못했어요. 지도를 연 뒤 다시 촬영할 수 있어요.</MF_UX_SurveyFailed>
+  <MF_UX_NightTiming>사진 {1}장 · 감상은 1배속 기준 {0}분\n모두 모인 뒤 시작해요. 감상·전환은 게임 시간 기준이며, 배속을 높이면 실제 감상 시간도 짧아져요.</MF_UX_NightTiming>
+  <MF_UX_SearchFolder>이 폴더에서 찾기</MF_UX_SearchFolder>
+  <MF_UX_WorldDisplay>사진 표시</MF_UX_WorldDisplay>
+  <MF_UX_LoadingOriginal>원본 사진을 불러오는 중이에요…</MF_UX_LoadingOriginal>
+</LanguageData>

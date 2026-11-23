@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>kendi fotoğrafıma baktım</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>İçinde olduğum bir fotoğrafın önünde durdum ve o günü hatırladım.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>{0} ile eski günleri andım</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>İkimizin de olduğu eski bir fotoğrafa baktık ve o günü konuştuk.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>anı gecesi</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Koloninin fotoğraflarını projektörde birlikte izledik ve buraya nasıl geldiğimizi hatırladık.</MF_MemoryNight.stages.0.description>
+</LanguageData>

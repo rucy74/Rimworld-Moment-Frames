@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Kind_settlement-overview>Whole settlement</MF_Kind_settlement-overview>
+  <MF_Kind_settlement-quarter>Settlement quadrant</MF_Kind_settlement-quarter>
+  <MF_Phase2_WorldDisplay>World-map memories</MF_Phase2_WorldDisplay>
+  <MF_Phase2_WorldPhotos>World-map photos</MF_Phase2_WorldPhotos>
+  <MF_Phase2_WorldLines>First-visit order lines</MF_Phase2_WorldLines>
+  <MF_Phase2_WorldPhotosHelp>Show or hide photo pins only. Visit records and automatic photography continue.</MF_Phase2_WorldPhotosHelp>
+  <MF_Phase2_WorldLinesHelp>Connect first visits by all parties in chronological order, including different expeditions. These are not actual travel routes and do not include return visits. Other mods' and vanilla lines remain unchanged.</MF_Phase2_WorldLinesHelp>
+  <MF_Phase2_DragCapture>Click: photograph this area · Drag: choose your own area</MF_Phase2_DragCapture>
+  <MF_Phase2_DragRelease>Release to photograph the selected area</MF_Phase2_DragRelease>
+  <MF_Phase2_SettlementFrequency>Whole-settlement records</MF_Phase2_SettlementFrequency>
+  <MF_Phase2_SettlementFrequencyHelp>At the end of a quarter or year, take one full-map overview and four quadrant photos. Only the viewed home map is rendered; returning later records the actual capture date. Disabling automatic photography stops automatic surveys. Manual surveys remain available.</MF_Phase2_SettlementFrequencyHelp>
+  <MF_Phase2_FrequencyOff>No automatic overview</MF_Phase2_FrequencyOff>
+  <MF_Phase2_FrequencyQuarter>Every quarter</MF_Phase2_FrequencyQuarter>
+  <MF_Phase2_FrequencyYear>Every year</MF_Phase2_FrequencyYear>
+  <MF_Phase2_BuildingPhotos>New building records</MF_Phase2_BuildingPhotos>
+  <MF_Phase2_BuildingPhotosHelp>Records a stable new roofed indoor facility such as a laboratory, library, workshop, kitchen, hospital or temple, with its actual equipment, no unfinished construction and 6000 ticks of stability. Empty rooms, corridors, bedrooms and flooring or storage alone do not qualify. The end of the player's planned construction cannot be known exactly.</MF_Phase2_BuildingPhotosHelp>
+  <MF_Phase2_Period>{0}, quarter {1}</MF_Phase2_Period>
+  <MF_Phase2_Map>Settlement map {0}</MF_Phase2_Map>
+  <MF_Phase2_SurveyNow>Photograph whole map now</MF_Phase2_SurveyNow>
+  <MF_Phase2_SurveyHint>One full map + four quadrants. Speed and pause stay as you chose.</MF_Phase2_SurveyHint>
+  <MF_Phase2_WholeMap>Whole map</MF_Phase2_WholeMap>
+  <MF_Phase2_Quarter0>Northwest</MF_Phase2_Quarter0>
+  <MF_Phase2_Quarter1>Northeast</MF_Phase2_Quarter1>
+  <MF_Phase2_Quarter2>Southwest</MF_Phase2_Quarter2>
+  <MF_Phase2_Quarter3>Southeast</MF_Phase2_Quarter3>
+  <MF_Phase2_SurveyTitle>{0}, quarter {1} / {2}</MF_Phase2_SurveyTitle>
+  <MF_Phase2_SurveyNote>Recorded {0}. Map area: {1} × {2} cells.</MF_Phase2_SurveyNote>
+  <MF_Phase2_SurveyDone>Recorded five settlement overview and quadrant photos.</MF_Phase2_SurveyDone>
+  <MF_Phase2_SurveyCaptured>Actual capture: {0} / The overview combines four successive quadrant shots.</MF_Phase2_SurveyCaptured>
+  <MF_Phase2_SurveySchedule>Overviews are added at quarter or year end. Historical views are never generated retroactively.</MF_Phase2_SurveySchedule>
+  <MF_Phase2_SurveyEmpty>No whole-map photo exists for this period yet.</MF_Phase2_SurveyEmpty>
+  <MF_Phase2_SurveyMissing>This photo record or image file is unavailable.</MF_Phase2_SurveyMissing>
+  <MF_Phase2_SurveyQueued>Waiting to photograph the whole map. View this settlement map to capture it.</MF_Phase2_SurveyQueued>
+  <MF_Phase2_SurveyFailed>The survey could not be completed. You can photograph the current map again.</MF_Phase2_SurveyFailed>
+  <MF_Phase2_QuartersOpen>Show four quadrant photos</MF_Phase2_QuartersOpen>
+  <MF_Phase2_QuartersClose>Hide quadrant photos</MF_Phase2_QuartersClose>
+  <MF_Phase2_PeriodPhotos>Photos from this period / {0}</MF_Phase2_PeriodPhotos>
+</LanguageData>

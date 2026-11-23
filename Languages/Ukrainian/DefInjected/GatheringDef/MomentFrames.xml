@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>вечір спогадів</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Вечір спогадів</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} влаштовує вечір спогадів біля проєктора. Усі, хто прийде, разом подивляться фотографії колонії й отримають тривалий гарний настрій.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Вечір спогадів скасовано.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Вечір спогадів закінчився.</MF_MemoryNight.finishedMessage>
+</LanguageData>

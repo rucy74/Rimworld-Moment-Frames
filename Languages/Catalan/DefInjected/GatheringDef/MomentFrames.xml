@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>nit de records</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Nit de records</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} organitza una nit de records al projector. Els qui vinguin miraran junts les fotografies de la colònia i guanyaran un bon estat d’ànim durador.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>S’ha cancel·lat la nit de records.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>La nit de records s’ha acabat.</MF_MemoryNight.finishedMessage>
+</LanguageData>

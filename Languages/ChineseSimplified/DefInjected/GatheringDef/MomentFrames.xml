@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>回忆之夜</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>回忆之夜</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort}正在幻灯机旁举办回忆之夜。前来的每个人都会一起观看殖民地的照片，并获得持久的好心情。</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>回忆之夜已取消。</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>回忆之夜结束了。</MF_MemoryNight.finishedMessage>
+</LanguageData>

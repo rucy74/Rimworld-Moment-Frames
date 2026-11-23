@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_GroupSetupTitle>단체 사진 준비</MF_GroupSetupTitle>
+  <MF_GroupSetupReady>모두 모이면 자동으로 찍고, 재촬영할 수 있게 대형을 유지해요.</MF_GroupSetupReady>
+  <MF_GroupSetupEmpty>함께 찍을 사람을 한 명 이상 골라주세요.</MF_GroupSetupEmpty>
+  <MF_GroupSetupNoPlace>촬영 장소를 확인해주세요.</MF_GroupSetupNoPlace>
+  <MF_GroupSetupClear>선택 비우기</MF_GroupSetupClear>
+  <MF_GroupSetupApply>명단 적용</MF_GroupSetupApply>
+  <MF_GroupSetupEdit>참석자 변경</MF_GroupSetupEdit>
+  <MF_GroupSetupHelp>얼굴을 보며 참석자를 고르고, 촬영 설정에서 대형 방향을 바꿉니다.</MF_GroupSetupHelp>
+  <MF_GroupSetupReturn>참석자 창으로 돌아가기</MF_GroupSetupReturn>
+  <MF_ReunionGuests>선택 {0}명 / 참여 가능 {1}명 / 원래 인물 {2}명</MF_ReunionGuests>
+  <MF_ReunionEmptySelection>다시 함께 찍을 사람을 한 명 이상 골라주세요.</MF_ReunionEmptySelection>
+  <MF_ReunionSelectionChanged>지금 참여할 수 없는 사람이 있습니다: {0}</MF_ReunionSelectionChanged>
+  <MF_ReunionFrameHelp>원래 사진의 구도로 다시 찍어요.</MF_ReunionFrameHelp>
+  <MF_PhotoPickerCurrent>현재 사진</MF_PhotoPickerCurrent>
+  <MF_PhotoPickerTitle>사진 고르기 / {0}</MF_PhotoPickerTitle>
+  <MF_ProgressBirthday>생일 사진</MF_ProgressBirthday>
+  <MF_ProgressGroup>단체 사진</MF_ProgressGroup>
+  <MF_ProgressReunion>재회 사진</MF_ProgressReunion>
+  <MF_ProgressLine>{0}: {1}/{2}명 도착 / {3}</MF_ProgressLine>
+  <MF_ProgressGathering>모이는 중</MF_ProgressGathering>
+  <MF_ProgressReady>촬영 준비됨</MF_ProgressReady>
+  <MF_ProgressAutoReady>자동 촬영 준비됨</MF_ProgressAutoReady>
+  <MF_ProgressShooting>사진 저장 중</MF_ProgressShooting>
+  <MF_ProgressHolding>재촬영 대기</MF_ProgressHolding>
+  <MF_ProgressWaiting>기다리는 사람: {0}</MF_ProgressWaiting>
+  <MF_ProgressOthers>{0} 외 {1}명</MF_ProgressOthers>
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ProjectionSize>Projection size: {0}</MF_ProjectionSize>
+  <MF_ProjectionSizeDesc>Project a large photograph from the small device. The projection footprint and audience area share the chosen size. Sizes extending past the map edge are unavailable.</MF_ProjectionSizeDesc>
+  <MF_ProjectionNormal>Normal · 2.4×1.6 cells</MF_ProjectionNormal>
+  <MF_ProjectionLarge>Large · 6×4 cells</MF_ProjectionLarge>
+  <MF_ProjectionLargest>Extra large · 9×6 cells</MF_ProjectionLargest>
+  <MF_ProjectionSingle>Keep one photograph</MF_ProjectionSingle>
+  <MF_ProjectionSingleDesc>Keep one family photograph on display. Choose a film to resume the slideshow. A memory night temporarily shows the selected film.</MF_ProjectionSingleDesc>
+  <MF_NightPrepare>Prepare a memory night</MF_NightPrepare>
+  <MF_NightFilmChoice>Film: {0} · {1} photographs</MF_NightFilmChoice>
+  <MF_NightDetails>Show viewing time</MF_NightDetails>
+  <MF_NightDetailsClose>Hide viewing time</MF_NightDetailsClose>
+  <MF_NightDuration>Viewing time · {0} minutes at normal speed</MF_NightDuration>
+  <MF_NightTimeHint>Gathering time does not use up viewing time. Viewing and slide changes follow game time. Choose game speed yourself.</MF_NightTimeHint>
+  <MF_NightGuests>Watch together ({0} people)</MF_NightGuests>
+  <MF_NightClearGuests>Clear selection</MF_NightClearGuests>
+  <MF_NightChooseGuests>Choose someone to watch together.</MF_NightChooseGuests>
+  <MF_NightGuestsChanged>A selected person's condition changed. Check the notices in the roster.</MF_NightGuestsChanged>
+  <MF_NightStartHint>Viewing and the photograph begin after everyone settles at their audience spot. Selected sleepers will be woken.</MF_NightStartHint>
+  <MF_NightStartGathering>Call selected people</MF_NightStartGathering>
+  <MF_NightWakeWarning>Sleeping · will be woken when called</MF_NightWakeWarning>
+  <MF_NightReachWarning>Cannot reach the audience area</MF_NightReachWarning>
+  <MF_NightGathering>Gathering · {0}/{1} arrived</MF_NightGathering>
+  <MF_NightWatching>Watching memories · {0}/{1} people</MF_NightWatching>
+  <MF_NightWaitingDecision>Memory night: {0}/{1} people arrived. Open the projector's Memory night control to keep waiting or start with those present.</MF_NightWaitingDecision>
+  <MF_NightAutoStarted>Memory night: not everyone came, so it starts with the {0} who did.</MF_NightAutoStarted>
+  <MF_NightMissing>Waiting for: {0}</MF_NightMissing>
+  <MF_NightProgressWatching>Watching · {0}/{1} people · photograph {2}/{3} · {4} seconds left at normal speed</MF_NightProgressWatching>
+  <MF_NightKeepWaiting>Keep waiting</MF_NightKeepWaiting>
+  <MF_NightStartPresent>Start with those present</MF_NightStartPresent>
+  <MF_NightContinueWatching>Keep watching</MF_NightContinueWatching>
+  <MF_NightCancel>Cancel event</MF_NightCancel>
+</LanguageData>

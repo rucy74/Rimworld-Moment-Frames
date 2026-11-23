@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>추억의 밤</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>추억의 밤</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort}이(가) 환등기 앞에서 추억의 밤을 엽니다. 오는 사람은 모두 정착지의 사진들을 함께 보고 오래가는 좋은 기분을 얻습니다.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>추억의 밤이 취소되었습니다.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>추억의 밤이 끝났습니다.</MF_MemoryNight.finishedMessage>
+</LanguageData>

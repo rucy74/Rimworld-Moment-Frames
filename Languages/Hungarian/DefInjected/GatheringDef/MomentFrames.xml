@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>emlékest</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Emlékest</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} emlékestet tart a vetítőnél. Aki eljön, együtt nézi a kolónia fényképeit, és tartósan jó kedvre derül.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Az emlékest elmaradt.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Az emlékestnek vége.</MF_MemoryNight.finishedMessage>
+</LanguageData>

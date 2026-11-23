@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Storage_Title>Disk usage</MF_Storage_Title>
+  <MF_Storage_Counting>Counting the photo folder…</MF_Storage_Counting>
+  <MF_Storage_Colony>This colony: {0} photos · {1} (protected originals {2} included)</MF_Storage_Colony>
+  <MF_Storage_ColonyPlain>This colony: {0} photos · {1}</MF_Storage_ColonyPlain>
+  <MF_Storage_All>Whole photo folder: {1} · colony folders: {0}</MF_Storage_All>
+  <MF_Storage_Hint>Counted separately while this window is open; the game keeps running. A lower resolution makes new photos smaller.</MF_Storage_Hint>
+  <MF_Storage_Resolution>At this setting a photo is up to {0}×{1} px.</MF_Storage_Resolution>
+  <MF_Storage_ResolutionAverage>Recent photos in this colony average {0}, and each original also keeps a protected copy.</MF_Storage_ResolutionAverage>
+</LanguageData>

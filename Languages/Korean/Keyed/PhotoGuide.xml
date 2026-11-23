@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Learn_Title>사용 안내</MF_Learn_Title>
+  <MF_Learn_home>처음 시작하기</MF_Learn_home>
+  <MF_Learn_SetupOptions>자리·표정 설정 ↓</MF_Learn_SetupOptions>
+  <MF_Learn_Intro>평소처럼 플레이하고, 남겨진 사진을 앨범에서 만나세요. 직접 찍거나 전시하고 싶을 때 아래 안내를 골라보세요.</MF_Learn_Intro>
+  <MF_Learn_EmptyAuto>자동 촬영이 켜져 있어요. 설정한 사건이 일어나면 사진이 모여요. 지금 직접 찍어도 좋아요.</MF_Learn_EmptyAuto>
+  <MF_Learn_EmptyManual>자동 촬영이 꺼져 있어요. 직접 찍은 사진은 여기에 모여요. 촬영 도구로 원하는 부분을 드래그해 보세요.</MF_Learn_EmptyManual>
+  <MF_Learn_Manual>직접 사진 찍기</MF_Learn_Manual>
+  <MF_Learn_Group>단체 사진 준비</MF_Learn_Group>
+  <MF_Learn_Album>앨범 열기</MF_Learn_Album>
+  <MF_Learn_Layout>자리·구도 · {0} / {1}</MF_Learn_Layout>
+  <MF_Learn_ManualPositions>직접 배치</MF_Learn_ManualPositions>
+  <MF_Learn_AutoPositions>자동 배치</MF_Learn_AutoPositions>
+  <MF_Learn_ExpressionsDefault>표정·이모티콘 · 기본 / 없음</MF_Learn_ExpressionsDefault>
+  <MF_Learn_ExpressionsCount>표정·이모티콘 · 표정 {0}명 / 이모티콘 {1}명</MF_Learn_ExpressionsCount>
+  <MF_Learn_ExpressionsHelp>얼굴 표정은 찍는 순간 얼굴을 바꿔요. 촬영 이모티콘은 머리 위에 띄우는 그림이에요. 기본값으로 두어도 촬영할 수 있어요. 얼굴 표정은 Facial Animation이 지원하는 인물만 바꿀 수 있어요.</MF_Learn_ExpressionsHelp>
+  <MF_Learn_Enlarge>사진을 눌러 크게 보기</MF_Learn_Enlarge>
+  <MF_Learn_ImageMissing>사진을 불러올 수 없어요. 아래 설명은 계속 볼 수 있어요.</MF_Learn_ImageMissing>
+  <MF_Learn_PhotoCaption>예시 화면 · 누르면 확대</MF_Learn_PhotoCaption>
+  <MF_Learn_Back>설명으로 돌아가기</MF_Learn_Back>
+  <MF_Learn_Return>준비하던 화면으로 돌아가기</MF_Learn_Return>
+  <MF_Learn_Prev>이전 단계</MF_Learn_Prev>
+  <MF_Learn_Next>다음 단계</MF_Learn_Next>
+  <MF_Learn_ChoosePlace>설치된 촬영 장소로</MF_Learn_ChoosePlace>
+  <MF_Learn_ChooseStudio>사진관 배경 바꾸기</MF_Learn_ChooseStudio>
+  <MF_Learn_SelectObject>가구 선택하기</MF_Learn_SelectObject>
+  <MF_Learn_NoPlace>현재 지도에 사용할 장소가 없어요. 사용 안내에서 필요한 가구와 메뉴를 확인하세요.</MF_Learn_NoPlace>
+  <MF_Learn_ExportEmpty>먼저 사진을 한 장 찍어 주세요. 사진이 생기면 HTML로 내보낼 수 있어요.</MF_Learn_ExportEmpty>
+  <MF_Learn_Missing_family>현재 지도에 촬영 장소가 없어요. 구상 → 기타에서 촬영 스팟, 사진관 배경막 또는 사진 정원 아치를 설치하세요.</MF_Learn_Missing_family>
+  <MF_Learn_Missing_birthday>현재 지도에 촬영 장소가 없어요. 구상 → 기타에 촬영 스팟과 사진관이 있어요. 생일 안내에서는 아이 곁에서 찍는 방법도 선택할 수 있어요.</MF_Learn_Missing_birthday>
+  <MF_Learn_Missing_display>현재 지도에 전시 가구가 없어요. 액자는 조소 작업대에서 제작하고, 환등기는 구상 → 기타에서 설치하세요.</MF_Learn_Missing_display>
+  <MF_Learn_Missing_background>현재 지도에 사진관 배경막이 없어요. 구상 → 기타에서 설치하세요. 정원 아치는 주변 풍경을 사용해요.</MF_Learn_Missing_background>
+  <MF_Learn_family>가족·단체 사진 찍기</MF_Learn_family>
+  <MF_Learn_family_0Title>사진관을 설치하고 준비창을 여세요</MF_Learn_family_0Title>
+  <MF_Learn_family_0>안내를 닫고 구상 → 기타에서 사진관 배경막을 지으세요. 안내는 앨범 상단의 사용 안내에서 다시 열 수 있어요.
+소파도 쓰려면 사진관 꾸미기 → 가족사진 → 가구 청사진 놓기. 완공 뒤 배경막을 클릭하고, 화면 아래 단체 사진 준비를 누르세요.</MF_Learn_family_0>
+  <MF_Learn_family_1Title>사람을 고르고 부르세요</MF_Learn_family_1Title>
+  <MF_Learn_family_1>함께 찍을 사람을 체크하고, 창 맨 아래 선택한 사람 부르기를 누르세요. 가족 선택도 쓸 수 있어요. 자리·표정·이모티콘은 그대로 두어도 됩니다.</MF_Learn_family_1>
+  <MF_Learn_family_2Title>앨범에서 보고, 끝났으면 해산하세요</MF_Learn_family_2Title>
+  <MF_Learn_family_2>게임을 진행하면 사람들이 모여요. 모두 모이면 자동으로 찍혀요. 멈춰 있다면 일시정지인지 확인하세요. 앨범 열기로 결과를 보세요.
+끝났으면 앨범을 닫고 촬영 장소나 참가자를 클릭 → 화면 아래 해산. 더 찍으려면 다시 찍기를 눌러요.</MF_Learn_family_2>
+  <MF_Learn_birthday>아이의 생일 남기기</MF_Learn_birthday>
+  <MF_Learn_birthday_0Title>생일에 사용할 장소를 정하세요</MF_Learn_birthday_0Title>
+  <MF_Learn_birthday_0>촬영 스팟·사진관·정원 아치를 선택해 생일 기본 장소를 켜면 다음 생일의 우선 장소가 돼요. 생일 안내에서 장소를 골라서 찍기를 선택하면 준비창이 열려요.</MF_Learn_birthday_0>
+  <MF_Learn_birthday_1Title>주인공과 보호자를 확인하세요</MF_Learn_birthday_1Title>
+  <MF_Learn_birthday_1>생일 주인공은 반드시 함께해요. 아기는 보호자가 안고 이동할 수 있어요. 자리·구도를 펼쳐 장소와 방향을 바꿀 수 있고, 표정·이모티콘에서는 이번 사진의 표현을 골라요.</MF_Learn_birthday_1>
+  <MF_Learn_birthday_2Title>모두 모인 뒤 생일사진을 남겨요</MF_Learn_birthday_2Title>
+  <MF_Learn_birthday_2>부르면 참가자가 모인 뒤 자동으로 찍어요. 도착하지 못하는 이유는 준비창과 참가자 상태에 표시돼요. 생일 사진이 앨범에서 보이지 않으면 필터의 생일 포함을 확인하세요.</MF_Learn_birthday_2>
+  <MF_Learn_display>사진을 집에 걸어두기</MF_Learn_display>
+  <MF_Learn_display_0Title>액자를 만들어 사진을 거세요</MF_Learn_display_0Title>
+  <MF_Learn_display_0>조소 작업대에서 사진 액자를 제작하고 원하는 곳에 설치하세요. 액자를 선택해 사진을 고르면 앨범 속 사진이 정착지에 걸려요.</MF_Learn_display_0>
+  <MF_Learn_display_1Title>크게 보고 싶으면 환등기를 설치하세요</MF_Learn_display_1Title>
+  <MF_Learn_display_1>구상 → 기타에서 환등기를 설치하세요. 재료를 운반하고 건설해야 완성돼요. 설치한 환등기에서 필름 고르기로 보여줄 사진들을 정하세요. 같은 줄의 추억의 밤을 누르면 필름과 참석자, 감상 시간을 골라 정착지가 함께 볼 수 있어요.</MF_Learn_display_1>
+  <MF_Learn_display_2Title>크기와 표시 위치를 조절하세요</MF_Learn_display_2Title>
+  <MF_Learn_display_2>환등기의 투사 크기에서 칸 단위로 크기를 입력할 수 있어요. 표시 위치로 다른 물건 앞이나 뒤에 보이게 정하세요. 사진 한 장 고정이나 다음 사진도 환등기를 선택한 상태에서 사용할 수 있어요.</MF_Learn_display_2>
+  <MF_Learn_background>우리만의 사진관 꾸미기</MF_Learn_background>
+  <MF_Learn_background_0Title>세트를 골라 사진관을 꾸미세요</MF_Learn_background_0Title>
+  <MF_Learn_background_0>사진관 배경막을 선택하고 사진관 꾸미기에서 세트를 고르세요. 의자·소파·조명은 자재를 써서 설치해요. 조명은 전력이 필요해요. 정원 아치는 실제 주변 풍경을 배경으로 사용해요.</MF_Learn_background_0>
+  <MF_Learn_background_1Title>앨범 사진이나 외부 이미지를 고르세요</MF_Learn_background_1Title>
+  <MF_Learn_background_1>배경막 선택 → 사진관 꾸미기 → 내 사진을 배경으로. 앨범에서 선택 또는 외부 이미지 선택을 누르세요. 배경막의 사진 배경 버튼으로도 열 수 있어요. PNG·JPG를 쓸 수 있고, 원본은 바뀌지 않아요.</MF_Learn_background_1>
+  <MF_Learn_background_2Title>미리보기에서 위치를 맞추고 적용하세요</MF_Learn_background_2Title>
+  <MF_Learn_background_2>확대 슬라이더와 드래그로 배경 천 안에 이미지를 맞추세요. 적용하면 촬영 사진에도 배경이 들어가요. 사진 배경 해제로 기본 천으로 돌아갈 수 있어요. 세이브를 옮길 때 사진 폴더의 studio-backgrounds도 함께 옮기세요.</MF_Learn_background_2>
+  <MF_Learn_export>게임 밖에서도 앨범 보기</MF_Learn_export>
+  <MF_Learn_export_0Title>사진을 앨범에서 확인하세요</MF_Learn_export_0Title>
+  <MF_Learn_export_0>화면 아래 앨범 버튼으로 사진을 열어보세요. 마음에 드는 사진은 즐겨찾기로 표시할 수 있어요. 편집에서는 자르기·필터·사진 안 아이콘을 바꿔요. 촬영 표정이나 머리 위 이모티콘은 찍기 전에 준비창에서 정해요.</MF_Learn_export_0>
+  <MF_Learn_export_1Title>앨범 도구에서 HTML로 내보내세요</MF_Learn_export_1Title>
+  <MF_Learn_export_1>앨범 상단의 앨범 전체 도구 → HTML로 내보내기를 누르세요. 작업이 끝나면 사진과 설명을 함께 볼 수 있는 앨범 페이지가 열려요. 아래 버튼으로도 같은 내보내기를 실행할 수 있어요.</MF_Learn_export_1>
+  <MF_Learn_export_2Title>내보낸 폴더를 함께 보관하세요</MF_Learn_export_2Title>
+  <MF_Learn_export_2>HTML 파일과 함께 만들어진 사진·자료 폴더를 통째로 보관하거나 전달하세요. 자동으로 인터넷에 게시되지는 않아요. 게임 밖에서도 그때의 사진과 기록을 다시 볼 수 있어요.</MF_Learn_export_2>
+  <MF_Learn_FirstTitle>함께 지낸 사람들을, 한 장에.</MF_Learn_FirstTitle>
+  <MF_Learn_FirstBody>처음이라면 가족사진 한 장부터 남겨 보세요.
+사람을 고르고 부르면, 모인 뒤 자동으로 찍어요.</MF_Learn_FirstBody>
+  <MF_Learn_FirstAction>이렇게 찍어보기</MF_Learn_FirstAction>
+  <MF_Learn_More>다음에는 이런 순간도 남겨 보세요</MF_Learn_More>
+  <MF_Learn_ManualHint>풍경만 찍고 싶나요? 아래 직접 사진 찍기를 누르고 원하는 부분을 드래그하세요. 가구는 필요 없어요.</MF_Learn_ManualHint>
+  <MF_Learn_EmoteChoice>촬영 이모티콘: {0}</MF_Learn_EmoteChoice>
+  <MF_Learn_None>없음</MF_Learn_None>
+  <MF_Learn_StepTitle>{0}단계 (전체 3단계): {1}</MF_Learn_StepTitle>
+</LanguageData>

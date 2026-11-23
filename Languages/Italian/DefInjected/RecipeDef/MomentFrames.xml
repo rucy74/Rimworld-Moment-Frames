@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>fabbrica proiettore di diapositive</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Fabbrica un proiettore di diapositive. Questa vecchia ricetta resta per gli ordini già salvati; i nuovi proiettori si costruiscono da Varie.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Sta fabbricando un proiettore di diapositive.</Make_MF_Projector.jobString>
+</LanguageData>

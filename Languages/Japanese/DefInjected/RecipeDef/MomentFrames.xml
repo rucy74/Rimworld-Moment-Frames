@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>スライド映写機を製作</Make_MF_Projector.label>
+  <Make_MF_Projector.description>スライド映写機を製作します。このレシピは既存のセーブデータの作業指示のために残されたものです。新しい映写機は「その他」から建設します。</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>スライド映写機を製作中。</Make_MF_Projector.jobString>
+</LanguageData>

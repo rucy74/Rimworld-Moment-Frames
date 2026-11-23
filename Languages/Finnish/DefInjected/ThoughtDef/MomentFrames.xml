@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>katselin kuvaa itsestäni</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Seisoin valokuvan edessä, jossa olen itse mukana, ja muistelin sitä päivää.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>muistelin yhdessä: {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Katselimme vanhaa valokuvaa, jossa olemme molemmat, ja puhuimme siitä päivästä.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>muistoilta</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Katselimme yhdessä yhdyskunnan valokuvia projektorilta ja muistelimme, miten tänne päädyimme.</MF_MemoryNight.stages.0.description>
+</LanguageData>

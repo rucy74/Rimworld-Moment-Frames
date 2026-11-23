@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Set_Reactions>Little reactions at the shutter</MF_Set_Reactions>
+  <MF_Set_ReactionsDesc>A few awake colonists briefly react in ordinary, group, birthday, wedding, reunion and party photos. At most three react. Babies, sleeping pawns, combat and mourning scenes are excluded. Changes apply to future photographs.</MF_Set_ReactionsDesc>
+  <MF_Set_ReactionsAfter>Only on the map after the shutter (default)</MF_Set_ReactionsAfter>
+  <MF_Set_ReactionsPhoto>Include in the photograph</MF_Set_ReactionsPhoto>
+  <MF_Set_ReactionsOff>Off</MF_Set_ReactionsOff>
+</LanguageData>

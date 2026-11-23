@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>бачу себе на фото</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Стою перед фотографією, де є і я, і згадую той день.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>спільні спогади: {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Ми дивилися на стару фотографію, де є ми обоє, і говорили про той день.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>вечір спогадів</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Ми разом дивилися фотографії колонії на проєкторі й згадували, як сюди дійшли.</MF_MemoryNight.stages.0.description>
+</LanguageData>

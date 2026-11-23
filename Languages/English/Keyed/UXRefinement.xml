@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_UX_ReactionsOn>Enable photo expressions</MF_UX_ReactionsOn>
+  <MF_UX_ReactionsSave>Include in saved photo</MF_UX_ReactionsSave>
+  <MF_UX_RememberMode>Remember this mode for future photos</MF_UX_RememberMode>
+  <MF_UX_ReactionsHelp>Choose each pawn’s icon beneath their portrait. Without inclusion, expressions appear on the map after capture. Pawn combinations have separate presets below.</MF_UX_ReactionsHelp>
+  <MF_UX_SavedFrame>Saved spot frame</MF_UX_SavedFrame>
+  <MF_UX_AutoFrame>Automatic for this photo</MF_UX_AutoFrame>
+  <MF_UX_FramePreserved>This choice only affects this gathering. The spot’s saved frame is preserved.</MF_UX_FramePreserved>
+  <MF_UX_PawnExpression>Photo expression: {0}</MF_UX_PawnExpression>
+  <MF_UX_ExpressionHelp>None is the default. Automatic chooses from the event and pawn context. Expressions do not change actual feelings or relationships.</MF_UX_ExpressionHelp>
+  <MF_UX_Locate>Locate</MF_UX_Locate>
+  <MF_UX_GatheringNext>Group {0}/{1}</MF_UX_GatheringNext>
+  <MF_UX_CancelGathering>End gathering</MF_UX_CancelGathering>
+  <MF_UX_CancelGatheringConfirm>End this gathering and release its participants? Existing photos are kept.</MF_UX_CancelGatheringConfirm>
+  <MF_UX_DiscardEdits>There are unsaved edits. Discard them and close? The original and earlier versions are preserved.</MF_UX_DiscardEdits>
+  <MF_UX_Discard>Discard and close</MF_UX_Discard>
+  <MF_UX_KeepEditing>Keep editing</MF_UX_KeepEditing>
+  <MF_UX_ResetCrop>Reset crop only</MF_UX_ResetCrop>
+  <MF_UX_ResetFilter>Reset filter only</MF_UX_ResetFilter>
+  <MF_UX_UndoEdit>Undo last edit</MF_UX_UndoEdit>
+  <MF_UX_ClearAll>Reset all filters</MF_UX_ClearAll>
+  <MF_UX_ClearSearch>Clear search text only</MF_UX_ClearSearch>
+  <MF_UX_PickerSearch>Search title, people or date</MF_UX_PickerSearch>
+  <MF_UX_Newest>Newest first</MF_UX_Newest>
+  <MF_UX_Oldest>Oldest first</MF_UX_Oldest>
+  <MF_UX_PickerCount>Showing {0}/{1} · {2} selected ({3} hidden)</MF_UX_PickerCount>
+  <MF_UX_VersionApplied>Used in album and frames</MF_UX_VersionApplied>
+  <MF_UX_ApplyVersion>Use this version in album and frames</MF_UX_ApplyVersion>
+  <MF_UX_StoryLess>Collapse story</MF_UX_StoryLess>
+  <MF_UX_StoryMore>Read full story</MF_UX_StoryMore>
+  <MF_UX_MissingPhoto>Photo file unavailable</MF_UX_MissingPhoto>
+  <MF_UX_MissingShort>File missing</MF_UX_MissingShort>
+  <MF_UX_GroupOff>All disabled</MF_UX_GroupOff>
+  <MF_UX_MoreValues>{0} more settings</MF_UX_MoreValues>
+  <MF_UX_SurveyQueued>Survey queued · Open this settlement map and let the game run.</MF_UX_SurveyQueued>
+  <MF_UX_SurveyCapture>Capturing quadrants · {0}/4 complete</MF_UX_SurveyCapture>
+  <MF_UX_SurveyComposing>Composing overview · 4/4 quadrants complete</MF_UX_SurveyComposing>
+  <MF_UX_SurveySaving>Saving survey photos · {0}/5</MF_UX_SurveySaving>
+  <MF_UX_SurveyComplete>Survey complete · {0}/5 photos saved</MF_UX_SurveyComplete>
+  <MF_UX_SurveyFailed>Survey could not finish. Open the map and request another survey.</MF_UX_SurveyFailed>
+  <MF_UX_NightTiming>{1} photos · {0} minutes at normal speed\nViewing begins after gathering. Viewing and slides use game time; higher speed shortens real viewing time.</MF_UX_NightTiming>
+  <MF_UX_SearchFolder>Search this folder</MF_UX_SearchFolder>
+  <MF_UX_WorldDisplay>Photo display</MF_UX_WorldDisplay>
+  <MF_UX_LoadingOriginal>Loading the original photograph…</MF_UX_LoadingOriginal>
+</LanguageData>

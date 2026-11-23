@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- ===== common base ===== -->
+  <ThingDef Name="MF_FrameBase" ParentName="BuildingBase" Abstract="True">
+    <thingClass>MomentFrames.Building_PhotoFrame</thingClass>
+    <altitudeLayer>BuildingOnTop</altitudeLayer>
+    <rotatable>true</rotatable>
+    <selectable>true</selectable>
+    <drawerType>RealtimeOnly</drawerType>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <clearBuildingArea>false</clearBuildingArea>
+    <terrainAffordanceNeeded IsNull="True" />
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <stuffCategories>
+      <li>Woody</li>
+      <li>Metallic</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <statBases>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <!-- Every frame is crafted at the art bench and then installed, so the architect's furniture tab does not grow; quality sets its
+         beauty, and excellent or better comes gilded and fades at half speed (user, 2026-09-27: the separate "fine" frames are gone). -->
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+    <recipeMaker>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Artistic</workSkill>
+      <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+      <effectWorking>Sculpt</effectWorking>
+      <soundWorking>Recipe_Sculpt</soundWorking>
+      <recipeUsers>
+        <li>TableSculpting</li>
+      </recipeUsers>
+      <defaultIngredientFilter>
+        <categories>
+          <li>Root</li>
+        </categories>
+      </defaultIngredientFilter>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Frame</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>
+    </graphicData>
+  </ThingDef>
+
+  <ThingDef Name="MF_WallFrameBase" ParentName="MF_FrameBase" Abstract="True">
+    <passability>Standable</passability>
+    <pathCost>0</pathCost>
+    <fillPercent>0</fillPercent>
+    <hasCustomRectForSelector>true</hasCustomRectForSelector>
+    <building>
+      <isEdifice>false</isEdifice>
+      <isAttachment>true</isAttachment>
+    </building>
+    <placeWorkers>
+      <li>MomentFrames.PlaceWorker_MFWallFrame</li>
+    </placeWorkers>
+  </ThingDef>
+
+  <ThingDef Name="MF_StandFrameBase" ParentName="MF_FrameBase" Abstract="True">
+    <passability>PassThroughOnly</passability>
+    <pathCost>42</pathCost>
+    <fillPercent>0.35</fillPercent>
+    <!-- no square shadow under the footprint: the frame draws its own feet and shadow (a portrait photo left the 2x2 square showing as a smudge) -->
+    <castEdgeShadows>false</castEdgeShadows>
+  </ThingDef>
+
+  <!-- ===== frames ===== -->
+  <ThingDef ParentName="MF_WallFrameBase">
+    <defName>MF_PhotoFrame</defName>
+    <label>photo frame</label>
+    <description>A small wall-hung frame for one colony photograph. Select it to choose or replace the photo; it keeps the photo when uninstalled and moved. Must hang on a wall. Made at the art bench; quality sets its beauty.</description>
+    <uiIconPath>UI/MomentFrames/Frame</uiIconPath>
+    <size>(1,1)</size>
+    <costStuffCount>15</costStuffCount>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <WorkToMake>600</WorkToMake>
+      <Mass>2</Mass>
+      <Beauty>4</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Frame</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.28,0.88)</drawSize>
+      <drawRotated>false</drawRotated>
+      <drawOffsetNorth>(0,0,1)</drawOffsetNorth>
+      <drawOffsetSouth>(0,0,-1)</drawOffsetSouth>
+      <drawOffsetEast>(1,0,0)</drawOffsetEast>
+      <drawOffsetWest>(-1,0,0)</drawOffsetWest>
+    </graphicData>
+    <modExtensions>
+      <li Class="MomentFrames.MFFrameProps">
+        <photoWidth>1.1</photoWidth>
+        <photoHeight>0.7</photoHeight>
+        <wallHung>true</wallHung>
+        <wallOffset>1</wallOffset>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <ThingDef ParentName="MF_WallFrameBase">
+    <defName>MF_PhotoFrameWide</defName>
+    <label>wide photo frame</label>
+    <description>A two-cell wall-hung frame, wider than the small one: made for wide photographs. Hangs on horizontal walls only. Keeps its photo when moved. Made at the art bench; quality sets its beauty.</description>
+    <uiIconPath>UI/MomentFrames/Frame</uiIconPath>
+    <size>(2,1)</size>
+    <costStuffCount>30</costStuffCount>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <WorkToMake>900</WorkToMake>
+      <Mass>4</Mass>
+      <Beauty>6</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Frame</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.93,0.98)</drawSize>
+      <drawRotated>false</drawRotated>
+      <drawOffsetNorth>(0,0,1)</drawOffsetNorth>
+      <drawOffsetSouth>(0,0,-1)</drawOffsetSouth>
+    </graphicData>
+    <modExtensions>
+      <li Class="MomentFrames.MFFrameProps">
+        <photoWidth>1.75</photoWidth>
+        <photoHeight>0.8</photoHeight>
+        <wallHung>true</wallHung>
+        <wallOffset>1</wallOffset>
+        <northSouthOnly>true</northSouthOnly>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <ThingDef ParentName="MF_StandFrameBase">
+    <defName>MF_PhotoEasel</defName>
+    <label>photo easel</label>
+    <description>A free-standing easel (2x2) displaying a colony photograph large enough to make out the people in it. Can be placed anywhere and moved later without losing the photo. Made at the art bench; quality sets its beauty.</description>
+    <uiIconPath>UI/MomentFrames/Frame</uiIconPath>
+    <size>(2,2)</size>
+    <costStuffCount>45</costStuffCount>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToMake>1400</WorkToMake>
+      <Mass>8</Mass>
+      <Beauty>8</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Frame</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.9,1.27)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+    <modExtensions>
+      <li Class="MomentFrames.MFFrameProps">
+        <photoWidth>1.8</photoWidth>
+        <photoHeight>1.2</photoHeight>
+        <wallHung>false</wallHung>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <ThingDef ParentName="MF_StandFrameBase">
+    <defName>MF_PhotoBoard</defName>
+    <label>photo display board</label>
+    <description>A large free-standing display board (3x2) for a colony photograph, the biggest way to show a moment. Movable without losing the photo. Made at the art bench; quality sets its beauty.</description>
+    <uiIconPath>UI/MomentFrames/Frame</uiIconPath>
+    <size>(3,2)</size>
+    <costStuffCount>70</costStuffCount>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToMake>2000</WorkToMake>
+      <Mass>14</Mass>
+      <Beauty>10</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Frame</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2.85,1.9)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+    <modExtensions>
+      <li Class="MomentFrames.MFFrameProps">
+        <photoWidth>2.7</photoWidth>
+        <photoHeight>1.8</photoHeight>
+        <wallHung>false</wallHung>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- ===== v2.4 stage 4: collage board, projector, memorial stand ===== -->
+  <ThingDef ParentName="MF_StandFrameBase">
+    <defName>MF_PhotoCollage</defName>
+    <thingClass>MomentFrames.Building_PhotoCollage</thingClass>
+    <label>photo collage board</label>
+    <description>A free-standing matted board (3x2) with four equal windows for colony photographs, each photo trimmed to fill its window. Choose a photo for each window; empty windows stay blank. Movable without losing the photos. Made at the art bench.</description>
+    <uiIconPath>UI/MomentFrames/Frame</uiIconPath>
+    <size>(3,2)</size>
+    <costStuffCount>80</costStuffCount>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToMake>2200</WorkToMake>
+      <Mass>15</Mass>
+      <Beauty>12</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Frame</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2.85,1.9)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+    <modExtensions>
+      <li Class="MomentFrames.MFFrameProps">
+        <photoWidth>2.7</photoWidth>
+        <photoHeight>1.8</photoHeight>
+        <wallHung>false</wallHung>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <ThingDef ParentName="MF_StandFrameBase">
+    <defName>MF_Projector</defName>
+    <thingClass>MomentFrames.Building_PhotoProjector</thingClass>
+    <castEdgeShadows>true</castEdgeShadows>
+    <label>slide projector</label>
+    <description>Projects colony photographs in front of it. Choose one fixed photograph or a film, and a preset or custom width and height. The draw-order control places the picture behind objects or in front of them. Ordinary films change in real time; memory-night films change with the event's game-time clock. Colonists can watch it for recreation. Needs no power. Place it from Misc beside the photo tools; colonists build it using the selected material.</description>
+    <size>(1,1)</size>
+    <pathCost>30</pathCost>
+    <fillPercent>0.3</fillPercent>
+    <costStuffCount>35</costStuffCount>
+    <designationCategory>Misc</designationCategory>
+    <uiOrder>2006</uiOrder>
+    <recipeMaker IsNull="True" />
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>160</WorkToMake>
+      <WorkToBuild>160</WorkToBuild>
+      <Mass>6</Mass>
+      <Beauty>2</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Projector</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <placeWorkers>
+      <li>MomentFrames.PlaceWorker_MFProjector</li>
+    </placeWorkers>
+  </ThingDef>
+
+  <ThingDef ParentName="MF_StandFrameBase">
+    <defName>MF_MemorialFrame</defName>
+    <thingClass>MomentFrames.Building_MemorialFrame</thingClass>
+    <label>memorial photo stand</label>
+    <description>A small standing frame to put beside a grave or sarcophagus. By itself it shows the latest photograph of the person buried next to it; you can also choose a photo by hand. Empty until a grave with a body is adjacent. Made at the art bench.</description>
+    <uiIconPath>UI/MomentFrames/Frame</uiIconPath>
+    <size>(1,1)</size>
+    <costStuffCount>20</costStuffCount>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <WorkToMake>800</WorkToMake>
+      <Mass>3</Mass>
+      <Beauty>5</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/Frame</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(0.95,0.63)</drawSize>
+      <drawRotated>false</drawRotated>
+    </graphicData>
+    <modExtensions>
+      <li Class="MomentFrames.MFFrameProps">
+        <photoWidth>0.9</photoWidth>
+        <photoHeight>0.6</photoHeight>
+        <wallHung>false</wallHung>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- ===== v2.4 stage 5: photo spot (group photo) — placed like a marriage spot: no cost, no work, instant ===== -->
+  <ThingDef ParentName="BuildingBase">
+    <defName>MF_PhotoSpot</defName>
+    <label>photo spot</label>
+    <description>Marks where group photos are taken. Select it and press 'Group photo': every colonist on the map who is awake and free lines up behind it (to the north, youngest in front), faces the camera, and the photo is taken once everyone stands still. Leave open floor behind the spot for the rows. Placed instantly, costs nothing.</description>
+    <thingClass>MomentFrames.Building_PhotoSpot</thingClass>
+    <drawerType>RealtimeOnly</drawerType>
+    <graphicData>
+      <texPath>Things/Building/MomentFrames/PhotoSpot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <uiIconPath>UI/MomentFrames/Camera</uiIconPath>
+    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <statBases>
+      <WorkToBuild>0</WorkToBuild>
+    </statBases>
+    <useHitPoints>False</useHitPoints>
+    <scatterableOnMapGen>false</scatterableOnMapGen>
+    <size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <designationCategory>Misc</designationCategory>
+    <uiOrder>2005</uiOrder>
+    <passability>Standable</passability>
+    <building>
+      <sowTag>SupportPlantsOnly</sowTag>
+      <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+      <ai_chillDestination>false</ai_chillDestination>
+      <wakeDormantPawnsOnConstruction>false</wakeDormantPawnsOnConstruction>
+      <artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+    </building>
+    <placeWorkers>
+      <li>MomentFrames.PlaceWorker_MFPhotoSpot</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>True</drawPlaceWorkersWhileSelected>
+  </ThingDef>
+
+</Defs>

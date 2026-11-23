@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ChoosePhoto>写真を選択</MF_ChoosePhoto>
+  <MF_ChoosePhotoDesc>このフレームに飾る写真を選びます。</MF_ChoosePhotoDesc>
+  <MF_FrameStyle>フレーム様式</MF_FrameStyle>
+  <MF_FrameStyleDesc>このフレームの見た目を変更します (現在: {0})。複数のフレームを選択している場合は、すべて変更されます。</MF_FrameStyleDesc>
+  <MF_Style_Material>素材のモールディング</MF_Style_Material>
+  <MF_Style_BlackMat>細い黒枠、白マット</MF_Style_BlackMat>
+  <MF_Style_Gilded>金箔張り</MF_Style_Gilded>
+  <MF_Style_Polaroid>ポラロイド</MF_Style_Polaroid>
+  <MF_Style_Canvas>キャンバス、枠なし</MF_Style_Canvas>
+  <MF_StyleCurrent>(現在)</MF_StyleCurrent>
+  <MF_ViewPhoto>表示</MF_ViewPhoto>
+  <MF_ViewPhotoDesc>飾られた写真を原寸で表示します。</MF_ViewPhotoDesc>
+  <MF_ClearPhoto>外す</MF_ClearPhoto>
+  <MF_ClearPhotoDesc>このフレームから写真を外します。ファイルは残ります。</MF_ClearPhotoDesc>
+  <MF_TakePhoto>写真撮影</MF_TakePhoto>
+  <MF_TakePhotoDesc>選んだマスの周囲を撮影してファイルに保存します。撮った写真はフォトフレームに飾れます。</MF_TakePhotoDesc>
+  <MF_ManualTitle>スナップ写真 {0}</MF_ManualTitle>
+  <MF_PhotoTaken>撮影しました: {0}</MF_PhotoTaken>
+  <MF_PhotoTakenBirthday>撮影しました: {0}。誕生日の写真はその人の年代記タブに保存されます。</MF_PhotoTakenBirthday>
+  <MF_PhotoFailed>撮影に失敗しました: {0}</MF_PhotoFailed>
+  <MF_NoPhoto>写真なし</MF_NoPhoto>
+  <MF_NoPhotosYet>まだ写真がありません。「その他」タブの「写真撮影」を使うか、結婚式、パーティ、儀式を待ちましょう。</MF_NoPhotosYet>
+  <MF_MissingFile>写真ファイルが見つかりません</MF_MissingFile>
+  <MF_OpenFolder>フォルダを開く</MF_OpenFolder>
+  <MF_People>人物: {0}</MF_People>
+  <MF_ChooserTitle>写真を選択 — {0}</MF_ChooserTitle>
+  <MF_NorthSouthOnly>水平 (北・南) の壁にのみ掛けられます</MF_NorthSouthOnly>
+  <MF_DragHint>ドラッグして撮影範囲を選びます。写真はドラッグした縦横比のまま保存され、フレームもそれに合わせます (縦長2:3からパノラマ3:1まで)。そのままクリックすると標準の3:2の範囲になります。</MF_DragHint>
+  <MF_Wedding>結婚式: {0} ♥ {1}</MF_Wedding>
+  <MF_Party>{0}主催のパーティ</MF_Party>
+  <MF_Ritual>儀式: {0}</MF_Ritual>
+  <MF_Baby>誕生: {0}</MF_Baby>
+  <MF_Death>{0}を偲んで</MF_Death>
+  <MF_Recruit>リクルート: {0}</MF_Recruit>
+  <MF_Legendary>伝説級の作品: {0}</MF_Legendary>
+  <MF_ShipLaunch>宇宙船の発射</MF_ShipLaunch>
+  <MF_MechBoss>撃破: {0}</MF_MechBoss>
+  <MF_ColonyStart>{0}の最初の日</MF_ColonyStart>
+  <MF_Mechlink>メカリンク: {0}</MF_Mechlink>
+  <MF_RelicFound>入手したレリック: {0}</MF_RelicFound>
+  <MF_SurgeryFail>手術台の上で: {0}</MF_SurgeryFail>
+  <MF_Xenogerm>異種胚の移植: {0}</MF_Xenogerm>
+  <MF_Sanguophage>サングオファージ: {0}</MF_Sanguophage>
+  <MF_Persona>{0}と{1}</MF_Persona>
+  <MF_TitleGained>{0}、{1}となる</MF_TitleGained>
+  <MF_IdeoReform>改革: {0}</MF_IdeoReform>
+  <MF_RareSeen>{0}と遭遇</MF_RareSeen>
+  <MF_RareTamed>{0}を手なずける</MF_RareTamed>
+  <MF_Anomaly>{0}が出現</MF_Anomaly>
+  <MF_Contained>{0}を収容</MF_Contained>
+  <MF_ShipCountdown>宇宙船のカウントダウン</MF_ShipCountdown>
+  <MF_EndingPlace>{0}を前に</MF_EndingPlace>
+  <MF_Kind_battle>勝利した戦い</MF_Kind_battle>
+  <MF_Battle_raid>{0}を退けた日</MF_Battle_raid>
+  <MF_Battle_siege>{0}の包囲に耐え抜く</MF_Battle_siege>
+  <MF_Battle_mechcluster>メカクラスターを撃破</MF_Battle_mechcluster>
+  <MF_Battle_infestation>虫の襲来を撃退</MF_Battle_infestation>
+  <MF_Battle_animals>人を狩る獣の群れを退ける</MF_Battle_animals>
+  <MF_Battle_threat>{0}を退けた日</MF_Battle_threat>
+  <MF_Battle_Enemy>敵</MF_Battle_Enemy>
+  <MF_Desc_battle_1>終わったとき、みんなまだ立っていた。{2}、{3}。</MF_Desc_battle_1>
+  <MF_Desc_battle_2>{0}、戦いのあと。誰もあまり話さなかった。</MF_Desc_battle_2>
+  <MF_Desc_battle_3>{3}が持ちこたえた日。{2}。</MF_Desc_battle_3>
+  <MF_Set_Battle>コロニーが勝った戦い</MF_Set_Battle>
+  <MF_Set_BattleDesc>大きな脅威 (襲撃、包囲、メカクラスター、虫の襲来、人を狩る獣の群れ) の後、マップが落ち着いたところで、敵が倒れた場所にいる入植者を撮影します。</MF_Set_BattleDesc>
+  <MF_Set_BattleOff>オフ</MF_Set_BattleOff>
+  <MF_Set_BattleFirsts>種類ごとの最初の1回のみ</MF_Set_BattleFirsts>
+  <MF_Set_BattleHard>種類ごとの最初の1回と、その後は激戦 (失神者や死者が出た、または数で劣った戦い) を季節に1回まで</MF_Set_BattleHard>
+  <MF_Set_BattleEvery>勝ったすべての戦い</MF_Set_BattleEvery>
+  <MF_Kind_disaster>乗り越えた災害</MF_Kind_disaster>
+  <MF_Kind_sky>空</MF_Kind_sky>
+  <MF_DisasterDuring>{0}のさなかに</MF_DisasterDuring>
+  <MF_SkyUnder>{0}の下で</MF_SkyUnder>
+  <MF_Cond_DeathPall>死の帳</MF_Cond_DeathPall>
+  <MF_Cond_GrayPall>灰の帳</MF_Cond_GrayPall>
+  <MF_Desc_disaster_1>みんな過ぎ去るのを待っていた。{2}、{3}。</MF_Desc_disaster_1>
+  <MF_Desc_disaster_2>{3}でのある日。まだ終わってはいなかった。</MF_Desc_disaster_2>
+  <MF_Desc_sky_1>外にいた者はみな空を見上げた。{2}。</MF_Desc_sky_1>
+  <MF_Desc_sky_2>{0}、不思議な空の下で。</MF_Desc_sky_2>
+  <MF_Set_Disaster>乗り越えた災害</MF_Set_Disaster>
+  <MF_Set_DisasterDesc>災害が続いている間 (死の灰、火山の冬、寒波や熱波、ゲリラ雷雨、酸性スモッグ、拡張パック独自のもの)、その中のコロニーを昼間に撮影します。種類ごとの最初の1回と、その後は季節に1回まで。</MF_Set_DisasterDesc>
+  <MF_Set_Sky>空</MF_Set_Sky>
+  <MF_Set_SkyDesc>夜のオーロラや光る胞子、昼の日食の下で、外にいる入植者を撮影します。種類ごとの最初の1回と、その後は季節に1回まで。</MF_Set_SkyDesc>
+  <MF_Kind_memorynight>思い出の夜</MF_Kind_memorynight>
+  <MF_MemoryNightTitle>思い出の夜: {0}</MF_MemoryNightTitle>
+  <MF_MemoryNightReport>思い出の夜で写真を鑑賞中。</MF_MemoryNightReport>
+  <MF_MemoryNightOpen>思い出の夜</MF_MemoryNightOpen>
+  <MF_MemoryNightOpenDesc>フィルム、招待客、鑑賞時間を選んで思い出の夜を準備します。開催中にもう一度押すと進行ウィンドウが開きます。イベントの中止は集合中または鑑賞中に行えます。ウィンドウを閉じるだけでは中止されません。</MF_MemoryNightOpenDesc>
+  <MF_MemoryNightFewPhotos>フィルムには少なくとも{0}枚の写真が必要です。</MF_MemoryNightFewPhotos>
+  <MF_MemoryNightAlready>思い出の夜はすでに開催中です。</MF_MemoryNightAlready>
+  <MF_MemoryNightNobody>今は思い出の夜を主催できる人がいません。</MF_MemoryNightNobody>
+  <MF_FilmYear>{0}年</MF_FilmYear>
+  <MF_YearLetterTitle>写真で見る{0}年</MF_YearLetterTitle>
+  <MF_YearLetterText>{0}年が終わりました。写真は{1}枚です。この年の瞬間:\n\n{2}</MF_YearLetterText>
+  <MF_YearLetterNone>(この年の節目はありません)</MF_YearLetterNone>
+  <MF_YearLetterAlbum>この年のアルバムを開く</MF_YearLetterAlbum>
+  <MF_YearLetterNight>{0}年の写真で思い出の夜を開く</MF_YearLetterNight>
+  <MF_YearLetterNoProjector>スライド映写機がありません。</MF_YearLetterNoProjector>
+  <MF_Desc_memorynight_1>明かりが落ち、コロニーは自分たちの姿を見つめた。{2}。</MF_Desc_memorynight_1>
+  <MF_Desc_memorynight_2>{0}、古い写真の前で。</MF_Desc_memorynight_2>
+  <MF_Set_MemoryNight>思い出の夜</MF_Set_MemoryNight>
+  <MF_Set_MemoryNightDesc>ときどき夕方に入植者が全員をスライド映写機の前に集め、フィルムを上映します。どちらにしても、映写機のボタンからいつでも開けます。</MF_Set_MemoryNightDesc>
+  <MF_Set_YearLetter>写真で見る1年</MF_Set_YearLetter>
+  <MF_Set_YearLetterDesc>コロニーの年が変わると、終わった年についての通知が届きます。写真の枚数、その年の瞬間、そしてアルバムや思い出の夜への入り口が記されています。</MF_Set_YearLetterDesc>
+  <MF_Life_joined>コロニーに加わった</MF_Life_joined>
+  <MF_Life_born>コロニーで生まれた</MF_Life_born>
+  <MF_Life_lover>{0}と恋人になった</MF_Life_lover>
+  <MF_Life_fiance>{0}と婚約した</MF_Life_fiance>
+  <MF_Life_spouse>{0}と結婚した</MF_Life_spouse>
+  <MF_Life_brokeup>{0}と別れた</MF_Life_brokeup>
+  <MF_Life_divorced>{0}と離婚した</MF_Life_divorced>
+  <MF_Life_bond>{0}と絆を結んだ</MF_Life_bond>
+  <MF_Life_captured>{0}に連れ去られた</MF_Life_captured>
+  <MF_Life_limb>{0}を失った ({1})</MF_Life_limb>
+  <MF_Life_limbPlain>{0}を失った</MF_Life_limbPlain>
+  <MF_Set_Life>入植者の年代記に入れる人生の出来事</MF_Set_Life>
+  <MF_Set_LifeDesc>写真のない瞬間を、入植者自身の年代記の写真の間に行として記します。加入や誕生、恋人、婚約、結婚、別れや離婚、動物との絆、襲撃者による連れ去り、手足の喪失。</MF_Set_LifeDesc>
+  <MF_EndingAscension>昇天が始まる</MF_EndingAscension>
+  <MF_EndingMechhive>メカハイブにて</MF_EndingMechhive>
+  <MF_EndingMechhiveDone>メカハイブが沈黙する</MF_EndingMechhiveDone>
+  <MF_EndingRoyalAscent>貴族の昇進</MF_EndingRoyalAscent>
+  <MF_EndingRoyalShuttle>貴族のシャトルが到着する</MF_EndingRoyalShuttle>
+  <MF_EndingArchonexusMove>アルコネクサスへ出発 ({0}/2)</MF_EndingArchonexusMove>
+  <MF_SpecialTree>{0}が根づいた</MF_SpecialTree>
+  <MF_Set_Span>手動撮影の範囲 (高さ{0}マス、幅はその1.5倍。イベント写真は参加者に合わせて自動でフレーミングされます)</MF_Set_Span>
+  <MF_Set_PxPerCell>写真の解像度: 1マスあたり{0}px ({1}マスの範囲 = {2}×{3})</MF_Set_PxPerCell>
+  <MF_Set_PxPerCellDesc>標準は1マスあたり192ピクセルです。場面の構図を保ったままピクセル数を増やし、拡大やトリミングに備えられます。撮影時間、保存時間、ファイルサイズは増えることがあります (1辺あたり最大4096ピクセル)。マップ上のフレームは引き続き小さなサムネイルを使います。</MF_Set_PxPerCellDesc>
+  <MF_Set_EventZoom>イベント写真のズーム: {0}倍 (高いほど近い)</MF_Set_EventZoom>
+  <MF_Set_EventZoomDesc>このMODが自動でフレーミングする写真 (結婚式、パーティ、儀式、節目) にのみ適用されます。1.0はこれまでの構図で、1.1は1割近く、0.9は1割広くなります。手動撮影の写真と集合写真はそれぞれの設定のままです。</MF_Set_EventZoomDesc>
+  <MF_Set_Bright>写真は常に昼間の明るさ</MF_Set_Bright>
+  <MF_Set_Fx>撮影時の演出</MF_Set_Fx>
+  <MF_Set_FxFlash>フラッシュ (画面が一瞬白くなる)</MF_Set_FxFlash>
+  <MF_Set_FxShutter>シャッター音</MF_Set_FxShutter>
+  <MF_Set_FxPopup>フォトカード (新しい写真が画面中央から隅のカードへ縮小。クリックで表示)</MF_Set_FxPopup>
+  <MF_Set_FxCamera>撮影地点へ視点を移動</MF_Set_FxCamera>
+  <MF_Set_FxCameraDesc>イベントや節目の写真を撮るとき、視点がその場所へ移動し、フレーム範囲までズームします。手動で撮る写真では移動しません。</MF_Set_FxCameraDesc>
+  <MF_Set_FxFreeze>フリーズフレーム (ゲームを0.5秒止める)</MF_Set_FxFreeze>
+  <MF_Set_FxFreezeDesc>ゲーム速度は変えず、短く止めるだけです。慌ただしい場面 (襲撃中の死など) でも発動するため、標準ではオフです。</MF_Set_FxFreezeDesc>
+  <MF_Set_Weddings>結婚式を撮影</MF_Set_Weddings>
+  <MF_Set_Parties>パーティと祭りを撮影 (パーティ、イデオロギーの祝典、天灯祭、木の祭り)</MF_Set_Parties>
+  <MF_Set_Funerals>葬式を撮影</MF_Set_Funerals>
+  <MF_Set_Rituals>宗教儀式を撮影 (裁判、処刑、改宗、生贄、決闘、木々との繋がり...)</MF_Set_Rituals>
+  <MF_Set_RitualsDesc>頻繁な儀式は撮影されません: リーダースピーチ、玉座の演説、スモークサークルとバーンサークル、アニマツリーリンク、役割の変更 (役割の節目で撮影)、出産の儀式 (誕生の節目で撮影)、グラヴシップの発射の儀式 (発射の節目で撮影)。</MF_Set_RitualsDesc>
+  <MF_Set_RitualExclude>追加で除外する儀式 (defName、カンマ区切り)</MF_Set_RitualExclude>
+  <MF_Set_Role>イデオロギーの役割の任命 (リーダー、モラルガイド、スペシャリスト)</MF_Set_Role>
+  <MF_Set_Bestow>称号授与式</MF_Set_Bestow>
+  <MF_Funeral>葬式: {0}</MF_Funeral>
+  <MF_Celebration>{1}主催の{0}</MF_Celebration>
+  <MF_CelebrationPlain>{0}</MF_CelebrationPlain>
+  <MF_Role>任命: {0} — {1}</MF_Role>
+  <MF_Bestow>称号授与: {0} — {1}</MF_Bestow>
+  <MF_GravshipLaunch>グラヴシップの発射: {0}</MF_GravshipLaunch>
+  <MF_Set_Baby>誕生</MF_Set_Baby>
+  <MF_Set_Death>入植者の死</MF_Set_Death>
+  <MF_Set_Recruit>リクルート</MF_Set_Recruit>
+  <MF_Set_RecruitFirstOnly>最初のリクルートのみ</MF_Set_RecruitFirstOnly>
+  <MF_Set_Legendary>伝説級の作品</MF_Set_Legendary>
+  <MF_Set_Ship>宇宙船とグラヴシップの発射</MF_Set_Ship>
+  <MF_Set_MechBoss>メカノイドのボス撃破</MF_Set_MechBoss>
+  <MF_Set_ColonyStart>コロニーの最初の日</MF_Set_ColonyStart>
+  <MF_Set_Mechlink>メカリンクの装着</MF_Set_Mechlink>
+  <MF_Set_RelicFound>入手したレリック</MF_Set_RelicFound>
+  <MF_Set_Personal>個人の節目</MF_Set_Personal>
+  <MF_Set_PersonalDesc>手術の大失敗、サングオファージ、異種胚、ペルソナ武器、伯爵以上の称号、イデオロギーの改革、拠点に根づいたガウランレンの木。</MF_Set_PersonalDesc>
+  <MF_Set_RareAnimal>珍しい獣</MF_Set_RareAnimal>
+  <MF_Set_RareAnimalDesc>アルファスランボやハイブクイーンとの遭遇や手なずけ。</MF_Set_RareAnimalDesc>
+  <MF_Set_Anomaly>アノマリー</MF_Set_Anomaly>
+  <MF_Set_Ending>エンディングへの段階</MF_Set_Ending>
+  <MF_Set_EndingDesc>宇宙船のカウントダウン、貴族の昇進とそのシャトル、アルコネクサスや昇天へ向かう各移動、メカハイブへの到達とそのコアの停止、アルコネクサスコアやヴォイドノードの前に立つこと。</MF_Set_EndingDesc>
+  <MF_Set_AnomalyDesc>奇妙な生物 (レヴナント、ノチオスフィア、グール、ドレッドメルド、デバウアー、キメラ、サイトスティーラー、メタルホラー) や物体 (肉塊の心臓、ピットゲート、黄金のキューブ、不自然な死体) を種類ごとに初めて目撃したとき、そして最初の「存在」を収容したとき。</MF_Set_AnomalyDesc>
+  <MF_Set_Resurrect>入植者の蘇生 (1人につき初回のみ)</MF_Set_Resurrect>
+  <MF_Set_Relic>レリックを聖遺物箱に安置 (Ideology、レリックごとに初回のみ)</MF_Set_Relic>
+  <MF_Set_Monolith>ヴォイドモノリスの進行 (Anomaly)</MF_Set_Monolith>
+  <MF_Resurrect>蘇生: {0}</MF_Resurrect>
+  <MF_RelicInstalled>レリック安置: {0}</MF_RelicInstalled>
+  <MF_Monolith>モノリス: {0}</MF_Monolith>
+  <MF_Kind_resurrect>蘇生</MF_Kind_resurrect>
+  <MF_Kind_reliquary>レリック安置</MF_Kind_reliquary>
+  <MF_Kind_monolith>モノリス</MF_Kind_monolith>
+  <MF_Set_Folder>写真フォルダ (空欄 = 標準: セーブデータフォルダ\MomentFrames)。撮影済みの写真は移動されません。変更すると、元に戻すかファイルを自分で移動するまで、見つからない状態で表示されます。</MF_Set_Folder>
+  <MF_Set_Milestones>節目の写真</MF_Set_Milestones>
+  <MF_AlbumTitle>コロニーのアルバム</MF_AlbumTitle>
+  <MF_Tab_Photos>写真</MF_Tab_Photos>
+  <MF_Tab_Chronicle>年代記</MF_Tab_Chronicle>
+  <MF_Filter_Kind>種類</MF_Filter_Kind>
+  <MF_Filter_Person>人物</MF_Filter_Person>
+  <MF_Filter_Year>年</MF_Filter_Year>
+  <MF_All>すべて</MF_All>
+  <MF_YearLabel>{0}</MF_YearLabel>
+  <MF_PageOf>{0}/{1}ページ</MF_PageOf>
+  <MF_Export>HTML書き出し</MF_Export>
+  <MF_ExportDesc>写真フォルダにalbum.htmlを書き出します。年代記とスライドショーをブラウザで見られます。</MF_ExportDesc>
+  <MF_Exported>書き出しました: {0}</MF_Exported>
+  <MF_IncludeManual>手動撮影を含む</MF_IncludeManual>
+  <MF_NoPhotosAlbum>まだ写真がありません。</MF_NoPhotosAlbum>
+  <MF_Delayed>遅れて撮影: イベントの後に撮影されたため、その瞬間そのものは写っていないかもしれません</MF_Delayed>
+  <MF_PawnPhotos>写真{0}枚</MF_PawnPhotos>
+  <MF_TabChronicle>年代記</MF_TabChronicle>
+  <MF_TabChronicleTitle>{0}の年代記</MF_TabChronicleTitle>
+  <MF_TabMilestonesOnly>節目のみ</MF_TabMilestonesOnly>
+  <MF_TabNoMilestones>{0}の節目の写真はまだありません。</MF_TabNoMilestones>
+  <MF_TabOpenAlbum>アルバムで開く</MF_TabOpenAlbum>
+  <MF_TabNoPhotos>{0}が写っている写真はまだありません。</MF_TabNoPhotos>
+  <MF_Kind_wedding>結婚式</MF_Kind_wedding>
+  <MF_Kind_party>パーティ / 祭り</MF_Kind_party>
+  <MF_Kind_funeral>葬式</MF_Kind_funeral>
+  <MF_Kind_ritual>儀式</MF_Kind_ritual>
+  <MF_Kind_baby>誕生</MF_Kind_baby>
+  <MF_Kind_death>追悼</MF_Kind_death>
+  <MF_Kind_recruit>リクルート</MF_Kind_recruit>
+  <MF_Kind_legendary>伝説級の作品</MF_Kind_legendary>
+  <MF_Kind_ship>宇宙船の発射</MF_Kind_ship>
+  <MF_Kind_gravship>グラヴシップの発射</MF_Kind_gravship>
+  <MF_Kind_mechboss>ボス撃破</MF_Kind_mechboss>
+  <MF_Kind_colonystart>最初の日</MF_Kind_colonystart>
+  <MF_Kind_mechlink>メカリンク</MF_Kind_mechlink>
+  <MF_Kind_relicfound>入手したレリック</MF_Kind_relicfound>
+  <MF_Kind_surgeryfail>手術の失敗</MF_Kind_surgeryfail>
+  <MF_Kind_xenogerm>異種胚の移植</MF_Kind_xenogerm>
+  <MF_Kind_sanguophage>サングオファージ</MF_Kind_sanguophage>
+  <MF_Kind_persona>ペルソナ武器</MF_Kind_persona>
+  <MF_Kind_title>称号の獲得</MF_Kind_title>
+  <MF_Kind_ideoreform>イデオロギーの改革</MF_Kind_ideoreform>
+  <MF_Kind_rareseen>珍しい獣</MF_Kind_rareseen>
+  <MF_Kind_raretamed>珍しい獣を手なずける</MF_Kind_raretamed>
+  <MF_Kind_anomaly>アノマリー</MF_Kind_anomaly>
+  <MF_Kind_contained>「存在」の収容</MF_Kind_contained>
+  <MF_Kind_ending>エンディング</MF_Kind_ending>
+  <MF_Kind_specialtree>神聖な木</MF_Kind_specialtree>
+  <MF_Kind_role>役割の任命</MF_Kind_role>
+  <MF_Kind_bestow>称号の授与</MF_Kind_bestow>
+  <MF_Kind_manual>スナップ写真</MF_Kind_manual>
+  <MF_Kind_test>テスト</MF_Kind_test>
+  <MF_Kind_reshoot>撮り直し</MF_Kind_reshoot>
+  <MF_Kind_anniversary>コロニー記念日</MF_Kind_anniversary>
+  <MF_Kind_population>人口の節目</MF_Kind_population>
+  <MF_Kind_landing>グラヴシップの着陸</MF_Kind_landing>
+  <MF_Reunion>同じ顔ぶれでもう一度</MF_Reunion>
+  <MF_ReunionDesc>この写真の入植者を同じ場所に呼び戻し、同じ構図でもう一度撮影します。来られない人は含まれません。</MF_ReunionDesc>
+  <MF_ReunionSub>{0}\nこの写真に写っている人を、撮影した場所へ呼び戻します。</MF_ReunionSub>
+  <MF_ReunionCall>{0}を呼ぶ</MF_ReunionCall>
+  <MF_ReunionNoOne>誰も来られません</MF_ReunionNoOne>
+  <MF_ReunionFailed>今は呼ぶことができません。</MF_ReunionFailed>
+  <MF_ReunionTitle>もう一度: {0}</MF_ReunionTitle>
+  <MF_Reunion_Ready>来られる</MF_Reunion_Ready>
+  <MF_Reunion_Dead>死亡</MF_Reunion_Dead>
+  <MF_Reunion_Gone>記録のみ</MF_Reunion_Gone>
+  <MF_Reunion_Away>このマップにいない</MF_Reunion_Away>
+  <MF_Reunion_NotOurs>もう仲間ではない</MF_Reunion_NotOurs>
+  <MF_Why_Dead>死亡</MF_Why_Dead>
+  <MF_Reshoot>同じ構図で撮り直す</MF_Reshoot>
+  <MF_ReshootQueued>予約しました: そのマップを表示している間に同じ構図で撮影します。</MF_ReshootQueued>
+  <MF_ReshootTitle>撮り直し: {0}</MF_ReshootTitle>
+  <MF_NoMapForReshoot>そのマップはもう存在しないため、同じ構図では撮れません。</MF_NoMapForReshoot>
+  <MF_ViewOriginal>元の写真を表示</MF_ViewOriginal>
+  <MF_ViewReshoot>撮り直しを表示</MF_ViewReshoot>
+  <MF_Anniversary>コロニー記念日: {0}年目</MF_Anniversary>
+  <MF_Population>入植者{0}人</MF_Population>
+  <MF_FirstLanding>初着陸: {0}</MF_FirstLanding>
+  <MF_Set_Historic>コロニー記念日、人口の節目 (10/20/30/50/100)、グラヴシップの初着陸</MF_Set_Historic>
+  <MF_Set_HistoricDesc>入植地の記念日ごと、コロニーが初めて10/20/30/50/100人に達したとき、Odysseyのグラヴシップが初めて着陸したときに、コロニー全体を撮影します。確認は1日1回です。</MF_Set_HistoricDesc>
+  <MF_Set_AnniversaryLetter>記念日の通知: 節目の写真からちょうど1年後に通知で届きます (写真ごとに1回、1日に最大1通)</MF_Set_AnniversaryLetter>
+  <MF_Set_AlbumTilt>アルバム: 写真を少し傾けて留める</MF_Set_AlbumTilt>
+  <MF_Set_ProjectorSeconds>映写機: 写真1枚あたり実時間{0}秒</MF_Set_ProjectorSeconds>
+  <MF_Set_ProjectorSecondsDesc>ゲーム内時間ではなく実時間なので、どの速度でもスライドショーのペースは同じです (900 TPSではゲーム内1時間が3秒)。ゲームが一時停止している間は時計も止まります。</MF_Set_ProjectorSecondsDesc>
+  <MF_Set_Reminisce>思い出話: 入植者は娯楽として飾られた写真を眺め、同じ写真に写っている2人がときどき一緒に思い出を語ります (「あのとき覚えてる?」)</MF_Set_Reminisce>
+  <MF_Set_ReminisceDesc>フレームに飾られた写真だけが対象です。自分が写っている写真を見たり、それについて語り合ったりすると、1日間心情+3を得ます。この記憶は一度に1つだけで、重なりません。</MF_Set_ReminisceDesc>
+  <MF_Rename>キャプション編集</MF_Rename>
+  <MF_RenameTitle>写真の下のキャプション (フレーム、アルバム、年代記、album.html)</MF_RenameTitle>
+  <MF_RenameEmpty>キャプションは空にできません。</MF_RenameEmpty>
+  <MF_Slot>場所 {0}</MF_Slot>
+  <MF_EmptySlot>空</MF_EmptySlot>
+  <MF_ChooseSlotDesc>4つの場所のうち1つに入れる写真を選びます。</MF_ChooseSlotDesc>
+  <MF_ClearSlotDesc>1つの場所から写真を外します。ファイルは残ります。</MF_ClearSlotDesc>
+  <MF_Html_kicker>Moment Frames · コロニーのアルバム</MF_Html_kicker>
+  <MF_Html_title>{0}のアルバム</MF_Html_title>
+  <MF_Html_statPhotos>写真{0}枚</MF_Html_statPhotos>
+  <MF_Html_statPeople>入植者{0}人</MF_Html_statPeople>
+  <MF_Html_statYears>{0}年間</MF_Html_statYears>
+  <MF_Html_statMilestones>大切な瞬間{0}件</MF_Html_statMilestones>
+  <MF_Html_chapterCount>瞬間{0}件</MF_Html_chapterCount>
+  <MF_Html_milestone>大切な瞬間</MF_Html_milestone>
+  <MF_Html_all>すべて</MF_Html_all>
+  <MF_Html_everyone>全員</MF_Html_everyone>
+  <MF_Html_slideshow>スライドショー</MF_Html_slideshow>
+  <MF_Html_pause>一時停止</MF_Html_pause>
+  <MF_Html_footer>Moment Frames で作ったアルバム · {0}</MF_Html_footer>
+  <MF_RenameEdit>版のタイトル</MF_RenameEdit>
+  <MF_EditNote>版のメモ</MF_EditNote>
+  <MF_RenameEditTitle>編集 {0} のタイトル (空欄なら写真のタイトルを使います):</MF_RenameEditTitle>
+  <MF_EditNoteTitle>編集 {0} のメモ (写真の文のままなら、写真の文を使い続けます):</MF_EditNoteTitle>
+  <MF_EditTextDesc>これらは画面上の編集版のタイトルとメモだけを変更します。写真自体のタイトルと文は、オリジナルで変更します (一覧の「オリジナル」をクリック)。</MF_EditTextDesc>
+  <MF_AlbumOpacity>不透明度</MF_AlbumOpacity>
+  <MF_AlbumOpacityDesc>アルバムの革と紙の濃さです。下げると本越しにコロニーが見えます。写真と文字は不透明のままです。ウィンドウの何もない場所をドラッグすると移動でき、右下隅からサイズを変更できます。</MF_AlbumOpacityDesc>
+  <MF_AlbumReset>アルバムを通常のサイズと位置に戻します。</MF_AlbumReset>
+  <MF_TalkPhotos>{0}が写っている写真: {1}</MF_TalkPhotos>
+  <MF_TalkPhoto>{0} ({1})</MF_TalkPhoto>
+  <MF_TalkPhotoWith>{0} ({1}、{2}と一緒に)</MF_TalkPhotoWith>
+  <MF_TalkAgo>{0}前</MF_TalkAgo>
+  <MF_PlacesToggle>思い出の場所: このマップで写真が撮られた場所すべてに写真ピンを表示します。</MF_PlacesToggle>
+  <MF_PlacesMore>...ほか{0}件</MF_PlacesMore>
+  <MF_PlacesThenNow>あの頃と今: {0}</MF_PlacesThenNow>
+  <MF_PlacesReshoot>ここで同じ構図で撮り直す: {0}</MF_PlacesReshoot>
+  <MF_ThenNowTitle>あの頃と今</MF_ThenNowTitle>
+  <MF_Then>あの頃</MF_Then>
+  <MF_Now>今</MF_Now>
+  <MF_SlotCrop>見える部分</MF_SlotCrop>
+  <MF_SlotCropDesc>窓で切れてしまう縦長やパノラマの写真で、どの部分を見せるかを選びます (上・中央・下、または左・中央・右)。</MF_SlotCropDesc>
+  <MF_SlotCropNone>このボードに大きく切れている写真はありません。</MF_SlotCropNone>
+  <MF_CropTitle>場所 {0}: 見せる部分</MF_CropTitle>
+  <MF_CropPrompt>窓でこの写真が切れています。見せる部分をクリックしてください。</MF_CropPrompt>
+  <MF_CropTop>上</MF_CropTop>
+  <MF_CropMiddle>中央</MF_CropMiddle>
+  <MF_CropBottom>下</MF_CropBottom>
+  <MF_CropLeft>左</MF_CropLeft>
+  <MF_CropRight>右</MF_CropRight>
+  <MF_CropRecommended>おすすめ</MF_CropRecommended>
+  <MF_CollageCount>写真: {0}/{1}</MF_CollageCount>
+  <MF_ProjectorShowing>上映中: {0} ({1}/{2})</MF_ProjectorShowing>
+  <MF_ProjectorIdle>このフィルムにはまだ写真がありません。</MF_ProjectorIdle>
+  <MF_ProjectorFilm>フィルムを選択</MF_ProjectorFilm>
+  <MF_ProjectorFilmDesc>映写機が順に映す写真を選びます。すべて、節目のみ、1つの種類、または1人の人物。</MF_ProjectorFilmDesc>
+  <MF_ProjectorFilmLine>フィルム: {0}</MF_ProjectorFilmLine>
+  <MF_FilmAll>すべての写真</MF_FilmAll>
+  <MF_FilmMilestones>節目のみ</MF_FilmMilestones>
+  <MF_FilmKind>種類: {0}</MF_FilmKind>
+  <MF_FilmPerson>人物: {0}</MF_FilmPerson>
+  <MF_ProjectorNext>次の写真</MF_ProjectorNext>
+  <MF_ProjectorNextDesc>今すぐフィルムの次の写真へ進みます。</MF_ProjectorNextDesc>
+  <MF_MemorialOf>{0}を偲んで</MF_MemorialOf>
+  <MF_MemorialNoGrave>隣の墓に遺体がありません。墓や石棺のそばに置くか、手動で写真を選んでください。</MF_MemorialNoGrave>
+  <MF_Set_Fade>色あせ: 飾った写真が年月とともに黄ばむ (優秀以上のフレームは半分の速さ)</MF_Set_Fade>
+  <MF_Set_FadeDesc>変色するのはマップ上のフレームだけです。ファイル、アルバム、ビューアーは元のままで、何も保存されません。昔のコロニーの写真は最初から半分ほど色あせています。開発者モードのデバッグアクション "Fade preview" を使うと、すべての写真を10年古くして表示します。</MF_Set_FadeDesc>
+  <MF_Set_FadeYears>色あせ: {0}年で完全に色あせる</MF_Set_FadeYears>
+  <MF_Kind_relic>昔のコロニーの写真</MF_Kind_relic>
+  <MF_Relics>昔のコロニー</MF_Relics>
+  <MF_RelicsDesc>別のコロニー (このPCの別のセーブ) で撮った写真をこのアルバムに取り込みます。人物の情報はなしで取り込まれ (別のセーブのポーンIDはここでは違う入植者を指してしまうため)、節目にも思い出話にも数えられません。</MF_RelicsDesc>
+  <MF_RelicTitle>昔のコロニーの写真</MF_RelicTitle>
+  <MF_RelicNoSources>他のコロニーの写真フォルダが見つかりません。ゲームごとに写真フォルダ内に専用のフォルダが作られ、このゲーム以外のすべてのフォルダを検索します: {0}</MF_RelicNoSources>
+  <MF_RelicSource>{0}\n写真{1}枚 · 取り込み済み{2}枚</MF_RelicSource>
+  <MF_RelicImportAll>残りの{0}枚を取り込む</MF_RelicImportAll>
+  <MF_RelicImported>取り込み済み</MF_RelicImported>
+  <MF_RelicClickToImport>クリックでこのアルバムに取り込む</MF_RelicClickToImport>
+  <MF_RelicImportedMsg>昔のコロニーの写真を{0}枚取り込みました。</MF_RelicImportedMsg>
+  <MF_RelicDesc>昔のコロニー「{0}」の写真。誰が写っているかは分からない。</MF_RelicDesc>
+  <MF_RelicDate>昔のコロニー · {0}</MF_RelicDate>
+  <MF_RelicUnknownColony>名前のないコロニー ({0})</MF_RelicUnknownColony>
+  <MF_GroupStart>集合写真 ({0})</MF_GroupStart>
+  <MF_GroupStartDesc>マップ上の入植者がこのスポットの後ろ (北側) に並んでカメラの方を向き、呼ばれた全員が静止したところで撮影されます。作業中、食事中、休憩中の人も手を止めて来ます。\n\n呼ばれない人: 就寝中、失神中、徴兵中、精神崩壊中の人、囚人、奴隷、赤ん坊、他の活動 (パーティ、儀式、キャラバン隊の編成) に拘束されている人、出血中、飢餓、疲労困憊、治療が必要な人、執刀医とその患者、手動で命じた作業をしている人。\n\n緊急事態 (火事、救助、治療) で誰かが一時的に離れることがありますが、後で戻ってきます。列を離れた人 (徴兵、失神、精神崩壊、手動の作業指示) は理由とともに通知され、可能になれば自分で戻ってきます。全員が揃うまで撮影されません。待つか、今いる人だけで撮るか (スポットの「今すぐ撮影」)、中止してください。2時間経つと、まだ来ていない人の名前がメッセージで示され、6時間経つと写真なしで列は解散します。脅威 (襲撃) や死者が出ると中止されます。写真はこのマップを見ている間にのみ撮影されます。\n\n撮影後も全員が列に残ります。「もう1枚撮影」でもう1枚撮るか、「解散」で解散させてください (6時間経つと自分で解散します)。「構図を設定」で写真に写す範囲をドラッグで指定できます。</MF_GroupStartDesc>
+  <MF_GroupShootNow>今すぐ撮影 ({0})</MF_GroupShootNow>
+  <MF_GroupShootNowDesc>残りの人を待たず、今位置についている人を撮影します。撮影後は解散させるまで全員が列に残ります。</MF_GroupShootNowDesc>
+  <MF_GroupNoOneInPlace>まだ誰も位置についていません</MF_GroupNoOneInPlace>
+  <MF_GroupNotViewing>集合写真: このマップを見ている間にのみ撮影できます。</MF_GroupNotViewing>
+  <MF_GroupWaiting>集合写真: {0}人がまだ位置についていません。撮影スポットの「今すぐ撮影」で、位置についている人を撮影できます。</MF_GroupWaiting>
+  <MF_GroupDropped>{0}が列を離れました: {1}</MF_GroupDropped>
+  <MF_GroupRejoined>{0}が列に戻りました。</MF_GroupRejoined>
+  <MF_GroupTimedOut>集合写真: 6時間経っても全員が揃わなかったため、列を解散しました。</MF_GroupTimedOut>
+  <MF_GroupStatusComing>移動中: {0}</MF_GroupStatusComing>
+  <MF_GroupStatusDropped>離脱: {0}</MF_GroupStatusDropped>
+  <MF_Why_Drafted>徴兵中</MF_Why_Drafted>
+  <MF_Why_Downed>失神</MF_Why_Downed>
+  <MF_Why_Mental>精神崩壊</MF_Why_Mental>
+  <MF_Why_Unfit>治療が必要、出血、飢餓、または疲労困憊</MF_Why_Unfit>
+  <MF_Why_Busy>手動で命じた作業</MF_Why_Busy>
+  <MF_Why_OtherMap>別のマップ</MF_Why_OtherMap>
+  <MF_Why_Left>立ち去った</MF_Why_Left>
+  <MF_GroupDefsMissing>MODファイルが破損しています (定義が不足)。使用できません</MF_GroupDefsMissing>
+  <MF_GroupNotViewed>集合写真: このマップが6時間表示されなかったため、写真なしで列を解散しました。</MF_GroupNotViewed>
+  <MF_GroupFailed>集合写真: 撮影を開始できなかったため、列を解散しました。</MF_GroupFailed>
+  <MF_GroupBusy>すでに集合写真を準備中です</MF_GroupBusy>
+  <MF_GroupDanger>脅威がある間はできません</MF_GroupDanger>
+  <MF_GroupNoOne>今は誰も並べません</MF_GroupNoOne>
+  <MF_GroupNoRoom>撮影スポットの後ろに場所がありません。北側に空き床が必要です。</MF_GroupNoRoom>
+  <MF_GroupLessRoom>撮影スポットの後ろには{0}人分の場所しかありません: {1}人中{0}人が並びます。</MF_GroupLessRoom>
+  <MF_GroupStarted>集合写真: {0}人が撮影スポットの後ろに集まります。</MF_GroupStarted>
+  <MF_GroupCancel>集合写真を中止</MF_GroupCancel>
+  <MF_GroupCancelDesc>全員を解放します。写真は撮られません。</MF_GroupCancelDesc>
+  <MF_GroupLeave>集合写真から外す</MF_GroupLeave>
+  <MF_GroupLeaveDesc>この人は列から離れ、残りの人で撮影します。</MF_GroupLeaveDesc>
+  <MF_GroupStatus>集合写真: {1}人中{0}人が位置についた</MF_GroupStatus>
+  <MF_GroupIdle>今なら{0}人が並びます</MF_GroupIdle>
+  <MF_GroupReport>集合写真のために集合中</MF_GroupReport>
+  <MF_GroupPhoto>集合写真: {0}人</MF_GroupPhoto>
+  <MF_GroupCancelled>集合写真を中止しました。</MF_GroupCancelled>
+  <MF_GroupCalledOff_Danger>集合写真を中止: 脅威が現れました。</MF_GroupCalledOff_Danger>
+  <MF_GroupCalledOff_NoOne>集合写真を中止: 位置についている人がいません。</MF_GroupCalledOff_NoOne>
+  <MF_GroupCalledOff_Killed>集合写真を中止: {0}が死亡しました。</MF_GroupCalledOff_Killed>
+  <MF_GroupCalledOff_SpotGone>集合写真を中止: 撮影スポットがなくなりました。</MF_GroupCalledOff_SpotGone>
+  <MF_Kind_group>集合写真</MF_Kind_group>
+  <MF_Tab_Gallery>ギャラリー</MF_Tab_Gallery>
+  <MF_EditDesc>説明文を編集</MF_EditDesc>
+  <MF_EditDescTitle>写真の下の文 (ギャラリー、年代記、album.html)</MF_EditDescTitle>
+  <MF_RoleRitual>役割の儀式: {0}</MF_RoleRitual>
+  <MF_BestowCeremony>授与式: {0}</MF_BestowCeremony>
+  <MF_Desc_Someone>入植者たち</MF_Desc_Someone>
+  <MF_Desc_wedding_1>{2}、{3}にて。みんなが集まる中、{0}が結婚した。</MF_Desc_wedding_1>
+  <MF_Desc_wedding_2>{0}の結婚式。この一日だけは、仕事も待ってくれた。</MF_Desc_wedding_2>
+  <MF_Desc_party_1>{1}が開いたパーティ。{3}の、にぎやかな{2}の夜。</MF_Desc_party_1>
+  <MF_Desc_party_2>{1}のパーティにみんな集まった。明日の心配は明日にまわした。</MF_Desc_party_2>
+  <MF_Desc_celebration_1>{1}が率いた{4}。{2}、{3}にて。</MF_Desc_celebration_1>
+  <MF_Desc_celebration_2>{3}で{4}が開かれた。しばらくはこの日の話が続くだろう。</MF_Desc_celebration_2>
+  <MF_Desc_funeral_1>{4}との別れ。{3}の人々は黙って立っていた。</MF_Desc_funeral_1>
+  <MF_Desc_funeral_2>{4}の葬式、{2}。残された者が最後の言葉をかけた。</MF_Desc_funeral_2>
+  <MF_Desc_ritual_1>{2}、{3}で行われた{4}。</MF_Desc_ritual_1>
+  <MF_Desc_ritual_2>{4}のために{3}の人々が集まった。</MF_Desc_ritual_2>
+  <MF_Desc_role_1>{1}が{4}になった。{2}、{3}にて。新しい責任が始まる。</MF_Desc_role_1>
+  <MF_Desc_role_2>今日から{1}は{3}の{4}だ。みんながその瞬間を見守った。</MF_Desc_role_2>
+  <MF_Desc_bestow_1>{1}は帝国のしきたりどおりにひざまずき、立ち上がって、{4}の称号を受けた。</MF_Desc_bestow_1>
+  <MF_Desc_bestow_2>{4}: {1}。帝国の使者が{3}に来た日。</MF_Desc_bestow_2>
+  <MF_Desc_baby_1>{1}が生まれた日。{3}の食卓に、またひとり。</MF_Desc_baby_1>
+  <MF_Desc_baby_2>{2}、{3}。{1}の最初の一日。</MF_Desc_baby_2>
+  <MF_Desc_death_1>{1}を偲んで。{2}、{3}にて。</MF_Desc_death_1>
+  <MF_Desc_death_2>{1}は逝ってしまった。これが最後の写真だ。</MF_Desc_death_2>
+  <MF_Desc_recruit_1>{1}は{3}の一員になった。</MF_Desc_recruit_1>
+  <MF_Desc_recruit_2>{2}、新しい顔、{1}が{3}に加わった。</MF_Desc_recruit_2>
+  <MF_Desc_legendary_1>{1}が、伝説として語り継がれる作品を仕上げた。</MF_Desc_legendary_1>
+  <MF_Desc_legendary_2>{1}の手による伝説級の品。{3}の誇りだ。</MF_Desc_legendary_2>
+  <MF_Desc_ship_1>宇宙船の発射。{3}の物語はここで終わる。あるいは、また始まる。</MF_Desc_ship_1>
+  <MF_Desc_gravship_1>グラヴシップが浮かび上がる直前。{2}、{3}にて。</MF_Desc_gravship_1>
+  <MF_Desc_gravship_2>出発前の最後の一枚。全員が乗り込んでいた。</MF_Desc_gravship_2>
+  <MF_Desc_mechboss_1>{3}がメカノイドの怪物を倒した日。</MF_Desc_mechboss_1>
+  <MF_Desc_mechboss_2>戦いが終わった場所。{2}、{3}。</MF_Desc_mechboss_2>
+  <MF_Desc_resurrect_1>{1}が戻ってきた。二度目の人生の最初の一日。</MF_Desc_resurrect_1>
+  <MF_Desc_reliquary_1>{3}のレリックが居場所を得た。{2}。</MF_Desc_reliquary_1>
+  <MF_Desc_monolith_1>モノリスが変化した。それが何を意味するのか、{3}の人々はまだ知らない。</MF_Desc_monolith_1>
+  <MF_Desc_anniversary_1>{3}の創設記念日。上から見た、私たちの家。</MF_Desc_anniversary_1>
+  <MF_Desc_anniversary_2>また一年、生き延びた。{3}、{2}。</MF_Desc_anniversary_2>
+  <MF_Desc_population_1>今では{3}を家と呼ぶ人がこれだけいる。{2}。</MF_Desc_population_1>
+  <MF_Desc_landing_1>{3}に初めて降り立った日。見知らぬ土地、新しい名前。</MF_Desc_landing_1>
+  <MF_Desc_group_1>{3}の人々が一堂に会した。{2}。</MF_Desc_group_1>
+  <MF_Desc_group_2>集合写真。この日のこの顔ぶれを覚えておくために。</MF_Desc_group_2>
+  <MF_LetterYearsAgo>{0}年前の今日: {1}</MF_LetterYearsAgo>
+  <MF_LetterText>{0}年前の今日、この写真が撮られました。\n\n{1}\n{2}\n人物: {3}</MF_LetterText>
+  <MF_Edit>編集</MF_Edit>
+  <MF_EditDesc2>この写真をトリミングしたりフィルターをかけたりして、新しい編集版として保存します。元の写真はそのままです。</MF_EditDesc2>
+  <MF_EditTitle>編集: {0}</MF_EditTitle>
+  <MF_EditFilter>フィルター</MF_EditFilter>
+  <MF_EditCrop>トリミング形状</MF_EditCrop>
+  <MF_EditLock_Free>自由</MF_EditLock_Free>
+  <MF_EditLock_Original>写真と同じ</MF_EditLock_Original>
+  <MF_EditLock_Square>正方形 1:1</MF_EditLock_Square>
+  <MF_EditLock_Wide>横長 3:2</MF_EditLock_Wide>
+  <MF_EditLock_Tall>縦長 2:3</MF_EditLock_Tall>
+  <MF_EditReset>やり直す</MF_EditReset>
+  <MF_EditSize>幅の{0}% · 高さの{1}% (比率 {2})</MF_EditSize>
+  <MF_EditSave>編集版として保存</MF_EditSave>
+  <MF_EditSaved>編集版を保存しました (No. {0})。アルバムとフレームにはこの版が表示されます。</MF_EditSaved>
+  <MF_EditFailed>編集版を保存できませんでした。元の写真ファイルがあるか確認してください。</MF_EditFailed>
+  <MF_EditCount>編集版 {0}件</MF_EditCount>
+  <MF_VersionOriginal>オリジナル</MF_VersionOriginal>
+  <MF_VersionEdit>編集 {0}</MF_VersionEdit>
+  <MF_UseVersion>これを表示</MF_UseVersion>
+  <MF_UseVersionDesc>アルバムのカード、フレーム、映写機、HTMLアルバムで、今見ている版を使います。</MF_UseVersionDesc>
+  <MF_DeleteEdit>この編集版を削除</MF_DeleteEdit>
+  <MF_DeleteEditConfirm>この編集版を削除しますか? ファイルも削除され、元に戻せません。まだこの版を使っているこのコロニーの他のセーブでも同様です。元の写真は残ります。</MF_DeleteEditConfirm>
+  <MF_Filter_none>なし</MF_Filter_none>
+  <MF_Filter_mono>白黒</MF_Filter_mono>
+  <MF_Filter_sepia>セピア</MF_Filter_sepia>
+  <MF_Filter_warm>暖色</MF_Filter_warm>
+  <MF_Filter_cool>寒色</MF_Filter_cool>
+  <MF_Filter_faded>色あせたプリント</MF_Filter_faded>
+  <MF_SpotFrame>構図を設定</MF_SpotFrame>
+  <MF_SpotFrameDesc>マップ上をドラッグして、このスポットで撮る集合写真の範囲を選びます (クリックで標準サイズ)。設定しない場合は、列に立つ人に合わせて収まります。白いマスは人が立つ場所、琥珀色の枠は写真に写る範囲です。</MF_SpotFrameDesc>
+  <MF_SpotFrameClear>自動の構図</MF_SpotFrameClear>
+  <MF_SpotFrameClearDesc>選んだ構図を取り消し、再び列に立つ人に合わせて収めます。</MF_SpotFrameClearDesc>
+  <MF_SpotFramed>構図: 手動で選択 ({0} × {1}マス)</MF_SpotFramed>
+  <MF_SpotAuto>構図: 自動 (列に合わせる)</MF_SpotAuto>
+  <MF_SpotFrameMisses>列のマスのうち{0}個が構図の外にあります。</MF_SpotFrameMisses>
+  <MF_GroupRetake>もう1枚撮影 ({0})</MF_GroupRetake>
+  <MF_GroupRetakeDesc>同じ列、同じ構図でもう1枚撮影します。前の写真はアルバムに残ります。</MF_GroupRetakeDesc>
+  <MF_GroupDismiss>解散</MF_GroupDismiss>
+  <MF_GroupDismissDesc>全員を元の作業に戻します。</MF_GroupDismissDesc>
+  <MF_GroupHolding>集合写真を撮影しました。全員が列に残っています。撮影スポットの「もう1枚撮影」か「解散」を使ってください。</MF_GroupHolding>
+  <MF_GroupStatusHolding>{0}枚撮影済み: 解散するまで列を維持します ({2}人中{1}人が位置についている)</MF_GroupStatusHolding>
+  <MF_GroupDismissed>集合写真の列を解散しました。</MF_GroupDismissed>
+  <MF_GroupHeldEnd_Danger>脅威が現れたため、集合写真の列が解散しました。</MF_GroupHeldEnd_Danger>
+  <MF_GroupHeldEnd_TimedOut>6時間解散の指示がなかったため、集合写真の列が解散しました。</MF_GroupHeldEnd_TimedOut>
+  <MF_Kind_journey>旅</MF_Kind_journey>
+  <MF_JourneyPlace>{0} ({1})</MF_JourneyPlace>
+  <MF_JourneyFirstBiome>{0}を初めて訪れる</MF_JourneyFirstBiome>
+  <MF_JourneyFirstBiomeLandmark>{0}を初めて訪れる: {1}</MF_JourneyFirstBiomeLandmark>
+  <MF_JourneyLandmark>{0}に到着</MF_JourneyLandmark>
+  <MF_JourneyAt>{0} — {1}</MF_JourneyAt>
+  <MF_Desc_journey_1>{1}たちが初めて{4}に降り立った。</MF_Desc_journey_1>
+  <MF_Desc_journey_2>{3}から遠く離れて: {4}。{2}。</MF_Desc_journey_2>
+  <MF_Desc_journey_3>{0}、見知らぬ土地に立つ。{4}。</MF_Desc_journey_3>
+  <MF_Set_Journey>新しい場所 (初めてのバイオーム、ランドマーク)</MF_Set_Journey>
+  <MF_Set_JourneyDesc>入植者がキャラバンで歩いて来ても、シャトルやグラヴシップで来ても、初めてのバイオームやランドマーク (Odyssey) のある場所に落ち着いたところで撮影します。乗ってきたグラヴシップの着陸を撮影した直後なら、2枚目は撮らず、その写真のタイトルに場所を加えます。</MF_Set_JourneyDesc>
+  <MF_Set_JourneyRoute>ワールドマップに初訪問の順序を表示</MF_Set_JourneyRoute>
+  <MF_Set_JourneyRouteDesc>すべての部隊の初訪問を時系列順に線で結びます。個々の移動経路ではなく、再訪も含みません。写真をクリックするとアルバムで開きます。</MF_Set_JourneyRouteDesc>
+  <MF_Kind_birthday>誕生日</MF_Kind_birthday>
+  <MF_BirthdayTitle>{0}が{1}歳に</MF_BirthdayTitle>
+  <MF_BirthdayLetterLabel>誕生日: {0}</MF_BirthdayLetterLabel>
+  <MF_BirthdayLetterText>今日、{0}が{1}歳になります。誕生日の写真を準備しますか?\n\n場所と招待客を選んでください。全員が到着すると自動で撮影されます。就寝中の招待客は呼ばれると起き、世話係が赤ん坊を撮影場所まで抱いて来られます。写真が保存されると招待客は戻ります。\n\n中止や失敗の後はこの通知を開き直してください。1日経っても、保管された通知からやり直せます。誕生日の写真はその人の年代記に入ります。</MF_BirthdayLetterText>
+  <MF_BirthdayHere>その場で撮影</MF_BirthdayHere>
+  <MF_BirthdaySpot>撮影スポットに呼ぶ</MF_BirthdaySpot>
+  <MF_BirthdayPick>マップで場所を選ぶ</MF_BirthdayPick>
+  <MF_BirthdaySkip>今回はやめておく</MF_BirthdaySkip>
+  <MF_BirthdayNoSpot>このマップに撮影スポットがありません。</MF_BirthdayNoSpot>
+  <MF_BirthdayGone>{0}は今撮影できません。</MF_BirthdayGone>
+  <MF_BirthdayDone>撮影済みです。</MF_BirthdayDone>
+  <MF_BirthdayCantCome>{0}は今来られません: {1}</MF_BirthdayCantCome>
+  <MF_BirthdayPickPrompt>整列の基準地点を選んでください。次のウィンドウで招待客と向きを選べます。右クリックでキャンセル。</MF_BirthdayPickPrompt>
+  <MF_Desc_birthday_1>{1}の誕生日。{2}、{3}にて。</MF_Desc_birthday_1>
+  <MF_Desc_birthday_2>ケーキはないけれど、写真はある。{1}の誕生日。</MF_Desc_birthday_2>
+  <MF_Desc_birthday_3>{1}とまた一年。{2}。</MF_Desc_birthday_3>
+  <MF_Set_Birthday>誕生日の写真</MF_Set_Birthday>
+  <MF_Set_BirthdayDesc>誕生日の写真はその人自身の年代記タブ (情報ウィンドウ) に入ります。アルバムでは既定で除かれ、「誕生日を含む」をオンにするか、フィルターを解除するか、その人物か種類「誕生日」で絞り込んだときに表示されます。コロニーの年代記と「1年前の今日」の通知には含まれません。</MF_Set_BirthdayDesc>
+  <MF_Set_BirthdayOff>オフ</MF_Set_BirthdayOff>
+  <MF_Set_BirthdayAsk>通知で尋ねる (撮るかどうか、どこで)</MF_Set_BirthdayAsk>
+  <MF_Set_BirthdayAuto>その場ですぐに撮影</MF_Set_BirthdayAuto>
+  <MF_Set_BirthdayEvery>{0}年ごとに1回 (成人となる誕生日は必ず)</MF_Set_BirthdayEvery>
+  <MF_Set_BirthdayFriends>呼び出すときは親しい人も一緒に来る (家族、パートナー、好感度+20以上)</MF_Set_BirthdayFriends>
+  <MF_Settings_Title>Moment Frames の設定</MF_Settings_Title>
+  <MF_Settings_Search>設定を検索</MF_Settings_Search>
+  <MF_Settings_SearchResults>全カテゴリーで{0}件の設定が見つかりました。</MF_Settings_SearchResults>
+  <MF_Settings_NoResults>一致する設定がありません。別の言葉を試してください。</MF_Settings_NoResults>
+  <MF_Settings_ExpandAll>すべて展開</MF_Settings_ExpandAll>
+  <MF_Settings_CollapseAll>すべて折りたたむ</MF_Settings_CollapseAll>
+  <MF_Settings_On>オン</MF_Settings_On>
+  <MF_Settings_Off>オフ</MF_Settings_Off>
+  <MF_Settings_Example>例を表示</MF_Settings_Example>
+  <MF_Settings_ExampleClose>例を隠す</MF_Settings_ExampleClose>
+  <MF_Settings_AutoCapture>自動撮影</MF_Settings_AutoCapture>
+  <MF_Settings_AutoCaptureHelp>選んだイベントを自動で撮影したり、誕生日の写真を提案したりします。これがオフでも、手動撮影と集合写真は使えます。</MF_Settings_AutoCaptureHelp>
+  <MF_Settings_ManualOnly>手動撮影のみ</MF_Settings_ManualOnly>
+  <MF_Settings_AutoDisabled>自動撮影はオフです。選択内容は保持され、再びオンにすると適用されます。</MF_Settings_AutoDisabled>
+  <MF_Settings_EnabledCount>{0}/{1}件有効</MF_Settings_EnabledCount>
+  <MF_Settings_StoredChoices>選択を保持中</MF_Settings_StoredChoices>
+  <MF_Settings_Presets>残す瞬間の数</MF_Settings_Presets>
+  <MF_Settings_PresetImportant>主要な瞬間</MF_Settings_PresetImportant>
+  <MF_Settings_PresetNormal>バランス</MF_Settings_PresetNormal>
+  <MF_Settings_PresetRich>たっぷり</MF_Settings_PresetRich>
+  <MF_Settings_PresetCustom>カスタム設定</MF_Settings_PresetCustom>
+  <MF_Settings_PresetDefault>元の標準</MF_Settings_PresetDefault>
+  <MF_Settings_PresetUndo>プリセットを元に戻す</MF_Settings_PresetUndo>
+  <MF_Settings_PresetImportantHint>主要なイベントと節目。誕生日は5年ごと、戦いは種類ごとの最初の1回。</MF_Settings_PresetImportantHint>
+  <MF_Settings_PresetNormalHint>イベントを中心に。誕生日は2年ごと、戦いは最初の1回と激戦。</MF_Settings_PresetNormalHint>
+  <MF_Settings_PresetRichHint>元の標準設定。誕生日は毎年、さらにパーティ、空の現象、伝説級の製作。</MF_Settings_PresetRichHint>
+  <MF_Settings_PresetHelp>変更されるのは自動イベントの選択と間隔だけです。誕生日のモードと同行者、演出、外観、思い出、保存先はそのままです。</MF_Settings_PresetHelp>
+  <MF_Settings_BirthdayDisabled>この設定を使うには誕生日の写真を有効にしてください。</MF_Settings_BirthdayDisabled>
+  <MF_Settings_RecruitDisabled>この設定を使うにはリクルートの写真を有効にしてください。</MF_Settings_RecruitDisabled>
+  <MF_Settings_FadeDisabled>この設定を使うにはフレームの色あせを有効にしてください。</MF_Settings_FadeDisabled>
+  <MF_Settings_RitualDisabled>宗教儀式の写真が有効なときに適用されます。</MF_Settings_RitualDisabled>
+  <MF_Settings_UnitYears>年</MF_Settings_UnitYears>
+  <MF_Settings_UnitCells>マス</MF_Settings_UnitCells>
+  <MF_Settings_UnitPixels>px/マス</MF_Settings_UnitPixels>
+  <MF_Settings_UnitZoom>×</MF_Settings_UnitZoom>
+  <MF_Settings_UnitSeconds>秒</MF_Settings_UnitSeconds>
+  <MF_Settings_AlbumPreview>アルバムのプレビュー</MF_Settings_AlbumPreview>
+  <MF_Settings_PreviewTitle>私たちのコロニーの思い出</MF_Settings_PreviewTitle>
+  <MF_Settings_PreviewBody>共に過ごした日々を、一枚ずつ。</MF_Settings_PreviewBody>
+  <MF_Settings_PreviewCaption>コロニーの写真</MF_Settings_PreviewCaption>
+  <MF_Settings_FramingTitle>フレームにどのくらい収めますか?</MF_Settings_FramingTitle>
+  <MF_Settings_FramingWide>クリック撮影 · 広い範囲</MF_Settings_FramingWide>
+  <MF_Settings_FramingNear>クリック撮影 · 狭い範囲</MF_Settings_FramingNear>
+  <MF_Settings_ZoomWide>自動撮影 · 標準ズーム</MF_Settings_ZoomWide>
+  <MF_Settings_ZoomNear>自動撮影 · 近いズーム</MF_Settings_ZoomNear>
+  <MF_Settings_FramingNote>構図のイメージ図です。クリック撮影の範囲が大きいほど周囲も多く写ります。ドラッグ撮影では選んだ範囲を使います。</MF_Settings_FramingNote>
+  <MF_Settings_NightTitle>夜の写真をどう見せますか?</MF_Settings_NightTitle>
+  <MF_Settings_NightOff>オフ · 元の夜の雰囲気</MF_Settings_NightOff>
+  <MF_Settings_NightOn>オン · 人を見やすくする</MF_Settings_NightOn>
+  <MF_Settings_NightNote>明るさのイメージ図です。新しい写真に適用され、既存の写真は変わりません。災害や、オーロラや日食などの空の被写体は元の光のままです。</MF_Settings_NightNote>
+  <MF_Settings_ReactionsTitle>リアクションをどこに表示しますか?</MF_Settings_ReactionsTitle>
+  <MF_Settings_ReactionsMap>マップ上のみ · 標準</MF_Settings_ReactionsMap>
+  <MF_Settings_ReactionsPhoto>写真にも保存</MF_Settings_ReactionsPhoto>
+  <MF_Settings_ReactionsNote>実際に保存された写真の例です。一部の写真では、起きている入植者が最大3人、実時間で約1秒リアクションします。赤ん坊、就寝中、失神中、徴兵中、精神不安定、フレーム外の入植者は除きます。</MF_Settings_ReactionsNote>
+  <MF_Settings_StorageHint>写真フォルダを変更しても既存の写真は移動されません。</MF_Settings_StorageHint>
+  <MF_Settings_PreviewUnavailable>例の写真を読み込めませんでした。</MF_Settings_PreviewUnavailable>
+  <MF_Settings_StylePreview>アルバムのプレビュー</MF_Settings_StylePreview>
+  <MF_Settings_PreviewHint>テーマ、フォント、文字サイズをここでプレビューします。</MF_Settings_PreviewHint>
+  <MF_Settings_PreviewSample>共に過ごした日々を、一枚ずつ。</MF_Settings_PreviewSample>
+  <MF_Settings_FramingHint>クリック撮影の範囲が大きいほど周囲も多く写ります。</MF_Settings_FramingHint>
+  <MF_Settings_NightHint>新しい写真に適用されます。災害や、オーロラや日食などの空の被写体は元の光のままです。</MF_Settings_NightHint>
+  <MF_Settings_ReactionsHint>一部の写真では、起きている入植者が最大3人、約1秒リアクションします。赤ん坊、就寝中、失神中、徴兵中、精神不安定、フレーム外の入植者は除きます。</MF_Settings_ReactionsHint>
+  <MF_Settings_Fewer>近く</MF_Settings_Fewer>
+  <MF_Settings_Wider>広く</MF_Settings_Wider>
+  <MF_Settings_Natural>元の光</MF_Settings_Natural>
+  <MF_Settings_Bright>人を明るく</MF_Settings_Bright>
+  <MF_Settings_After>マップのみ · 標準</MF_Settings_After>
+  <MF_Settings_WithPhoto>写真にも</MF_Settings_WithPhoto>
+  <MF_Settings_ExampleDiagram>効果のイメージ図です。</MF_Settings_ExampleDiagram>
+  <MF_Settings_Category_capture>自動撮影</MF_Settings_Category_capture>
+  <MF_Settings_Hint_capture>残す瞬間を選び、必要に応じて設定を開きます。</MF_Settings_Hint_capture>
+  <MF_Settings_Category_photo>写真と演出</MF_Settings_Category_photo>
+  <MF_Settings_Hint_photo>構図、画質、シャッター時の演出を選びます。</MF_Settings_Hint_photo>
+  <MF_Settings_Category_appearance>アルバムの外観</MF_Settings_Category_appearance>
+  <MF_Settings_Hint_appearance>テーマとフォントをプレビューし、読みやすい文字サイズを選びます。</MF_Settings_Hint_appearance>
+  <MF_Settings_Category_memories>思い出と通知</MF_Settings_Category_memories>
+  <MF_Settings_Hint_memories>入植者の写真の共有や、過去の瞬間の振り返り方を選びます。</MF_Settings_Hint_memories>
+  <MF_Settings_Category_storage>保存先と詳細</MF_Settings_Category_storage>
+  <MF_Settings_Hint_storage>写真フォルダと、追加で除外する儀式を選びます。</MF_Settings_Hint_storage>
+  <MF_Settings_Group_birthdays>誕生日の写真</MF_Settings_Group_birthdays>
+  <MF_Settings_Group_people>人物と日常</MF_Settings_Group_people>
+  <MF_Settings_Group_gatherings>集まりと儀式</MF_Settings_Group_gatherings>
+  <MF_Settings_Group_combat>戦いと災害</MF_Settings_Group_combat>
+  <MF_Settings_Group_discoveries>発見と旅</MF_Settings_Group_discoveries>
+  <MF_Settings_Group_milestones>コロニーの節目</MF_Settings_Group_milestones>
+  <MF_Settings_Group_framing>構図と画質</MF_Settings_Group_framing>
+  <MF_Settings_Group_effects>シャッターと画面</MF_Settings_Group_effects>
+  <MF_Settings_Group_reactions>写真のリアクション</MF_Settings_Group_reactions>
+  <MF_Settings_Group_style>アルバムの外観</MF_Settings_Group_style>
+  <MF_Settings_Group_layout>写真の配置</MF_Settings_Group_layout>
+  <MF_Settings_Group_viewing>投影と鑑賞</MF_Settings_Group_viewing>
+  <MF_Settings_Group_chronicles>年代記と通知</MF_Settings_Group_chronicles>
+  <MF_Settings_Group_location>保存先</MF_Settings_Group_location>
+  <MF_Settings_Group_exclusions>追加の除外</MF_Settings_Group_exclusions>
+  <MF_Settings_Label_birthdayMode>誕生日の写真</MF_Settings_Label_birthdayMode>
+  <MF_Settings_Help_birthdayMode>撮影場所を尋ねる通知か、入植者がいる場所での即時撮影かを選びます。</MF_Settings_Help_birthdayMode>
+  <MF_Settings_Label_birthdayEvery>誕生日の間隔</MF_Settings_Label_birthdayEvery>
+  <MF_Settings_Help_birthdayEvery>選んだ年数ごとに撮影します。成人となる誕生日は必ず撮影します。</MF_Settings_Help_birthdayEvery>
+  <MF_Settings_Label_birthdayFriends>親しい人を連れてくる</MF_Settings_Label_birthdayFriends>
+  <MF_Settings_Help_birthdayFriends>誕生日に集まるとき、家族、恋人、好感度+20以上の人を標準で選択します。</MF_Settings_Help_birthdayFriends>
+  <MF_Settings_Label_msBaby>誕生</MF_Settings_Label_msBaby>
+  <MF_Settings_Help_msBaby>新生児の誕生を自動で撮影します。</MF_Settings_Help_msBaby>
+  <MF_Settings_Label_msDeath>入植者の死</MF_Settings_Label_msDeath>
+  <MF_Settings_Help_msDeath>入植者の死を写真に記録します。</MF_Settings_Help_msDeath>
+  <MF_Settings_Label_msRecruit>新しいリクルート</MF_Settings_Label_msRecruit>
+  <MF_Settings_Help_msRecruit>新しくリクルートした入植者を撮影します。</MF_Settings_Help_msRecruit>
+  <MF_Settings_Label_msRecruitFirstOnly>最初のリクルートのみ</MF_Settings_Label_msRecruitFirstOnly>
+  <MF_Settings_Help_msRecruitFirstOnly>リクルートの写真をコロニーの最初のリクルートに限ります。</MF_Settings_Help_msRecruitFirstOnly>
+  <MF_Settings_Label_msResurrect>入植者の蘇生</MF_Settings_Label_msResurrect>
+  <MF_Settings_Help_msResurrect>入植者ごとに最初の蘇生を1回記録します。</MF_Settings_Help_msResurrect>
+  <MF_Settings_Label_msPersonal>個人の節目</MF_Settings_Label_msPersonal>
+  <MF_Settings_Help_msPersonal>手術の大失敗、サングオファージになること、異種胚、ペルソナ武器、高い称号などの個人の節目を記録します。</MF_Settings_Help_msPersonal>
+  <MF_Settings_Label_capturePetArrivals>ペットのお迎え</MF_Settings_Label_capturePetArrivals>
+  <MF_Settings_Help_capturePetArrivals>新しく所有した動物で、名前、絆、主人のいるものを1回撮影します。</MF_Settings_Help_capturePetArrivals>
+  <MF_Settings_Label_captureWeddings>結婚式</MF_Settings_Label_captureWeddings>
+  <MF_Settings_Help_captureWeddings>結婚式を自動で撮影します。</MF_Settings_Help_captureWeddings>
+  <MF_Settings_Label_captureParties>パーティと祝典</MF_Settings_Label_captureParties>
+  <MF_Settings_Help_captureParties>パーティ、祝典、天灯祭、木の祭りを撮影します。</MF_Settings_Help_captureParties>
+  <MF_Settings_Label_captureFunerals>葬式</MF_Settings_Label_captureFunerals>
+  <MF_Settings_Help_captureFunerals>葬式を自動で撮影します。</MF_Settings_Help_captureFunerals>
+  <MF_Settings_Label_captureRituals>宗教儀式</MF_Settings_Label_captureRituals>
+  <MF_Settings_Help_captureRituals>裁判、処刑、改宗、生贄、決闘、木々との繋がりを記録します。繰り返される儀式の一部は除きます。</MF_Settings_Help_captureRituals>
+  <MF_Settings_Label_msRole>イデオロギーの役割の任命</MF_Settings_Label_msRole>
+  <MF_Settings_Help_msRole>リーダー、モラルガイド、スペシャリストの就任を記録します。</MF_Settings_Help_msRole>
+  <MF_Settings_Label_msBestow>授与式</MF_Settings_Label_msBestow>
+  <MF_Settings_Help_msBestow>授与式を撮影します。</MF_Settings_Help_msBestow>
+  <MF_Settings_Label_msRelic>レリックの安置</MF_Settings_Label_msRelic>
+  <MF_Settings_Help_msRelic>イデオロギーのレリックごとに、聖遺物箱への安置を1回記録します。</MF_Settings_Help_msRelic>
+  <MF_Settings_Label_battleMode>生き延びた戦い</MF_Settings_Label_battleMode>
+  <MF_Settings_Help_battleMode>種類ごとの最初の戦いを記録します。2回目以降の動物の群れは、その戦いで新たな負傷 (負傷の深刻度が5以上増加)、新たな出血、失神、死亡が必要です。その他の戦いは、敵の数がコロニーの人口に達した場合にも対象になります。2回目以降の激戦は15日の間隔を共有します。「勝ったすべての戦い」はこれらの制限を無視します。</MF_Settings_Help_battleMode>
+  <MF_Settings_Label_msMechBoss>メカノイドのボス撃破</MF_Settings_Label_msMechBoss>
+  <MF_Settings_Help_msMechBoss>メカノイドのボスの撃破を記録します。</MF_Settings_Help_msMechBoss>
+  <MF_Settings_Label_msDisaster>災害</MF_Settings_Label_msDisaster>
+  <MF_Settings_Help_msDisaster>災害のさなかに昼間のコロニーを広く撮影します。種類ごとの最初の1回の後は、季節に最大1回です。</MF_Settings_Help_msDisaster>
+  <MF_Settings_Label_msSky>空の現象</MF_Settings_Label_msSky>
+  <MF_Settings_Help_msSky>オーロラ、光る胞子、日食のときに屋外の入植者を撮影します。</MF_Settings_Help_msSky>
+  <MF_Settings_Label_msMechlink>メカリンクの装着</MF_Settings_Label_msMechlink>
+  <MF_Settings_Help_msMechlink>Biotechのメカリンク装着を入植者ごとに1回記録します。</MF_Settings_Help_msMechlink>
+  <MF_Settings_Label_msRelicFound>レリックの入手</MF_Settings_Label_msRelicFound>
+  <MF_Settings_Help_msRelicFound>新しく入手したレリックを記録します。</MF_Settings_Help_msRelicFound>
+  <MF_Settings_Label_msRareAnimal>珍しい動物</MF_Settings_Label_msRareAnimal>
+  <MF_Settings_Help_msRareAnimal>アルファスランボやハイブクイーンとの最初の遭遇や手なずけを記録します。</MF_Settings_Help_msRareAnimal>
+  <MF_Settings_Label_msAnomaly>アノマリー</MF_Settings_Label_msAnomaly>
+  <MF_Settings_Help_msAnomaly>Anomalyの奇妙な生物や物体を種類ごとに初めて目撃したとき、そして最初の「存在」の収容を記録します。</MF_Settings_Help_msAnomaly>
+  <MF_Settings_Label_msMonolith>モノリスのレベル変化</MF_Settings_Label_msMonolith>
+  <MF_Settings_Help_msMonolith>Anomalyのモノリスが新しいレベルに進むと記録します。</MF_Settings_Help_msMonolith>
+  <MF_Settings_Label_msJourney>新しい場所</MF_Settings_Label_msJourney>
+  <MF_Settings_Help_msJourney>初めて訪れたバイオームやランドマークに落ち着いた入植者を撮影します。</MF_Settings_Help_msJourney>
+  <MF_Settings_Label_msColonyStart>コロニーの最初の日</MF_Settings_Label_msColonyStart>
+  <MF_Settings_Help_msColonyStart>開始時の入植者全員がドロップポッドから出た後、最初の写真を撮影します。</MF_Settings_Help_msColonyStart>
+  <MF_Settings_Label_msLegendary>伝説級の製作</MF_Settings_Label_msLegendary>
+  <MF_Settings_Help_msLegendary>伝説級の品質で製作された品を記録します。</MF_Settings_Help_msLegendary>
+  <MF_Settings_Label_msShip>宇宙船とグラヴシップの出発</MF_Settings_Label_msShip>
+  <MF_Settings_Help_msShip>宇宙船やグラヴシップの発射を記録します。</MF_Settings_Help_msShip>
+  <MF_Settings_Label_msHistoric>記念日と人口</MF_Settings_Label_msHistoric>
+  <MF_Settings_Help_msHistoric>コロニーの記念日、初めて入植者が10/20/30/50/100人に達した節目、グラヴシップの初着陸を記録します。</MF_Settings_Help_msHistoric>
+  <MF_Settings_Label_msEnding>エンディングの節目</MF_Settings_Label_msEnding>
+  <MF_Settings_Help_msEnding>宇宙船のカウントダウン、貴族のエンディング、アルコネクサス、メカハイブのコアなどのエンディングの節目を記録します。</MF_Settings_Help_msEnding>
+  <MF_Settings_Label_spanCells>クリック撮影の範囲</MF_Settings_Label_spanCells>
+  <MF_Settings_Help_spanCells>シングルクリックで撮影するときの標準範囲です。範囲が大きいほど多く写ります。ドラッグ撮影では選んだ範囲を使います。</MF_Settings_Help_spanCells>
+  <MF_Settings_Label_photoFormat>写真のファイル形式</MF_Settings_Label_photoFormat>
+  <MF_Settings_Help_photoFormat>新しく撮る写真のファイル形式です。JPGはサイズが約4分の1で、通常の拡大率では同じに見えます。PNGはすべての画素をそのまま残しますが、ディスク容量をずっと多く使います。撮影済みの写真は元の形式のままです。</MF_Settings_Help_photoFormat>
+  <MF_Settings_Option_photoFormat_0>JPG（小さめ）</MF_Settings_Option_photoFormat_0>
+  <MF_Settings_Option_photoFormat_1>PNG（無劣化）</MF_Settings_Option_photoFormat_1>
+  <MF_Settings_Label_pxPerCell>写真の解像度</MF_Settings_Label_pxPerCell>
+  <MF_Settings_Help_pxPerCell>同じ構図のまま、オリジナルの解像度を選びます。標準は1マスあたり192ピクセルで、近づいて見たりトリミングしたりできます。値を上げると撮影時間、保存時間、ファイルサイズが増えます。1辺の上限は4096ピクセルで、入植地の全景写真には別の解像度設定があります。</MF_Settings_Help_pxPerCell>
+  <MF_Settings_Label_eventZoom>イベント写真のズーム</MF_Settings_Label_eventZoom>
+  <MF_Settings_Help_eventZoom>自動でフレーミングされるイベント写真を調整します。倍率が大きいほど人物に近づきます。</MF_Settings_Help_eventZoom>
+  <MF_Settings_Label_brightPhotos>夜の写真を明るく</MF_Settings_Label_brightPhotos>
+  <MF_Settings_Help_brightPhotos>新しい写真を昼間の明るさで保存します。災害や、オーロラや日食などの空の被写体は元の光のままです。</MF_Settings_Help_brightPhotos>
+  <MF_Settings_Label_fxFlash>フラッシュ</MF_Settings_Label_fxFlash>
+  <MF_Settings_Help_fxFlash>撮影時に画面を一瞬白く光らせます。</MF_Settings_Help_fxFlash>
+  <MF_Settings_Label_fxShutter>シャッター音</MF_Settings_Label_fxShutter>
+  <MF_Settings_Help_fxShutter>撮影時にシャッター音を鳴らします。</MF_Settings_Help_fxShutter>
+  <MF_Settings_Label_fxPopup>フォトカード</MF_Settings_Label_fxPopup>
+  <MF_Settings_Help_fxPopup>新しい写真が画面中央から一時的なカードへ縮小します。クリックすると大きく表示します。</MF_Settings_Help_fxPopup>
+  <MF_Settings_Label_fxFreeze>フリーズフレーム</MF_Settings_Label_fxFreeze>
+  <MF_Settings_Help_fxFreeze>選択中のゲーム速度は変えず、シャッター時にゲームを約0.5秒止めます。</MF_Settings_Help_fxFreeze>
+  <MF_Settings_Label_fxCamera>視点を撮影地点へ移動</MF_Settings_Label_fxCamera>
+  <MF_Settings_Help_fxCamera>イベントや節目の自動撮影で、視点を撮影地点へ移動して構図に合わせます。</MF_Settings_Help_fxCamera>
+  <MF_Settings_Label_captureReactionMode>入植者のちょっとしたリアクション</MF_Settings_Label_captureReactionMode>
+  <MF_Settings_Help_captureReactionMode>誕生日を含む一部の写真で、数人の入植者が短くリアクションします。標準ではシャッター後にマップ上に表示され、新しい写真に保存することもできます。</MF_Settings_Help_captureReactionMode>
+  <MF_Settings_Label_albumTheme>テーマ</MF_Settings_Label_albumTheme>
+  <MF_Settings_Help_albumTheme>アルバム、個人の年代記、1年の振り返りの外観を選びます。フォントと文字サイズはそのままです。</MF_Settings_Help_albumTheme>
+  <MF_Settings_Label_albumFont>フォント</MF_Settings_Label_albumFont>
+  <MF_Settings_Help_albumFont>テーマの標準フォントを使うか、別のフォントを選びます。</MF_Settings_Help_albumFont>
+  <MF_Settings_Label_albumTextSize>文字サイズ</MF_Settings_Label_albumTextSize>
+  <MF_Settings_Help_albumTextSize>アルバム、個人の年代記、1年の振り返りの文字サイズを選びます。</MF_Settings_Help_albumTextSize>
+  <MF_Settings_Label_albumAppearanceReset>アルバムの外観をリセット</MF_Settings_Label_albumAppearanceReset>
+  <MF_Settings_Help_albumAppearanceReset>グラファイトの日誌テーマ、テーマの標準フォント、文字サイズ100%に戻します。</MF_Settings_Help_albumAppearanceReset>
+  <MF_Settings_Label_albumTilt>写真を少し傾ける</MF_Settings_Label_albumTilt>
+  <MF_Settings_Help_albumTilt>アルバムの写真を少し傾けて配置します。</MF_Settings_Help_albumTilt>
+  <MF_Settings_Label_fade>フレームの写真を経年変化させる</MF_Settings_Label_fade>
+  <MF_Settings_Help_fade>色あせるのはマップ上のフレームに飾られた写真だけです。元のファイルとアルバムは変わりません。</MF_Settings_Help_fade>
+  <MF_Settings_Label_fadeYears>完全に色あせるまでの時間</MF_Settings_Label_fadeYears>
+  <MF_Settings_Help_fadeYears>普通のフレームが完全に色あせるまでの年数です。傑作以上のフレームは半分の速さで色あせます。</MF_Settings_Help_fadeYears>
+  <MF_Settings_Label_memoryNight>自動の思い出の夜</MF_Settings_Label_memoryNight>
+  <MF_Settings_Help_memoryNight>入植者がときどき夕方に映写機のそばに集まります。手動のボタンは引き続き使えます。</MF_Settings_Help_memoryNight>
+  <MF_Settings_Label_projectorSeconds>スライドの間隔</MF_Settings_Label_projectorSeconds>
+  <MF_Settings_Help_projectorSeconds>写真1枚あたりの実時間の秒数で、ゲーム速度に左右されません。ゲームが止まると間隔も止まります。</MF_Settings_Help_projectorSeconds>
+  <MF_Settings_Label_reminisce>入植者の思い出の鑑賞</MF_Settings_Label_reminisce>
+  <MF_Settings_Help_reminisce>入植者は娯楽として飾られた写真を眺め、同じ写真に写っている人がときどき一緒に思い出を語ります。</MF_Settings_Help_reminisce>
+  <MF_Settings_Label_chronicleTab>年代記タブ</MF_Settings_Label_chronicleTab>
+  <MF_Settings_Help_chronicleTab>人物を選んだときに年代記タブを表示します。オフにしてもタブが消えるだけで、写真と記録は残ります。</MF_Settings_Help_chronicleTab>
+  <MF_Settings_Label_lifeEvents>年代記の人生の出来事</MF_Settings_Label_lifeEvents>
+  <MF_Settings_Help_lifeEvents>加入、恋愛、絆、別離、連れ去り、手足の喪失など、写真のない瞬間を個人の年代記に記録します。</MF_Settings_Help_lifeEvents>
+  <MF_Settings_Label_yearLetter>写真で見る1年の通知</MF_Settings_Label_yearLetter>
+  <MF_Settings_Help_yearLetter>年の変わり目に、去年の写真と瞬間を振り返る通知を受け取ります。</MF_Settings_Help_yearLetter>
+  <MF_Settings_Label_msAnniversaryLetter>1年前の今日の通知</MF_Settings_Label_msAnniversaryLetter>
+  <MF_Settings_Help_msAnniversaryLetter>同じ暦の日付でちょうど1年後に、対象となる最も古い節目の写真を表示します。各写真は1回だけ使われ、通知は1日に最大1通です。再読み込み後も同様です。</MF_Settings_Help_msAnniversaryLetter>
+  <MF_Settings_Label_journeyRoute>ワールドマップの写真と旅</MF_Settings_Label_journeyRoute>
+  <MF_Settings_Help_journeyRoute>入植者が訪れた場所を線で結び、撮影した場所に写真のピンを立てます。</MF_Settings_Help_journeyRoute>
+  <MF_Settings_Label_folderOverride>写真フォルダ</MF_Settings_Label_folderOverride>
+  <MF_Settings_Help_folderOverride>空欄なら標準のフォルダを使います。既存の写真は移動されないため、フォルダを変更すると見つからない状態で表示されることがあります。</MF_Settings_Help_folderOverride>
+  <MF_Settings_Label_ritualExclude>追加で除外する儀式</MF_Settings_Label_ritualExclude>
+  <MF_Settings_Help_ritualExclude>撮影しない儀式のdefNameをカンマで区切って入力します。</MF_Settings_Help_ritualExclude>
+  <MF_Settings_Option_birthdayMode_0>オフ</MF_Settings_Option_birthdayMode_0>
+  <MF_Settings_Option_birthdayMode_1>通知で尋ねる</MF_Settings_Option_birthdayMode_1>
+  <MF_Settings_Option_birthdayMode_2>その場で撮影</MF_Settings_Option_birthdayMode_2>
+  <MF_Settings_Option_battleMode_0>オフ</MF_Settings_Option_battleMode_0>
+  <MF_Settings_Option_battleMode_1>種類ごとの最初</MF_Settings_Option_battleMode_1>
+  <MF_Settings_Option_battleMode_2>最初と激戦</MF_Settings_Option_battleMode_2>
+  <MF_Settings_Option_battleMode_3>生き延びたすべての戦い</MF_Settings_Option_battleMode_3>
+  <MF_Settings_Option_captureReactionMode_1>シャッター後にマップ</MF_Settings_Option_captureReactionMode_1>
+  <MF_Settings_Option_captureReactionMode_2>写真にも</MF_Settings_Option_captureReactionMode_2>
+  <MF_Settings_Option_captureReactionMode_0>オフ</MF_Settings_Option_captureReactionMode_0>
+  <MF_Settings_ZoomHint>イベントのズームを大きくすると人物に近づきます。基本の構図はグループで決まります。</MF_Settings_ZoomHint>
+  <MF_Settings_RealPhotoExample>同じ実際の誕生日写真を2通りにトリミングしたものです。</MF_Settings_RealPhotoExample>
+  <MF_Settings_BrightnessSample>同じ写真の明るさを比較したイメージです。実際の夜の結果はその場の照明によります。</MF_Settings_BrightnessSample>
+  <MF_Settings_ReactionEnlarged>リアクションが見えるよう、人物の周りを拡大しています。</MF_Settings_ReactionEnlarged>
+  <MF_Settings_EnlargeExample>写真をクリックすると拡大します。</MF_Settings_EnlargeExample>
+  <MF_Learn_Title>使い方</MF_Learn_Title>
+  <MF_Learn_home>はじめに</MF_Learn_home>
+  <MF_Learn_SetupOptions>位置と表情 ↓</MF_Learn_SetupOptions>
+  <MF_Learn_Intro>いつも通りプレイして、写真はアルバムで見返しましょう。自分で撮ったり飾ったりしたいときはガイドを選んでください。</MF_Learn_Intro>
+  <MF_Learn_EmptyAuto>自動撮影はオンです。有効なイベントの写真がここに追加されます。今すぐ自分で撮ることもできます。</MF_Learn_EmptyAuto>
+  <MF_Learn_EmptyManual>自動撮影はオフです。手動で撮った写真がここに表示されます。カメラツールを使い、撮影したい範囲をドラッグしてください。</MF_Learn_EmptyManual>
+  <MF_Learn_Manual>写真撮影</MF_Learn_Manual>
+  <MF_Learn_Group>集合写真の準備</MF_Learn_Group>
+  <MF_Learn_Album>アルバムを開く</MF_Learn_Album>
+  <MF_Learn_Layout>位置と構図 · {0} / {1}</MF_Learn_Layout>
+  <MF_Learn_ManualPositions>手動の位置</MF_Learn_ManualPositions>
+  <MF_Learn_AutoPositions>自動の位置</MF_Learn_AutoPositions>
+  <MF_Learn_ExpressionsDefault>表情とエモート · 標準 / なし</MF_Learn_ExpressionsDefault>
+  <MF_Learn_ExpressionsCount>表情とエモート · 表情{0} / エモート{1}</MF_Learn_ExpressionsCount>
+  <MF_Learn_ExpressionsHelp>表情は撮影中の顔を変えます。エモートは頭上に出る絵です。標準のままでも撮影できます。表情の選択には、そのポーンのFacial Animation対応が必要です。</MF_Learn_ExpressionsHelp>
+  <MF_Learn_Enlarge>クリックで拡大</MF_Learn_Enlarge>
+  <MF_Learn_ImageMissing>画像を表示できません。下の説明は読めます。</MF_Learn_ImageMissing>
+  <MF_Learn_PhotoCaption>画面例 · クリックで拡大</MF_Learn_PhotoCaption>
+  <MF_Learn_Back>説明に戻る</MF_Learn_Back>
+  <MF_Learn_Return>前の画面に戻る</MF_Learn_Return>
+  <MF_Learn_Prev>前の手順</MF_Learn_Prev>
+  <MF_Learn_Next>次の手順</MF_Learn_Next>
+  <MF_Learn_ChoosePlace>建てた撮影場所を使う</MF_Learn_ChoosePlace>
+  <MF_Learn_ChooseStudio>スタジオの背景幕を変更</MF_Learn_ChooseStudio>
+  <MF_Learn_SelectObject>家具を選択</MF_Learn_SelectObject>
+  <MF_Learn_NoPlace>このマップに適した場所がありません。必要な家具とメニューはガイドで確認してください。</MF_Learn_NoPlace>
+  <MF_Learn_ExportEmpty>まず写真を撮ってください。写真が入るとアルバムを書き出せます。</MF_Learn_ExportEmpty>
+  <MF_Learn_Missing_family>このマップに撮影場所がありません。アーキテクト → その他 で撮影スポット、スタジオの背景幕、ガーデンアーチを建ててください。</MF_Learn_Missing_family>
+  <MF_Learn_Missing_birthday>このマップに撮影場所がありません。アーキテクト → その他 に撮影スポットとスタジオがあります。誕生日の案内では、子どものそばで撮ることもできます。</MF_Learn_Missing_birthday>
+  <MF_Learn_Missing_display>このマップに写真の展示物がありません。彫刻台でフレームを製作するか、アーキテクト → その他 でスライド映写機を建ててください。</MF_Learn_Missing_display>
+  <MF_Learn_Missing_background>このマップにスタジオの背景幕がありません。アーキテクト → その他 で建ててください。ガーデンアーチは周囲の景色を使います。</MF_Learn_Missing_background>
+  <MF_Learn_family>家族写真と集合写真</MF_Learn_family>
+  <MF_Learn_family_0Title>スタジオを建てて準備を開く</MF_Learn_family_0Title>
+  <MF_Learn_family_0>このガイドを閉じ、アーキテクト → その他 でスタジオの背景幕を建ててください。ガイドはアルバム上部の「使い方」からまた開けます。\nソファを置くには「スタジオ装飾」→「家族」→「家具の設計図を配置」を選びます。建設後、背景幕をクリックして画面下の「集合写真の準備」を選びます。</MF_Learn_family_0>
+  <MF_Learn_family_1Title>人を選んで集める</MF_Learn_family_1Title>
+  <MF_Learn_family_1>写す人にチェックを入れ、ウィンドウ下部の「選択した人を集合」を選びます。家族をまとめて選ぶこともできます。位置、表情、エモートは標準のままで構いません。</MF_Learn_family_1>
+  <MF_Learn_family_2Title>写真を見て解散する</MF_Learn_family_2Title>
+  <MF_Learn_family_2>全員が集まるまでゲームを進めます。誰も動かないときは、ゲームが一時停止していないか確認してください。全員が到着すると撮影されます。「アルバムを開く」で確認できます。\n終わったらアルバムを閉じ、撮影場所か参加者をクリックして、画面下の「解散」を選びます。もう1枚撮るなら「もう1枚撮影」を選びます。</MF_Learn_family_2>
+  <MF_Learn_birthday>誕生日の思い出を残す</MF_Learn_birthday>
+  <MF_Learn_birthday_0Title>誕生日の場所を選ぶ</MF_Learn_birthday_0Title>
+  <MF_Learn_birthday_0>撮影スポット、スタジオ、ガーデンアーチを選択して「誕生日の標準の場所」を有効にします。誕生日の案内が出たら、「マップで場所を選ぶ」を選びます。</MF_Learn_birthday_0>
+  <MF_Learn_birthday_1Title>子どもと世話係を確認</MF_Learn_birthday_1Title>
+  <MF_Learn_birthday_1>誕生日の子どもは必ず含まれます。世話係が赤ん坊を撮影場所まで抱いて来られます。場所を変えるには「位置と構図」を、表情を選ぶには「表情とエモート」を開きます。</MF_Learn_birthday_1>
+  <MF_Learn_birthday_2Title>誕生日の瞬間を残す</MF_Learn_birthday_2Title>
+  <MF_Learn_birthday_2>全員が到着すると自動で撮影されます。参加できない理由は準備画面と参加者の状態で分かります。写真がアルバムに見当たらないときは、フィルターで「誕生日を含む」を有効にしてください。</MF_Learn_birthday_2>
+  <MF_Learn_display>思い出を飾る</MF_Learn_display>
+  <MF_Learn_display_0Title>写真をフレームに入れる</MF_Learn_display_0Title>
+  <MF_Learn_display_0>彫刻台でフォトフレームを製作し、好きな場所に設置します。フレームを選択し、アルバムから写真を選びます。</MF_Learn_display_0>
+  <MF_Learn_display_1Title>映写機で大きく映す</MF_Learn_display_1Title>
+  <MF_Learn_display_1>アーキテクト → その他 でスライド映写機を建てます。入植者が資材を運んで建設します。設置した映写機の「フィルムを選択」で写真を選びます。同じバーの「思い出の夜」では、フィルム、招待客、上映時間を選び、入植地のみんなを集めて一緒に鑑賞できます。</MF_Learn_display_1>
+  <MF_Learn_display_2Title>サイズと重なりを調整</MF_Learn_display_2Title>
+  <MF_Learn_display_2>投影サイズをマス単位で入力します。描画順で他の物の前か後ろに置きます。選択した映写機から、写真を固定したり次の写真へ進めたりもできます。</MF_Learn_display_2>
+  <MF_Learn_background>スタジオを自分好みに</MF_Learn_background>
+  <MF_Learn_background_0Title>スタジオのセットを選ぶ</MF_Learn_background_0Title>
+  <MF_Learn_background_0>スタジオの背景幕を選択し、家具のセットを選びます。椅子、ソファ、照明には資材と建設が必要です。照明には電力も必要です。ガーデンアーチは実際の周囲の景色を使います。</MF_Learn_background_0>
+  <MF_Learn_background_1Title>アルバムの写真か画像ファイルを選ぶ</MF_Learn_background_1Title>
+  <MF_Learn_background_1>背景幕を選択 →「スタジオ装飾」→「自分の背景画像を使う」。「アルバムから選ぶ」か「画像ファイルを選ぶ」を選びます。「写真の背景幕」コマンドでもこのウィンドウが開きます。PNGとJPGのファイルが使えます。元のファイルは変更されません。</MF_Learn_background_1>
+  <MF_Learn_background_2Title>画像を配置して適用</MF_Learn_background_2Title>
+  <MF_Learn_background_2>ズームのスライダーとドラッグで布の上の画像の位置を決めます。「適用」で写真に反映されます。「写真の背景を消去」で布に戻ります。セーブを移すときは、写真フォルダの studio-backgrounds も一緒にコピーしてください。</MF_Learn_background_2>
+  <MF_Learn_export>アルバムを持ち出す</MF_Learn_export>
+  <MF_Learn_export_0Title>アルバムを見直す</MF_Learn_export_0Title>
+  <MF_Learn_export_0>画面下のバーからアルバムを開きます。お気に入りに印を付け、「編集」でトリミング、フィルター、「写真内のアイコン」の設定を行えます。表情とエモートは撮影前の準備で選びます。</MF_Learn_export_0>
+  <MF_Learn_export_1Title>アルバム全体ツールからHTML書き出し</MF_Learn_export_1Title>
+  <MF_Learn_export_1>アルバム上部の「アルバム全体ツール」→「HTML書き出し」を選びます。完成したアルバムが写真と説明文付きで開きます。下のボタンでも同じ書き出しを始められます。</MF_Learn_export_1>
+  <MF_Learn_export_2Title>書き出したフォルダはまとめて保管</MF_Learn_export_2Title>
+  <MF_Learn_export_2>HTML、写真、その他のファイルを含む書き出したフォルダ全体を保管、または共有してください。自動でオンライン公開はされません。写真と記録はゲームの外でも見返せます。</MF_Learn_export_2>
+  <MF_Learn_FirstTitle>このコロニーを作った人たち。</MF_Learn_FirstTitle>
+  <MF_Learn_FirstBody>まずは家族写真から。\n人を選んで集めると、全員が到着したときに撮影されます。</MF_Learn_FirstBody>
+  <MF_Learn_FirstAction>こんな写真を撮る</MF_Learn_FirstAction>
+  <MF_Learn_More>他にも残したい瞬間</MF_Learn_More>
+  <MF_Learn_ManualHint>コロニーの景色だけ撮りたいですか? 下の「写真撮影」を選んで範囲をドラッグしてください。家具はいりません。</MF_Learn_ManualHint>
+  <MF_Learn_EmoteChoice>写真のエモート: {0}</MF_Learn_EmoteChoice>
+  <MF_Learn_None>なし</MF_Learn_None>
+  <MF_Learn_StepTitle>手順 {0}/3: {1}</MF_Learn_StepTitle>
+  <MF_Appearance_Title>アルバムの外観</MF_Appearance_Title>
+  <MF_Appearance_Hint>アルバム、個人の年代記、年間の振り返りに適用されます。テーマを変えてもフォントと文字サイズは保たれます。</MF_Appearance_Hint>
+  <MF_Appearance_Theme>テーマ: {0}</MF_Appearance_Theme>
+  <MF_Appearance_Font>フォント: {0}</MF_Appearance_Font>
+  <MF_Appearance_Size>文字サイズ: {0}%</MF_Appearance_Size>
+  <MF_Appearance_Reset>外観をリセット</MF_Appearance_Reset>
+  <MF_Theme_leather>革のアルバム</MF_Theme_leather>
+  <MF_Theme_archive>象牙のアーカイブ</MF_Theme_archive>
+  <MF_Theme_darkroom>夜の暗室</MF_Theme_darkroom>
+  <MF_Theme_field>フィールドノート</MF_Theme_field>
+  <MF_Theme_linen>ネイビーのリネン</MF_Theme_linen>
+  <MF_Theme_pencil>鉛筆のスケッチブック</MF_Theme_pencil>
+  <MF_Theme_ink>インクの旅ノート</MF_Theme_ink>
+  <MF_Theme_crayon>色鉛筆の思い出</MF_Theme_crayon>
+  <MF_Theme_graphite>鉛筆と水彩の日誌</MF_Theme_graphite>
+  <MF_Theme_watercolor>水彩のスクラップブック</MF_Theme_watercolor>
+  <MF_Theme_sepia>旅人の日誌</MF_Theme_sepia>
+  <MF_Font_original>テーマの標準</MF_Font_original>
+  <MF_Font_light>薄い鉛筆</MF_Font_light>
+  <MF_Font_pencil>鉛筆の手書き</MF_Font_pencil>
+  <MF_Font_pen>ペンの手書き</MF_Font_pen>
+  <MF_Font_brush>筆の手書き</MF_Font_brush>
+  <MF_Font_system>ゲーム標準フォント</MF_Font_system>
+  <MF_FavoriteOff>お気に入り</MF_FavoriteOff>
+  <MF_FavoriteOn>お気に入り済み</MF_FavoriteOn>
+  <MF_FavoriteHint>大好きな写真をハートで残せます。思い出の木のピン留めとは別の選択です。</MF_FavoriteHint>
+  <MF_FavoritesOnly>お気に入りのみ</MF_FavoritesOnly>
+  <MF_FavoriteAllPhotos>すべての写真から選ぶ</MF_FavoriteAllPhotos>
+  <MF_FavoriteChooseFilm>お気に入りから選ぶ…</MF_FavoriteChooseFilm>
+  <MF_FavoriteSelectedFilm>手で選んだ写真</MF_FavoriteSelectedFilm>
+  <MF_FavoriteFilmTitle>みんなで見る写真を選ぶ</MF_FavoriteFilmTitle>
+  <MF_FavoriteFilmHint>{0}枚選択中 · 最低{1}枚。短い夕べなら6–12枚がおすすめです。写真は日付順に流れます。</MF_FavoriteFilmHint>
+  <MF_FavoriteFilmApply>選択した{0}枚を使う</MF_FavoriteFilmApply>
+  <MF_FavoriteClearSelection>選択を解除</MF_FavoriteClearSelection>
+  <MF_FavoriteEmpty>まだお気に入りの写真がありません。アルバムでハートを付けるか、上のボタンですべての写真から選んでください。</MF_FavoriteEmpty>
+  <MF_FavoriteSurveyGroup>{0}年、第{1}四半期 · 入植地の眺め{2}枚</MF_FavoriteSurveyGroup>
+  <MF_FavoriteBackPhoto>写真に戻る</MF_FavoriteBackPhoto>
+  <MF_FavoritePersonHint>{0}が写っている写真を見る</MF_FavoritePersonHint>
+  <MF_FavoriteSequence>変化をめくって見る</MF_FavoriteSequence>
+  <MF_FavoriteSequenceZoom>写真をクリックするとズームします。</MF_FavoriteSequenceZoom>
+  <MF_FavoritePrevious>前の写真</MF_FavoritePrevious>
+  <MF_FavoriteNext>次の写真</MF_FavoriteNext>
+  <MF_FavoritePlay>再生</MF_FavoritePlay>
+  <MF_FavoritePause>一時停止</MF_FavoritePause>
+  <MF_FavoriteFrameWarning>保存された構図では{0} ({1}人) が切れるかもしれません。マップのプレビューで構図を確認してください。</MF_FavoriteFrameWarning>
+  <MF_UI12_Screen>表示設定</MF_UI12_Screen>
+  <MF_UI12_Reset>サイズと位置をリセット</MF_UI12_Reset>
+  <MF_UI12_Expand>検索 / フィルター</MF_UI12_Expand>
+  <MF_UI12_Collapse>フィルターを隠す</MF_UI12_Collapse>
+  <MF_UI12_AllFilters>種類 / 人物 / 年: すべて</MF_UI12_AllFilters>
+  <MF_UI12_WithBirthdays>誕生日を含む</MF_UI12_WithBirthdays>
+  <MF_UI12_WithoutBirthdays>誕生日を除外</MF_UI12_WithoutBirthdays>
+  <MF_UI12_BirthdaysHidden>誕生日の写真{0}枚を非表示</MF_UI12_BirthdaysHidden>
+  <MF_UI12_WithManual>手動撮影を含む</MF_UI12_WithManual>
+  <MF_UI12_WithoutManual>手動撮影を除外</MF_UI12_WithoutManual>
+  <MF_UI12_SearchSummary>検索: {0}</MF_UI12_SearchSummary>
+  <MF_Stickers_Open>ステッカー</MF_Stickers_Open>
+  <MF_Stickers_Title>余白に小さな印を</MF_Stickers_Title>
+  <MF_Stickers_Hint>ステッカーを選び、紙の余白に沿ってドラッグします。元の写真はそのままです。</MF_Stickers_Hint>
+  <MF_Stickers_Count>ステッカー {0} / {1} · ドラッグで移動</MF_Stickers_Count>
+  <MF_Stickers_Limit>ステッカー {0} / {1} · 追加するには1つ外してください</MF_Stickers_Limit>
+  <MF_Stickers_Delete>選択を外す</MF_Stickers_Delete>
+  <MF_Stickers_Cancel>中止</MF_Stickers_Cancel>
+  <MF_Stickers_Save>保存</MF_Stickers_Save>
+  <MF_Sticker_Heart>ハート</MF_Sticker_Heart>
+  <MF_Sticker_Star>星</MF_Sticker_Star>
+  <MF_Sticker_Smile>笑顔</MF_Sticker_Smile>
+  <MF_Sticker_Music>音符</MF_Sticker_Music>
+  <MF_Sticker_Exclamation>ビックリマーク</MF_Sticker_Exclamation>
+  <MF_Sticker_Wave>ウェーブ</MF_Sticker_Wave>
+  <MF_Sticker_Paw>肉球</MF_Sticker_Paw>
+  <MF_ReunionCarer>抱く人: {0}</MF_ReunionCarer>
+  <MF_ReunionChooseCarer>選択</MF_ReunionChooseCarer>
+  <MF_ReunionCarerAdded>· 写真に追加</MF_ReunionCarerAdded>
+  <MF_ReunionExtraCarers>この写真に追加の世話係: {0}</MF_ReunionExtraCarers>
+  <MF_PreparationCapacity>参加{0}人 · 場所 {1} / {2}</MF_PreparationCapacity>
+  <MF_PreparationNoRoom>場所が足りません。向きか招待客を変更してください。</MF_PreparationNoRoom>
+  <MF_BabyCarryMode>撮影場所へ抱いて行く</MF_BabyCarryMode>
+  <MF_BabyHereMode>ここに留まる</MF_BabyHereMode>
+  <MF_BabyGuardian>赤ん坊を抱く人: {0}</MF_BabyGuardian>
+  <MF_BabyChooseGuardian>世話係を選ぶ</MF_BabyChooseGuardian>
+  <MF_BabyGuardianRole>赤ん坊を抱く人</MF_BabyGuardianRole>
+  <MF_BabyCarryHelp>世話係が赤ん坊を撮影場所へ抱いて行きます。全員が到着すると自動で撮影されます。撮影後や中止後、世話係は赤ん坊をベッドか安全な場所へ戻します。</MF_BabyCarryHelp>
+  <MF_BabyHereHelp>赤ん坊はここに留まり、選んだ招待客が近くに集まります。</MF_BabyHereHelp>
+  <MF_BirthdayAtBedHelp>歩けない主役はここに留まります。就寝中の招待客は呼ばれると起き、世話係が赤ん坊を撮影場所まで抱いて来られます。</MF_BirthdayAtBedHelp>
+  <MF_BabyNoGuardian>今は赤ん坊を抱いて運べる大人がいません。別の世話係を選ぶか、ここで撮影してください。</MF_BabyNoGuardian>
+  <MF_BabyUnsafePlace>この場所は赤ん坊には寒すぎるか暑すぎます。快適な温度の撮影場所を選んでください。</MF_BabyUnsafePlace>
+  <MF_PreparationSettings>+ 写真の設定</MF_PreparationSettings>
+  <MF_PreparationSettingsClose>- 設定を閉じる</MF_PreparationSettingsClose>
+  <MF_PreparationHere>現在の場所</MF_PreparationHere>
+  <MF_PreparationSpot>撮影スポット</MF_PreparationSpot>
+  <MF_PreparationGuests>写真の招待客 ({0})</MF_PreparationGuests>
+  <MF_PreparationChoose>クイック選択</MF_PreparationChoose>
+  <MF_PreparationGuardianRole>世話係 (必須)</MF_PreparationGuardianRole>
+  <MF_PreparationReady>全員が到着すると自動で撮影されます。就寝中の招待客は呼ばれると起きます。</MF_PreparationReady>
+  <MF_PreparationStay>主役はここに留まる</MF_PreparationStay>
+  <MF_PreparationSubjectRole>誕生日の人 (必須)</MF_PreparationSubjectRole>
+  <MF_PreparationAll>すべて選択</MF_PreparationAll>
+  <MF_PreparationRandom>ランダム</MF_PreparationRandom>
+  <MF_PreparationMore>もっと</MF_PreparationMore>
+  <MF_PreparationRandomCount>ランダムで合計{0}人</MF_PreparationRandomCount>
+  <MF_PreparationUndo>選択を元に戻す</MF_PreparationUndo>
+  <MF_PreparationGuardianProblem>{0}: 今は赤ん坊を抱けません。別の世話係を選んでください。</MF_PreparationGuardianProblem>
+  <MF_PreparationPawnProblem>{0}: {1}。招待客を調整するか、手が空くまで待ってください。</MF_PreparationPawnProblem>
+  <MF_PreparationCannotReach>{0}: 割り当てられた撮影位置に行けません。経路を空けるか、別の場所を選んでください。</MF_PreparationCannotReach>
+  <MF_PreparationRemoveHint>この人を外してみてください。</MF_PreparationRemoveHint>
+  <MF_PreparationSpaceProblem>参加{0}人 / 立つ場所{1}人分 ({2}人分必要)。招待客、向き、場所を変更してください。</MF_PreparationSpaceProblem>
+  <MF_PreparationNotEditing>この集まりはすでに撮影中か終了しています。このウィンドウを閉じて確認し直してください。</MF_PreparationNotEditing>
+  <MF_PreparationGuardianShort>今は抱けない</MF_PreparationGuardianShort>
+  <MF_PreparationReachShort>撮影位置に行けない</MF_PreparationReachShort>
+  <MF_PreparationTemperatureShort>赤ん坊に危険な温度</MF_PreparationTemperatureShort>
+  <MF_PreparationRandomHelp>人数には誕生日の人と必要な世話係が含まれます。手の空いた招待客だけが選ばれます。選んだ後で調整できます。</MF_PreparationRandomHelp>
+  <MF_DesignAlbum_NoMatches>この表示に一致する写真がありません。</MF_DesignAlbum_NoMatches>
+  <MF_DesignAlbum_NoMatchesHint>別のフィルターを試すか、フィルターを解除してください。\n解除すると、誕生日などの個人の写真も表示されます。</MF_DesignAlbum_NoMatchesHint>
+  <MF_DesignAlbum_ClearFilters>フィルターを解除</MF_DesignAlbum_ClearFilters>
+  <MF_DesignAlbum_VersionStatus>表示中: {0}  ·  アルバムとフレームで使用: {1}</MF_DesignAlbum_VersionStatus>
+  <MF_DesignAlbum_ViewingVersion>表示中: {0}</MF_DesignAlbum_ViewingVersion>
+  <MF_DesignAlbum_UsedVersion>アルバムとフレームで使用: {0}</MF_DesignAlbum_UsedVersion>
+  <MF_DesignAlbum_VersionHint>サムネイルで変わるのは表示中の版だけです。適用ボタンでアルバムとフレームの版を選びます。</MF_DesignAlbum_VersionHint>
+  <MF_DesignAlbum_Viewing>この版を表示中</MF_DesignAlbum_Viewing>
+  <MF_DesignAlbum_Used>アルバムとフレームで使用中</MF_DesignAlbum_Used>
+  <MF_DesignAlbum_More>その他</MF_DesignAlbum_More>
+  <MF_DesignAlbum_MoreHint>タイトルやメモの変更、アルバムとフレームで使う版の選択、リンクされた写真への移動、編集版の削除、フォルダを開く操作ができます。</MF_DesignAlbum_MoreHint>
+  <MF_DesignAlbum_UseVersion>この版をアルバムとフレームで使う</MF_DesignAlbum_UseVersion>
+  <MF_DesignNav_Search>検索</MF_DesignNav_Search>
+  <MF_DesignNav_SearchTip>タイトル、メモ、写っている人の名前で写真を探します。</MF_DesignNav_SearchTip>
+  <MF_DesignNav_Clear>解除</MF_DesignNav_Clear>
+  <MF_DesignNav_SearchCount>写真 {0} / {1}</MF_DesignNav_SearchCount>
+  <MF_DesignNav_NoMatches>検索に一致する写真がありません。検索を解除するとすべて表示されます。</MF_DesignNav_NoMatches>
+  <MF_DesignNav_PlaceViewAll>ここの写真{0}枚をすべて見る…</MF_DesignNav_PlaceViewAll>
+  <MF_DesignNav_PlacePhotos>この場所の写真 — {0}</MF_DesignNav_PlacePhotos>
+  <MF_DesignNav_ChronicleCounts>写真{0}枚 · 記録{1}件</MF_DesignNav_ChronicleCounts>
+  <MF_DesignNav_MilestonePhotosOnly>節目の写真のみ</MF_DesignNav_MilestonePhotosOnly>
+  <MF_DesignYear_Kicker>コロニーの思い出</MF_DesignYear_Kicker>
+  <MF_DesignYear_Summary>残した写真{0}枚。思い出す節目{1}件。</MF_DesignYear_Summary>
+  <MF_DesignYear_Hint>写真でその日を振り返るか、みんなで集まってその年の思い出を見ましょう。</MF_DesignYear_Hint>
+  <MF_DesignYear_NoPhotos>この年の写真はもうここにありません。その年のアルバムを開くことはできます。</MF_DesignYear_NoPhotos>
+  <MF_DesignYear_Album>この年のアルバムを開く</MF_DesignYear_Album>
+  <MF_DesignYear_Night>思い出の夜を開く</MF_DesignYear_Night>
+  <MF_ConcertHost>コンサート: {0}が演奏</MF_ConcertHost>
+  <MF_ConcertPlain>コンサート</MF_ConcertPlain>
+  <MF_EventAfterward>{0}の写真記録。イベントの後に撮影されたため、集まりの様子とは異なることがあります。</MF_EventAfterward>
+  <MF_ConcertAfterwardInstrument>コンサートの記録: {0}。楽器は{1}でした。この写真は後で撮影されたため、別の場面が写っていることがあります。</MF_ConcertAfterwardInstrument>
+  <MF_Feedback_ReshootShort>同じ構図で撮り直す</MF_Feedback_ReshootShort>
+  <MF_Feedback_ReunionShort>もう一度集める</MF_Feedback_ReunionShort>
+  <MF_Feedback_Compare>比較</MF_Feedback_Compare>
+  <MF_Feedback_CompareHint>前の誕生日や、同じ場所で撮った写真と比較します。</MF_Feedback_CompareHint>
+  <MF_Feedback_Text>タイトル · キャプション</MF_Feedback_Text>
+  <MF_Feedback_Decorate>デコレーション</MF_Feedback_Decorate>
+  <MF_Feedback_PhotoTools>この写真のツール</MF_Feedback_PhotoTools>
+  <MF_Feedback_PhotoToolsHint>ズーム、表示する版の選択、撮り直しの履歴、編集版の管理、フォルダ、追悼。</MF_Feedback_PhotoToolsHint>
+  <MF_Feedback_AlbumToolsHint>HTML書き出し、写真フォルダ、昔の写真や外部の写真、追悼。</MF_Feedback_AlbumToolsHint>
+  <MF_Feedback_LocalHint>選択した写真をRimGramのコロニーアカウントにローカルで投稿します。アルバムを開いたまま、その投稿を別のRimGramウィンドウで開きます。RimGramの投稿間隔とリアクションのルールが適用されます。</MF_Feedback_LocalHint>
+  <MF_Feedback_ExportOpen>ファイル書き出し ▸</MF_Feedback_ExportOpen>
+  <MF_Feedback_ExportFiles>ファイル書き出し…</MF_Feedback_ExportFiles>
+  <MF_Feedback_ExportTitle>選択した写真を書き出す</MF_Feedback_ExportTitle>
+  <MF_Feedback_ExportCaption>添えるキャプション</MF_Feedback_ExportCaption>
+  <MF_Feedback_ExportClose>ファイル書き出し ▾</MF_Feedback_ExportClose>
+  <MF_Feedback_ExportHint>写真を別のプログラムに取り込むためのツールです。RimGramへのローカル投稿には必須ではありません。</MF_Feedback_ExportHint>
+  <MF_Feedback_RimGramWindowUnavailable>このバージョンのRimGramでは別のウィンドウを開けません。アルバムは開いたままです。</MF_Feedback_RimGramWindowUnavailable>
+  <MF_Feedback_PostedWindowUnavailable>ローカル投稿は公開されましたが、RimGramのウィンドウを開けませんでした。RimGramで投稿を確認してください。</MF_Feedback_PostedWindowUnavailable>
+  <MF_Feedback_Zoom>ズーム表示</MF_Feedback_Zoom>
+  <MF_Feedback_ZoomOriginal>元の解像度で表示</MF_Feedback_ZoomOriginal>
+  <MF_Feedback_ZoomFit>全体を表示</MF_Feedback_ZoomFit>
+  <MF_Feedback_ZoomPixels>元のピクセル</MF_Feedback_ZoomPixels>
+  <MF_Feedback_ZoomHelp>ズーム: マウスホイールまたは − / + · パン: 中ボタンドラッグまたはスペース + 左ボタンドラッグ</MF_Feedback_ZoomHelp>
+  <MF_CaptureExpression>撮影時のエモート</MF_CaptureExpression>
+  <MF_CaptureExpressionAuto>自動</MF_CaptureExpressionAuto>
+  <MF_CaptureExpressionNone>エモートなし</MF_CaptureExpressionNone>
+  <MF_CaptureExpressionHeart>ハート</MF_CaptureExpressionHeart>
+  <MF_CaptureExpressionHand>手を振る</MF_CaptureExpressionHand>
+  <MF_CaptureExpressionSmile>笑顔</MF_CaptureExpressionSmile>
+  <MF_CaptureExpressionStar>星</MF_CaptureExpressionStar>
+  <MF_CaptureExpressionMusic>音符</MF_CaptureExpressionMusic>
+  <MF_CaptureExpressionPeace>ピースサイン</MF_CaptureExpressionPeace>
+  <MF_CaptureExpressionClap>拍手</MF_CaptureExpressionClap>
+  <MF_CaptureExpressionShy>照れ</MF_CaptureExpressionShy>
+  <MF_CaptureExpressionSurprise>驚き</MF_CaptureExpressionSurprise>
+  <MF_CaptureExpressionHelp>新しい写真の準備はエモートなしで始まります。撮影時にこのポーンが出す吹き出しの絵を選びます。ポーンごとに、ハート、手、笑顔、星、音符、ピースサイン、拍手、照れ顔、驚き顔を使い分けられます。心情、関係、体のアニメーションは変わりません。「写真にも」を選ぶと、同じ表情が新しい画像の中にも保存されます。「自動」を選ぶと、場面に合った表情を一部の人にだけランダムに割り当てます。</MF_CaptureExpressionHelp>
+  <MF_CaptureRememberMode>今後の写真の標準モードとして保存</MF_CaptureRememberMode>
+  <MF_CaptureModeHelp>マップのみ: 新しい写真の撮影に成功した後に表情を表示します。写真にも: 画像の中にも保存します。オフ: 何も出しません。標準の保存で記憶されるのはこの3つのモードだけです。ポーンごとの選択を記憶するには、下の名前付き表情プリセットに保存してください。</MF_CaptureModeHelp>
+  <MF_CapturePresetLoad>表情とエモートを読み込む</MF_CapturePresetLoad>
+  <MF_CapturePresetSave>表情とエモートを保存</MF_CapturePresetSave>
+  <MF_CapturePresetReplace>この名前を置き換える</MF_CapturePresetReplace>
+  <MF_CapturePresetName>表情とエモートのプリセット名</MF_CapturePresetName>
+  <MF_CapturePresetNameHelp>選択したポーンの識別情報と表情を、このコロニーのセーブファイルに保存します。名前を付けて複数保存でき、同じ名前は置き換えられます。</MF_CapturePresetNameHelp>
+  <MF_CapturePresetHelp>各人の表情と写真のエモートを保存します。参加者、位置、構図も含めるには、下の撮影設定を使ってください。</MF_CapturePresetHelp>
+  <MF_CaptureSavedFrame>この撮影スポットに直接保存された構図を使っています。</MF_CaptureSavedFrame>
+  <MF_CaptureSavedFrameHelp>直接保存された構図は、人物・背景の構図より優先されます。自動の構図に戻すには、撮影スポットの構図リセット操作を使ってください。古い写真の再現ではその元の構図を保ちます。</MF_CaptureSavedFrameHelp>
+  <MF_CaptureSpotDragHint>左ボタンを押したままドラッグして任意の範囲を選びます。四角形はプレビューで、固定の構図ではありません。1回クリックすると標準の範囲を保存します。</MF_CaptureSpotDragHint>
+  <MF_CaptureSpotDragRelease>このドラッグ範囲が写真の構図になります。左ボタンを離すとこの撮影スポットに保存します。</MF_CaptureSpotDragRelease>
+  <MF_Records_On>オン</MF_Records_On>
+  <MF_Records_Off>オフ</MF_Records_Off>
+  <MF_Records_WorldDisplayHint>Moment Frames のワールド表示\n写真: {0} · 初訪問の順序: {1}\n線はすべての部隊の発見順を示し、実際の移動経路ではありません。\nクリックでそれぞれの表示を切り替えます。訪問履歴と自動撮影は保持されます。</MF_Records_WorldDisplayHint>
+  <MF_Records_AllPlaces>すべての場所</MF_Records_AllPlaces>
+  <MF_Records_ThisPlace>この場所のみ</MF_Records_ThisPlace>
+  <MF_Records_PlaceFilterHint>この期間の、この場所の写真またはすべての場所の写真を表示します。マップ全景と4つの区域は上に別に表示されます。</MF_Records_PlaceFilterHint>
+  <MF_Records_PeriodScope>{0} · {1} · 写真{2}枚</MF_Records_PeriodScope>
+  <MF_Records_UnnamedPlace>名前の残っていない場所 #{0}</MF_Records_UnnamedPlace>
+  <MF_Records_Library>ライブラリ</MF_Records_Library>
+  <MF_Feedback_SurveyResolution>入植地全景の画質</MF_Feedback_SurveyResolution>
+  <MF_Feedback_SurveyResolutionHelp>今後のマップ全景と四分割の写真に適用されます。標準の1マス16ピクセルでは、325マスのマップは5200 × 5200ピクセルで保存されます。画質を上げると撮影と保存に時間がかかり、一時メモリも多く使います。ゲーム速度と既存の写真は変わりません。</MF_Feedback_SurveyResolutionHelp>
+  <MF_Feedback_Survey8>軽量 · 8px/マス</MF_Feedback_Survey8>
+  <MF_Feedback_Survey12>普通 · 12px/マス</MF_Feedback_Survey12>
+  <MF_Feedback_Survey16>鮮明 · 16px/マス (標準)</MF_Feedback_Survey16>
+  <MF_Feedback_Survey24>非常に鮮明 · 24px/マス</MF_Feedback_Survey24>
+  <MF_Caption_scene_wedding_pair_1>{6}と{7}の結婚式。二人が並んで写っている。</MF_Caption_scene_wedding_pair_1>
+  <MF_Caption_scene_wedding_pair_2>{6}と{7}が結婚写真に一緒に写っている。</MF_Caption_scene_wedding_pair_2>
+  <MF_Caption_scene_wedding_pair_3>結婚式の日の{6}と{7}。二人一緒に撮った一枚。</MF_Caption_scene_wedding_pair_3>
+  <MF_Caption_scene_wedding_scene_1>結婚式が行われた場所の写真。</MF_Caption_scene_wedding_scene_1>
+  <MF_Caption_scene_wedding_scene_group_1>結婚式の会場で一緒に撮った人たち。</MF_Caption_scene_wedding_scene_group_1>
+  <MF_Caption_scene_wedding_later_1>その後の結婚式の会場。当時の記録と一緒に残してある。</MF_Caption_scene_wedding_later_1>
+  <MF_CaptureRememberShort>標準として記憶</MF_CaptureRememberShort>
+  <MF_GalleryRevision_Text>タイトル / キャプション</MF_GalleryRevision_Text>
+  <MF_GalleryRevision_TextHint>画面の版のタイトルとキャプションを変更します。編集版ではそのタイトルとメモを変更します。</MF_GalleryRevision_TextHint>
+  <MF_GalleryRevision_EditHint>トリミングとフィルター、写真内のアイコン、紙の余白のステッカーを選びます。元の写真ファイルは残ります。</MF_GalleryRevision_EditHint>
+  <MF_GalleryRevision_CropFilter>トリミング / フィルター</MF_GalleryRevision_CropFilter>
+  <MF_GalleryRevision_Reunion>この人たちを集める</MF_GalleryRevision_Reunion>
+  <MF_GalleryRevision_ReshootHint>誰も呼ばずに、元の場所と構図を今の様子で撮影します。そのマップを見ている間に撮影されます。</MF_GalleryRevision_ReshootHint>
+  <MF_GalleryRevision_ReunionHint>元の写真の人物を確認し、選んだ入植者を同じ場所に呼んで、集まった後に撮影します。元の構図を保ちます。</MF_GalleryRevision_ReunionHint>
+  <MF_GalleryRevision_ReunionUnavailable>再び集めるには、元のマップ、構図、写真の入植者の記録が必要です。動物の写真は対象外です。</MF_GalleryRevision_ReunionUnavailable>
+  <MF_GalleryRevision_CompareHint>同じ人物の以前の誕生日や、同じ場所と構図の以前の写真を並べて表示します。新しい写真は撮りません。</MF_GalleryRevision_CompareHint>
+  <MF_GalleryRevision_CompareUnavailable>比較できる以前の誕生日や同じ場所と構図の写真はまだありません。</MF_GalleryRevision_CompareUnavailable>
+  <MF_GalleryRevision_Integrations>他のMOD</MF_GalleryRevision_Integrations>
+  <MF_GalleryRevision_IntegrationsHint>インストール済みの連携を選びます。ここからRimGramのローカル投稿やRimTalkの回想を開けます。このメニューを開いても、投稿やAIの呼び出しは行われません。</MF_GalleryRevision_IntegrationsHint>
+  <MF_GalleryRevision_NoIntegrations>対応する連携がありません</MF_GalleryRevision_NoIntegrations>
+  <MF_HtmlExport_Working>写真アーカイブを準備しています。</MF_HtmlExport_Working>
+  <MF_HtmlExport_Failed>HTMLの書き出しを完了できませんでした。既存の写真は変更されていません。</MF_HtmlExport_Failed>
+  <MF_Imports_Tab>取り込んだ写真</MF_Imports_Tab>
+  <MF_Imports_Current>このコロニー</MF_Imports_Current>
+  <MF_Imports_Computer>自分のコンピューターから</MF_Imports_Computer>
+  <MF_Imports_Legacy>過去のコロニーから</MF_Imports_Legacy>
+  <MF_Imports_AddFile>ファイルを取り込む</MF_Imports_AddFile>
+  <MF_Imports_AddColony>過去のコロニーから取り込む</MF_Imports_AddColony>
+  <MF_Imports_AllColonies>すべての過去のコロニー</MF_Imports_AllColonies>
+  <MF_Imports_UnknownColony>不明な過去のコロニー</MF_Imports_UnknownColony>
+  <MF_Imports_ColonyId>過去のコロニー ({0})</MF_Imports_ColonyId>
+  <MF_Imports_Back>取り込んだ写真に戻る</MF_Imports_Back>
+  <MF_Imports_EmptyComputer>コンピューターから取り込んだ写真はまだありません。\n上の「ファイルを取り込む」でPNGを選んでください。映写機やスタジオの背景にも使えます。</MF_Imports_EmptyComputer>
+  <MF_Imports_EmptyLegacy>過去のコロニーから取り込んだ写真はまだありません。\n上の「過去のコロニーから取り込む」で別のコロニーの写真を選んでください。</MF_Imports_EmptyLegacy>
+  <MF_Imports_Select>この写真を選ぶ</MF_Imports_Select>
+  <MF_Imports_NoSelection>写真を選ぶ</MF_Imports_NoSelection>
+  <MF_Imports_Count>写真{0}枚</MF_Imports_Count>
+  <MF_TreeManage>写真の管理</MF_TreeManage>
+  <MF_TreeManageDesc>写真を選んでピン留めしたり、自動で追加する写真の種類を絞り込んだりします。</MF_TreeManageDesc>
+  <MF_TreeInspect>写真 {0}/{1} · {2}</MF_TreeInspect>
+  <MF_TreeAutoOn>自動で追加</MF_TreeAutoOn>
+  <MF_TreeAutoOff>手動で選択</MF_TreeAutoOff>
+  <MF_Tree_Title>思い出の木の写真</MF_Tree_Title>
+  <MF_Tree_Summary>写真 {0} / 35 · ピン留め {1}</MF_Tree_Summary>
+  <MF_Tree_AutoFill>新しい写真を自動で追加</MF_Tree_AutoFill>
+  <MF_Tree_AutoFillTip>新しい写真は空いた枝を埋めます。いっぱいになると、ピン留めされていない最も古い写真と入れ替わります。</MF_Tree_AutoFillTip>
+  <MF_Tree_Filters>写真の種類: {0}</MF_Tree_Filters>
+  <MF_Tree_AllKinds>すべての種類</MF_Tree_AllKinds>
+  <MF_Tree_SelectedKinds>{0}種類を選択中</MF_Tree_SelectedKinds>
+  <MF_Tree_FilterTip>自動で追加する種類を選びます。手動でピン留めした写真はそのままです。</MF_Tree_FilterTip>
+  <MF_Tree_Slot>写真 {0}</MF_Tree_Slot>
+  <MF_Tree_EmptySlot>空の枝</MF_Tree_EmptySlot>
+  <MF_Tree_MissingPhoto>写真ファイルが見つかりません</MF_Tree_MissingPhoto>
+  <MF_Tree_NoPhotos>この枝に飾る写真をアルバムから選びます。</MF_Tree_NoPhotos>
+  <MF_Tree_Choose>写真を選ぶ</MF_Tree_Choose>
+  <MF_Tree_Open>大きく表示</MF_Tree_Open>
+  <MF_Tree_Pin>ピン留め</MF_Tree_Pin>
+  <MF_Tree_Unpin>ピン留めを解除</MF_Tree_Unpin>
+  <MF_Tree_Remove>外す</MF_Tree_Remove>
+  <MF_Tree_RemoveTip>この木から外します。元の写真はアルバムに残ります。</MF_Tree_RemoveTip>
+  <MF_Tree_FullPinned>すべての写真がピン留めされています。新しい写真のために1枚解除してください。</MF_Tree_FullPinned>
+  <MF_Tree_Policy>写真を選ぶとピン留めされます。自動の写真は新しい写真が来ると入れ替わります。</MF_Tree_Policy>
+  <MF_PetJoinedTitle>{0}を迎えて</MF_PetJoinedTitle>
+  <MF_PetJoinedDesc>コロニーに新しく迎えた{0}の写真。</MF_PetJoinedDesc>
+  <MF_PetPairTitle>{0}、{1} — 一緒に一枚</MF_PetPairTitle>
+  <MF_PetPairDesc>{0}と{1}が一緒に写っている。</MF_PetPairDesc>
+  <MF_PetPairStarted>写真の集合: {0}と{1}が位置に向かっています。</MF_PetPairStarted>
+  <MF_PetMissingSubject>必要な被写体が写真に写っている必要があります。</MF_PetMissingSubject>
+  <MF_PetSubjects>写っているもの: {0}</MF_PetSubjects>
+  <MF_Set_PetArrivals>新しく加わったペットを撮影</MF_Set_PetArrivals>
+  <MF_Set_PetArrivalsDesc>新しいペット、または名前、絆、主人のいる動物を、加わったときに1回撮影します。セーブを読み込んでも、既存の動物に到着の記録は作られません。</MF_Set_PetArrivalsDesc>
+  <MF_Kind_petjoined>動物の到着</MF_Kind_petjoined>
+  <MF_Kind_petphoto>動物と一緒に</MF_Kind_petphoto>
+  <MF_PetSetupTitle>動物との写真</MF_PetSetupTitle>
+  <MF_PetSetupHelp>動物1匹と入植者1人を選びます。この撮影スポットで一緒にポーズをとり、その後それぞれの日常に戻ります。</MF_PetSetupHelp>
+  <MF_PetSetupAnimal>撮影する動物</MF_PetSetupAnimal>
+  <MF_PetSetupOwner>一緒に写る入植者</MF_PetSetupOwner>
+  <MF_PetSetupStart>ペアを集合</MF_PetSetupStart>
+  <MF_PetSetupCancel>中止</MF_PetSetupCancel>
+  <MF_Pet_NoAnimals>このマップに一緒に撮影できる動物がいません。</MF_Pet_NoAnimals>
+  <MF_Pet_NoOwners>このマップに一緒に撮影できる入植者がいません。</MF_Pet_NoOwners>
+  <MF_Pet_Unavailable>今は一緒にポーズをとれません。</MF_Pet_Unavailable>
+  <MF_Pet_SelectBoth>動物1匹と入植者1人を選んでください。</MF_Pet_SelectBoth>
+  <MF_Pet_Roped>ロープを持っている、またはロープにつながれたポーンは写真に参加できません。</MF_Pet_Roped>
+  <MF_Pet_NoRoom>ペアが並んで立つ場所が足りません。</MF_Pet_NoRoom>
+  <MF_Pet_NoPath>両方に、割り当てられた撮影位置までの安全な経路が必要です。</MF_Pet_NoPath>
+  <MF_Pet_WaitAll>両方が到着すると撮影され、ペアは解散します。</MF_Pet_WaitAll>
+  <MF_PetPairGizmo>動物と写真</MF_PetPairGizmo>
+  <MF_PetPairGizmoDesc>動物と入植者を選び、この撮影スポットに集めて一緒に撮影します。</MF_PetPairGizmoDesc>
+  <MF_Caption_petjoined_1>{4}、コロニーに加わった最初の日。</MF_Caption_petjoined_1>
+  <MF_Caption_petjoined_2>コロニーにやって来たばかりの{4}の写真。</MF_Caption_petjoined_2>
+  <MF_Caption_petjoined_3>{4}が来た日の記録をアルバムに加えた。</MF_Caption_petjoined_3>
+  <MF_Caption_petjoined_4>コロニーの新しい動物、{4}。加わった日の記録。</MF_Caption_petjoined_4>
+  <MF_Caption_petjoined_5>{4}がコロニーに来た日を一枚に残した。</MF_Caption_petjoined_5>
+  <MF_Caption_petjoined_6>この写真の{4}は、コロニーに新しく加わった動物だ。</MF_Caption_petjoined_6>
+  <MF_Caption_petjoined_7>{4}、コロニーの動物の仲間入りをした日に撮った。</MF_Caption_petjoined_7>
+  <MF_Caption_petjoined_8>来たばかりの{4}。その日を一枚に残した。</MF_Caption_petjoined_8>
+  <MF_Caption_petphoto_1>{1}、{4}。一緒の写真をアルバムに加えた。</MF_Caption_petphoto_1>
+  <MF_Caption_petphoto_2>{1}と{4}、撮影スポットに並んでポーズをとっている。</MF_Caption_petphoto_2>
+  <MF_Caption_petphoto_3>この写真には{1}と{4}の両方が写っている。</MF_Caption_petphoto_3>
+  <MF_Caption_petphoto_4>{1}、{4}。写真のために集まったふたりの記録。</MF_Caption_petphoto_4>
+  <MF_Caption_petphoto_5>撮影スポットに集まった{1}と{4}の写真。</MF_Caption_petphoto_5>
+  <MF_Caption_petphoto_6>{1}と{4}を一緒に撮った。</MF_Caption_petphoto_6>
+  <MF_Caption_petphoto_7>一枚の写真に{1}と{4}が並んで写っている。</MF_Caption_petphoto_7>
+  <MF_Caption_petphoto_8>{1}、{4}。ふたりの写真をコロニーのアルバムに加えた。</MF_Caption_petphoto_8>
+  <MF_Phase2_AlbumTools>アルバム全体ツール</MF_Phase2_AlbumTools>
+  <MF_Phase2_SettlementTab>コロニーと建物</MF_Phase2_SettlementTab>
+  <MF_Phase2_IncludeBirthdays>誕生日を含む</MF_Phase2_IncludeBirthdays>
+  <MF_Phase2_AlbumSearch>タイトル、人物、キャプションを検索</MF_Phase2_AlbumSearch>
+  <MF_Phase2_HighlightHelp>選択の基準</MF_Phase2_HighlightHelp>
+  <MF_Phase2_HighlightCriteria>ハイライトは最大3枚選ばれ、節目を優先し、次に種類、人物、日付の多様さを重視します。同じ記録からは同じ選択になり、ランダムな選択は使いません。</MF_Phase2_HighlightCriteria>
+  <MF_Phase2_BirthdayCompare>前の誕生日と比較</MF_Phase2_BirthdayCompare>
+  <MF_Phase2_ViewCompare>同じ構図の以前の眺めと比較</MF_Phase2_ViewCompare>
+  <MF_Phase2_PreviousBirthday>前の誕生日</MF_Phase2_PreviousBirthday>
+  <MF_Phase2_CurrentBirthday>この誕生日</MF_Phase2_CurrentBirthday>
+  <MF_Phase2_Age>{0}歳</MF_Phase2_Age>
+  <MF_Phase2_EditPhotoTab>写真の調整</MF_Phase2_EditPhotoTab>
+  <MF_Phase2_EditIconTab>写真内のアイコン</MF_Phase2_EditIconTab>
+  <MF_Phase2_EditIconOpen>写真内にアイコンを追加</MF_Phase2_EditIconOpen>
+  <MF_Phase2_MarginStickers>アルバムの余白にステッカーを追加</MF_Phase2_MarginStickers>
+  <MF_Phase2_IconHelp>形を選び、写真の上でドラッグします。これは手動の飾りで、記録されたポーンの感情ではありません。</MF_Phase2_IconHelp>
+  <MF_Phase2_IconMoveHint>アイコン: ドラッグで移動 · 右でサイズ調整 · Deleteで削除</MF_Phase2_IconMoveHint>
+  <MF_Phase2_IconSize>選択したアイコンのサイズ</MF_Phase2_IconSize>
+  <MF_Phase2_IconSelect>写真上のアイコンを選択すると、位置とサイズを調整できます。</MF_Phase2_IconSelect>
+  <MF_Phase2_IconRemove>選択したアイコンを削除</MF_Phase2_IconRemove>
+  <MF_Phase2_IconClear>すべてのアイコンを消去</MF_Phase2_IconClear>
+  <MF_Phase2_IconOriginalSafe>保存すると新しい編集版が作られます。元の写真はそのままです。</MF_Phase2_IconOriginalSafe>
+  <MF_BuildingNewSpaceTitle>新しい空間ができていく</MF_BuildingNewSpaceTitle>
+  <MF_BuildingRoomTitle>新しい空間: {0}</MF_BuildingRoomTitle>
+  <MF_BuildingCaption>建設が落ち着いた後、屋根のある{0}マスの空間が使える状態になったところをこの写真に記録した。</MF_BuildingCaption>
+  <MF_Kind_building>建物</MF_Kind_building>
+  <MF_PreparationMedicalWarning>治療のため休息中 · 呼び出し可能</MF_PreparationMedicalWarning>
+  <MF_PreparationReaction>リアクション</MF_PreparationReaction>
+  <MF_PreparationReactionLive>マップのみ</MF_PreparationReactionLive>
+  <MF_PreparationReactionPhoto>写真にも</MF_PreparationReactionPhoto>
+  <MF_PreparationReactionOff>オフ</MF_PreparationReactionOff>
+  <MF_PreparationRememberReaction>このリアクションの選択を今後の写真のために記憶</MF_PreparationRememberReaction>
+  <MF_PreparationReactionHelp>この写真の間、入植者の頭上に短いリアクションを出します。「写真にも」では保存画像にも残します。記憶すると、次の準備ウィンドウの標準になります。既存の写真は変わりません。</MF_PreparationReactionHelp>
+  <MF_PreparationSearchHelp>{0}人選択中 · 検索外{1}人。「すべて選択」と「ランダム」は全員を対象にします。</MF_PreparationSearchHelp>
+  <MF_PreparationNameSearch>名前を検索 · 選択済みの人はそのままです。</MF_PreparationNameSearch>
+  <MF_PreparationPeopleFocus>人物優先 (ズームイン)</MF_PreparationPeopleFocus>
+  <MF_PreparationScenery>景色も含める (ズームアウト)</MF_PreparationScenery>
+  <MF_PreparationFramingHelp>人物優先では参加者を近くで収めます。景色も含めるでは周囲を多く残します。撮影スポット用に描いた構図や、再現する元の写真の構図が優先されます。</MF_PreparationFramingHelp>
+  <MF_PreparationSelectedSpot>{0} ({1}, {2})</MF_PreparationSelectedSpot>
+  <MF_PreparationChangeSpot>撮影スポットを選択</MF_PreparationChangeSpot>
+  <MF_PreparationSpotGone>選択した撮影スポットがなくなりました。「位置と構図」で別のスポットを選んでください。</MF_PreparationSpotGone>
+  <MF_PreparationSpotPolicy>集合写真は選択したスポットで始まります。誕生日は最初はマップの1つ目のスポットを選びます。別のスポットを選ぶには、隣の「撮影スポットを選択」を使ってください。</MF_PreparationSpotPolicy>
+  <MF_ProjectionSize>投影サイズ: {0}</MF_ProjectionSize>
+  <MF_ProjectionSizeDesc>小さな装置から大きな写真を投影します。投影範囲と観客エリアは選んだサイズを共有します。マップの端をはみ出すサイズは使えません。</MF_ProjectionSizeDesc>
+  <MF_ProjectionNormal>普通 · 2.4×1.6マス</MF_ProjectionNormal>
+  <MF_ProjectionLarge>大 · 6×4マス</MF_ProjectionLarge>
+  <MF_ProjectionLargest>特大 · 9×6マス</MF_ProjectionLargest>
+  <MF_ProjectionSingle>写真を1枚固定</MF_ProjectionSingle>
+  <MF_ProjectionSingleDesc>家族写真を1枚飾り続けます。スライドショーに戻すにはフィルムを選びます。思い出の夜では選んだフィルムが一時的に表示されます。</MF_ProjectionSingleDesc>
+  <MF_NightPrepare>思い出の夜を準備</MF_NightPrepare>
+  <MF_NightFilmChoice>フィルム: {0} · 写真{1}枚</MF_NightFilmChoice>
+  <MF_NightDetails>鑑賞時間を表示</MF_NightDetails>
+  <MF_NightDetailsClose>鑑賞時間を隠す</MF_NightDetailsClose>
+  <MF_NightDuration>鑑賞時間 · 通常速度で{0}分</MF_NightDuration>
+  <MF_NightTimeHint>集合の時間は鑑賞時間に含まれません。鑑賞とスライドの切り替えはゲーム内時間に従います。ゲーム速度はご自身で選んでください。</MF_NightTimeHint>
+  <MF_NightGuests>一緒に見る ({0}人)</MF_NightGuests>
+  <MF_NightClearGuests>選択を解除</MF_NightClearGuests>
+  <MF_NightChooseGuests>一緒に見る人を選んでください。</MF_NightChooseGuests>
+  <MF_NightGuestsChanged>選んだ人の状態が変わりました。名簿の通知を確認してください。</MF_NightGuestsChanged>
+  <MF_NightStartHint>全員が観客の位置に落ち着くと、鑑賞と撮影が始まります。選んだ人が就寝中なら起こします。</MF_NightStartHint>
+  <MF_NightStartGathering>選択した人を呼ぶ</MF_NightStartGathering>
+  <MF_NightWakeWarning>就寝中 · 呼ぶと起こします</MF_NightWakeWarning>
+  <MF_NightReachWarning>観客エリアに行けません</MF_NightReachWarning>
+  <MF_NightGathering>集合中 · {0}/{1}人到着</MF_NightGathering>
+  <MF_NightWatching>思い出を鑑賞中 · {0}/{1}人</MF_NightWatching>
+  <MF_NightWaitingDecision>思い出の夜: {0}/{1}人が到着しました。映写機の「思い出の夜」を開いて、待ち続けるか今いる人で始めるかを選んでください。</MF_NightWaitingDecision>
+  <MF_NightAutoStarted>思い出の夜: 全員は来なかったので、来た{0}人で始めます。</MF_NightAutoStarted>
+  <MF_NightMissing>待っている人: {0}</MF_NightMissing>
+  <MF_NightProgressWatching>鑑賞中 · {0}/{1}人 · 写真 {2}/{3} · 通常速度で残り{4}秒</MF_NightProgressWatching>
+  <MF_NightKeepWaiting>待ち続ける</MF_NightKeepWaiting>
+  <MF_NightStartPresent>今いる人で始める</MF_NightStartPresent>
+  <MF_NightContinueWatching>鑑賞を続ける</MF_NightContinueWatching>
+  <MF_NightCancel>イベントを中止</MF_NightCancel>
+  <MF_Kind_settlement-overview>入植地全体</MF_Kind_settlement-overview>
+  <MF_Kind_settlement-quarter>入植地の四分割</MF_Kind_settlement-quarter>
+  <MF_Phase2_WorldDisplay>ワールドマップの思い出</MF_Phase2_WorldDisplay>
+  <MF_Phase2_WorldPhotos>ワールドマップの写真</MF_Phase2_WorldPhotos>
+  <MF_Phase2_WorldLines>初訪問の順序の線</MF_Phase2_WorldLines>
+  <MF_Phase2_WorldPhotosHelp>写真のピンの表示だけを切り替えます。訪問記録と自動撮影は続きます。</MF_Phase2_WorldPhotosHelp>
+  <MF_Phase2_WorldLinesHelp>別々の遠征も含め、すべての部隊の初訪問を時系列順に結びます。実際の移動経路ではなく、再訪も含みません。他のMODやバニラの線は変わりません。</MF_Phase2_WorldLinesHelp>
+  <MF_Phase2_DragCapture>クリック: この範囲を撮影 · ドラッグ: 範囲を自分で選ぶ</MF_Phase2_DragCapture>
+  <MF_Phase2_DragRelease>離すと選択範囲を撮影します</MF_Phase2_DragRelease>
+  <MF_Phase2_SettlementFrequency>入植地全体の記録</MF_Phase2_SettlementFrequency>
+  <MF_Phase2_SettlementFrequencyHelp>四半期または年の終わりに、マップ全景1枚と四分割の写真4枚を撮影します。表示中の拠点マップのみ描画され、後で戻った場合は実際の撮影日が記録されます。自動撮影を無効にすると自動の全景撮影も止まります。手動の全景撮影は引き続き使えます。</MF_Phase2_SettlementFrequencyHelp>
+  <MF_Phase2_FrequencyOff>自動の全景なし</MF_Phase2_FrequencyOff>
+  <MF_Phase2_FrequencyQuarter>四半期ごと</MF_Phase2_FrequencyQuarter>
+  <MF_Phase2_FrequencyYear>毎年</MF_Phase2_FrequencyYear>
+  <MF_Phase2_BuildingPhotos>新しい建物の記録</MF_Phase2_BuildingPhotos>
+  <MF_Phase2_BuildingPhotosHelp>研究室、図書室、作業室、調理場、医務室、神殿など、屋根のある屋内施設が安定して新しくできたときに記録します。実際の設備があり、未完成の建設がなく、6000ティック安定していることが条件です。空の部屋、廊下、寝室、床張りや倉庫だけのものは対象外です。プレイヤーの建設計画の終わりを正確に知ることはできません。</MF_Phase2_BuildingPhotosHelp>
+  <MF_Phase2_Period>{0}、第{1}四半期</MF_Phase2_Period>
+  <MF_Phase2_Map>入植地マップ {0}</MF_Phase2_Map>
+  <MF_Phase2_SurveyNow>マップ全体を今すぐ撮影</MF_Phase2_SurveyNow>
+  <MF_Phase2_SurveyHint>マップ全景1枚 + 四分割4枚。速度と一時停止は選んだままです。</MF_Phase2_SurveyHint>
+  <MF_Phase2_WholeMap>マップ全体</MF_Phase2_WholeMap>
+  <MF_Phase2_Quarter0>北西</MF_Phase2_Quarter0>
+  <MF_Phase2_Quarter1>北東</MF_Phase2_Quarter1>
+  <MF_Phase2_Quarter2>南西</MF_Phase2_Quarter2>
+  <MF_Phase2_Quarter3>南東</MF_Phase2_Quarter3>
+  <MF_Phase2_SurveyTitle>{0}、第{1}四半期 / {2}</MF_Phase2_SurveyTitle>
+  <MF_Phase2_SurveyNote>記録日 {0}。マップ範囲: {1} × {2}マス。</MF_Phase2_SurveyNote>
+  <MF_Phase2_SurveyDone>入植地の全景と四分割の写真を5枚記録しました。</MF_Phase2_SurveyDone>
+  <MF_Phase2_SurveyCaptured>実際の撮影: {0} / 全景は連続した4枚の四分割写真を合成したものです。</MF_Phase2_SurveyCaptured>
+  <MF_Phase2_SurveySchedule>全景は四半期末または年末に追加されます。過去の眺めをさかのぼって作ることはありません。</MF_Phase2_SurveySchedule>
+  <MF_Phase2_SurveyEmpty>この期間のマップ全体の写真はまだありません。</MF_Phase2_SurveyEmpty>
+  <MF_Phase2_SurveyMissing>この写真の記録または画像ファイルを利用できません。</MF_Phase2_SurveyMissing>
+  <MF_Phase2_SurveyQueued>マップ全体の撮影を待っています。撮影するにはこの入植地マップを表示してください。</MF_Phase2_SurveyQueued>
+  <MF_Phase2_SurveyFailed>全景撮影を完了できませんでした。現在のマップをもう一度撮影できます。</MF_Phase2_SurveyFailed>
+  <MF_Phase2_QuartersOpen>四分割の写真を表示</MF_Phase2_QuartersOpen>
+  <MF_Phase2_QuartersClose>四分割の写真を隠す</MF_Phase2_QuartersClose>
+  <MF_Phase2_PeriodPhotos>この期間の写真 / {0}</MF_Phase2_PeriodPhotos>
+  <MF_Phase2_PeriodView>四半期の写真</MF_Phase2_PeriodView>
+  <MF_Phase2_HistoryView>変化を見る</MF_Phase2_HistoryView>
+  <MF_Phase2_SelectYear>年を選択: {0}</MF_Phase2_SelectYear>
+  <MF_Phase2_SelectQuarter>四半期を選択: {0}</MF_Phase2_SelectQuarter>
+  <MF_Phase2_YearOption>{0}</MF_Phase2_YearOption>
+  <MF_Phase2_QuarterOption>第{0}四半期</MF_Phase2_QuarterOption>
+  <MF_Phase2_HistoryWhole>全景</MF_Phase2_HistoryWhole>
+  <MF_Phase2_HistorySummary>{0} / {1}〜{2} / 写真{3}枚</MF_Phase2_HistorySummary>
+  <MF_Phase2_HistoryHint>このマップの完成した写真を古い順に表示します。写真をクリックすると拡大して見られます。</MF_Phase2_HistoryHint>
+  <MF_Phase2_HistoryEmpty>この範囲の全景写真はまだありません。撮影が完了すると順に表示されます。</MF_Phase2_HistoryEmpty>
+  <MF_Phase2_HistoryOne>記録された全景は1枚です。次の撮影で、この範囲の時間の変化を比較できます。</MF_Phase2_HistoryOne>
+  <MF_Phase2_HistoryCaptureDate>実際の撮影: {0}</MF_Phase2_HistoryCaptureDate>
+  <MF_BurstCount>写真{0}枚</MF_BurstCount>
+  <MF_BurstTitle>同じ集合の撮影 · 写真{0}枚</MF_BurstTitle>
+  <MF_BurstRepresentative>カバー写真</MF_BurstRepresentative>
+  <MF_BurstSetRepresentative>カバーに設定</MF_BurstSetRepresentative>
+  <MF_BurstLoading>写真を読み込み中…</MF_BurstLoading>
+  <MF_EditViewFit>写真に合わせる</MF_EditViewFit>
+  <MF_EditViewHint>ズーム: マウスホイールまたは - / + ボタン</MF_EditViewHint>
+  <MF_EditViewPanHint>視点の移動: 中ボタンドラッグまたはスペース + 左ドラッグ</MF_EditViewPanHint>
+  <MF_EditViewCropHint>トリミング: 角を左ドラッグでサイズ変更、内側を左ドラッグで移動</MF_EditViewCropHint>
+  <MF_EditViewHelp>マウスホイールか - / + ボタンでプレビューをズームします。中ボタンでドラッグ、またはスペースを押しながら左ドラッグでパンします。左ドラッグでトリミングを調整します。「写真に合わせる」は視点だけをリセットし、トリミングとフィルターはそのままです。</MF_EditViewHelp>
+  <MF_EditViewScaleHelp>100%でプレビューに写真全体が収まります。表示のズームとパンは保存する写真を変更しません。</MF_EditViewScaleHelp>
+  <MF_Face0>標準</MF_Face0>
+  <MF_Face1>笑顔</MF_Face1>
+  <MF_Face2>目を閉じた笑顔</MF_Face2>
+  <MF_Face3>驚き</MF_Face3>
+  <MF_Face4>悲しみ</MF_Face4>
+  <MF_FaceChoice>表情: {0}</MF_FaceChoice>
+  <MF_FaceUnsupported>利用不可</MF_FaceUnsupported>
+  <MF_FaceHelp>撮影中の実際の顔だけを変え、リアクションの吹き出しとは別です。「標準」はいつもの顔のままです。このポーンと向きに対応した顔テクスチャが必要です。既存の一時的なアニメーションが優先され、後ろ向きのポーズは変わりません。保存したプリセットにはこの選択も含まれます。</MF_FaceHelp>
+  <MF_FacePreviewHelp>選択した表情のプレビューです。カーソルを合わせると拡大します。</MF_FacePreviewHelp>
+  <MF_FacePreviewBusy>別の表情を再生中</MF_FacePreviewBusy>
+  <MF_LocationChoose>撮影場所を選ぶ</MF_LocationChoose>
+  <MF_LocationChange>場所を変更</MF_LocationChange>
+  <MF_LocationPreview>マップで見る</MF_LocationPreview>
+  <MF_LocationFree>マップで選んだ場所</MF_LocationFree>
+  <MF_LocationNumbered>{0} {1}</MF_LocationNumbered>
+  <MF_LocationOutdoors>屋外</MF_LocationOutdoors>
+  <MF_LocationCoordinates>マップ座標: ({0}, {1})</MF_LocationCoordinates>
+  <MF_LocationHelp>場所を選ぶか、マップで確認してから準備に戻ります。場所に名前を付けると次回見つけやすくなります。</MF_LocationHelp>
+  <MF_LocationSelect>この場所を使う</MF_LocationSelect>
+  <MF_LocationSelectPreview>選んでマップで見る</MF_LocationSelectPreview>
+  <MF_LocationRename>名前を変更</MF_LocationRename>
+  <MF_LocationRenameHelp>例: 食堂のポートレート、庭の誕生日スポット。空欄なら家具の標準の名前を使います。</MF_LocationRenameHelp>
+  <MF_LocationSaveName>名前を保存</MF_LocationSaveName>
+  <MF_Set_Reactions>シャッター時のちょっとしたリアクション</MF_Set_Reactions>
+  <MF_Set_ReactionsDesc>通常、集合、誕生日、結婚式、再会、パーティの写真で、起きている入植者が数人短くリアクションします。リアクションするのは最大3人です。赤ん坊、就寝中のポーン、戦闘と追悼の場面は除きます。変更は今後の写真に適用されます。</MF_Set_ReactionsDesc>
+  <MF_Set_ReactionsAfter>シャッター後にマップ上のみ (標準)</MF_Set_ReactionsAfter>
+  <MF_Set_ReactionsPhoto>写真に含める</MF_Set_ReactionsPhoto>
+  <MF_Set_ReactionsOff>オフ</MF_Set_ReactionsOff>
+  <MF_StorageTitle>写真ファイルの確認</MF_StorageTitle>
+  <MF_StorageSummary>写真{0}枚 / ファイルなし{1}枚 / 再接続可能なファイル{2}個</MF_StorageSummary>
+  <MF_StorageProgress>ファイルを確認中 {0} / {1}</MF_StorageProgress>
+  <MF_StorageSearching>別のフォルダで同一の写真を検索しています。</MF_StorageSearching>
+  <MF_StorageRestoring>確認済みの写真を新しいコピーとして復元しています。</MF_StorageRestoring>
+  <MF_StorageStateFound>別のフォルダで同一の写真が見つかりました</MF_StorageStateFound>
+  <MF_StorageHint>オリジナルと編集版を確認します。写真のなかったイベントは除きます。保護されたコピーは写真フォルダ内にあるので、移動するときは一緒に持って行ってください。</MF_StorageHint>
+  <MF_StorageRescan>再確認</MF_StorageRescan>
+  <MF_StorageFind>別のフォルダで探す</MF_StorageFind>
+  <MF_StorageFolderHint>検索する写真フォルダのパスを貼り付けてください。</MF_StorageFolderHint>
+  <MF_StorageSearch>フォルダを検索</MF_StorageSearch>
+  <MF_StorageSearchHint>このフォルダとその保護コピーから、ファイル名が違っても内容が同一のものを探します。確認情報のない古い写真は自動でリンクされません。</MF_StorageSearchHint>
+  <MF_StorageProblems>対応が必要な写真のみ</MF_StorageProblems>
+  <MF_StorageAll>正常な写真も表示</MF_StorageAll>
+  <MF_StorageNoProblems>見つからない写真ファイルはありません。</MF_StorageNoProblems>
+  <MF_StorageOriginal>オリジナル</MF_StorageOriginal>
+  <MF_StorageEdit>編集</MF_StorageEdit>
+  <MF_StorageStateReady>ファイルあり</MF_StorageStateReady>
+  <MF_StorageStateProtectedCopy>確認済みのコピーを再接続できます</MF_StorageStateProtectedCopy>
+  <MF_StorageStateMissing>写真ファイルが見つかりません</MF_StorageStateMissing>
+  <MF_StorageStateUnreadable>ファイルを読み込めませんでした</MF_StorageStateUnreadable>
+  <MF_StorageRestore>新しいコピーを復元</MF_StorageRestore>
+  <MF_StorageFound>同一の写真が{0}枚見つかりました。一覧から復元するものを選んでください。</MF_StorageFound>
+  <MF_StorageRestored>新しいコピーを接続しました。既存のファイルは保持されています。</MF_StorageRestored>
+  <MF_StorageChanged>写真の記録または保存フォルダが変更されました。このウィンドウを開き直して確認してください。</MF_StorageChanged>
+  <MF_StorageFailed>ファイルを確認できませんでした。フォルダのパスとアクセス権を確認してください。</MF_StorageFailed>
+  <MF_StorageCancelled>確認を中止しました。</MF_StorageCancelled>
+  <MF_StorageUnavailable>この写真を表示できませんでした。\nタイトルと日付は記録されたままです。</MF_StorageUnavailable>
+  <MF_StudioAutoHelp>自動の構図には人物と背景幕が含まれます。参加者は撮影ゾーンの回転に従った向きを向きます。</MF_StudioAutoHelp>
+  <MF_StudioFamily>家族を選択…</MF_StudioFamily>
+  <MF_StudioFamilyHelp>この人、パートナー、両親、子、きょうだいを選択します。後で名簿を調整できます。</MF_StudioFamilyHelp>
+  <MF_StudioDirection>向きは撮影ゾーンに従います</MF_StudioDirection>
+  <MF_Playtest_ModSettings>MOD設定</MF_Playtest_ModSettings>
+  <MF_Playtest_AllPhotos>すべての写真</MF_Playtest_AllPhotos>
+  <MF_Playtest_LeaveParty>パーティ中 / 呼ぶと抜けて来ます</MF_Playtest_LeaveParty>
+  <MF_Playtest_GatheringBlocked>{0} / 呼ぶ前にこの活動を終わらせてください</MF_Playtest_GatheringBlocked>
+  <MF_Why_OtherGathering>他の集まりに参加中</MF_Why_OtherGathering>
+  <MF_Why_Surgery>手術中</MF_Why_Surgery>
+  <MF_Why_MedicalRest>治療のため休息中</MF_Why_MedicalRest>
+  <MF_Why_Starving>飢餓</MF_Why_Starving>
+  <MF_Why_Bleeding>出血</MF_Why_Bleeding>
+  <MF_Why_BloodLoss>失血</MF_Why_BloodLoss>
+  <MF_Why_Exhausted>疲労困憊</MF_Why_Exhausted>
+  <MF_Why_Treatment>治療が必要</MF_Why_Treatment>
+  <MF_Why_Labor>陣痛中</MF_Why_Labor>
+  <MF_Why_Emergency>緊急の作業中</MF_Why_Emergency>
+  <MF_Why_Unavailable>今は参加できません</MF_Why_Unavailable>
+  <MF_GroupBabyNoGuardian>{0}: 今はこの赤ん坊を抱ける世話係がいません。他の大人の手が空いたら赤ん坊を選んでください。</MF_GroupBabyNoGuardian>
+  <MF_GroupBabyNoGuardianShort>世話係が必要</MF_GroupBabyNoGuardianShort>
+  <MF_GroupBabySharedGuardian>{0}: 一度に抱ける赤ん坊は1人だけです。</MF_GroupBabySharedGuardian>
+  <MF_GroupBabyWithGuardian>{0}が抱いています</MF_GroupBabyWithGuardian>
+  <MF_GroupBabyGuardianRequired>赤ん坊の世話係 (必須)</MF_GroupBabyGuardianRequired>
+  <MF_GroupBabySelectHelp>赤ん坊を選ぶと世話係も含まれます。赤ん坊ごとに別の世話係が必要です。</MF_GroupBabySelectHelp>
+  <MF_GroupBabyReady>全員が到着すると自動で撮影され、グループは解散します。世話係は赤ん坊を安全な場所へ戻します。</MF_GroupBabyReady>
+  <MF_PhotoMissingSubject>写真に必要な参加者全員が写っていません。構図と参加者を確認してください。</MF_PhotoMissingSubject>
+  <MF_BirthdayShoot>誕生日の写真を撮影 ({0})</MF_BirthdayShoot>
+  <MF_BirthdayShootDesc>準備ができたら、誕生日の主役と選んだ招待客全員を撮影します。写真が保存されると集まりは終了します。</MF_BirthdayShootDesc>
+  <MF_BirthdayMoveAnchor>別の場所を選ぶ</MF_BirthdayMoveAnchor>
+  <MF_RecordOnly>イベント記録\n写真なし</MF_RecordOnly>
+  <MF_Why_Asleep>就寝中</MF_Why_Asleep>
+  <MF_Why_Baby>赤ん坊 — 歩いて並べません</MF_Why_Baby>
+  <MF_BirthdayReady>全員が位置につきました。誕生日の写真を自動で撮影します。</MF_BirthdayReady>
+  <MF_BirthdayWaitAll>選んだ招待客全員の到着を待つか、招待客を編集してください。</MF_BirthdayWaitAll>
+  <MF_BirthdaySubjectMissing>誕生日の主役がいません。主役がフレームに入るように写真を準備してください。</MF_BirthdaySubjectMissing>
+  <MF_BirthdayRetryCapture>写真は保存されませんでした。設定を確認してもう一度試してください。</MF_BirthdayRetryCapture>
+  <MF_BirthdayEditGuests>誕生日の招待客を編集</MF_BirthdayEditGuests>
+  <MF_BirthdaySetupHelp>招待客と並ぶ向きを選びます。全員が到着すると自動で撮影され、保存されると招待客は戻ります。就寝中の招待客は呼ばれると起きます。中止した後も誕生日の通知を開き直せます。</MF_BirthdaySetupHelp>
+  <MF_BirthdayAtBed>主役は ({0}, {1}) に留まり、招待客がその周りに集まります。</MF_BirthdayAtBed>
+  <MF_BirthdayPlace>整列の基準地点: ({0}, {1})</MF_BirthdayPlace>
+  <MF_BirthdayRecommended>親しい人をおすすめ</MF_BirthdayRecommended>
+  <MF_BirthdayAllGuests>手の空いた入植者全員</MF_BirthdayAllGuests>
+  <MF_BirthdayOnlySelf>主役のみ</MF_BirthdayOnlySelf>
+  <MF_DirectionNorth>北に立つ</MF_DirectionNorth>
+  <MF_DirectionEast>東に立つ</MF_DirectionEast>
+  <MF_DirectionSouth>南に立つ</MF_DirectionSouth>
+  <MF_DirectionWest>西に立つ</MF_DirectionWest>
+  <MF_BirthdaySubject>誕生日の主役 · 必須</MF_BirthdaySubject>
+  <MF_BirthdayCapacity>{0}人選択中 · 歩ける招待客{2}人に場所{1}人分。場所が足りないときは向きか招待客を変更してください。</MF_BirthdayCapacity>
+  <MF_BirthdayPreview>位置をプレビュー</MF_BirthdayPreview>
+  <MF_BirthdayPreviewInfo>青いマスは招待客の位置です。確認したら招待客のウィンドウに戻ってください。</MF_BirthdayPreviewInfo>
+  <MF_BirthdayApplyGuests>招待客と位置を適用</MF_BirthdayApplyGuests>
+  <MF_BirthdayStartGather>選択した人を集合</MF_BirthdayStartGather>
+  <MF_BirthdayGuestsChanged>選んだ招待客が参加できなくなりました。招待客をもう一度確認してください。</MF_BirthdayGuestsChanged>
+  <MF_BattleNoSubject>脅威は収まりました。撮影できる敵や残骸が残っていないため、この項目には写真がありません。</MF_BattleNoSubject>
+  <MF_PhotoFactPeople>{0}。この写真には{1}人が写っている。</MF_PhotoFactPeople>
+  <MF_PhotoFactScene>{0}。この写真はそのときの場所を写している。</MF_PhotoFactScene>
+  <MF_Adoption>養子縁組: {0}</MF_Adoption>
+  <MF_BabyArrival>子どもが加わる: {0}</MF_BabyArrival>
+  <MF_Kind_adoption>養子縁組</MF_Kind_adoption>
+  <MF_Kind_babyarrival>子どもの到着</MF_Kind_babyarrival>
+  <MF_Life_adopted>養子としてコロニーに迎えられた</MF_Life_adopted>
+  <MF_Caption_colonystart_1>ここが家らしくなる前に、荷物が先に地面を占めていた。</MF_Caption_colonystart_1>
+  <MF_Caption_colonystart_2>ここで暮らすことになる人たちの、最初の顔。</MF_Caption_colonystart_2>
+  <MF_Caption_colonystart_3>草と石のあいだに、新しい暮らしの場所ができた。</MF_Caption_colonystart_3>
+  <MF_Caption_colonystart_4>コロニーの時間はこの地面から始まった。</MF_Caption_colonystart_4>
+  <MF_Caption_colonystart_5>家をどこに建てるかは、まだ決まっていなかった。</MF_Caption_colonystart_5>
+  <MF_Caption_colonystart_6>まとめて下ろした荷物が、小さな始まりの印だった。</MF_Caption_colonystart_6>
+  <MF_Caption_colonystart_7>見慣れる前の、この土地の姿。</MF_Caption_colonystart_7>
+  <MF_Caption_colonystart_8>最初の日の一枚を残した。</MF_Caption_colonystart_8>
+  <MF_Caption_mechlink_1>新しいつながりで、新しい仕事ができるようになった。</MF_Caption_mechlink_1>
+  <MF_Caption_mechlink_2>機械とつながった暮らしの、ある瞬間。</MF_Caption_mechlink_2>
+  <MF_Caption_mechlink_3>新しいつながりができた日。</MF_Caption_mechlink_3>
+  <MF_Caption_mechlink_4>それまでとは違う可能性が、静かに開いた。</MF_Caption_mechlink_4>
+  <MF_Caption_mechlink_5>その変化が始まった場所の写真。</MF_Caption_mechlink_5>
+  <MF_Caption_mechlink_6>メカリンクを取り付けた後の眺め。</MF_Caption_mechlink_6>
+  <MF_Caption_mechlink_7>その日、できることがまたひとつ増えた。</MF_Caption_mechlink_7>
+  <MF_Caption_mechlink_8>このつながりの始まりは、ひとりの人生の中にあった。</MF_Caption_mechlink_8>
+  <MF_Caption_ending_1>コロニーの歴史は転換点を迎えた。</MF_Caption_ending_1>
+  <MF_Caption_ending_2>ここでの暮らしの先にある選択が、見えてきた。</MF_Caption_ending_2>
+  <MF_Caption_ending_3>ここへ至る日々は、この一枚には収まらない。</MF_Caption_ending_3>
+  <MF_Caption_ending_4>次の章の入り口からの眺め。</MF_Caption_ending_4>
+  <MF_Caption_ending_5>始まりの頃とは違う時間が、ここに積もっていた。</MF_Caption_ending_5>
+  <MF_Caption_ending_6>ここまで来たという事実を、一枚の写真に残した。</MF_Caption_ending_6>
+  <MF_Caption_ending_7>この景色には、それまでの日々の跡が残っていた。</MF_Caption_ending_7>
+  <MF_Caption_ending_8>長い旅の端を、一枚の写真に残した。</MF_Caption_ending_8>
+  <MF_Caption_adoption_1>新しい家族がやって来た。</MF_Caption_adoption_1>
+  <MF_Caption_adoption_2>この日から、このコロニーで暮らしを共にする。</MF_Caption_adoption_2>
+  <MF_Caption_adoption_3>その子を迎えた日の眺め。</MF_Caption_adoption_3>
+  <MF_Caption_adoption_4>家族の新しい始まりを、一枚に残した。</MF_Caption_adoption_4>
+  <MF_Caption_babyarrival_1>子どもがコロニーに加わった日。</MF_Caption_babyarrival_1>
+  <MF_Caption_babyarrival_2>やって来た子どもを記録に加えた。</MF_Caption_babyarrival_2>
+  <MF_Caption_babyarrival_3>はじめて一緒に過ごした場所。</MF_Caption_babyarrival_3>
+  <MF_Caption_babyarrival_4>コロニーにまたひとり加わった。</MF_Caption_babyarrival_4>
+  <MF_ProjectorFilmButton>フィルムを選択\n{0}</MF_ProjectorFilmButton>
+  <MF_ProjectorCurrentFilm>上映中: {0}</MF_ProjectorCurrentFilm>
+  <MF_ProjectorFilmChosen>{0} (選択中)</MF_ProjectorFilmChosen>
+  <MF_ProjectorFilmAfterNight>開催中の思い出の夜は開始時に選んだフィルムを使います。ここで選んだフィルムは集まりの終了後に上映されます。</MF_ProjectorFilmAfterNight>
+  <MF_ProjectorOpenAlbum>アルバムで見る</MF_ProjectorOpenAlbum>
+  <MF_ProjectorOpenAlbumDesc>現在投影中の写真をアルバムで開きます。マップ上のサイズを変えるには「投影サイズ」を使ってください。</MF_ProjectorOpenAlbumDesc>
+  <MF_ProjectorNightWhen>集まりは一日のいつでも始められます。フィルムには少なくとも{0}枚の写真と、手の空いた入植者が必要です。同じマップで開催できる思い出の夜は一度に1つだけです。</MF_ProjectorNightWhen>
+  <MF_ProjectionCustomTitle>投影サイズのカスタム</MF_ProjectionCustomTitle>
+  <MF_ProjectionCustomInput>カスタムサイズを入力…</MF_ProjectionCustomInput>
+  <MF_ProjectionCustomSize>カスタム · {0}×{1}マス</MF_ProjectionCustomSize>
+  <MF_ProjectionWidth>幅 (マス)</MF_ProjectionWidth>
+  <MF_ProjectionHeight>高さ (マス)</MF_ProjectionHeight>
+  <MF_ProjectionCustomHelp>1辺あたり{0}–{1}マス、小数可。写真はこの範囲内で縦横比を保ちます。投影サイズを変えても元の画像や解像度は変わりません。</MF_ProjectionCustomHelp>
+  <MF_ProjectionInvalid>許容範囲内の有効な幅と高さを入力してください。</MF_ProjectionInvalid>
+  <MF_ProjectionOffMap>投影範囲がマップをはみ出しています。サイズを小さくするか、映写機を移動してください。</MF_ProjectionOffMap>
+  <MF_ProjectionCustomReady>適用すると範囲のプレビューと思い出の夜の観客位置も更新されます。</MF_ProjectionCustomReady>
+  <MF_ProjectionApply>適用</MF_ProjectionApply>
+  <MF_ProjectionDepth>描画順: {0}</MF_ProjectionDepth>
+  <MF_ProjectionDepthHelp>写真を床のように物の後ろに、または物、家具、ポーンの前に表示します。メニューやウィンドウは変わりません。</MF_ProjectionDepthHelp>
+  <MF_ProjectionBehind>物の後ろ</MF_ProjectionBehind>
+  <MF_ProjectionFront>物の前</MF_ProjectionFront>
+  <MF_ProjectionLegacy>以前の順序を保持</MF_ProjectionLegacy>
+  <MF_Bridge_Preparing>共有する写真を準備しています。元の写真はそのままです。</MF_Bridge_Preparing>
+  <MF_Bridge_PrepareFailed>写真を準備できませんでした。何も送信されていません。もう一度試すか、アルバムから写真を選び直してください。</MF_Bridge_PrepareFailed>
+  <MF_Bridge_ImageInvalid>この写真を読み込めませんでした。アルバムで保存状態を確認してください。</MF_Bridge_ImageInvalid>
+  <MF_Extras_Scanning>写真フォルダを確認中… {0}ファイル確認済み</MF_Extras_Scanning>
+  <MF_Extras_Remembrance>写真で振り返る</MF_Extras_Remembrance>
+  <MF_Extras_ColonyRemembrance>残してきた瞬間</MF_Extras_ColonyRemembrance>
+  <MF_Extras_PersonRemembrance>{0}との瞬間</MF_Extras_PersonRemembrance>
+  <MF_Extras_ChooseRemembrance>コロニーか人物を選ぶ</MF_Extras_ChooseRemembrance>
+  <MF_Extras_RemembranceHint>イベントの種類と瞬間の間隔によって、実際の写真が最大5枚選ばれます。再生を押すと1枚12秒ずつ表示されます。ゲーム速度はそのままです。</MF_Extras_RemembranceHint>
+  <MF_Extras_NoRemembrance>振り返る写真はまだありません。</MF_Extras_NoRemembrance>
+  <MF_Extras_StopSlides>スライドショーを一時停止</MF_Extras_StopSlides>
+  <MF_Extras_PlaySlides>1枚ずつ見る</MF_Extras_PlaySlides>
+  <MF_Extras_OpenInAlbum>アルバムで見る</MF_Extras_OpenInAlbum>
+  <MF_Extras_OtherDays>他の日の写真</MF_Extras_OtherDays>
+  <MF_Extras_RefreshFolder>写真フォルダをもう一度調べる</MF_Extras_RefreshFolder>
+  <MF_Extras_ScanHint>このコロニーのフォルダと現在のセーブの写真リストを比較します。写真をプレビューし、チェックしたものだけを取り込みます。外部で変更された画像は新しい編集版としてコピーされ、オリジナルが削除や上書きされることはありません。古い写真は最初に確認したファイルの状態が基準となるため、それ以前の変更は識別できません。</MF_Extras_ScanHint>
+  <MF_Extras_OtherDay>現在のセーブのリストにない写真</MF_Extras_OtherDay>
+  <MF_Extras_NewImage>新しく見つかった画像</MF_Extras_NewImage>
+  <MF_Extras_ChangedImage>外部で変更された画像 · 新しい編集版として取り込み</MF_Extras_ChangedImage>
+  <MF_Extras_MissingImage>フォルダにない · 記録は保持</MF_Extras_MissingImage>
+  <MF_Extras_Duplicate>同一の内容がすでに登録されています</MF_Extras_Duplicate>
+  <MF_Extras_KnownHistory>このMODは以前に写真の情報を保存していました。現在のセーブにこの写真がない理由や、別の時間軸のものかどうかは分かりません。</MF_Extras_KnownHistory>
+  <MF_Extras_UncertainHistory>撮影日とイベントを確認できません。ファイル名から復元した情報は手がかりであり、確定した履歴ではありません。</MF_Extras_UncertainHistory>
+  <MF_Extras_NoCandidates>取り込める写真はありません。元のファイルと既存の記録は保存されたままです。</MF_Extras_NoCandidates>
+  <MF_Extras_SelectPreview>左の写真をクリックするとプレビューします。</MF_Extras_SelectPreview>
+  <MF_Extras_Rescan>再読み込み</MF_Extras_Rescan>
+  <MF_Extras_ImportSelected>選択した{0}枚を取り込む</MF_Extras_ImportSelected>
+  <MF_Extras_ImportResult>{0}枚取り込み · {1}枚は取り込めず</MF_Extras_ImportResult>
+  <MF_Extras_ImportUnavailable>この写真は現在のコロニーに取り込めません。</MF_Extras_ImportUnavailable>
+  <MF_Extras_ImageTooLarge>写真は64MB、1辺8192pxまでです。元のファイルは変更されていません。</MF_Extras_ImageTooLarge>
+  <MF_Extras_ImageChanged>確認中にファイルが変更されました。再読み込みして選び直してください。</MF_Extras_ImageChanged>
+  <MF_Extras_InvalidPng>PNGを読み込めませんでした。画像エディターで開けるか確認してください。元のファイルは変更されていません。</MF_Extras_InvalidPng>
+  <MF_Extras_ImportedNote>ユーザーが明示的に取り込んだ写真です。現在のセーブではそのイベントを確認できません。</MF_Extras_ImportedNote>
+  <MF_Extras_UnknownDate>撮影日未確認</MF_Extras_UnknownDate>
+  <MF_Extras_EventPeople>当時のイベントの人物: {0}</MF_Extras_EventPeople>
+  <MF_Kind_otherday>他の日の写真</MF_Kind_otherday>
+  <MF_Kind_external>取り込んだ写真</MF_Kind_external>
+  <MF_Bridge_ShareMenu>写真を共有 · RimGram…</MF_Bridge_ShareMenu>
+  <MF_Bridge_TalkMenu>RimTalkの写真コメント…</MF_Bridge_TalkMenu>
+  <MF_Bridge_ShareTitle>選択した写真を共有</MF_Bridge_ShareTitle>
+  <MF_Bridge_TalkTitle>この写真にひとこと</MF_Bridge_TalkTitle>
+  <MF_Bridge_LocalHint>選択したオリジナルまたは編集版をRimGramのコロニーアカウントにローカルで投稿します。オンラインには送信されません。RimGramの投稿間隔とリアクションが適用されます。共有用のコピーを作ることもできます。</MF_Bridge_LocalHint>
+  <MF_Bridge_TalkHint>RimTalkのAIへのリクエストは、このボタンから1回だけ送られます。画像ファイルは送信されず、下の文章で選んだ人に回想を頼みます。AIの利用には料金がかかることがあります。アルバムのキャプションは変わりません。</MF_Bridge_TalkHint>
+  <MF_Bridge_TalkPrompt>この過去の写真を短い一文で回想してください。今起きている出来事として扱わないでください。下の記録にない感情、場所、出来事を作らないでください。選ばれた人だけが話してください。\n写真のタイトル: {0}\n写真の日付: {1}\n記録: {2}</MF_Bridge_TalkPrompt>
+  <MF_Bridge_NoSpeaker>現在のマップに手の空いた入植者がいません</MF_Bridge_NoSpeaker>
+  <MF_Bridge_Speaker>話者: {0}</MF_Bridge_Speaker>
+  <MF_Bridge_RequestLabel>リクエスト · 送信前に確認してください</MF_Bridge_RequestLabel>
+  <MF_Bridge_CaptionLabel>RimGramの文章</MF_Bridge_CaptionLabel>
+  <MF_Bridge_CopyPath>選択した写真のパスをコピー</MF_Bridge_CopyPath>
+  <MF_Bridge_Export>共有用コピーを作成</MF_Bridge_Export>
+  <MF_Bridge_PathCopied>写真のパスをコピーしました。</MF_Bridge_PathCopied>
+  <MF_Bridge_OpenRimGram>RimGramを開く</MF_Bridge_OpenRimGram>
+  <MF_Bridge_NoRimGram>RimGramの公開写真投稿機能を利用できません。共有用コピーとパスのコピーは引き続き使えます。</MF_Bridge_NoRimGram>
+  <MF_Bridge_NoRimTalk>このバージョンのRimTalkには、対応する公開対話リクエスト機能がありません。</MF_Bridge_NoRimTalk>
+  <MF_Bridge_Stale>選択した写真またはゲームが変更されました。アルバムから開き直してください。</MF_Bridge_Stale>
+  <MF_Bridge_Cooldown>RimGramへの投稿はゲーム内時間で{0}時間後に可能になります。</MF_Bridge_Cooldown>
+  <MF_Bridge_Done>リクエスト完了</MF_Bridge_Done>
+  <MF_Bridge_RequestOnce>このコメントをRimTalkで1回リクエスト</MF_Bridge_RequestOnce>
+  <MF_Bridge_PublishLocal>RimGramにローカル投稿</MF_Bridge_PublishLocal>
+  <MF_Bridge_Exported>共有フォルダのパスをコピーしました。photo.png、caption.txt、manifest.json が入っています。</MF_Bridge_Exported>
+  <MF_Bridge_ExportFailed>共有用コピーを作成できませんでした。元のファイルは変更されていません。</MF_Bridge_ExportFailed>
+  <MF_Bridge_TalkAccepted>RimTalkがリクエストを受け付けました。</MF_Bridge_TalkAccepted>
+  <MF_Bridge_Posted>RimGramにローカル投稿しました。</MF_Bridge_Posted>
+  <MF_Bridge_TalkRejected>RimTalkがこのリクエストを受け付けられませんでした。設定、ゲーム速度、進行中の会話を確認してください。自動で再試行はしません。</MF_Bridge_TalkRejected>
+  <MF_Bridge_PostRejected>RimGramが投稿を受け付けませんでした。投稿間隔または現在のゲームを確認してください。</MF_Bridge_PostRejected>
+  <MF_Bridge_CallFailed>接続に失敗しました。重複を防ぐため再試行していません。もう一方のMODでリクエストが受け付けられたか確認してください。</MF_Bridge_CallFailed>
+  <MF_DepartureRecordOnly>離陸の準備が完了しました。船が出発する前に撮影できなかったため、イベントだけが記録されています。</MF_DepartureRecordOnly>
+  <MF_DeferredRecordOnly>このマップを表示していなかったため、その瞬間を撮影できませんでした。イベントだけが記録されています。</MF_DeferredRecordOnly>
+  <MF_GroupSetupTitle>集合写真の準備</MF_GroupSetupTitle>
+  <MF_GroupSetupReady>全員が到着すると自動で撮影されます。撮り直しのためにグループは残ります。</MF_GroupSetupReady>
+  <MF_GroupSetupEmpty>写真に写す人を1人以上選んでください。</MF_GroupSetupEmpty>
+  <MF_GroupSetupNoPlace>撮影場所を確認してください。</MF_GroupSetupNoPlace>
+  <MF_GroupSetupClear>選択を解除</MF_GroupSetupClear>
+  <MF_GroupSetupApply>招待客を適用</MF_GroupSetupApply>
+  <MF_GroupSetupEdit>招待客を変更</MF_GroupSetupEdit>
+  <MF_GroupSetupHelp>肖像で招待客を選び、並ぶ向きは写真の設定で変更します。</MF_GroupSetupHelp>
+  <MF_GroupSetupReturn>招待客に戻る</MF_GroupSetupReturn>
+  <MF_ReunionGuests>{0}人選択中 / 参加可能{1}人 / 元の写真{2}人</MF_ReunionGuests>
+  <MF_ReunionEmptySelection>再会の写真に写す人を1人以上選んでください。</MF_ReunionEmptySelection>
+  <MF_ReunionSelectionChanged>今は参加できない招待客がいます: {0}</MF_ReunionSelectionChanged>
+  <MF_ReunionFrameHelp>元の構図で撮影します。</MF_ReunionFrameHelp>
+  <MF_PhotoPickerCurrent>現在の写真</MF_PhotoPickerCurrent>
+  <MF_PhotoPickerTitle>写真を選択 / {0}</MF_PhotoPickerTitle>
+  <MF_ProgressBirthday>誕生日の写真</MF_ProgressBirthday>
+  <MF_ProgressGroup>集合写真</MF_ProgressGroup>
+  <MF_ProgressReunion>再会の写真</MF_ProgressReunion>
+  <MF_ProgressLine>{0}: {1}/{2}人到着 / {3}</MF_ProgressLine>
+  <MF_ProgressGathering>集合中</MF_ProgressGathering>
+  <MF_ProgressReady>撮影の準備完了</MF_ProgressReady>
+  <MF_ProgressAutoReady>自動撮影の準備完了</MF_ProgressAutoReady>
+  <MF_ProgressShooting>写真を保存中</MF_ProgressShooting>
+  <MF_ProgressHolding>撮り直しを待機中</MF_ProgressHolding>
+  <MF_ProgressWaiting>待っている人: {0}</MF_ProgressWaiting>
+  <MF_ProgressOthers>{0}ほか{1}人</MF_ProgressOthers>
+  <MF_Storage_Title>ディスク使用量</MF_Storage_Title>
+  <MF_Storage_Counting>写真フォルダを集計中…</MF_Storage_Counting>
+  <MF_Storage_Colony>このコロニー: 写真{0}枚 · {1} (保護されたオリジナル{2}を含む)</MF_Storage_Colony>
+  <MF_Storage_ColonyPlain>このコロニー: 写真{0}枚 · {1}</MF_Storage_ColonyPlain>
+  <MF_Storage_All>写真フォルダ全体: {1} · コロニーのフォルダ: {0}</MF_Storage_All>
+  <MF_Storage_Hint>このウィンドウを開いている間に別途集計し、ゲームは進み続けます。解像度を下げると新しい写真は小さくなります。</MF_Storage_Hint>
+  <MF_Storage_Resolution>この設定では写真は最大{0}×{1} pxです。</MF_Storage_Resolution>
+  <MF_Storage_ResolutionAverage>このコロニーの最近の写真は平均{0}で、各オリジナルには保護コピーも残ります。</MF_Storage_ResolutionAverage>
+  <MF_StudioDecorate>スタジオ装飾</MF_StudioDecorate>
+  <MF_StudioDecorateHelp>背景幕の絵を選び、席と照明の設計図を配置します。</MF_StudioDecorateHelp>
+  <MF_StudioSet0>家族</MF_StudioSet0>
+  <MF_StudioSet1>庭園</MF_StudioSet1>
+  <MF_StudioSet2>誕生日</MF_StudioSet2>
+  <MF_StudioSetHelp>「家族」は3人掛けのソファ、「庭園」は3人掛けのベンチ、「誕生日」は1人掛けのアームチェアを使います。各セットで両脇に照明が2つ付きます。参加者は立ち列より先に席を使います。絵と家具は別々に選べます。</MF_StudioSetHelp>
+  <MF_StudioApplyBackdrop>この絵を使う</MF_StudioApplyBackdrop>
+  <MF_StudioPlaceSet>家具の設計図を配置</MF_StudioPlaceSet>
+  <MF_StudioSetCost>家具には資材と建設が必要です。既存の家具は移動も交換もされません。照明には電力が必要です。自動の照明は集合から解散まで点灯します。写真にはスタジオの照明が反映されます。</MF_StudioSetCost>
+  <MF_StudioLight>スタジオの照明</MF_StudioLight>
+  <MF_StudioLight0>自動</MF_StudioLight0>
+  <MF_StudioLight1>常にオン</MF_StudioLight1>
+  <MF_StudioLight2>オフ</MF_StudioLight2>
+  <MF_StudioLightHelp>同じ部屋の10マス以内で最も近いスタジオに接続します。自動の照明は集合中と撮り直しの待機中は点灯し、解散すると消灯します。</MF_StudioLightHelp>
+  <MF_StudioOwnBackdrop>自分の背景画像を使う</MF_StudioOwnBackdrop>
+  <MF_BirthdayDefaultSpot>誕生日の標準の場所</MF_BirthdayDefaultSpot>
+  <MF_BirthdayDefaultSpotHelp>このマップの誕生日にこの場所を優先します。準備の中で変更できます。指定した場所がなくなったら選び直してください。</MF_BirthdayDefaultSpotHelp>
+  <MF_Positions>位置を調整</MF_Positions>
+  <MF_PositionsHelp>肖像をドラッグするか、人をクリックしてから枠をクリックします。埋まっている枠は入れ替わります。上が背景幕、下が前列です。抱かれた赤ん坊は世話係と同じ枠です。</MF_PositionsHelp>
+  <MF_PositionsBack>背景幕 / 後列</MF_PositionsBack>
+  <MF_PositionsAuto>自動に戻す</MF_PositionsAuto>
+  <MF_PositionsApply>適用</MF_PositionsApply>
+  <MF_PositionsInvalid>割り当てた枠が使えません。位置を調整するか、自動に戻してください。</MF_PositionsInvalid>
+  <MF_Sessions>撮影設定の保存 / 読み込み</MF_Sessions>
+  <MF_SessionSave>現在の設定を保存…</MF_SessionSave>
+  <MF_SessionLoad>{0}を読み込む</MF_SessionLoad>
+  <MF_SessionDelete>設定を削除…</MF_SessionDelete>
+  <MF_SessionDeleteConfirm>撮影設定「{0}」を削除しますか?</MF_SessionDeleteConfirm>
+  <MF_SessionHelp>人物、位置、場所、世話係、表情、エモート、構図の選択をこのセーブに保存します。誕生日の主役は現在の主役のままです。</MF_SessionHelp>
+  <MF_SessionReplace>設定「{0}」を置き換えますか?</MF_SessionReplace>
+  <MF_SessionMissingSpot>保存された場所はこのマップにありません。場所を選び、新しい設定を保存してください。</MF_SessionMissingSpot>
+  <MF_SessionMissingPeople>参加できない{0}人を除外しました。集合の前に名簿を確認してください。</MF_SessionMissingPeople>
+  <MF_Background>写真の背景幕</MF_Background>
+  <MF_BackgroundAlbum>アルバムから選ぶ</MF_BackgroundAlbum>
+  <MF_BackgroundFile>画像ファイルを選ぶ</MF_BackgroundFile>
+  <MF_BackgroundReset>トリミングをリセット</MF_BackgroundReset>
+  <MF_BackgroundClear>写真の背景を消去</MF_BackgroundClear>
+  <MF_BackgroundClearConfirm>写真の背景を消去しますか？写真そのものは残りますが、設定した位置とズームは失われます。</MF_BackgroundClearConfirm>
+  <MF_BackgroundZoom>ズーム {0}×</MF_BackgroundZoom>
+  <MF_BackgroundHelp>画像をドラッグして位置を決めます。埋まるのは垂直の布だけです。「適用」で専用のコピーを保存し、元の画像は変わりません。</MF_BackgroundHelp>
+  <MF_BackgroundOpen>開く</MF_BackgroundOpen>
+  <MF_BackgroundParent>親フォルダ</MF_BackgroundParent>
+  <MF_BackgroundMissing>背景ファイルが見つかりません。画像をもう一度選んでください。</MF_BackgroundMissing>
+  <MF_BackgroundTooLarge>32 MB以下の画像を選んでください。</MF_BackgroundTooLarge>
+  <MF_BackgroundFormat>40メガピクセル以下、1辺16384ピクセル以下のPNG/JPG画像を選んでください。</MF_BackgroundFormat>
+  <MF_BackgroundCurrent>現在の写真の背景幕</MF_BackgroundCurrent>
+  <MF_UX_ReactionsOn>写真の表情を有効にする</MF_UX_ReactionsOn>
+  <MF_UX_ReactionsSave>保存する写真に含める</MF_UX_ReactionsSave>
+  <MF_UX_RememberMode>このモードを今後の写真のために記憶</MF_UX_RememberMode>
+  <MF_UX_ReactionsHelp>各ポーンのアイコンは肖像の下で選びます。含めない場合、表情は撮影後にマップ上に表示されます。ポーンの組み合わせには下に別のプリセットがあります。</MF_UX_ReactionsHelp>
+  <MF_UX_SavedFrame>保存したスポットの構図</MF_UX_SavedFrame>
+  <MF_UX_AutoFrame>この写真は自動</MF_UX_AutoFrame>
+  <MF_UX_FramePreserved>この選択はこの集まりにだけ影響します。スポットに保存した構図は保持されます。</MF_UX_FramePreserved>
+  <MF_UX_PawnExpression>写真の表情: {0}</MF_UX_PawnExpression>
+  <MF_UX_ExpressionHelp>標準は「なし」です。「自動」はイベントとポーンの状況から選びます。表情は実際の感情や関係を変えません。</MF_UX_ExpressionHelp>
+  <MF_UX_Locate>場所を表示</MF_UX_Locate>
+  <MF_UX_GatheringNext>グループ {0}/{1}</MF_UX_GatheringNext>
+  <MF_UX_CancelGathering>集まりを終了</MF_UX_CancelGathering>
+  <MF_UX_CancelGatheringConfirm>この集まりを終了して参加者を解放しますか? 既存の写真は残ります。</MF_UX_CancelGatheringConfirm>
+  <MF_UX_DiscardEdits>保存していない編集があります。破棄して閉じますか? オリジナルと以前の版は残ります。</MF_UX_DiscardEdits>
+  <MF_UX_Discard>破棄して閉じる</MF_UX_Discard>
+  <MF_UX_KeepEditing>編集を続ける</MF_UX_KeepEditing>
+  <MF_UX_ResetCrop>トリミングのみリセット</MF_UX_ResetCrop>
+  <MF_UX_ResetFilter>フィルターのみリセット</MF_UX_ResetFilter>
+  <MF_UX_UndoEdit>直前の編集を元に戻す</MF_UX_UndoEdit>
+  <MF_UX_ClearAll>すべてのフィルターをリセット</MF_UX_ClearAll>
+  <MF_UX_ClearSearch>検索文字のみ消去</MF_UX_ClearSearch>
+  <MF_UX_PickerSearch>タイトル、人物、日付を検索</MF_UX_PickerSearch>
+  <MF_UX_Newest>新しい順</MF_UX_Newest>
+  <MF_UX_Oldest>古い順</MF_UX_Oldest>
+  <MF_UX_PickerCount>表示 {0}/{1} · 選択 {2} ({3}は非表示)</MF_UX_PickerCount>
+  <MF_UX_VersionApplied>アルバムとフレームで使用中</MF_UX_VersionApplied>
+  <MF_UX_ApplyVersion>この版をアルバムとフレームで使う</MF_UX_ApplyVersion>
+  <MF_UX_StoryLess>ストーリーを閉じる</MF_UX_StoryLess>
+  <MF_UX_StoryMore>ストーリーをすべて読む</MF_UX_StoryMore>
+  <MF_UX_MissingPhoto>写真ファイルを利用できません</MF_UX_MissingPhoto>
+  <MF_UX_MissingShort>ファイルなし</MF_UX_MissingShort>
+  <MF_UX_GroupOff>すべて無効</MF_UX_GroupOff>
+  <MF_UX_MoreValues>他に{0}件の設定</MF_UX_MoreValues>
+  <MF_UX_SurveyQueued>全景撮影を予約 · この入植地マップを開いてゲームを進めてください。</MF_UX_SurveyQueued>
+  <MF_UX_SurveyCapture>四分割を撮影中 · {0}/4 完了</MF_UX_SurveyCapture>
+  <MF_UX_SurveyComposing>全景を合成中 · 四分割 4/4 完了</MF_UX_SurveyComposing>
+  <MF_UX_SurveySaving>全景写真を保存中 · {0}/5</MF_UX_SurveySaving>
+  <MF_UX_SurveyComplete>全景撮影完了 · {0}/5枚保存</MF_UX_SurveyComplete>
+  <MF_UX_SurveyFailed>全景撮影を完了できませんでした。マップを開いて再度撮影を指示してください。</MF_UX_SurveyFailed>
+  <MF_UX_NightTiming>写真{1}枚 · 通常速度で{0}分\n鑑賞は集合の後に始まります。鑑賞とスライドはゲーム内時間を使うため、速度を上げると実際の鑑賞時間は短くなります。</MF_UX_NightTiming>
+  <MF_UX_SearchFolder>このフォルダを検索</MF_UX_SearchFolder>
+  <MF_UX_WorldDisplay>写真の表示</MF_UX_WorldDisplay>
+  <MF_UX_LoadingOriginal>オリジナルの写真を読み込み中…</MF_UX_LoadingOriginal>
+  <MF_Caption_anniversary_1>コロニーの記念日がまた来た。始まりの頃から、どれだけ変わっただろう。</MF_Caption_anniversary_1>
+  <MF_Caption_anniversary_2>{3}にて、コロニーの記念日に。</MF_Caption_anniversary_2>
+  <MF_Caption_anniversary_3>コロニーの記念日の一枚。時が経ったら、また見返せるように。</MF_Caption_anniversary_3>
+  <MF_Caption_anniversary_4>{2}のひとこま: コロニーの記念日。</MF_Caption_anniversary_4>
+  <MF_Caption_anniversary_5>コロニーの記念日の頃の、コロニーの姿。</MF_Caption_anniversary_5>
+  <MF_Caption_anniversary_6>{3}を振り返るとき、これもその瞬間のひとつ: コロニーの記念日。</MF_Caption_anniversary_6>
+  <MF_Caption_anniversary_7>コロニーの記念日を忘れないための一枚。</MF_Caption_anniversary_7>
+  <MF_Caption_anniversary_8>写真に残した一日: コロニーの記念日。</MF_Caption_anniversary_8>
+  <MF_Caption_baby_1>コロニーに新しい命。これから撮る写真の始まり。</MF_Caption_baby_1>
+  <MF_Caption_baby_2>{3}にて、新しい命が来た日に。</MF_Caption_baby_2>
+  <MF_Caption_baby_3>新しい命が来たときの一枚。時が経ったら、また見返せるように。</MF_Caption_baby_3>
+  <MF_Caption_baby_4>{2}のひとこま: 新しい命の誕生。</MF_Caption_baby_4>
+  <MF_Caption_baby_5>新しい命が来たときの、コロニーの姿。</MF_Caption_baby_5>
+  <MF_Caption_baby_6>{3}を振り返るとき、これもその瞬間のひとつ: 新しい命の誕生。</MF_Caption_baby_6>
+  <MF_Caption_baby_7>新しい命の誕生を忘れないための一枚。</MF_Caption_baby_7>
+  <MF_Caption_baby_8>写真に残した一日: 新しい命の誕生。</MF_Caption_baby_8>
+  <MF_Caption_battle_1>コロニーが生き延びた戦い。その日の光景をここに残す。</MF_Caption_battle_1>
+  <MF_Caption_battle_2>{3}での戦いの光景。</MF_Caption_battle_2>
+  <MF_Caption_battle_3>戦いの日のこの場所。争いの跡が見える。</MF_Caption_battle_3>
+  <MF_Caption_battle_4>この戦いも、コロニーの{2}の一部だった。</MF_Caption_battle_4>
+  <MF_Caption_battle_5>この戦いを思い出すときに見返す一枚。</MF_Caption_battle_5>
+  <MF_Caption_battle_6>{3}の周りの戦いも、今はコロニーの過去になった。</MF_Caption_battle_6>
+  <MF_Caption_battle_7>戦いの日から残した光景。</MF_Caption_battle_7>
+  <MF_Caption_battle_8>戦いが過ぎても、この写真はその日付を覚えている。</MF_Caption_battle_8>
+  <MF_Caption_bestow_1>称号を授かった日の一枚。周りの様子も一緒に残した。</MF_Caption_bestow_1>
+  <MF_Caption_bestow_2>{3}にて、称号を授かった日に。</MF_Caption_bestow_2>
+  <MF_Caption_bestow_3>称号を授かったときの一枚。時が経ったら、また見返せるように。</MF_Caption_bestow_3>
+  <MF_Caption_bestow_4>{2}のひとこま: 称号を授かった日。</MF_Caption_bestow_4>
+  <MF_Caption_bestow_5>称号を授かった日の、コロニーの姿。</MF_Caption_bestow_5>
+  <MF_Caption_bestow_6>{3}を振り返るとき、これもその瞬間のひとつ: 称号を授かった日。</MF_Caption_bestow_6>
+  <MF_Caption_bestow_7>称号を授かった日を忘れないための一枚。</MF_Caption_bestow_7>
+  <MF_Caption_bestow_8>写真に残した一日: 称号を授かった日。</MF_Caption_bestow_8>
+  <MF_Caption_birthday_1>また誕生日が来た。次の誕生日までに、何が変わっているだろう。</MF_Caption_birthday_1>
+  <MF_Caption_birthday_2>今年の誕生日の写真。日付は巡ってくるが、写真は変わっていく。</MF_Caption_birthday_2>
+  <MF_Caption_birthday_3>{2}の誕生日。周りの様子もフレームに残した。</MF_Caption_birthday_3>
+  <MF_Caption_birthday_4>この誕生日が過ぎる前に、一枚。</MF_Caption_birthday_4>
+  <MF_Caption_birthday_5>{3}での誕生日。ここで過ごした一年がまた増えた。</MF_Caption_birthday_5>
+  <MF_Caption_birthday_6>今年の一枚。過ぎた誕生日と、これからの誕生日のあいだに。</MF_Caption_birthday_6>
+  <MF_Caption_birthday_7>今日の誕生日の写真は、いつか年月を数える手がかりになる。</MF_Caption_birthday_7>
+  <MF_Caption_birthday_8>この誕生日の日付に、写真が一枚添えられた。</MF_Caption_birthday_8>
+  <MF_Caption_birthday_9>その日は毎年巡ってくるけれど、人は同じままではいない。</MF_Caption_birthday_9>
+  <MF_Caption_birthday_10>写真に残したまたひとつの誕生日。いつでも見返せる。</MF_Caption_birthday_10>
+  <MF_Caption_birthday_11>来年撮る写真と並べて見るための、誕生日の光景。</MF_Caption_birthday_11>
+  <MF_Caption_birthday_12>誕生日のコロニー。人も周りも、一緒に変わっていく。</MF_Caption_birthday_12>
+  <MF_Caption_celebration_1>お祝いの日の一枚。周りの様子も一緒に残した。</MF_Caption_celebration_1>
+  <MF_Caption_celebration_2>{3}にて、お祝いの日に。</MF_Caption_celebration_2>
+  <MF_Caption_celebration_3>お祝いのときの一枚。時が経ったら、また見返せるように。</MF_Caption_celebration_3>
+  <MF_Caption_celebration_4>{2}のひとこま: お祝い。</MF_Caption_celebration_4>
+  <MF_Caption_celebration_5>お祝いのときの、コロニーの姿。</MF_Caption_celebration_5>
+  <MF_Caption_celebration_6>{3}を振り返るとき、これもその瞬間のひとつ: お祝い。</MF_Caption_celebration_6>
+  <MF_Caption_celebration_7>お祝いを忘れないための一枚。</MF_Caption_celebration_7>
+  <MF_Caption_celebration_8>写真に残した一日: お祝い。</MF_Caption_celebration_8>
+  <MF_Caption_death_1>ひとつの命が終わった。写真はそれより前の日々へとさかのぼる。</MF_Caption_death_1>
+  <MF_Caption_death_2>{3}にて、ひとつの命が終わったときに。</MF_Caption_death_2>
+  <MF_Caption_death_3>ひとつの命が終わったときの一枚。時が経ったら、また見返せるように。</MF_Caption_death_3>
+  <MF_Caption_death_4>{2}のひとこま: ひとつの命の終わり。</MF_Caption_death_4>
+  <MF_Caption_death_5>ひとつの命が終わったときの、コロニーの姿。</MF_Caption_death_5>
+  <MF_Caption_death_6>{3}を振り返るとき、これもその瞬間のひとつ: ひとつの命の終わり。</MF_Caption_death_6>
+  <MF_Caption_death_7>ひとつの命の終わりを忘れないための一枚。</MF_Caption_death_7>
+  <MF_Caption_death_8>写真に残した一日: ひとつの命の終わり。</MF_Caption_death_8>
+  <MF_Caption_disaster_1>いつもと違う日のコロニー。災害のさなかに撮った。</MF_Caption_disaster_1>
+  <MF_Caption_disaster_2>{3}にて、災害のさなかに。</MF_Caption_disaster_2>
+  <MF_Caption_disaster_3>災害のときの一枚。時が経ったら、また見返せるように。</MF_Caption_disaster_3>
+  <MF_Caption_disaster_4>{2}のひとこま: 災害。</MF_Caption_disaster_4>
+  <MF_Caption_disaster_5>災害のときの、コロニーの姿。</MF_Caption_disaster_5>
+  <MF_Caption_disaster_6>{3}を振り返るとき、これもその瞬間のひとつ: 災害。</MF_Caption_disaster_6>
+  <MF_Caption_disaster_7>災害を忘れないための一枚。</MF_Caption_disaster_7>
+  <MF_Caption_disaster_8>写真に残した一日: 災害。</MF_Caption_disaster_8>
+  <MF_Caption_funeral_1>別れの日。葬式のときに撮った。</MF_Caption_funeral_1>
+  <MF_Caption_funeral_2>{3}にて、葬式の日に。</MF_Caption_funeral_2>
+  <MF_Caption_funeral_3>葬式のときの一枚。時が経ったら、また見返せるように。</MF_Caption_funeral_3>
+  <MF_Caption_funeral_4>{2}のひとこま: 葬式。</MF_Caption_funeral_4>
+  <MF_Caption_funeral_5>葬式のときの、コロニーの姿。</MF_Caption_funeral_5>
+  <MF_Caption_funeral_6>{3}を振り返るとき、これもその瞬間のひとつ: 葬式。</MF_Caption_funeral_6>
+  <MF_Caption_funeral_7>葬式を忘れないための一枚。</MF_Caption_funeral_7>
+  <MF_Caption_funeral_8>写真に残した一日: 葬式。</MF_Caption_funeral_8>
+  <MF_Caption_gravship_1>グラヴシップの旅の一枚。周りの様子も一緒に残した。</MF_Caption_gravship_1>
+  <MF_Caption_gravship_2>{3}にて、グラヴシップの旅の途中で。</MF_Caption_gravship_2>
+  <MF_Caption_gravship_3>グラヴシップの旅のときの一枚。時が経ったら、また見返せるように。</MF_Caption_gravship_3>
+  <MF_Caption_gravship_4>{2}のひとこま: グラヴシップの旅。</MF_Caption_gravship_4>
+  <MF_Caption_gravship_5>グラヴシップの旅のときの、コロニーの姿。</MF_Caption_gravship_5>
+  <MF_Caption_gravship_6>{3}を振り返るとき、これもその瞬間のひとつ: グラヴシップの旅。</MF_Caption_gravship_6>
+  <MF_Caption_gravship_7>グラヴシップの旅を忘れないための一枚。</MF_Caption_gravship_7>
+  <MF_Caption_gravship_8>写真に残した一日: グラヴシップの旅。</MF_Caption_gravship_8>
+  <MF_Caption_group_1>みんなで一枚。この日の顔ぶれ: {0}。</MF_Caption_group_1>
+  <MF_Caption_group_2>{0}、同じ写真の中に。</MF_Caption_group_2>
+  <MF_Caption_group_3>ひとりずつ見ても、みんな一緒に見てもいい瞬間。</MF_Caption_group_3>
+  <MF_Caption_group_4>{3}で、人も場所も同じフレームに: {0}。</MF_Caption_group_4>
+  <MF_Caption_group_5>同じ日、同じ写真。いつかこの光景も違って見えるだろう。</MF_Caption_group_5>
+  <MF_Caption_group_6>{2}に一緒に撮った写真。写っているのは{0}。</MF_Caption_group_6>
+  <MF_Caption_group_7>今日の人たちと、今日のこの場所。</MF_Caption_group_7>
+  <MF_Caption_group_8>{0}の集合写真。またいつか見返せるように。</MF_Caption_group_8>
+  <MF_Caption_group_9>特別なことがなくても、残しておきたい日はある。</MF_Caption_group_9>
+  <MF_Caption_group_10>背景もこの写真の一部。{3}での集合写真。</MF_Caption_group_10>
+  <MF_Caption_group_11>この人たちがまた並ぶとき、最初に変わっているのは何だろう。</MF_Caption_group_11>
+  <MF_Caption_group_12>一枚の写真に並ぶ名前: {0}。</MF_Caption_group_12>
+  <MF_Caption_journey_1>新しい場所に着いたときの一枚。周りの様子も一緒に残した。</MF_Caption_journey_1>
+  <MF_Caption_journey_2>{3}にて、新しい場所に着いた日に。</MF_Caption_journey_2>
+  <MF_Caption_journey_3>新しい場所に着いた日の一枚。時が経ったら、また見返せるように。</MF_Caption_journey_3>
+  <MF_Caption_journey_4>{2}のひとこま: 新しい場所への到着。</MF_Caption_journey_4>
+  <MF_Caption_journey_5>新しい場所に着いたときの、コロニーの姿。</MF_Caption_journey_5>
+  <MF_Caption_journey_6>{3}を振り返るとき、これもその瞬間のひとつ: 新しい場所への到着。</MF_Caption_journey_6>
+  <MF_Caption_journey_7>新しい場所への到着を忘れないための一枚。</MF_Caption_journey_7>
+  <MF_Caption_journey_8>写真に残した一日: 新しい場所への到着。</MF_Caption_journey_8>
+  <MF_Caption_landing_1>旅の途中の着陸。たどり着いた場所の眺めと一緒に。</MF_Caption_landing_1>
+  <MF_Caption_landing_2>{3}にて、着陸の日に。</MF_Caption_landing_2>
+  <MF_Caption_landing_3>着陸のときの一枚。時が経ったら、また見返せるように。</MF_Caption_landing_3>
+  <MF_Caption_landing_4>{2}のひとこま: 着陸。</MF_Caption_landing_4>
+  <MF_Caption_landing_5>着陸のときの、コロニーの姿。</MF_Caption_landing_5>
+  <MF_Caption_landing_6>{3}を振り返るとき、これもその瞬間のひとつ: 着陸。</MF_Caption_landing_6>
+  <MF_Caption_landing_7>着陸を忘れないための一枚。</MF_Caption_landing_7>
+  <MF_Caption_landing_8>写真に残した一日: 着陸。</MF_Caption_landing_8>
+  <MF_Caption_legendary_1>伝説級の作品が完成した。このコロニーの誰かの手による。</MF_Caption_legendary_1>
+  <MF_Caption_legendary_2>{3}にて、伝説級の作品が完成した日に。</MF_Caption_legendary_2>
+  <MF_Caption_legendary_3>伝説級の作品が完成したときの一枚。時が経ったら、また見返せるように。</MF_Caption_legendary_3>
+  <MF_Caption_legendary_4>{2}のひとこま: 伝説級の作品の完成。</MF_Caption_legendary_4>
+  <MF_Caption_legendary_5>伝説級の作品が完成したときの、コロニーの姿。</MF_Caption_legendary_5>
+  <MF_Caption_legendary_6>{3}を振り返るとき、これもその瞬間のひとつ: 伝説級の作品の完成。</MF_Caption_legendary_6>
+  <MF_Caption_legendary_7>伝説級の作品の完成を忘れないための一枚。</MF_Caption_legendary_7>
+  <MF_Caption_legendary_8>写真に残した一日: 伝説級の作品の完成。</MF_Caption_legendary_8>
+  <MF_Caption_mechboss_1>メカのボスを倒したときの一枚。周りの様子も一緒に残した。</MF_Caption_mechboss_1>
+  <MF_Caption_mechboss_2>{3}にて、メカのボスを倒した日に。</MF_Caption_mechboss_2>
+  <MF_Caption_mechboss_3>メカのボスを倒した日の一枚。時が経ったら、また見返せるように。</MF_Caption_mechboss_3>
+  <MF_Caption_mechboss_4>{2}のひとこま: メカのボスの撃破。</MF_Caption_mechboss_4>
+  <MF_Caption_mechboss_5>メカのボスを倒したときの、コロニーの姿。</MF_Caption_mechboss_5>
+  <MF_Caption_mechboss_6>{3}を振り返るとき、これもその瞬間のひとつ: メカのボスの撃破。</MF_Caption_mechboss_6>
+  <MF_Caption_mechboss_7>メカのボスの撃破を忘れないための一枚。</MF_Caption_mechboss_7>
+  <MF_Caption_mechboss_8>写真に残した一日: メカのボスの撃破。</MF_Caption_mechboss_8>
+  <MF_Caption_memorynight_1>写真を見返して過ごした夕べが、新しい一枚になった。</MF_Caption_memorynight_1>
+  <MF_Caption_memorynight_2>{3}にて、写真を見返す夕べに。</MF_Caption_memorynight_2>
+  <MF_Caption_memorynight_3>写真を見返した夕べの一枚。時が経ったら、また見返せるように。</MF_Caption_memorynight_3>
+  <MF_Caption_memorynight_4>{2}のひとこま: 写真を見返す夕べ。</MF_Caption_memorynight_4>
+  <MF_Caption_memorynight_5>写真を見返す夕べの、コロニーの姿。</MF_Caption_memorynight_5>
+  <MF_Caption_memorynight_6>{3}を振り返るとき、これもその瞬間のひとつ: 写真を見返す夕べ。</MF_Caption_memorynight_6>
+  <MF_Caption_memorynight_7>写真を見返した夕べを忘れないための一枚。</MF_Caption_memorynight_7>
+  <MF_Caption_memorynight_8>写真に残した一日: 写真を見返す夕べ。</MF_Caption_memorynight_8>
+  <MF_Caption_monolith_1>モノリスが変化したときの一枚。周りの様子も一緒に残した。</MF_Caption_monolith_1>
+  <MF_Caption_monolith_2>{3}にて、モノリスが変化した日に。</MF_Caption_monolith_2>
+  <MF_Caption_monolith_3>モノリスが変化した日の一枚。時が経ったら、また見返せるように。</MF_Caption_monolith_3>
+  <MF_Caption_monolith_4>{2}のひとこま: モノリスの変化。</MF_Caption_monolith_4>
+  <MF_Caption_monolith_5>モノリスが変化したときの、コロニーの姿。</MF_Caption_monolith_5>
+  <MF_Caption_monolith_6>{3}を振り返るとき、これもその瞬間のひとつ: モノリスの変化。</MF_Caption_monolith_6>
+  <MF_Caption_monolith_7>モノリスの変化を忘れないための一枚。</MF_Caption_monolith_7>
+  <MF_Caption_monolith_8>写真に残した一日: モノリスの変化。</MF_Caption_monolith_8>
+  <MF_Caption_party_1>パーティの日の一枚。周りの様子も一緒に残した。</MF_Caption_party_1>
+  <MF_Caption_party_2>{3}にて、パーティの日に。</MF_Caption_party_2>
+  <MF_Caption_party_3>パーティのときの一枚。時が経ったら、また見返せるように。</MF_Caption_party_3>
+  <MF_Caption_party_4>{2}のひとこま: パーティ。</MF_Caption_party_4>
+  <MF_Caption_party_5>パーティのときの、コロニーの姿。</MF_Caption_party_5>
+  <MF_Caption_party_6>{3}を振り返るとき、これもその瞬間のひとつ: パーティ。</MF_Caption_party_6>
+  <MF_Caption_party_7>パーティを忘れないための一枚。</MF_Caption_party_7>
+  <MF_Caption_party_8>写真に残した一日: パーティ。</MF_Caption_party_8>
+  <MF_Caption_population_1>コロニーは大きくなった。みんなで分け合うこの場所を写真に残す。</MF_Caption_population_1>
+  <MF_Caption_population_2>{3}にて、コロニーの人口の節目に。</MF_Caption_population_2>
+  <MF_Caption_population_3>コロニーの人口の節目の一枚。時が経ったら、また見返せるように。</MF_Caption_population_3>
+  <MF_Caption_population_4>{2}のひとこま: コロニーの人口の節目。</MF_Caption_population_4>
+  <MF_Caption_population_5>人口の節目を迎えたときの、コロニーの姿。</MF_Caption_population_5>
+  <MF_Caption_population_6>{3}を振り返るとき、これもその瞬間のひとつ: コロニーの人口の節目。</MF_Caption_population_6>
+  <MF_Caption_population_7>コロニーの人口の節目を忘れないための一枚。</MF_Caption_population_7>
+  <MF_Caption_population_8>写真に残した一日: コロニーの人口の節目。</MF_Caption_population_8>
+  <MF_Caption_recruit_1>新しい入植者が加わった日。これからの写真に写す人がひとり増えた。</MF_Caption_recruit_1>
+  <MF_Caption_recruit_2>{1}のコロニーでの暮らしが始まる。最初の日の一枚。</MF_Caption_recruit_2>
+  <MF_Caption_recruit_3>コロニーの新しい名前: {1}。</MF_Caption_recruit_3>
+  <MF_Caption_recruit_4>来た日の{1}。これから撮る写真と並べる、最初の一枚。</MF_Caption_recruit_4>
+  <MF_Caption_recruit_5>{3}の新しい入植者。ここでの時間はこの日から始まる。</MF_Caption_recruit_5>
+  <MF_Caption_recruit_6>{2}の新しい仲間。来たときの周りの様子も一緒に残した。</MF_Caption_recruit_6>
+  <MF_Caption_recruit_7>一緒の暮らしの始まりを覚えておくための一枚。</MF_Caption_recruit_7>
+  <MF_Caption_recruit_8>{1}が加わった日のコロニー。いずれ見慣れるかもしれない場所の、最初の眺め。</MF_Caption_recruit_8>
+  <MF_Caption_recruit_9>入植者になった日の{1}。</MF_Caption_recruit_9>
+  <MF_Caption_recruit_10>新しい入植者の最初の写真は、当時のコロニーの姿でもある。</MF_Caption_recruit_10>
+  <MF_Caption_recruit_11>{1}の到着で、また一人の物語がコロニーの物語に加わった。</MF_Caption_recruit_11>
+  <MF_Caption_recruit_12>これから撮る写真の前に、来た日の一枚。</MF_Caption_recruit_12>
+  <MF_Caption_reliquary_1>レリックを安置したときの一枚。周りの様子も一緒に残した。</MF_Caption_reliquary_1>
+  <MF_Caption_reliquary_2>{3}にて、レリックを安置した日に。</MF_Caption_reliquary_2>
+  <MF_Caption_reliquary_3>レリックを安置した日の一枚。時が経ったら、また見返せるように。</MF_Caption_reliquary_3>
+  <MF_Caption_reliquary_4>{2}のひとこま: レリックの安置。</MF_Caption_reliquary_4>
+  <MF_Caption_reliquary_5>レリックを安置したときの、コロニーの姿。</MF_Caption_reliquary_5>
+  <MF_Caption_reliquary_6>{3}を振り返るとき、これもその瞬間のひとつ: レリックの安置。</MF_Caption_reliquary_6>
+  <MF_Caption_reliquary_7>レリックの安置を忘れないための一枚。</MF_Caption_reliquary_7>
+  <MF_Caption_reliquary_8>写真に残した一日: レリックの安置。</MF_Caption_reliquary_8>
+  <MF_Caption_resurrect_1>終わったと思われた命に、もう一日が続く。死から戻ったときの一枚。</MF_Caption_resurrect_1>
+  <MF_Caption_resurrect_2>{3}にて、死から戻った日に。</MF_Caption_resurrect_2>
+  <MF_Caption_resurrect_3>死から戻った日の一枚。時が経ったら、また見返せるように。</MF_Caption_resurrect_3>
+  <MF_Caption_resurrect_4>{2}のひとこま: 死からの帰還。</MF_Caption_resurrect_4>
+  <MF_Caption_resurrect_5>死から戻ったときの、コロニーの姿。</MF_Caption_resurrect_5>
+  <MF_Caption_resurrect_6>{3}を振り返るとき、これもその瞬間のひとつ: 死からの帰還。</MF_Caption_resurrect_6>
+  <MF_Caption_resurrect_7>死からの帰還を忘れないための一枚。</MF_Caption_resurrect_7>
+  <MF_Caption_resurrect_8>写真に残した一日: 死からの帰還。</MF_Caption_resurrect_8>
+  <MF_Caption_ritual_1>儀式の日の一枚。周りの様子も一緒に残した。</MF_Caption_ritual_1>
+  <MF_Caption_ritual_2>{3}にて、儀式の日に。</MF_Caption_ritual_2>
+  <MF_Caption_ritual_3>儀式のときの一枚。時が経ったら、また見返せるように。</MF_Caption_ritual_3>
+  <MF_Caption_ritual_4>{2}のひとこま: 儀式。</MF_Caption_ritual_4>
+  <MF_Caption_ritual_5>儀式のときの、コロニーの姿。</MF_Caption_ritual_5>
+  <MF_Caption_ritual_6>{3}を振り返るとき、これもその瞬間のひとつ: 儀式。</MF_Caption_ritual_6>
+  <MF_Caption_ritual_7>儀式を忘れないための一枚。</MF_Caption_ritual_7>
+  <MF_Caption_ritual_8>写真に残した一日: 儀式。</MF_Caption_ritual_8>
+  <MF_Caption_role_1>新しい役割に任命されたときの一枚。周りの様子も一緒に残した。</MF_Caption_role_1>
+  <MF_Caption_role_2>{3}にて、新しい役割に任命された日に。</MF_Caption_role_2>
+  <MF_Caption_role_3>新しい役割に任命された日の一枚。時が経ったら、また見返せるように。</MF_Caption_role_3>
+  <MF_Caption_role_4>{2}のひとこま: 新しい役割への任命。</MF_Caption_role_4>
+  <MF_Caption_role_5>新しい役割に任命されたときの、コロニーの姿。</MF_Caption_role_5>
+  <MF_Caption_role_6>{3}を振り返るとき、これもその瞬間のひとつ: 新しい役割への任命。</MF_Caption_role_6>
+  <MF_Caption_role_7>新しい役割への任命を忘れないための一枚。</MF_Caption_role_7>
+  <MF_Caption_role_8>写真に残した一日: 新しい役割への任命。</MF_Caption_role_8>
+  <MF_Caption_ship_1>宇宙船の発射の日の一枚。周りの様子も一緒に残した。</MF_Caption_ship_1>
+  <MF_Caption_ship_2>{3}にて、宇宙船の発射の日に。</MF_Caption_ship_2>
+  <MF_Caption_ship_3>宇宙船の発射のときの一枚。時が経ったら、また見返せるように。</MF_Caption_ship_3>
+  <MF_Caption_ship_4>{2}のひとこま: 宇宙船の発射。</MF_Caption_ship_4>
+  <MF_Caption_ship_5>宇宙船の発射のときの、コロニーの姿。</MF_Caption_ship_5>
+  <MF_Caption_ship_6>{3}を振り返るとき、これもその瞬間のひとつ: 宇宙船の発射。</MF_Caption_ship_6>
+  <MF_Caption_ship_7>宇宙船の発射を忘れないための一枚。</MF_Caption_ship_7>
+  <MF_Caption_ship_8>写真に残した一日: 宇宙船の発射。</MF_Caption_ship_8>
+  <MF_Caption_sky_1>コロニーの上のいつもと違う空を、写真に残した。</MF_Caption_sky_1>
+  <MF_Caption_sky_2>{3}にて、空が変わった日に。</MF_Caption_sky_2>
+  <MF_Caption_sky_3>空が変わったときの一枚。時が経ったら、また見返せるように。</MF_Caption_sky_3>
+  <MF_Caption_sky_4>{2}のひとこま: 空の変化。</MF_Caption_sky_4>
+  <MF_Caption_sky_5>空が変わったときの、コロニーの姿。</MF_Caption_sky_5>
+  <MF_Caption_sky_6>{3}を振り返るとき、これもその瞬間のひとつ: 空の変化。</MF_Caption_sky_6>
+  <MF_Caption_sky_7>空の変化を忘れないための一枚。</MF_Caption_sky_7>
+  <MF_Caption_sky_8>写真に残した一日: 空の変化。</MF_Caption_sky_8>
+  <MF_Caption_wedding_1>ふたりの人生がひとつになった日。</MF_Caption_wedding_1>
+  <MF_Caption_wedding_2>{3}にて、結婚式の日に。</MF_Caption_wedding_2>
+  <MF_Caption_wedding_3>結婚式のときの一枚。時が経ったら、また見返せるように。</MF_Caption_wedding_3>
+  <MF_Caption_wedding_4>{2}のひとこま: 結婚式。</MF_Caption_wedding_4>
+  <MF_Caption_wedding_5>結婚式のときの、コロニーの姿。</MF_Caption_wedding_5>
+  <MF_Caption_wedding_6>{3}を振り返るとき、これもその瞬間のひとつ: 結婚式。</MF_Caption_wedding_6>
+  <MF_Caption_wedding_7>結婚式を忘れないための一枚。</MF_Caption_wedding_7>
+  <MF_Caption_wedding_8>写真に残した一日: 結婚式。</MF_Caption_wedding_8>
+  <MF_Caption_group_solo_1>{1}のポートレート。背景もフレームに残した。</MF_Caption_group_solo_1>
+  <MF_Caption_group_solo_2>{3}の{1}。この日はこんな姿だった。</MF_Caption_group_solo_2>
+  <MF_Caption_group_solo_3>{2}の{1}。次の一枚と並べるための写真。</MF_Caption_group_solo_3>
+  <MF_Caption_group_solo_4>写真の中の{1}。背景にはこの頃のコロニー。</MF_Caption_group_solo_4>
+  <MF_Caption_group_solo_5>{1}、あの日のままの姿で。</MF_Caption_group_solo_5>
+  <MF_Caption_group_solo_6>ポートレートに大きな出来事はいらない。</MF_Caption_group_solo_6>
+  <MF_Caption_group_solo_7>{1}と{3}の景色を、一緒に写真に。</MF_Caption_group_solo_7>
+  <MF_Caption_group_solo_8>後で撮る写真と見比べるための、{1}の一枚。</MF_Caption_group_solo_8>
+  <MF_Caption_group_solo_9>{1}、{2}のある日。</MF_Caption_group_solo_9>
+  <MF_Caption_group_solo_10>この日を思い出すときに見返す顔: {1}。</MF_Caption_group_solo_10>
+  <MF_Caption_group_solo_11>この{1}の写真には、周りの場所も少し写っている。</MF_Caption_group_solo_11>
+  <MF_Caption_group_solo_12>{1}。名前のそばに置いておきたい顔。</MF_Caption_group_solo_12>
+  <MF_Caption_group_group_1>みんなで一枚。この日の顔ぶれ: {0}。</MF_Caption_group_group_1>
+  <MF_Caption_group_group_2>{0}、同じ写真の中に。</MF_Caption_group_group_2>
+  <MF_Caption_group_group_3>ひとりずつ見ても、みんな一緒に見てもいい瞬間。</MF_Caption_group_group_3>
+  <MF_Caption_group_group_4>{3}で、人も場所も同じフレームに: {0}。</MF_Caption_group_group_4>
+  <MF_Caption_group_group_5>同じ日、同じ写真。いつかこの光景も違って見えるだろう。</MF_Caption_group_group_5>
+  <MF_Caption_group_group_6>{2}に一緒に撮った写真。写っているのは{0}。</MF_Caption_group_group_6>
+  <MF_Caption_group_group_7>今日の人たちと、今日のこの場所。</MF_Caption_group_group_7>
+  <MF_Caption_group_group_8>{0}の集合写真。またいつか見返せるように。</MF_Caption_group_group_8>
+  <MF_Caption_group_group_9>特別なことがなくても、残しておきたい日はある。</MF_Caption_group_group_9>
+  <MF_Caption_group_group_10>背景もこの写真の一部。{3}での集合写真。</MF_Caption_group_group_10>
+  <MF_Caption_group_group_11>この人たちがまた並ぶとき、最初に変わっているのは何だろう。</MF_Caption_group_group_11>
+  <MF_Caption_group_group_12>一枚の写真に並ぶ名前: {0}。</MF_Caption_group_group_12>
+  <MF_Caption_group_scene_1>誰も写っていなくても、残しておきたい場所がある。</MF_Caption_group_scene_1>
+  <MF_Caption_group_scene_2>あの頃の{3}。次の写真までに何が変わるだろう。</MF_Caption_group_scene_2>
+  <MF_Caption_group_scene_3>ゆっくり眺めたい光景。</MF_Caption_group_scene_3>
+  <MF_Caption_group_scene_4>{2}の{3}を、一枚の写真に残した。</MF_Caption_group_scene_4>
+  <MF_Caption_group_scene_5>コロニーの変化は、こんな写真のあいだに見つかる。</MF_Caption_group_scene_5>
+  <MF_Caption_group_scene_6>あの日のままの場所。写真の中でまた訪ねられる。</MF_Caption_group_scene_6>
+  <MF_Caption_group_scene_7>{3}の眺め。細かいところは、じっくり見つけてもらおう。</MF_Caption_group_scene_7>
+  <MF_Caption_group_scene_8>時が変えてしまう前の、この場所の姿。</MF_Caption_group_scene_8>
+  <MF_Caption_role_detail_1>{1}の新しい役割: {4}。コロニーでの立場が変わった。</MF_Caption_role_detail_1>
+  <MF_Caption_role_detail_2>{1}が{4}の役割に就く。その始まりの一枚。</MF_Caption_role_detail_2>
+  <MF_Caption_role_detail_3>コロニーの{4}、{1}。任命の日に。</MF_Caption_role_detail_3>
+  <MF_Caption_role_detail_4>{1}が{4}に任命された日。これからの写真と並べる一枚。</MF_Caption_role_detail_4>
+  <MF_Caption_role_detail_5>{3}で、{1}が{4}に任命された。</MF_Caption_role_detail_5>
+  <MF_Caption_role_detail_6>{1}の任命の日。新しい役割は{4}。</MF_Caption_role_detail_6>
+  <MF_Caption_role_detail_7>{1}、{4}としての新しい章の始まりに。</MF_Caption_role_detail_7>
+  <MF_Caption_role_detail_8>{2}、{1}に新しい役割が来た: {4}。</MF_Caption_role_detail_8>
+  <MF_Caption_role_detail_9>コロニーでの暮らしに、{1}の新しい役割が加わった: {4}。</MF_Caption_role_detail_9>
+  <MF_Caption_role_detail_10>{1}が{4}になる。役割が変わったときの姿。</MF_Caption_role_detail_10>
+  <MF_Caption_role_detail_11>{3}で{1}が{4}の役割に就く。その始まりを記す一枚。</MF_Caption_role_detail_11>
+  <MF_Caption_role_detail_12>{4}としての{1}の最初の日。</MF_Caption_role_detail_12>
+  <MF_Caption_bestow_detail_1>{1}が{4}の称号を授かった日。</MF_Caption_bestow_detail_1>
+  <MF_Caption_bestow_detail_2>{1}が{4}の称号を受け、新しい位が始まる。</MF_Caption_bestow_detail_2>
+  <MF_Caption_bestow_detail_3>{4}の称号が、今は{1}の名前についている。</MF_Caption_bestow_detail_3>
+  <MF_Caption_bestow_detail_4>{3}で{1}が称号を受ける: {4}。</MF_Caption_bestow_detail_4>
+  <MF_Caption_bestow_detail_5>{1}の授与式。{4}になる日。</MF_Caption_bestow_detail_5>
+  <MF_Caption_bestow_detail_6>これからの{1}の日々は、{4}の称号とともに。</MF_Caption_bestow_detail_6>
+  <MF_Caption_bestow_detail_7>{2}、{1}は{4}の称号を授かった。</MF_Caption_bestow_detail_7>
+  <MF_Caption_bestow_detail_8>{4}の称号を受けたときの{1}の姿。</MF_Caption_bestow_detail_8>
+  <MF_Caption_journey_detail_1>{4}。当時の眺めとともに。</MF_Caption_journey_detail_1>
+  <MF_Caption_journey_detail_2>{3}での{4}。</MF_Caption_journey_detail_2>
+  <MF_Caption_journey_detail_3>{4}のときの周りの様子。</MF_Caption_journey_detail_3>
+  <MF_Caption_journey_detail_4>{2}の{4}の一枚。</MF_Caption_journey_detail_4>
+  <MF_Caption_journey_detail_5>{4}。またいつか見返せるように。</MF_Caption_journey_detail_5>
+  <MF_Caption_journey_detail_6>{3}で撮った、{4}の眺め。</MF_Caption_journey_detail_6>
+  <MF_Caption_journey_detail_7>{4}の日付のそばに置いておく一枚。</MF_Caption_journey_detail_7>
+  <MF_Caption_journey_detail_8>{4}がきっかけの一枚。周りの様子も写真の一部だ。</MF_Caption_journey_detail_8>
+  <MF_Caption_celebration_detail_1>{4}。当時の眺めとともに。</MF_Caption_celebration_detail_1>
+  <MF_Caption_celebration_detail_2>{3}での{4}。</MF_Caption_celebration_detail_2>
+  <MF_Caption_celebration_detail_3>{4}のときの周りの様子。</MF_Caption_celebration_detail_3>
+  <MF_Caption_celebration_detail_4>{2}の{4}の一枚。</MF_Caption_celebration_detail_4>
+  <MF_Caption_celebration_detail_5>{4}。またいつか見返せるように。</MF_Caption_celebration_detail_5>
+  <MF_Caption_celebration_detail_6>{3}で撮った、{4}の眺め。</MF_Caption_celebration_detail_6>
+  <MF_Caption_celebration_detail_7>{4}の日付のそばに置いておく一枚。</MF_Caption_celebration_detail_7>
+  <MF_Caption_celebration_detail_8>{4}がきっかけの一枚。周りの様子も写真の一部だ。</MF_Caption_celebration_detail_8>
+  <MF_Caption_ritual_detail_1>{4}。当時の眺めとともに。</MF_Caption_ritual_detail_1>
+  <MF_Caption_ritual_detail_2>{3}での{4}。</MF_Caption_ritual_detail_2>
+  <MF_Caption_ritual_detail_3>{4}のときの周りの様子。</MF_Caption_ritual_detail_3>
+  <MF_Caption_ritual_detail_4>{2}の{4}の一枚。</MF_Caption_ritual_detail_4>
+  <MF_Caption_ritual_detail_5>{4}。またいつか見返せるように。</MF_Caption_ritual_detail_5>
+  <MF_Caption_ritual_detail_6>{3}で撮った、{4}の眺め。</MF_Caption_ritual_detail_6>
+  <MF_Caption_ritual_detail_7>{4}の日付のそばに置いておく一枚。</MF_Caption_ritual_detail_7>
+  <MF_Caption_ritual_detail_8>{4}がきっかけの一枚。周りの様子も写真の一部だ。</MF_Caption_ritual_detail_8>
+  <MF_Caption_funeral_detail_1>{4}。当時の眺めとともに。</MF_Caption_funeral_detail_1>
+  <MF_Caption_funeral_detail_2>{3}での{4}。</MF_Caption_funeral_detail_2>
+  <MF_Caption_funeral_detail_3>{4}のときの周りの様子。</MF_Caption_funeral_detail_3>
+  <MF_Caption_funeral_detail_4>{2}の{4}の一枚。</MF_Caption_funeral_detail_4>
+  <MF_Caption_funeral_detail_5>{4}。またいつか見返せるように。</MF_Caption_funeral_detail_5>
+  <MF_Caption_funeral_detail_6>{3}で撮った、{4}の眺め。</MF_Caption_funeral_detail_6>
+  <MF_Caption_funeral_detail_7>{4}の日付のそばに置いておく一枚。</MF_Caption_funeral_detail_7>
+  <MF_Caption_funeral_detail_8>{4}がきっかけの一枚。周りの様子も写真の一部だ。</MF_Caption_funeral_detail_8>
+  <MF_LifeNote_joined_1>新しい名前がコロニーの記録に加わった。加わった日は年代記に残っている。</MF_LifeNote_joined_1>
+  <MF_LifeNote_joined_2>入植者の名簿にひとり加わった。加入の記録は年代記の一ページになった。</MF_LifeNote_joined_2>
+  <MF_LifeNote_joined_3>加わった日は年代記に残っている。ひとりの名前がコロニーの記録に加わった。</MF_LifeNote_joined_3>
+  <MF_LifeNote_joined_4>入植者の名簿に新しい名前が載った。</MF_LifeNote_joined_4>
+  <MF_LifeNote_joined_5>{2}がコロニーに加わった日。</MF_LifeNote_joined_5>
+  <MF_LifeNote_joined_6>加入日: {3}。</MF_LifeNote_joined_6>
+  <MF_LifeNote_joined_7>{3}、{2}の名前が入植者の名簿に記された。</MF_LifeNote_joined_7>
+  <MF_LifeNote_joined_8>またひとり、ここの入植者になった。</MF_LifeNote_joined_8>
+  <MF_LifeNote_joined_9>{2}の名前がこのコロニーの名簿に載った。</MF_LifeNote_joined_9>
+  <MF_LifeNote_joined_10>この日、コロニーに加わった。</MF_LifeNote_joined_10>
+  <MF_LifeNote_joined_11>加入の記録。日付は{3}。</MF_LifeNote_joined_11>
+  <MF_LifeNote_joined_12>加わった人: {2}。</MF_LifeNote_joined_12>
+  <MF_LifeNote_joined_13>名簿の新しい名前が、加わった日を示している。</MF_LifeNote_joined_13>
+  <MF_LifeNote_joined_14>{2}の名前の横に、加入日の{3}。</MF_LifeNote_joined_14>
+  <MF_LifeNote_joined_15>ここの入植者として記された。</MF_LifeNote_joined_15>
+  <MF_LifeNote_joined_16>ひとりが入植者として来たことを記す、年代記の覚え書き。</MF_LifeNote_joined_16>
+  <MF_LifeNote_joined_17>{3}、入植者の名簿が変わった。誰かが加わったのだ。</MF_LifeNote_joined_17>
+  <MF_LifeNote_joined_18>{2}が加わった日の短い覚え書き。</MF_LifeNote_joined_18>
+  <MF_LifeNote_joined_19>{2}の名前が加入日の横にある。</MF_LifeNote_joined_19>
+  <MF_LifeNote_joined_20>入植者の名簿の新しい行が、加わった日を示している。</MF_LifeNote_joined_20>
+  <MF_LifeNote_joined_21>入植者の名簿の名前。{3}に記された。</MF_LifeNote_joined_21>
+  <MF_LifeNote_joined_22>この日から、名簿には{2}の名前もある。</MF_LifeNote_joined_22>
+  <MF_LifeNote_joined_23>短く残したこの日: コロニーに加わった。</MF_LifeNote_joined_23>
+  <MF_LifeNote_joined_24>{2}の加入日: {3}。</MF_LifeNote_joined_24>
+  <MF_LifeNote_born_1>幼い入植者の名前が名簿に加わった。名簿の最初の記載が年代記に加えられた。</MF_LifeNote_born_1>
+  <MF_LifeNote_born_2>幼い入植者の、名簿への最初の記載。その記載が年代記の一ページになった。</MF_LifeNote_born_2>
+  <MF_LifeNote_born_3>新しく記された幼い入植者のページ。名簿への追加は年代記に残された。</MF_LifeNote_born_3>
+  <MF_LifeNote_born_4>幼い入植者が初めて名簿に現れた。</MF_LifeNote_born_4>
+  <MF_LifeNote_born_5>{2}の名前が、幼い入植者として初めて記された。</MF_LifeNote_born_5>
+  <MF_LifeNote_born_6>幼い入植者の名簿への最初の記載: {3}。</MF_LifeNote_born_6>
+  <MF_LifeNote_born_7>{3}、幼い入植者の{2}が名簿に記された。</MF_LifeNote_born_7>
+  <MF_LifeNote_born_8>幼い入植者の名前が、今は名簿に載っている。</MF_LifeNote_born_8>
+  <MF_LifeNote_born_9>幼い入植者{2}の、名簿への最初の記載の覚え書き。</MF_LifeNote_born_9>
+  <MF_LifeNote_born_10>{3}、幼い入植者が初めて名簿に記された。</MF_LifeNote_born_10>
+  <MF_LifeNote_born_11>幼い入植者の名前が初めて名簿に書かれた日。</MF_LifeNote_born_11>
+  <MF_LifeNote_born_12>{2}の名前の横に、名簿の最初の日付の{3}。</MF_LifeNote_born_12>
+  <MF_LifeNote_lover_1>この日、{0}と恋人になった。ふたりの関係に新しい名前がついた。</MF_LifeNote_lover_1>
+  <MF_LifeNote_lover_2>{0}と恋人になった日は年代記に残っている。関係の歴史に一ページ加わった。</MF_LifeNote_lover_2>
+  <MF_LifeNote_lover_3>{0}との関係は恋人として記された。この日の記載が年代記の次の章へ続いた。</MF_LifeNote_lover_3>
+  <MF_LifeNote_lover_4>{0}と恋人になった。</MF_LifeNote_lover_4>
+  <MF_LifeNote_lover_5>恋人として並ぶふたつの名前: {2}と{0}。</MF_LifeNote_lover_5>
+  <MF_LifeNote_lover_6>{3}、{0}と恋人になった日。</MF_LifeNote_lover_6>
+  <MF_LifeNote_lover_7>関係に新しい名前: {0}と恋人。</MF_LifeNote_lover_7>
+  <MF_LifeNote_lover_8>新しい恋人は{0}。</MF_LifeNote_lover_8>
+  <MF_LifeNote_lover_9>{2}と{0}の恋愛関係。この日から記されている。</MF_LifeNote_lover_9>
+  <MF_LifeNote_lover_10>{0}の名前の横に書かれた、恋人という言葉。</MF_LifeNote_lover_10>
+  <MF_LifeNote_lover_11>この日から、関係に{0}との恋愛が加わった。</MF_LifeNote_lover_11>
+  <MF_LifeNote_lover_12>恋人になった日: {3}。相手: {0}。</MF_LifeNote_lover_12>
+  <MF_LifeNote_lover_13>{0}との新しい恋愛関係。</MF_LifeNote_lover_13>
+  <MF_LifeNote_lover_14>{2}と{0}。この日、ふたりは恋人になった。</MF_LifeNote_lover_14>
+  <MF_LifeNote_lover_15>{0}の名前が新しい関係の記載に現れた: 恋人。</MF_LifeNote_lover_15>
+  <MF_LifeNote_lover_16>{3}付けの新しい恋愛。{0}の名前とともに。</MF_LifeNote_lover_16>
+  <MF_LifeNote_lover_17>{0}と恋人になったことの短い覚え書き。</MF_LifeNote_lover_17>
+  <MF_LifeNote_lover_18>ふたりが恋人になった日。</MF_LifeNote_lover_18>
+  <MF_LifeNote_lover_19>{0}との関係が恋人として記され始めた。</MF_LifeNote_lover_19>
+  <MF_LifeNote_lover_20>{3}、ふたりは恋人になった。</MF_LifeNote_lover_20>
+  <MF_LifeNote_lover_21>この日の関係の変化: {0}と恋人になった。</MF_LifeNote_lover_21>
+  <MF_LifeNote_lover_22>{0}の名前が、{2}の恋人として記されている。</MF_LifeNote_lover_22>
+  <MF_LifeNote_lover_23>新しい恋愛関係が始まった。</MF_LifeNote_lover_23>
+  <MF_LifeNote_lover_24>{2}と{0}の恋が始まった日: {3}。</MF_LifeNote_lover_24>
+  <MF_LifeNote_fiance_1>この日、{0}と婚約した。関係の歴史に婚約の記載が加わった。</MF_LifeNote_fiance_1>
+  <MF_LifeNote_fiance_2>婚約の日。{0}との関係は年代記の次の章へ続いた。</MF_LifeNote_fiance_2>
+  <MF_LifeNote_fiance_3>{0}との婚約が記された。関係の歴史の一ページが年代記に加わった。</MF_LifeNote_fiance_3>
+  <MF_LifeNote_fiance_4>{0}と婚約した。</MF_LifeNote_fiance_4>
+  <MF_LifeNote_fiance_5>婚約者として並ぶふたつの名前: {2}と{0}。</MF_LifeNote_fiance_5>
+  <MF_LifeNote_fiance_6>{3}、{0}と婚約した日。</MF_LifeNote_fiance_6>
+  <MF_LifeNote_fiance_7>{0}との関係に加わった、婚約という言葉。</MF_LifeNote_fiance_7>
+  <MF_LifeNote_fiance_8>婚約者の名前は{0}。</MF_LifeNote_fiance_8>
+  <MF_LifeNote_fiance_9>この日、ふたりは婚約した。</MF_LifeNote_fiance_9>
+  <MF_LifeNote_fiance_10>{2}と{0}の婚約の覚え書き。</MF_LifeNote_fiance_10>
+  <MF_LifeNote_fiance_11>{0}との関係の婚約日: {3}。</MF_LifeNote_fiance_11>
+  <MF_LifeNote_fiance_12>関係の中に婚約が現れた。{0}の名前とともに。</MF_LifeNote_fiance_12>
+  <MF_LifeNote_spouse_1>この日、{0}と結婚した。関係の歴史に結婚の記載が加わった。</MF_LifeNote_spouse_1>
+  <MF_LifeNote_spouse_2>結婚の日は年代記に残っている。{0}との関係は次の章へ続いた。</MF_LifeNote_spouse_2>
+  <MF_LifeNote_spouse_3>{0}と結婚した記録。関係の歴史の一ページが年代記に加わった。</MF_LifeNote_spouse_3>
+  <MF_LifeNote_spouse_4>{0}と結婚した。</MF_LifeNote_spouse_4>
+  <MF_LifeNote_spouse_5>配偶者として並ぶふたつの名前: {2}と{0}。</MF_LifeNote_spouse_5>
+  <MF_LifeNote_spouse_6>{3}、{0}と結婚した日。</MF_LifeNote_spouse_6>
+  <MF_LifeNote_spouse_7>{0}との関係は、今は配偶者として記されている。</MF_LifeNote_spouse_7>
+  <MF_LifeNote_spouse_8>配偶者の名前は{0}。</MF_LifeNote_spouse_8>
+  <MF_LifeNote_spouse_9>この日、ふたりは結婚した。</MF_LifeNote_spouse_9>
+  <MF_LifeNote_spouse_10>{2}と{0}の結婚の覚え書き。</MF_LifeNote_spouse_10>
+  <MF_LifeNote_spouse_11>結婚日: {3}。横にある名前は{0}。</MF_LifeNote_spouse_11>
+  <MF_LifeNote_spouse_12>関係の中に結婚が現れた。配偶者は{0}。</MF_LifeNote_spouse_12>
+  <MF_LifeNote_brokeup_1>この日、{0}と別れた。関係の変化は年代記に残っている。</MF_LifeNote_brokeup_1>
+  <MF_LifeNote_brokeup_2>{0}との恋愛関係が終わった日。別れは年代記に残された。</MF_LifeNote_brokeup_2>
+  <MF_LifeNote_brokeup_3>{0}との別れが記された。関係の歴史の一ページが残っている。</MF_LifeNote_brokeup_3>
+  <MF_LifeNote_brokeup_4>{0}との恋愛関係が終わった。</MF_LifeNote_brokeup_4>
+  <MF_LifeNote_brokeup_5>{2}と{0}の別れ。</MF_LifeNote_brokeup_5>
+  <MF_LifeNote_brokeup_6>{3}、{0}と別れた日。</MF_LifeNote_brokeup_6>
+  <MF_LifeNote_brokeup_7>{0}との関係は、今は元恋人として記されている。</MF_LifeNote_brokeup_7>
+  <MF_LifeNote_brokeup_8>終わった恋の相手は{0}。</MF_LifeNote_brokeup_8>
+  <MF_LifeNote_brokeup_9>この日、ふたりは恋人ではなくなった。</MF_LifeNote_brokeup_9>
+  <MF_LifeNote_brokeup_10>{2}と{0}の関係の変化: 別れ。</MF_LifeNote_brokeup_10>
+  <MF_LifeNote_brokeup_11>別れた日: {3}。相手: {0}。</MF_LifeNote_brokeup_11>
+  <MF_LifeNote_brokeup_12>{0}との関係はもう恋愛ではないという覚え書き。</MF_LifeNote_brokeup_12>
+  <MF_LifeNote_divorced_1>この日、{0}と離婚した。結婚の変化は年代記に残っている。</MF_LifeNote_divorced_1>
+  <MF_LifeNote_divorced_2>{0}との結婚が終わった日。離婚は年代記に残された。</MF_LifeNote_divorced_2>
+  <MF_LifeNote_divorced_3>{0}との離婚が記された。関係の歴史の一ページが残っている。</MF_LifeNote_divorced_3>
+  <MF_LifeNote_divorced_4>{0}との結婚が終わった。</MF_LifeNote_divorced_4>
+  <MF_LifeNote_divorced_5>{2}と{0}の離婚。</MF_LifeNote_divorced_5>
+  <MF_LifeNote_divorced_6>{3}、{0}と離婚した日。</MF_LifeNote_divorced_6>
+  <MF_LifeNote_divorced_7>{0}との関係は、今は元配偶者として記されている。</MF_LifeNote_divorced_7>
+  <MF_LifeNote_divorced_8>終わった結婚の相手は{0}。</MF_LifeNote_divorced_8>
+  <MF_LifeNote_divorced_9>この日、ふたりは配偶者ではなくなった。</MF_LifeNote_divorced_9>
+  <MF_LifeNote_divorced_10>{2}と{0}の関係の変化: 離婚。</MF_LifeNote_divorced_10>
+  <MF_LifeNote_divorced_11>離婚日: {3}。元配偶者: {0}。</MF_LifeNote_divorced_11>
+  <MF_LifeNote_divorced_12>{0}との結婚が終わったという覚え書き。</MF_LifeNote_divorced_12>
+  <MF_LifeNote_bond_1>この日、{0}と絆を結んだ。新しい絆の記載が年代記に加わった。</MF_LifeNote_bond_1>
+  <MF_LifeNote_bond_2>{0}と絆を結んだ日は記録に残っている。年代記に一ページ加わった。</MF_LifeNote_bond_2>
+  <MF_LifeNote_bond_3>{0}との絆が記された。関係の記載が年代記の一ページになった。</MF_LifeNote_bond_3>
+  <MF_LifeNote_bond_4>{0}と絆が結ばれた。</MF_LifeNote_bond_4>
+  <MF_LifeNote_bond_5>新しい絆の相手は{0}。</MF_LifeNote_bond_5>
+  <MF_LifeNote_bond_6>{3}、{0}と絆が結ばれた日。</MF_LifeNote_bond_6>
+  <MF_LifeNote_bond_7>{2}と{0}のあいだに絆が結ばれた。</MF_LifeNote_bond_7>
+  <MF_LifeNote_bond_8>{0}の名前が、絆で結ばれた関係の中に記された。</MF_LifeNote_bond_8>
+  <MF_LifeNote_bond_9>この日、新しい絆が結ばれた。</MF_LifeNote_bond_9>
+  <MF_LifeNote_bond_10>{0}の名前の横に書かれた、絆という言葉。</MF_LifeNote_bond_10>
+  <MF_LifeNote_bond_11>新しくできた関係: {0}との絆。</MF_LifeNote_bond_11>
+  <MF_LifeNote_bond_12>新しい絆の日付: {3}。相手: {0}。</MF_LifeNote_bond_12>
+  <MF_LifeNote_bond_13>{0}の名前が、{2}の絆で結ばれた仲間に記された。</MF_LifeNote_bond_13>
+  <MF_LifeNote_bond_14>{0}との絆の短い覚え書き。</MF_LifeNote_bond_14>
+  <MF_LifeNote_bond_15>関係の中に新しい絆が現れた。</MF_LifeNote_bond_15>
+  <MF_LifeNote_bond_16>{3}付けの新しい絆。{0}の名前とともに。</MF_LifeNote_bond_16>
+  <MF_LifeNote_bond_17>{2}と{0}。この日、絆で結ばれたふたつの名前。</MF_LifeNote_bond_17>
+  <MF_LifeNote_bond_18>この絆の始まりにある名前は{0}。</MF_LifeNote_bond_18>
+  <MF_LifeNote_bond_19>{0}との関係に絆が加わった。</MF_LifeNote_bond_19>
+  <MF_LifeNote_bond_20>{3}、新しい絆が結ばれた。</MF_LifeNote_bond_20>
+  <MF_LifeNote_bond_21>新しい関係の記載は絆。横にある名前は{0}。</MF_LifeNote_bond_21>
+  <MF_LifeNote_bond_22>{2}と{0}の絆。この日から記されている。</MF_LifeNote_bond_22>
+  <MF_LifeNote_bond_23>動物と新しい絆が結ばれた日。</MF_LifeNote_bond_23>
+  <MF_LifeNote_bond_24>{2}と{0}の絆が始まった日: {3}。</MF_LifeNote_bond_24>
+  <MF_LifeNote_captured_1>{0}に連れ去られたことが記された。この日の出来事は年代記に残っている。</MF_LifeNote_captured_1>
+  <MF_LifeNote_captured_2>{0}に連れ去られたことは年代記に残っている。出来事の記録が一ページになった。</MF_LifeNote_captured_2>
+  <MF_LifeNote_captured_3>{0}が関わる誘拐の記載が加えられた。この日の出来事は年代記に残された。</MF_LifeNote_captured_3>
+  <MF_LifeNote_captured_4>{0}に誘拐された。</MF_LifeNote_captured_4>
+  <MF_LifeNote_captured_5>{2}の誘拐。関わった勢力: {0}。</MF_LifeNote_captured_5>
+  <MF_LifeNote_captured_6>{3}、{0}に連れ去られた日。</MF_LifeNote_captured_6>
+  <MF_LifeNote_captured_7>この日の出来事は誘拐。記された勢力は{0}。</MF_LifeNote_captured_7>
+  <MF_LifeNote_captured_8>誘拐した勢力の名前、{0}が出来事の横に書かれている。</MF_LifeNote_captured_8>
+  <MF_LifeNote_captured_9>{2}の年代記にある誘拐。関わった勢力は{0}。</MF_LifeNote_captured_9>
+  <MF_LifeNote_captured_10>誘拐の日付: {3}。</MF_LifeNote_captured_10>
+  <MF_LifeNote_captured_11>この日、誘拐が起きた。</MF_LifeNote_captured_11>
+  <MF_LifeNote_captured_12>{0}に連れ去られたことの短い覚え書き。</MF_LifeNote_captured_12>
+  <MF_LifeNote_limb_1>この日、{0}の喪失が記録された。記録された原因は{1}。</MF_LifeNote_limb_1>
+  <MF_LifeNote_limb_2>{0}の喪失が記録された ({1})。この日の負傷は年代記の一ページになった。</MF_LifeNote_limb_2>
+  <MF_LifeNote_limb_3>{1}による{0}の喪失が記録された。この日の記載は年代記に残された。</MF_LifeNote_limb_3>
+  <MF_LifeNote_limb_4>{0}の喪失。記された原因は{1}。</MF_LifeNote_limb_4>
+  <MF_LifeNote_limb_5>{1}による負傷で{0}が失われた。</MF_LifeNote_limb_5>
+  <MF_LifeNote_limb_6>{2}の{0}の喪失。記録された原因は{1}。</MF_LifeNote_limb_6>
+  <MF_LifeNote_limb_7>{3}、{0}が失われた日。記された原因は{1}。</MF_LifeNote_limb_7>
+  <MF_LifeNote_limb_8>失われた部位は{0}。喪失の原因: {1}。</MF_LifeNote_limb_8>
+  <MF_LifeNote_limb_9>この日、{0}が失われた。負傷とともに残された原因は{1}。</MF_LifeNote_limb_9>
+  <MF_LifeNote_limb_10>{0}の喪失の負傷記載の横に書かれた原因、{1}。</MF_LifeNote_limb_10>
+  <MF_LifeNote_limb_11>{1}による{0}の喪失の短い覚え書き。</MF_LifeNote_limb_11>
+  <MF_LifeNote_limb_12>{2}の負傷の中に記された{0}の喪失。原因: {1}。</MF_LifeNote_limb_12>
+  <MF_LifeNote_limbPlain_1>この日、{0}の喪失が記録された。出来事の一ページが年代記に残っている。</MF_LifeNote_limbPlain_1>
+  <MF_LifeNote_limbPlain_2>{0}の喪失が記録された。この日の負傷が年代記に加わった。</MF_LifeNote_limbPlain_2>
+  <MF_LifeNote_limbPlain_3>{0}の喪失は年代記の一ページになった。記録された出来事はここに残っている。</MF_LifeNote_limbPlain_3>
+  <MF_LifeNote_limbPlain_4>{0}の喪失。</MF_LifeNote_limbPlain_4>
+  <MF_LifeNote_limbPlain_5>この日、{0}が失われた。</MF_LifeNote_limbPlain_5>
+  <MF_LifeNote_limbPlain_6>{2}の{0}の喪失。</MF_LifeNote_limbPlain_6>
+  <MF_LifeNote_limbPlain_7>{3}、{0}が失われた日。</MF_LifeNote_limbPlain_7>
+  <MF_LifeNote_limbPlain_8>失われた部位は{0}。</MF_LifeNote_limbPlain_8>
+  <MF_LifeNote_limbPlain_9>負傷の中に記された{0}の喪失。</MF_LifeNote_limbPlain_9>
+  <MF_LifeNote_limbPlain_10>この日の負傷として記された{0}の喪失。</MF_LifeNote_limbPlain_10>
+  <MF_LifeNote_limbPlain_11>{2}の負傷の中に記された{0}の喪失。</MF_LifeNote_limbPlain_11>
+  <MF_LifeNote_limbPlain_12>{0}の喪失の日付: {3}。</MF_LifeNote_limbPlain_12>
+  <MF_Caption_concert_1>{3}でコンサートの最中。演奏のひとときを写真に残した。</MF_Caption_concert_1>
+  <MF_Caption_concert_2>この写真を撮ったとき、{1}のコンサートの最中だった。</MF_Caption_concert_2>
+  <MF_Caption_concert_3>生演奏のひとときをアルバムに残した。</MF_Caption_concert_3>
+  <MF_Caption_concert_4>コンサートの最中を記録した写真。</MF_Caption_concert_4>
+  <MF_Caption_concert_5>{1}のコンサートが{2}の写真の記録に加わった。</MF_Caption_concert_5>
+  <MF_Caption_concert_6>{1}の演奏に集まった人たちが、アルバムに一枚残した。</MF_Caption_concert_6>
+  <MF_Caption_concert_7>{1}のコンサートをここに記録した。光景を日付の横に。</MF_Caption_concert_7>
+  <MF_Caption_concert_8>{3}で{1}のコンサートが行われていた。</MF_Caption_concert_8>
+  <MF_Caption_concert_9>音楽の集まりのひとときを一枚に残した。</MF_Caption_concert_9>
+  <MF_Caption_concert_10>アルバムには{3}での{1}のコンサートの光景がある。</MF_Caption_concert_10>
+  <MF_Caption_concert_11>コンサートの写真。演奏者は{1}と記されている。</MF_Caption_concert_11>
+  <MF_Caption_concert_12>{2}の写真の中に、コンサートの居場所がある。</MF_Caption_concert_12>
+  <MF_Caption_concert_detail_1>{3}でコンサートの最中。{1}が{5}を演奏している。演奏のひとときを写真に残した。</MF_Caption_concert_detail_1>
+  <MF_Caption_concert_detail_2>このコンサートの写真を撮ったとき、{1}は{5}を演奏していた。</MF_Caption_concert_detail_2>
+  <MF_Caption_concert_detail_3>アルバムに残した、{5}を演奏する{1}のひととき。</MF_Caption_concert_detail_3>
+  <MF_Caption_concert_detail_4>{1}の{5}の演奏を記録した写真。</MF_Caption_concert_detail_4>
+  <MF_Caption_concert_detail_5>{1}の{5}の演奏が{2}の写真の記録に加わった。</MF_Caption_concert_detail_5>
+  <MF_Caption_concert_detail_6>コンサートの光景がここに残っている: {5}を演奏する{1}。</MF_Caption_concert_detail_6>
+  <MF_Caption_concert_detail_7>{1}の{5}の演奏に集まった人たちを撮った。</MF_Caption_concert_detail_7>
+  <MF_Caption_concert_detail_8>{3}で{1}が{5}を演奏していた。コンサートのひとときを収めた一枚。</MF_Caption_concert_detail_8>
+  <MF_Caption_concert_detail_9>この写真は{1}と{5}をコンサートの日付の横に置く。</MF_Caption_concert_detail_9>
+  <MF_Caption_concert_detail_10>アルバムには{3}での{1}の{5}の演奏のひとときがある。</MF_Caption_concert_detail_10>
+  <MF_Caption_concert_detail_11>音楽の集まりの最中に撮った、{5}を演奏する{1}。</MF_Caption_concert_detail_11>
+  <MF_Caption_concert_detail_12>{1}の{5}の演奏は、{2}の写真の中に居場所を持っている。</MF_Caption_concert_detail_12>
+  <MF_Caption_sky_lanterns_1>天灯の儀式「{4}」の最中。集まりのひとときを写真に残した。</MF_Caption_sky_lanterns_1>
+  <MF_Caption_sky_lanterns_2>「{4}」で天灯を放つひとときをアルバムに残した。</MF_Caption_sky_lanterns_2>
+  <MF_Caption_sky_lanterns_3>集まり「{4}」では天灯を放つ。写真は{3}で撮った。</MF_Caption_sky_lanterns_3>
+  <MF_Caption_sky_lanterns_4>入植地の天灯の集まり、「{4}」の写真。</MF_Caption_sky_lanterns_4>
+  <MF_Caption_sky_lanterns_5>天灯の儀式「{4}」が{2}の写真の記録に加わった。</MF_Caption_sky_lanterns_5>
+  <MF_Caption_sky_lanterns_6>{3}で天灯の集まりが行われていた。記録上の名前は「{4}」。</MF_Caption_sky_lanterns_6>
+  <MF_Caption_sky_lanterns_7>天灯の儀式「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_sky_lanterns_7>
+  <MF_Caption_sky_lanterns_8>アルバムに残る、「{4}」の天灯が空へ昇るひととき。</MF_Caption_sky_lanterns_8>
+  <MF_Caption_sky_lanterns_9>天灯の儀式「{4}」を、集まりの最中に撮った。</MF_Caption_sky_lanterns_9>
+  <MF_Caption_sky_lanterns_10>{3}で撮った写真。「{4}」とその天灯の儀式の記録。</MF_Caption_sky_lanterns_10>
+  <MF_Caption_sky_lanterns_11>この天灯の写真に記された名前には{0}がある。集まりの名は「{4}」。</MF_Caption_sky_lanterns_11>
+  <MF_Caption_sky_lanterns_12>集まり「{4}」の天灯の写真が、{2}の記録の中にある。</MF_Caption_sky_lanterns_12>
+  <MF_Caption_tree_celebration_1>木の祭り「{4}」の最中。集まりのひとときを記録した写真。</MF_Caption_tree_celebration_1>
+  <MF_Caption_tree_celebration_2>木を祝う集まりを{3}で撮った。イベントの名は「{4}」。</MF_Caption_tree_celebration_2>
+  <MF_Caption_tree_celebration_3>祭り「{4}」の中心には木がある。そのひとときをアルバムに残した。</MF_Caption_tree_celebration_3>
+  <MF_Caption_tree_celebration_4>木の祭り「{4}」が行われている最中の記録。</MF_Caption_tree_celebration_4>
+  <MF_Caption_tree_celebration_5>木の祭り「{4}」が、入植地の{2}の写真の記録に加わった。</MF_Caption_tree_celebration_5>
+  <MF_Caption_tree_celebration_6>アルバムに残る、{3}での木の祭り「{4}」の光景。</MF_Caption_tree_celebration_6>
+  <MF_Caption_tree_celebration_7>木の祭り「{4}」のこの写真には、{0}の名前が記されている。</MF_Caption_tree_celebration_7>
+  <MF_Caption_tree_celebration_8>祭り「{4}」の主役は木。集まりの最中に撮った一枚。</MF_Caption_tree_celebration_8>
+  <MF_Caption_tree_celebration_9>この写真がアルバムに加わったとき、木の祭り「{4}」の最中だった。</MF_Caption_tree_celebration_9>
+  <MF_Caption_tree_celebration_10>{3}で撮った写真。「{4}」とその木の祭りのひとときを残す。</MF_Caption_tree_celebration_10>
+  <MF_Caption_tree_celebration_11>木の祭りとともに記された名前には{0}がある。この写真はイベント「{4}」に添えられている。</MF_Caption_tree_celebration_11>
+  <MF_Caption_tree_celebration_12>祭り「{4}」の木の集まりの写真が、{2}の記録の中に居場所を持っている。</MF_Caption_tree_celebration_12>
+  <MF_Caption_drum_dance_1>太鼓の踊り「{4}」の最中。集まりのひとときを写真に残した。</MF_Caption_drum_dance_1>
+  <MF_Caption_drum_dance_2>太鼓の踊りを中心とした集まりを{3}で撮った。イベントの名は「{4}」。</MF_Caption_drum_dance_2>
+  <MF_Caption_drum_dance_3>太鼓の踊りの集まり「{4}」のひとときをアルバムに残した。</MF_Caption_drum_dance_3>
+  <MF_Caption_drum_dance_4>太鼓の踊り「{4}」が行われている最中の記録。</MF_Caption_drum_dance_4>
+  <MF_Caption_drum_dance_5>太鼓の踊り「{4}」が{2}の写真の記録に加わった。</MF_Caption_drum_dance_5>
+  <MF_Caption_drum_dance_6>集まり「{4}」の中心は太鼓に合わせた踊り。{3}での光景を収めた一枚。</MF_Caption_drum_dance_6>
+  <MF_Caption_drum_dance_7>太鼓の踊り「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_drum_dance_7>
+  <MF_Caption_drum_dance_8>「{4}」を撮ったとき、{3}では太鼓の踊りの集まりが行われていた。</MF_Caption_drum_dance_8>
+  <MF_Caption_drum_dance_9>アルバムには「{4}」とその太鼓の踊りの光景がある。</MF_Caption_drum_dance_9>
+  <MF_Caption_drum_dance_10>太鼓の踊りのイベント「{4}」を、{3}での集まりの最中に撮った。</MF_Caption_drum_dance_10>
+  <MF_Caption_drum_dance_11>この太鼓の踊りの写真に記された名前には{0}がある。イベントの記録名は「{4}」。</MF_Caption_drum_dance_11>
+  <MF_Caption_drum_dance_12>集まり「{4}」の太鼓の踊りの写真が、{2}の記録の中にある。</MF_Caption_drum_dance_12>
+  <MF_Caption_tech_dance_1>テクノダンス「{4}」の最中。集まりのひとときを写真に残した。</MF_Caption_tech_dance_1>
+  <MF_Caption_tech_dance_2>テクノダンスの集まり「{4}」を{3}で撮った。</MF_Caption_tech_dance_2>
+  <MF_Caption_tech_dance_3>テクノダンス「{4}」のひとときをアルバムに残した。</MF_Caption_tech_dance_3>
+  <MF_Caption_tech_dance_4>テクノダンス「{4}」が行われている最中の記録。</MF_Caption_tech_dance_4>
+  <MF_Caption_tech_dance_5>テクノダンス「{4}」が、入植地の{2}の写真の記録に加わった。</MF_Caption_tech_dance_5>
+  <MF_Caption_tech_dance_6>{3}でテクノダンスの集まりが行われていた。記録上の名前は「{4}」。</MF_Caption_tech_dance_6>
+  <MF_Caption_tech_dance_7>テクノダンス「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_tech_dance_7>
+  <MF_Caption_tech_dance_8>アルバムに残る、「{4}」とそのテクノダンスの集まりの光景。</MF_Caption_tech_dance_8>
+  <MF_Caption_tech_dance_9>テクノダンスのイベント「{4}」を、集まりの最中に撮った。</MF_Caption_tech_dance_9>
+  <MF_Caption_tech_dance_10>{3}で撮った写真。テクノダンス「{4}」のひとときの記録。</MF_Caption_tech_dance_10>
+  <MF_Caption_tech_dance_11>このテクノダンスの写真に記された名前には{0}がある。イベントの名は「{4}」。</MF_Caption_tech_dance_11>
+  <MF_Caption_tech_dance_12>集まり「{4}」のテクノダンスの写真が、{2}の記録の中にある。</MF_Caption_tech_dance_12>
+  <MF_Caption_cannibal_feast_1>カニバルの宴「{4}」の最中。儀式の食事のひとときを記録した写真。</MF_Caption_cannibal_feast_1>
+  <MF_Caption_cannibal_feast_2>カニバルの宴の集まりを{3}で撮った。イベントの名は「{4}」。</MF_Caption_cannibal_feast_2>
+  <MF_Caption_cannibal_feast_3>儀式の食事「{4}」はカニバルの宴。集まりのひとときをアルバムに残した。</MF_Caption_cannibal_feast_3>
+  <MF_Caption_cannibal_feast_4>カニバルの宴「{4}」が行われている最中の記録。</MF_Caption_cannibal_feast_4>
+  <MF_Caption_cannibal_feast_5>カニバルの宴「{4}」が、入植地の{2}の写真の記録に加わった。</MF_Caption_cannibal_feast_5>
+  <MF_Caption_cannibal_feast_6>{3}で儀式の食事が行われていた。記録では「{4}」はカニバルの宴とされている。</MF_Caption_cannibal_feast_6>
+  <MF_Caption_cannibal_feast_7>カニバルの宴「{4}」のこの写真には、{0}の名前が記されている。</MF_Caption_cannibal_feast_7>
+  <MF_Caption_cannibal_feast_8>アルバムに残る、カニバルの宴の集まり「{4}」の光景。</MF_Caption_cannibal_feast_8>
+  <MF_Caption_cannibal_feast_9>宴「{4}」を儀式の集まりの最中に撮った。記録上はカニバルの宴。</MF_Caption_cannibal_feast_9>
+  <MF_Caption_cannibal_feast_10>{3}で撮った写真。カニバルの宴「{4}」のひとときを残す。</MF_Caption_cannibal_feast_10>
+  <MF_Caption_cannibal_feast_11>カニバルの宴の写真に記された名前には{0}がある。この写真は「{4}」に添えられている。</MF_Caption_cannibal_feast_11>
+  <MF_Caption_cannibal_feast_12>カニバルの宴の集まり「{4}」の写真が、{2}の記録の中に居場所を持っている。</MF_Caption_cannibal_feast_12>
+  <MF_Caption_date_festival_1>社交祭「{4}」の最中。祝いの集まりのひとときを写真に残した。</MF_Caption_date_festival_1>
+  <MF_Caption_date_festival_2>社交祭「{4}」のひとときをアルバムに残した。</MF_Caption_date_festival_2>
+  <MF_Caption_date_festival_3>祝いの集まり「{4}」を{3}で撮った。</MF_Caption_date_festival_3>
+  <MF_Caption_date_festival_4>社交祭「{4}」の集まりの最中の記録。</MF_Caption_date_festival_4>
+  <MF_Caption_date_festival_5>社交祭「{4}」が{2}の写真の記録に加わった。</MF_Caption_date_festival_5>
+  <MF_Caption_date_festival_6>{3}で祝いの集まりが行われていた。イベントの記録名は「{4}」。</MF_Caption_date_festival_6>
+  <MF_Caption_date_festival_7>社交祭「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_date_festival_7>
+  <MF_Caption_date_festival_8>アルバムに残る、祝いの集まり「{4}」の光景。</MF_Caption_date_festival_8>
+  <MF_Caption_date_festival_9>社交祭「{4}」を、人々が集まっているときに撮った。</MF_Caption_date_festival_9>
+  <MF_Caption_date_festival_10>{3}で撮った写真。社交祭「{4}」のひとときを残す。</MF_Caption_date_festival_10>
+  <MF_Caption_date_festival_11>この社交祭の写真に記された名前には{0}がある。集まりの名は「{4}」。</MF_Caption_date_festival_11>
+  <MF_Caption_date_festival_12>集まり「{4}」の社交祭の写真が、{2}の記録の中に居場所を持っている。</MF_Caption_date_festival_12>
+  <MF_Caption_execution_1>処刑の儀式「{4}」の最中。儀式の進行を記録した写真。</MF_Caption_execution_1>
+  <MF_Caption_execution_2>処刑の式典「{4}」のひとときをアルバムに残した。</MF_Caption_execution_2>
+  <MF_Caption_execution_3>式典「{4}」は処刑の儀式。{3}での集まりの最中に撮った一枚。</MF_Caption_execution_3>
+  <MF_Caption_execution_4>処刑の式典「{4}」が行われている最中の記録。</MF_Caption_execution_4>
+  <MF_Caption_execution_5>処刑の式典「{4}」を{2}に撮った。儀式の最中のひとときの記録。</MF_Caption_execution_5>
+  <MF_Caption_execution_6>{3}で処刑の儀式が行われていた。記録上の名前は「{4}」。</MF_Caption_execution_6>
+  <MF_Caption_execution_7>処刑の儀式「{4}」のこの写真には、{0}の名前が記されている。</MF_Caption_execution_7>
+  <MF_Caption_execution_8>アルバムに残る、式典「{4}」の光景。処刑の儀式の最中。</MF_Caption_execution_8>
+  <MF_Caption_execution_9>処刑の儀式「{4}」を集まりの最中に撮った。</MF_Caption_execution_9>
+  <MF_Caption_execution_10>{3}で撮った写真。処刑の式典「{4}」のひとときの記録。</MF_Caption_execution_10>
+  <MF_Caption_execution_11>この処刑の儀式の写真に記された名前には{0}がある。式典の名は「{4}」。</MF_Caption_execution_11>
+  <MF_Caption_execution_12>処刑の儀式「{4}」の写真が{2}の記録の中にある。儀式の最中に撮った。</MF_Caption_execution_12>
+  <MF_Caption_prisoner_sacrifice_1>囚人の生贄の儀式「{4}」の最中。式典のひとときを記録した写真。</MF_Caption_prisoner_sacrifice_1>
+  <MF_Caption_prisoner_sacrifice_2>囚人の生贄の式典「{4}」のひとときをアルバムに残した。</MF_Caption_prisoner_sacrifice_2>
+  <MF_Caption_prisoner_sacrifice_3>式典「{4}」の中心は囚人の生贄。{3}での集まりの最中に撮った一枚。</MF_Caption_prisoner_sacrifice_3>
+  <MF_Caption_prisoner_sacrifice_4>囚人の生贄の儀式「{4}」が行われている最中の記録。</MF_Caption_prisoner_sacrifice_4>
+  <MF_Caption_prisoner_sacrifice_5>囚人の生贄の儀式「{4}」を{2}に撮った。儀式のひとときを収めた一枚。</MF_Caption_prisoner_sacrifice_5>
+  <MF_Caption_prisoner_sacrifice_6>{3}で囚人の生贄の式典が行われていた。イベントの記録名は「{4}」。</MF_Caption_prisoner_sacrifice_6>
+  <MF_Caption_prisoner_sacrifice_7>囚人の生贄の儀式「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_prisoner_sacrifice_7>
+  <MF_Caption_prisoner_sacrifice_8>アルバムに残る、囚人の生贄の式典「{4}」の光景。</MF_Caption_prisoner_sacrifice_8>
+  <MF_Caption_prisoner_sacrifice_9>儀式「{4}」を集まりの最中に撮った。記録上は囚人の生贄の式典。</MF_Caption_prisoner_sacrifice_9>
+  <MF_Caption_prisoner_sacrifice_10>{3}で撮った写真。囚人の生贄の儀式「{4}」のひとときの記録。</MF_Caption_prisoner_sacrifice_10>
+  <MF_Caption_prisoner_sacrifice_11>この囚人の生贄の写真に記された名前には{0}がある。式典の名は「{4}」。</MF_Caption_prisoner_sacrifice_11>
+  <MF_Caption_prisoner_sacrifice_12>囚人の生贄の儀式「{4}」の写真が{2}の記録の中にある。式典の最中に撮った。</MF_Caption_prisoner_sacrifice_12>
+  <MF_Caption_animal_sacrifice_1>動物の生贄の儀式「{4}」の最中。式典のひとときを記録した写真。</MF_Caption_animal_sacrifice_1>
+  <MF_Caption_animal_sacrifice_2>動物の生贄の式典「{4}」のひとときをアルバムに残した。</MF_Caption_animal_sacrifice_2>
+  <MF_Caption_animal_sacrifice_3>式典「{4}」の中心は動物の生贄。{3}での集まりの最中に撮った一枚。</MF_Caption_animal_sacrifice_3>
+  <MF_Caption_animal_sacrifice_4>動物の生贄の儀式「{4}」が行われている最中の記録。</MF_Caption_animal_sacrifice_4>
+  <MF_Caption_animal_sacrifice_5>動物の生贄の儀式「{4}」を{2}に撮った。儀式のひとときを収めた一枚。</MF_Caption_animal_sacrifice_5>
+  <MF_Caption_animal_sacrifice_6>{3}で動物の生贄の式典が行われていた。イベントの記録名は「{4}」。</MF_Caption_animal_sacrifice_6>
+  <MF_Caption_animal_sacrifice_7>動物の生贄の儀式「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_animal_sacrifice_7>
+  <MF_Caption_animal_sacrifice_8>アルバムに残る、動物の生贄の式典「{4}」の光景。</MF_Caption_animal_sacrifice_8>
+  <MF_Caption_animal_sacrifice_9>儀式「{4}」を集まりの最中に撮った。記録上は動物の生贄の式典。</MF_Caption_animal_sacrifice_9>
+  <MF_Caption_animal_sacrifice_10>{3}で撮った写真。動物の生贄の儀式「{4}」のひとときの記録。</MF_Caption_animal_sacrifice_10>
+  <MF_Caption_animal_sacrifice_11>この動物の生贄の写真に記された名前には{0}がある。式典の名は「{4}」。</MF_Caption_animal_sacrifice_11>
+  <MF_Caption_animal_sacrifice_12>動物の生贄の儀式「{4}」の写真が{2}の記録の中にある。式典の最中に撮った。</MF_Caption_animal_sacrifice_12>
+  <MF_Caption_scarification_1>スカリフィケーションの儀式「{4}」の最中。儀式のひとときを記録した写真。</MF_Caption_scarification_1>
+  <MF_Caption_scarification_2>スカリフィケーションの儀式「{4}」のひとときをアルバムに残した。</MF_Caption_scarification_2>
+  <MF_Caption_scarification_3>儀式「{4}」の中心はスカリフィケーション。{3}での集まりの最中に撮った一枚。</MF_Caption_scarification_3>
+  <MF_Caption_scarification_4>スカリフィケーションの儀式「{4}」が行われている最中の記録。</MF_Caption_scarification_4>
+  <MF_Caption_scarification_5>スカリフィケーションの儀式「{4}」を{2}に撮った。儀式のひとときを収めた一枚。</MF_Caption_scarification_5>
+  <MF_Caption_scarification_6>{3}でスカリフィケーションの儀式が行われていた。集まりの記録名は「{4}」。</MF_Caption_scarification_6>
+  <MF_Caption_scarification_7>スカリフィケーションの儀式「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_scarification_7>
+  <MF_Caption_scarification_8>アルバムに残る、スカリフィケーションの儀式「{4}」の光景。</MF_Caption_scarification_8>
+  <MF_Caption_scarification_9>儀式「{4}」を集まりの最中に撮った。記録上はスカリフィケーションの儀式。</MF_Caption_scarification_9>
+  <MF_Caption_scarification_10>{3}で撮った写真。スカリフィケーションの儀式「{4}」のひとときの記録。</MF_Caption_scarification_10>
+  <MF_Caption_scarification_11>このスカリフィケーションの写真に記された名前には{0}がある。儀式の名は「{4}」。</MF_Caption_scarification_11>
+  <MF_Caption_scarification_12>スカリフィケーションの儀式「{4}」の写真が{2}の記録の中にある。儀式の最中に撮った。</MF_Caption_scarification_12>
+  <MF_Caption_blinding_1>盲目化の儀式「{4}」の最中。儀式のひとときを記録した写真。</MF_Caption_blinding_1>
+  <MF_Caption_blinding_2>盲目化の儀式「{4}」のひとときをアルバムに残した。</MF_Caption_blinding_2>
+  <MF_Caption_blinding_3>儀式「{4}」の中心は盲目化。{3}での集まりの最中に撮った一枚。</MF_Caption_blinding_3>
+  <MF_Caption_blinding_4>盲目化の儀式「{4}」が行われている最中の記録。</MF_Caption_blinding_4>
+  <MF_Caption_blinding_5>盲目化の儀式「{4}」を{2}に撮った。儀式のひとときを収めた一枚。</MF_Caption_blinding_5>
+  <MF_Caption_blinding_6>{3}で盲目化の儀式が行われていた。集まりの記録名は「{4}」。</MF_Caption_blinding_6>
+  <MF_Caption_blinding_7>盲目化の儀式「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_blinding_7>
+  <MF_Caption_blinding_8>アルバムに残る、盲目化の儀式「{4}」の光景。</MF_Caption_blinding_8>
+  <MF_Caption_blinding_9>儀式「{4}」を集まりの最中に撮った。記録上は盲目化の儀式。</MF_Caption_blinding_9>
+  <MF_Caption_blinding_10>{3}で撮った写真。盲目化の儀式「{4}」のひとときの記録。</MF_Caption_blinding_10>
+  <MF_Caption_blinding_11>この盲目化の写真に記された名前には{0}がある。儀式の名は「{4}」。</MF_Caption_blinding_11>
+  <MF_Caption_blinding_12>盲目化の儀式「{4}」の写真が{2}の記録の中にある。儀式の最中に撮った。</MF_Caption_blinding_12>
+  <MF_Caption_duel_1>決闘の儀式「{4}」の最中。儀式の試合のひとときを記録した写真。</MF_Caption_duel_1>
+  <MF_Caption_duel_2>決闘の儀式「{4}」のひとときをアルバムに残した。</MF_Caption_duel_2>
+  <MF_Caption_duel_3>儀式「{4}」の中心は決闘。{3}での集まりの最中に撮った一枚。</MF_Caption_duel_3>
+  <MF_Caption_duel_4>決闘の儀式「{4}」が行われている最中の記録。</MF_Caption_duel_4>
+  <MF_Caption_duel_5>決闘の儀式「{4}」を{2}に撮った。試合のひとときを収めた一枚。</MF_Caption_duel_5>
+  <MF_Caption_duel_6>{3}で決闘の儀式が行われていた。イベントの記録名は「{4}」。</MF_Caption_duel_6>
+  <MF_Caption_duel_7>決闘の儀式「{4}」のこの写真には、{0}の名前が添えられている。</MF_Caption_duel_7>
+  <MF_Caption_duel_8>アルバムに残る、決闘の儀式「{4}」の光景。</MF_Caption_duel_8>
+  <MF_Caption_duel_9>儀式「{4}」を集まりの最中に撮った。記録上は決闘の儀式。</MF_Caption_duel_9>
+  <MF_Caption_duel_10>{3}で撮った写真。決闘の儀式「{4}」のひとときの記録。</MF_Caption_duel_10>
+  <MF_Caption_duel_11>この決闘の写真に記された名前には{0}がある。儀式の名は「{4}」。</MF_Caption_duel_11>
+  <MF_Caption_duel_12>決闘の儀式「{4}」の写真が{2}の記録の中にある。儀式の最中に撮った。</MF_Caption_duel_12>
+  <MF_PhotoContextFact>{0}。記録された被写体: {1}。</MF_PhotoContextFact>
+  <MF_Caption_carried_baby_1>赤ん坊の{6}を抱く{7}の写真。</MF_Caption_carried_baby_1>
+  <MF_Caption_carried_baby_2>赤ん坊の{6}と、抱いている{7}が一緒に写っている。</MF_Caption_carried_baby_2>
+  <MF_Caption_carried_baby_3>写真の赤ん坊は{6}、抱いているのは{7}。</MF_Caption_carried_baby_3>
+  <MF_Caption_carried_baby_4>一枚の写真に残る、{6}を腕に抱く{7}の姿。</MF_Caption_carried_baby_4>
+  <MF_Caption_carried_baby_5>抱かれた赤ん坊の{6}のこの写真には、{7}の名前が添えられている。</MF_Caption_carried_baby_5>
+  <MF_Caption_carried_baby_6>{7}の腕の中の赤ん坊、{6}を撮った。</MF_Caption_carried_baby_6>
+  <MF_Caption_carried_baby_7>{7}に抱かれた{6}の記録。</MF_Caption_carried_baby_7>
+  <MF_Caption_carried_baby_8>この写真には赤ん坊の{6}と、抱いている{7}の両方が見える。</MF_Caption_carried_baby_8>
+  <MF_Caption_carried_baby_9>赤ん坊を抱いているのは{7}。赤ん坊は{6}。</MF_Caption_carried_baby_9>
+  <MF_Caption_carried_baby_10>この{6}の写真では、赤ん坊が{7}に抱かれている。</MF_Caption_carried_baby_10>
+  <MF_Caption_carried_baby_11>{7}に抱かれた赤ん坊の{6}も、この写真の被写体のひとり。</MF_Caption_carried_baby_11>
+  <MF_Caption_carried_baby_12>{7}の腕の中の{6}を残した写真。</MF_Caption_carried_baby_12>
+  <MF_Caption_animal_pair_1>{6}と{7}、同じ写真の中に。</MF_Caption_animal_pair_1>
+  <MF_Caption_animal_pair_2>{6}が{7}と一緒にこの写真に写っている。</MF_Caption_animal_pair_2>
+  <MF_Caption_animal_pair_3>一枚の写真を分け合う人と動物: {7}、{6}。</MF_Caption_animal_pair_3>
+  <MF_Caption_animal_pair_4>{6}もこの日の写真の一員。</MF_Caption_animal_pair_4>
+  <MF_Caption_animal_pair_5>{7}と{6}の写真。一緒に振り返るために。</MF_Caption_animal_pair_5>
+  <MF_Caption_animal_pair_6>{6}と一緒に撮った{7}。</MF_Caption_animal_pair_6>
+  <MF_Caption_animal_pair_7>{3}で一緒に撮った、{6}と{7}。</MF_Caption_animal_pair_7>
+  <MF_Caption_animal_pair_8>一緒にいたときの{7}と{6}の姿。</MF_Caption_animal_pair_8>
+  <MF_Caption_animal_pair_9>同じフレームのふたつの名前: {6}と{7}。</MF_Caption_animal_pair_9>
+  <MF_Caption_animal_pair_10>{2}のこの写真を分け合う{7}と{6}。</MF_Caption_animal_pair_10>
+  <MF_Caption_animal_pair_11>{6}の場所もある写真。</MF_Caption_animal_pair_11>
+  <MF_Caption_animal_pair_12>あの頃の{7}。同じフレームに{6}。</MF_Caption_animal_pair_12>
+  <MF_Caption_scene_party_host_1>{3}での{6}のパーティ。</MF_Caption_scene_party_host_1>
+  <MF_Caption_scene_party_host_2>パーティを開いた{6}も、ここにいた。</MF_Caption_scene_party_host_2>
+  <MF_Caption_scene_party_host_3>{3}で{6}の集まりが行われていた。</MF_Caption_scene_party_host_3>
+  <MF_Caption_scene_party_host_4>{2}、{6}のパーティのひととき。</MF_Caption_scene_party_host_4>
+  <MF_Caption_scene_party_group_1>{3}のパーティで一緒に: {0}。</MF_Caption_scene_party_group_1>
+  <MF_Caption_scene_party_group_2>{0}、パーティの同じひとときに。</MF_Caption_scene_party_group_2>
+  <MF_Caption_scene_party_group_3>{2}、{3}にて。パーティの客が一緒に見える。</MF_Caption_scene_party_group_3>
+  <MF_Caption_scene_party_group_4>{3}で集まりが続くあいだ、{0}がここにいた。</MF_Caption_scene_party_group_4>
+  <MF_Caption_scene_party_solo_1>{3}でパーティが行われていたときの{1}。</MF_Caption_scene_party_solo_1>
+  <MF_Caption_scene_party_solo_2>パーティが開かれた場所の{1}。</MF_Caption_scene_party_solo_2>
+  <MF_Caption_scene_party_solo_3>{2}の集まり。{1}の姿が見える。</MF_Caption_scene_party_solo_3>
+  <MF_Caption_scene_party_solo_4>{1}は、パーティが開かれた{3}にいた。</MF_Caption_scene_party_solo_4>
+  <MF_Caption_scene_party_scene_1>{3}でのパーティの舞台。</MF_Caption_scene_party_scene_1>
+  <MF_Caption_scene_party_scene_2>{2}の{3}。集まりが開かれた場所。</MF_Caption_scene_party_scene_2>
+  <MF_Caption_scene_party_scene_3>パーティが続くあいだの{3}の一角。</MF_Caption_scene_party_scene_3>
+  <MF_Caption_scene_party_scene_4>{3}での集まりの周りの様子。</MF_Caption_scene_party_scene_4>
+  <MF_Caption_scene_party_host_weather_1>{3}の天気は{10}だった。{6}のパーティの最中。</MF_Caption_scene_party_host_weather_1>
+  <MF_Caption_scene_party_host_weather_2>{6}のパーティ。外は{10}。</MF_Caption_scene_party_host_weather_2>
+  <MF_Caption_scene_party_host_weather_3>{10}の{3}。主催の{6}もここにいた。</MF_Caption_scene_party_host_weather_3>
+  <MF_Caption_scene_party_host_weather_4>{3}での{6}のパーティ。周りの天気は{10}だった。</MF_Caption_scene_party_host_weather_4>
+  <MF_Caption_scene_party_group_weather_1>{10}の天気の中、{3}のパーティで一緒の{0}。</MF_Caption_scene_party_group_weather_1>
+  <MF_Caption_scene_party_group_weather_2>{3}の天気は{10}だった。{0}はこの集まりのひとときを一緒に過ごした。</MF_Caption_scene_party_group_weather_2>
+  <MF_Caption_scene_party_group_weather_3>{10}の中でパーティは続き、{0}が同じ景色の中にいた。</MF_Caption_scene_party_group_weather_3>
+  <MF_Caption_scene_party_group_weather_4>{3}のパーティの人々。周りの天気は{10}だった。</MF_Caption_scene_party_group_weather_4>
+  <MF_Caption_scene_party_solo_weather_1>{3}のパーティの{1}。外の天気は{10}。</MF_Caption_scene_party_solo_weather_1>
+  <MF_Caption_scene_party_solo_weather_2>{1}はパーティが開かれた{3}にいた。外の天気は{10}だった。</MF_Caption_scene_party_solo_weather_2>
+  <MF_Caption_scene_party_solo_weather_3>{10}の天気の集まりの中の{1}。</MF_Caption_scene_party_solo_weather_3>
+  <MF_Caption_scene_party_solo_weather_4>{3}の天気は{10}だった。パーティが続くあいだ、{1}の姿が見えた。</MF_Caption_scene_party_solo_weather_4>
+  <MF_Caption_scene_party_scene_weather_1>{10}の天気の、{3}でのパーティの舞台。</MF_Caption_scene_party_scene_weather_1>
+  <MF_Caption_scene_party_scene_weather_2>パーティが開かれた場所。外の天気は{10}。</MF_Caption_scene_party_scene_weather_2>
+  <MF_Caption_scene_party_scene_weather_3>{3}の集まりの場所と、{10}の天気。</MF_Caption_scene_party_scene_weather_3>
+  <MF_Caption_scene_party_scene_weather_4>{3}。外が{10}の中でパーティが続いた。</MF_Caption_scene_party_scene_weather_4>
+  <MF_Caption_scene_party_after_1>パーティの後の{3}。</MF_Caption_scene_party_after_1>
+  <MF_Caption_scene_party_after_2>イベントが終わった後の集まりの場所。</MF_Caption_scene_party_after_2>
+  <MF_Caption_scene_party_after_3>{3}、パーティが終わって。</MF_Caption_scene_party_after_3>
+  <MF_Caption_scene_party_after_4>パーティが開かれた場所を、後で見た眺め。</MF_Caption_scene_party_after_4>
+  <MF_Caption_scene_party_later_1>パーティが開かれた{3}の、後の眺め。</MF_Caption_scene_party_later_1>
+  <MF_Caption_scene_party_later_2>イベントからしばらくして撮った集まりの場所。</MF_Caption_scene_party_later_2>
+  <MF_Caption_scene_party_later_3>時が経った後の、{3}のパーティの会場。</MF_Caption_scene_party_later_3>
+  <MF_Caption_scene_party_later_4>あのパーティの瞬間ではなく、後の{3}。</MF_Caption_scene_party_later_4>
+  <MF_Caption_scene_journey_group_1>{3}に到着した一行: {0}。</MF_Caption_scene_journey_group_1>
+  <MF_Caption_scene_journey_group_2>{0}と訪れた{3}。</MF_Caption_scene_journey_group_2>
+  <MF_Caption_scene_journey_group_3>{2}の{3}。旅人たちの姿も見える。</MF_Caption_scene_journey_group_3>
+  <MF_Caption_scene_journey_group_4>旅の途中、{3}で一緒の{0}。</MF_Caption_scene_journey_group_4>
+  <MF_Caption_scene_journey_solo_1>{3}に到着する{1}。</MF_Caption_scene_journey_solo_1>
+  <MF_Caption_scene_journey_solo_2>旅の途中、{3}での{1}とのひととき。</MF_Caption_scene_journey_solo_2>
+  <MF_Caption_scene_journey_solo_3>{2}の{3}。{1}がいた。</MF_Caption_scene_journey_solo_3>
+  <MF_Caption_scene_journey_solo_4>{1}が立ち寄った{3}の眺め。</MF_Caption_scene_journey_solo_4>
+  <MF_Caption_scene_journey_scene_1>旅の途中で訪れた{3}の眺め。</MF_Caption_scene_journey_scene_1>
+  <MF_Caption_scene_journey_scene_2>{2}に訪れた{3}。</MF_Caption_scene_journey_scene_2>
+  <MF_Caption_scene_journey_scene_3>訪れた場所、{3}の一角。</MF_Caption_scene_journey_scene_3>
+  <MF_Caption_scene_journey_scene_4>旅人たちがたどり着いた場所: {3}。</MF_Caption_scene_journey_scene_4>
+  <MF_Caption_scene_journey_group_weather_1>{10}の天気の中、{3}に到着する{0}。</MF_Caption_scene_journey_group_weather_1>
+  <MF_Caption_scene_journey_group_weather_2>{0}と訪れた{3}。そのときの天気は{10}だった。</MF_Caption_scene_journey_group_weather_2>
+  <MF_Caption_scene_journey_group_weather_3>一行を撮ったとき、{3}の周りの天気は{10}だった。</MF_Caption_scene_journey_group_weather_3>
+  <MF_Caption_scene_journey_group_weather_4>{3}に立ち寄った{0}。天気は{10}。</MF_Caption_scene_journey_group_weather_4>
+  <MF_Caption_scene_journey_solo_weather_1>{10}の天気の中、{3}に到着する{1}。</MF_Caption_scene_journey_solo_weather_1>
+  <MF_Caption_scene_journey_solo_weather_2>{1}が立ち寄った{3}の天気は{10}だった。</MF_Caption_scene_journey_solo_weather_2>
+  <MF_Caption_scene_journey_solo_weather_3>{3}の{1}。屋根の外の天気は{10}。</MF_Caption_scene_journey_solo_weather_3>
+  <MF_Caption_scene_journey_solo_weather_4>{1}の訪問。{10}の天気の中で撮った。</MF_Caption_scene_journey_solo_weather_4>
+  <MF_Caption_scene_journey_scene_weather_1>訪れた場所、{3}の天気は{10}だった。</MF_Caption_scene_journey_scene_weather_1>
+  <MF_Caption_scene_journey_scene_weather_2>{10}の天気の{3}の眺め。</MF_Caption_scene_journey_scene_weather_2>
+  <MF_Caption_scene_journey_scene_weather_3>旅人たちが立ち寄った{3}。外の天気は{10}。</MF_Caption_scene_journey_scene_weather_3>
+  <MF_Caption_scene_journey_scene_weather_4>訪問中の{3}の{10}の天気。</MF_Caption_scene_journey_scene_weather_4>
+  <MF_Caption_scene_journey_later_1>訪れた場所、{3}を後で撮った。</MF_Caption_scene_journey_later_1>
+  <MF_Caption_scene_journey_later_2>到着のときとは別のときに撮った{3}。</MF_Caption_scene_journey_later_2>
+  <MF_Caption_scene_journey_later_3>旅人たちが立ち寄った{3}。この眺めは後で撮った。</MF_Caption_scene_journey_later_3>
+  <MF_Caption_scene_journey_later_4>訪問からしばらく経った{3}の眺め。</MF_Caption_scene_journey_later_4>
+  <MF_Caption_fact_party_1>{3}で開かれたパーティ。</MF_Caption_fact_party_1>
+  <MF_Caption_fact_party_2>パーティが開かれたときの、{2}の{3}。</MF_Caption_fact_party_2>
+  <MF_Caption_fact_party_3>{3}で集まりが開かれた。</MF_Caption_fact_party_3>
+  <MF_Caption_fact_party_4>{2}に開かれたパーティのひととき。</MF_Caption_fact_party_4>
+  <MF_Caption_fact_journey_1>{3}、旅の途中の立ち寄り先。</MF_Caption_fact_journey_1>
+  <MF_Caption_fact_journey_2>{2}に訪れた{3}。</MF_Caption_fact_journey_2>
+  <MF_Caption_fact_journey_3>訪れた場所、{3}の眺め。</MF_Caption_fact_journey_3>
+  <MF_Caption_fact_journey_4>旅人たちがたどり着いた場所、{3}。</MF_Caption_fact_journey_4>
+  <MF_Caption_fact_journey_detail_1>旅の途中で訪れた場所、{4}。</MF_Caption_fact_journey_detail_1>
+  <MF_Caption_fact_journey_detail_2>{4}に到着して。</MF_Caption_fact_journey_detail_2>
+  <MF_Caption_fact_journey_detail_3>{2}に訪れた{4}。</MF_Caption_fact_journey_detail_3>
+  <MF_Caption_fact_journey_detail_4>旅の途中のひととき。{4}の眺めとともに。</MF_Caption_fact_journey_detail_4>
+  <MF_Caption_scene_birthday_carried_parent_1>{8}の{6}。{9}の{7}に抱かれて。</MF_Caption_scene_birthday_carried_parent_1>
+  <MF_Caption_scene_birthday_carried_parent_2>{6}の{8}。{9}の{7}の腕の中の写真。</MF_Caption_scene_birthday_carried_parent_2>
+  <MF_Caption_scene_birthday_carried_parent_3>{6}の{8}、{9}の{7}の腕の中にいた。</MF_Caption_scene_birthday_carried_parent_3>
+  <MF_Caption_scene_birthday_carried_parent_4>{8}に、{9}の{7}の腕の中で撮った{6}。</MF_Caption_scene_birthday_carried_parent_4>
+  <MF_Caption_scene_birthday_carried_parent_5>{6}の{8}の写真には、抱いている{9}の{7}も写っている。</MF_Caption_scene_birthday_carried_parent_5>
+  <MF_Caption_scene_birthday_carried_parent_6>{8}の{6}と、抱いている{9}の{7}。</MF_Caption_scene_birthday_carried_parent_6>
+  <MF_Caption_scene_birthday_carried_1>{8}に{7}の腕に抱かれた{6}。</MF_Caption_scene_birthday_carried_1>
+  <MF_Caption_scene_birthday_carried_2>{6}の{8}。{7}が抱いている写真。</MF_Caption_scene_birthday_carried_2>
+  <MF_Caption_scene_birthday_carried_3>{6}の{8}、{7}の腕の中にいた。</MF_Caption_scene_birthday_carried_3>
+  <MF_Caption_scene_birthday_carried_4>{8}に{7}の腕の中で撮った{6}。</MF_Caption_scene_birthday_carried_4>
+  <MF_Caption_scene_birthday_carried_5>{6}の{8}の一枚。{7}に抱かれている。</MF_Caption_scene_birthday_carried_5>
+  <MF_Caption_scene_birthday_carried_6>{8}の写真。{6}と、抱いている{7}。</MF_Caption_scene_birthday_carried_6>
+  <MF_Caption_scene_birthday_parent_1>{8}の{6}。{9}の{7}と一緒に。</MF_Caption_scene_birthday_parent_1>
+  <MF_Caption_scene_birthday_parent_2>{8}の{6}。{9}の{7}と同じ写真に。</MF_Caption_scene_birthday_parent_2>
+  <MF_Caption_scene_birthday_parent_3>{6}の{8}。{9}の{7}と一緒に撮った。</MF_Caption_scene_birthday_parent_3>
+  <MF_Caption_scene_birthday_parent_4>{8}の写真。{6}と並ぶ{9}の{7}。</MF_Caption_scene_birthday_parent_4>
+  <MF_Caption_scene_birthday_parent_5>{6}の{8}の写真。{9}の{7}と一緒の姿。</MF_Caption_scene_birthday_parent_5>
+  <MF_Caption_scene_birthday_parent_6>{6}の{8}の一枚。{9}の{7}もフレームの中に。</MF_Caption_scene_birthday_parent_6>
+  <MF_Caption_scene_birthday_group_1>{6}の{8}。周りの人たちも一緒に写っている。</MF_Caption_scene_birthday_group_1>
+  <MF_Caption_scene_birthday_group_2>{8}の{6}。他の人たちと写真を分け合って。</MF_Caption_scene_birthday_group_2>
+  <MF_Caption_scene_birthday_group_3>{6}の{8}。他の人たちと一緒に撮った。</MF_Caption_scene_birthday_group_3>
+  <MF_Caption_scene_birthday_group_4>{6}の{8}の写真。他の人たちもフレームの中に。</MF_Caption_scene_birthday_group_4>
+  <MF_Caption_scene_birthday_group_5>{6}の{8}の一枚。並んで撮った人たちと一緒に。</MF_Caption_scene_birthday_group_5>
+  <MF_Caption_scene_birthday_group_6>{8}の写真。{6}と他の人たち。</MF_Caption_scene_birthday_group_6>
+  <MF_Caption_scene_birthday_solo_1>{8}の{6}を一枚に収めた。</MF_Caption_scene_birthday_solo_1>
+  <MF_Caption_scene_birthday_solo_2>{6}の{8}の一枚。</MF_Caption_scene_birthday_solo_2>
+  <MF_Caption_scene_birthday_solo_3>{6}の{8}。主役がフレームの中に。</MF_Caption_scene_birthday_solo_3>
+  <MF_Caption_scene_birthday_solo_4>{8}の写真に写る{6}。</MF_Caption_scene_birthday_solo_4>
+  <MF_Caption_scene_birthday_solo_5>{8}の{6}のこの姿を写真に残した。</MF_Caption_scene_birthday_solo_5>
+  <MF_Caption_scene_birthday_solo_6>{8}の写真。フレームの中に{6}。</MF_Caption_scene_birthday_solo_6>
+  <MF_Caption_scene_carried_parent_1>{9}の{7}の腕に抱かれた{6}。</MF_Caption_scene_carried_parent_1>
+  <MF_Caption_scene_carried_parent_2>{9}の{7}の腕の中の{6}。</MF_Caption_scene_carried_parent_2>
+  <MF_Caption_scene_carried_parent_3>この写真で、{6}は{9}の{7}の腕の中にいた。</MF_Caption_scene_carried_parent_3>
+  <MF_Caption_scene_carried_parent_4>{9}の{7}に抱かれた{6}の写真。</MF_Caption_scene_carried_parent_4>
+  <MF_Caption_scene_carried_parent_5>{6}と、抱いている{9}の{7}を写した写真。</MF_Caption_scene_carried_parent_5>
+  <MF_Caption_scene_carried_parent_6>一枚の写真の{6}。{9}の{7}が抱いている。</MF_Caption_scene_carried_parent_6>
+  <MF_Caption_scene_animal_bond_1>{7}と絆で結ばれた{10}の{6}。一緒に写っている。</MF_Caption_scene_animal_bond_1>
+  <MF_Caption_scene_animal_bond_2>{7}と{10}の{6}が一緒に。このふたりは絆で結ばれている。</MF_Caption_scene_animal_bond_2>
+  <MF_Caption_scene_animal_bond_3>{7}と、絆で結ばれた{10}の{6}の写真。</MF_Caption_scene_animal_bond_3>
+  <MF_Caption_scene_animal_bond_4>{10}の{6}が{7}と一緒の写真。絆で結ばれている。</MF_Caption_scene_animal_bond_4>
+  <MF_Caption_scene_animal_bond_5>{7}と{10}の{6}は、絆も写真も分け合っている。</MF_Caption_scene_animal_bond_5>
+  <MF_Caption_scene_animal_bond_6>{7}と絆で結ばれた{10}の{6}を、一緒に写した一枚。</MF_Caption_scene_animal_bond_6>
+  <MF_Caption_scene_concert_playing_audience_1>{6}が{10}を演奏している。同じコンサートの{7}も写っている。</MF_Caption_scene_concert_playing_audience_1>
+  <MF_Caption_scene_concert_playing_audience_2>{6}が{10}を演奏するあいだ、写真にはコンサートに来た{7}も写っている。</MF_Caption_scene_concert_playing_audience_2>
+  <MF_Caption_scene_concert_playing_audience_3>演奏中の{6}と、コンサートの客の{7}が一緒に写っている。</MF_Caption_scene_concert_playing_audience_3>
+  <MF_Caption_scene_concert_playing_audience_4>{10}の演奏中のひととき。{6}と客の{7}が同じ写真に。</MF_Caption_scene_concert_playing_audience_4>
+  <MF_Caption_scene_concert_playing_audience_5>写真の中で{6}が{10}を演奏している。同じコンサートに来た{7}もフレームの中に。</MF_Caption_scene_concert_playing_audience_5>
+  <MF_Caption_scene_concert_playing_audience_6>{6}の{10}の演奏中に撮った写真。客の{7}も写っている。</MF_Caption_scene_concert_playing_audience_6>
+  <MF_Caption_scene_concert_playing_1>{6}が{10}を演奏しているときに撮った写真。</MF_Caption_scene_concert_playing_1>
+  <MF_Caption_scene_concert_playing_2>{10}を演奏する{6}。</MF_Caption_scene_concert_playing_2>
+  <MF_Caption_scene_concert_playing_3>{6}、{10}、そして進行中のコンサート。</MF_Caption_scene_concert_playing_3>
+  <MF_Caption_scene_concert_playing_4>写真の中で、{6}が{10}を演奏している。</MF_Caption_scene_concert_playing_4>
+  <MF_Caption_scene_concert_playing_5>{6}の{10}の演奏のひととき。</MF_Caption_scene_concert_playing_5>
+  <MF_Caption_scene_concert_playing_6>{10}の演奏中の{6}を捉えたコンサートの写真。</MF_Caption_scene_concert_playing_6>
+  <MF_Caption_scene_concert_after_1>コンサートの後に撮った写真。</MF_Caption_scene_concert_after_1>
+  <MF_Caption_scene_concert_after_2>コンサートが終わった後の光景の写真。</MF_Caption_scene_concert_after_2>
+  <MF_Caption_scene_concert_after_3>この写真はコンサートが終わった後に撮った。</MF_Caption_scene_concert_after_3>
+  <MF_Caption_scene_concert_after_4>コンサートに続く光景を写した写真。</MF_Caption_scene_concert_after_4>
+  <MF_Caption_scene_concert_after_5>イベントの後のひととき。コンサートの記録とともに残した。</MF_Caption_scene_concert_after_5>
+  <MF_Caption_scene_concert_after_6>コンサートの後の眺めを一枚に残した。</MF_Caption_scene_concert_after_6>
+  <MF_Caption_scene_concert_later_1>この後の写真はコンサートの記録に添えられている。</MF_Caption_scene_concert_later_1>
+  <MF_Caption_scene_concert_later_2>後で撮った一枚。コンサートの記録とともに残した。</MF_Caption_scene_concert_later_2>
+  <MF_Caption_scene_concert_later_3>後で撮った写真。コンサートの記録に綴じた。</MF_Caption_scene_concert_later_3>
+  <MF_Caption_scene_concert_later_4>この写真は後で撮って、コンサートの記録に加えた。</MF_Caption_scene_concert_later_4>
+  <MF_Caption_scene_concert_later_5>後の光景を、コンサートの記録に並べて写真に残した。</MF_Caption_scene_concert_later_5>
+  <MF_Caption_scene_concert_later_6>コンサートに関連するこの写真は、後の光景を写している。</MF_Caption_scene_concert_later_6>
+  <MF_Caption_scene_concert_record_1>コンサートに添えた写真。</MF_Caption_scene_concert_record_1>
+  <MF_Caption_scene_concert_record_2>コンサートの記録とともに残した一枚。</MF_Caption_scene_concert_record_2>
+  <MF_Caption_scene_concert_record_3>この写真はコンサートの記録とともに残されている。</MF_Caption_scene_concert_record_3>
+  <MF_Caption_scene_concert_record_4>コンサートに関連する写真の記録。</MF_Caption_scene_concert_record_4>
+  <MF_Caption_scene_concert_record_5>この光景はコンサートの記録に綴じてある。</MF_Caption_scene_concert_record_5>
+  <MF_Caption_scene_concert_record_6>コンサートの記録に並ぶ一枚。</MF_Caption_scene_concert_record_6>
+  <MF_Caption_scene_battle_remains_1>戦いの後に撮った写真には{6}が写っている。</MF_Caption_scene_battle_remains_1>
+  <MF_Caption_scene_battle_remains_2>戦いの後に撮った写真に{6}が含まれている。</MF_Caption_scene_battle_remains_2>
+  <MF_Caption_scene_battle_remains_3>{6}を写した、戦いの後の写真。</MF_Caption_scene_battle_remains_3>
+  <MF_Caption_scene_battle_remains_4>戦いの後に撮った写真には{6}も含まれている。</MF_Caption_scene_battle_remains_4>
+  <MF_Caption_scene_battle_remains_5>戦いの後の{6}。</MF_Caption_scene_battle_remains_5>
+  <MF_Caption_scene_battle_remains_6>戦いの後に撮った光景。フレームの中に{6}。</MF_Caption_scene_battle_remains_6>
+  <MF_Caption_scene_battle_later_1>後の写真に{6}が写っている。</MF_Caption_scene_battle_later_1>
+  <MF_Caption_scene_battle_later_2>後で撮った{6}の写真。戦いの記録とともに残した。</MF_Caption_scene_battle_later_2>
+  <MF_Caption_scene_battle_later_3>戦いの記録にはこの後の{6}の写真がある。</MF_Caption_scene_battle_later_3>
+  <MF_Caption_scene_battle_later_4>フレームには{6}も入っている。この写真は後で撮った。</MF_Caption_scene_battle_later_4>
+  <MF_Caption_scene_battle_later_5>この後の{6}の写真は戦いの記録に添えられている。</MF_Caption_scene_battle_later_5>
+  <MF_Caption_scene_battle_later_6>写真の中の{6}。戦いの記録に加えた後の光景。</MF_Caption_scene_battle_later_6>
+  <MF_Caption_scene_battle_record_1>戦いの記録に添えた写真。</MF_Caption_scene_battle_record_1>
+  <MF_Caption_scene_battle_record_2>戦いの記録とともに残した一枚。</MF_Caption_scene_battle_record_2>
+  <MF_Caption_scene_battle_record_3>この光景は戦いの記録とともに残されている。</MF_Caption_scene_battle_record_3>
+  <MF_Caption_scene_battle_record_4>戦いの記録に並ぶ一枚。</MF_Caption_scene_battle_record_4>
+  <MF_Caption_scene_battle_record_5>戦いに綴じた写真。</MF_Caption_scene_battle_record_5>
+  <MF_Caption_scene_battle_record_6>戦闘の記録とともに残した写真。</MF_Caption_scene_battle_record_6>
+  <MF_SceneBirthdayFirst>初めての誕生日</MF_SceneBirthdayFirst>
+  <MF_SceneBirthdayAge>{0}歳の誕生日</MF_SceneBirthdayAge>
+  <MF_SceneBirthday>誕生日</MF_SceneBirthday>
+  <MF_SceneMother>母親</MF_SceneMother>
+  <MF_SceneFather>父</MF_SceneFather>
+  <MF_SceneParent>親</MF_SceneParent>
+  <MF_SceneMechRemains>メカノイドの残骸</MF_SceneMechRemains>
+  <MF_SceneAnimalRemains>動物の死骸</MF_SceneAnimalRemains>
+  <MF_SceneHumanRemains>人の亡骸</MF_SceneHumanRemains>
+  <MF_Caption_scene_battle_engagement_1>最初の攻撃が始まったときの光景。戦いの後に振り返るために残した。</MF_Caption_scene_battle_engagement_1>
+  <MF_Caption_scene_battle_engagement_2>戦いが始まったときの{3}。結果が分かる前に撮った。</MF_Caption_scene_battle_engagement_2>
+  <MF_Caption_scene_battle_engagement_3>最初の攻撃。戦いが始まった日を覚えておくために残した。</MF_Caption_scene_battle_engagement_3>
+  <MF_Caption_scene_battle_engagement_4>{2}の戦いの始まり。</MF_Caption_scene_battle_engagement_4>
+  <MF_Caption_scene_battle_engagement_5>この戦いの記録は、最初の攻撃の光景から始まる。</MF_Caption_scene_battle_engagement_5>
+  <MF_Caption_scene_battle_engagement_6>戦いの始まりと終わりのあいだで、この写真は始まりを残している。</MF_Caption_scene_battle_engagement_6>
+  <MF_Caption_scene_battle_engagement_7>最初の攻撃が始まった瞬間の{3}。</MF_Caption_scene_battle_engagement_7>
+  <MF_Caption_scene_battle_engagement_8>終わった後の場所ではなく、戦いが始まったときの光景。</MF_Caption_scene_battle_engagement_8>
+  <MF_BattleNoExchange>戦いは記録されましたが、最初の交戦の写真は撮れませんでした。</MF_BattleNoExchange>
+  <MF_Archive_Tab>保管庫</MF_Archive_Tab>
+  <MF_Archive_Move>アルバムから外す</MF_Archive_Move>
+  <MF_Archive_MoveBurst>同じ集合の撮影をまとめてアルバムから外す (写真{0}枚)</MF_Archive_MoveBurst>
+  <MF_Archive_Confirm>この写真をアルバムから外しますか?\n\n「保管庫」タブに移り、アルバムやギャラリー、飾っている場所には表示されなくなります。ファイルは写真フォルダに残り、復元すると元の場所に戻ります。</MF_Archive_Confirm>
+  <MF_Archive_ConfirmBurst>この{0}枚の写真をアルバムから外しますか?\n\n「保管庫」タブに移り、アルバムやギャラリー、飾っている場所には表示されなくなります。ファイルは写真フォルダに残り、復元すると元の場所に戻ります。</MF_Archive_ConfirmBurst>
+  <MF_Archive_ConfirmLine>出来事はそれぞれの人の年代記に一行の文章として残ります。</MF_Archive_ConfirmLine>
+  <MF_Archive_ConfirmUses>現在使用中: {0}。復元するまで、それらの場所は空のままです。</MF_Archive_ConfirmUses>
+  <MF_Archive_UsesFrames>フレーム{0}か所</MF_Archive_UsesFrames>
+  <MF_Archive_UsesProjectors>映写機{0}か所</MF_Archive_UsesProjectors>
+  <MF_Archive_UsesTrees>思い出の木{0}か所</MF_Archive_UsesTrees>
+  <MF_Archive_InNight>思い出の夜で使用中</MF_Archive_InNight>
+  <MF_Archive_Moved>「保管庫」タブに移しました。そこから復元できます。</MF_Archive_Moved>
+  <MF_Archive_Note>アルバムから外した写真: {0}枚 ({1})。復元すると写真は元の場所に戻ります。ファイルは写真フォルダに残っています。</MF_Archive_Note>
+  <MF_Archive_Restore>復元</MF_Archive_Restore>
+  <MF_Archive_Restored>アルバムに戻しました。</MF_Archive_Restored>
+  <MF_Archive_Delete>削除</MF_Archive_Delete>
+  <MF_Archive_Empty>保管庫を空にする</MF_Archive_Empty>
+  <MF_Archive_DeleteOne>この写真を完全に削除しますか?</MF_Archive_DeleteOne>
+  <MF_Archive_DeleteAll>保管庫の写真{0}枚をすべて完全に削除しますか?</MF_Archive_DeleteAll>
+  <MF_Archive_DeleteWarning>保護コピーを含むファイルが写真フォルダから削除され、元に戻せません。このコロニーの以前のセーブも同じフォルダを使うため、そのセーブではこれらの写真が見つからない状態になります。</MF_Archive_DeleteWarning>
+  <MF_Archive_Deleted>完全に削除しました。{0}の空きができました。</MF_Archive_Deleted>
+  <MF_Archive_RecordLine>イベント記録、写真は保管庫に</MF_Archive_RecordLine>
+  <MF_Archive_InArchive>保管庫にあります</MF_Archive_InArchive>
+  <MF_Archive_MoveHint>この写真を「保管庫」タブに移します。ファイルは残り、復元すると元の場所に戻ります。</MF_Archive_MoveHint>
+  <MF_Archive_SurveyHint>入植地の全景はアルバムに残ります。撮影する頻度はMOD設定で変更できます。</MF_Archive_SurveyHint>
+</LanguageData>

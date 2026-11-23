@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_GalleryRevision_Text>Title / caption</MF_GalleryRevision_Text>
+  <MF_GalleryRevision_TextHint>Change the title and caption of the version on screen. For an edited version, change its title and note.</MF_GalleryRevision_TextHint>
+  <MF_GalleryRevision_EditHint>Choose crop and filters, icons inside the photo, or stickers in the paper margin. The original photo file is kept.</MF_GalleryRevision_EditHint>
+  <MF_GalleryRevision_CropFilter>Crop / filters</MF_GalleryRevision_CropFilter>
+  <MF_GalleryRevision_Reunion>Gather these people</MF_GalleryRevision_Reunion>
+  <MF_GalleryRevision_ReshootHint>Photograph the original location and frame as they look now, without calling anyone over. The shot is taken while you are viewing that map.</MF_GalleryRevision_ReshootHint>
+  <MF_GalleryRevision_ReunionHint>Review the people in the original photo, call the selected colonists to the same spot, and photograph them after they gather. The original frame is kept.</MF_GalleryRevision_ReunionHint>
+  <MF_GalleryRevision_ReunionUnavailable>Gathering again needs the original map, frame, and records of the colonists in the photo. Animal photos are not eligible for this gathering.</MF_GalleryRevision_ReunionUnavailable>
+  <MF_GalleryRevision_CompareHint>View an earlier birthday of the same person or an earlier photo with the same location and frame side by side. This does not take a new photo.</MF_GalleryRevision_CompareHint>
+  <MF_GalleryRevision_CompareUnavailable>No earlier birthday or photo with the same location and frame is available yet.</MF_GalleryRevision_CompareUnavailable>
+  <MF_GalleryRevision_Integrations>Other mods</MF_GalleryRevision_Integrations>
+  <MF_GalleryRevision_IntegrationsHint>Choose an installed integration. Open RimGram local posting or RimTalk recollection here. Opening this menu does not publish anything or call AI.</MF_GalleryRevision_IntegrationsHint>
+  <MF_GalleryRevision_NoIntegrations>No compatible integration is available</MF_GalleryRevision_NoIntegrations>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_FavoriteOff>즐겨찾기</MF_FavoriteOff>
+  <MF_FavoriteOn>즐겨찾는 사진</MF_FavoriteOn>
+  <MF_FavoriteHint>하트를 눌러 좋아하는 사진을 모아요. 추억나무의 사진 고정과는 별도로 기억해요.</MF_FavoriteHint>
+  <MF_FavoritesOnly>즐겨찾기만 보기</MF_FavoritesOnly>
+  <MF_FavoriteAllPhotos>전체 사진에서 고르기</MF_FavoriteAllPhotos>
+  <MF_FavoriteChooseFilm>즐겨찾기에서 고르기</MF_FavoriteChooseFilm>
+  <MF_FavoriteSelectedFilm>직접 고른 사진</MF_FavoriteSelectedFilm>
+  <MF_FavoriteFilmTitle>함께 볼 사진 고르기</MF_FavoriteFilmTitle>
+  <MF_FavoriteFilmHint>{0}장 선택 · 최소 {1}장. 6~12장으로 짧게 감상해도 좋아요. 선택한 사진은 날짜순으로 상영해요.</MF_FavoriteFilmHint>
+  <MF_FavoriteFilmApply>선택한 사진 {0}장 사용</MF_FavoriteFilmApply>
+  <MF_FavoriteClearSelection>선택 비우기</MF_FavoriteClearSelection>
+  <MF_FavoriteEmpty>아직 즐겨찾는 사진이 없어요. 앨범에서 하트를 누르거나, 위 버튼으로 전체 사진을 열어 골라 주세요.</MF_FavoriteEmpty>
+  <MF_FavoriteSurveyGroup>{0}년 {1}분기 · 정착지 전경 {2}장</MF_FavoriteSurveyGroup>
+  <MF_FavoriteBackPhoto>보던 사진으로 돌아가기</MF_FavoriteBackPhoto>
+  <MF_FavoritePersonHint>{0}이(가) 함께 찍힌 사진 보기</MF_FavoritePersonHint>
+  <MF_FavoriteSequence>연속 넘기기</MF_FavoriteSequence>
+  <MF_FavoriteSequenceZoom>사진을 눌러 확대해 볼 수 있어요.</MF_FavoriteSequenceZoom>
+  <MF_FavoritePrevious>이전 사진</MF_FavoritePrevious>
+  <MF_FavoriteNext>다음 사진</MF_FavoriteNext>
+  <MF_FavoritePlay>재생</MF_FavoritePlay>
+  <MF_FavoritePause>멈추기</MF_FavoritePause>
+  <MF_FavoriteFrameWarning>저장한 촬영 범위에서 몸이 잘릴 수 있어요: {0} ({1}명). ‘지도에서 자리 확인’으로 구도를 살펴보세요.</MF_FavoriteFrameWarning>
+</LanguageData>

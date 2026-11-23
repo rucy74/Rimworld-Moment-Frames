@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>pohľad na vlastnú fotku</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Stojím pred fotografiou, na ktorej som, a spomínam na ten deň.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>spoločné spomínanie: {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Pozeráme sa na starú fotografiu, na ktorej sme spolu, a rozprávame sa o tom dni.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>večer spomienok</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Spolu sledujeme na projektore fotografie kolónie a spomíname na cestu, ktorá nás sem priviedla.</MF_MemoryNight.stages.0.description>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Core speech-bubble art with visual-only symbols. No interaction, thought or social log is performed. -->
+  <FleckDef ParentName="FleckBase_Thrown">
+    <defName>MF_PhotoHeart</defName>
+    <fleckSystemClass>MomentFrames.MFPhotoHeartSystem</fleckSystemClass>
+    <graphicData>
+      <graphicClass>MomentFrames.MFPhotoExpressionGraphic</graphicClass>
+      <texPath>Things/Mote/SpeechSymbols/Romance</texPath>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <altitudeLayer>MetaOverlays</altitudeLayer>
+    <!-- Photographic UI feedback must be visible and expire even while the player has paused. -->
+    <realTime>true</realTime>
+    <fadeInTime>0.08</fadeInTime>
+    <solidTime>1.4</solidTime>
+    <fadeOutTime>1.5</fadeOutTime>
+  </FleckDef>
+  <FleckDef ParentName="FleckBase_Thrown">
+    <defName>MF_PhotoHand</defName>
+    <fleckSystemClass>MomentFrames.MFPhotoHeartSystem</fleckSystemClass>
+    <graphicData>
+      <graphicClass>MomentFrames.MFPhotoExpressionGraphic</graphicClass>
+      <texPath>Things/Mote/SpeechSymbols/Chitchat</texPath>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <altitudeLayer>MetaOverlays</altitudeLayer>
+    <realTime>true</realTime>
+    <fadeInTime>0.08</fadeInTime>
+    <solidTime>1.4</solidTime>
+    <fadeOutTime>1.5</fadeOutTime>
+  </FleckDef>
+</Defs>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>chế tạo máy chiếu ảnh</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Chế tạo một máy chiếu ảnh. Công thức cũ này được giữ lại cho các lệnh đã lưu; máy chiếu mới được xây từ mục Linh tinh.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Đang chế tạo máy chiếu ảnh.</Make_MF_Projector.jobString>
+</LanguageData>

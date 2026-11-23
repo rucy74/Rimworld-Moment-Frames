@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Learn_Title>How to use</MF_Learn_Title>
+  <MF_Learn_home>Getting started</MF_Learn_home>
+  <MF_Learn_SetupOptions>Positions &amp; faces ↓</MF_Learn_SetupOptions>
+  <MF_Learn_Intro>Play as usual and revisit your photographs in the album. Choose a guide when you want to take or display a photo yourself.</MF_Learn_Intro>
+  <MF_Learn_EmptyAuto>Automatic photos are on. Enabled events will add photographs here. You can also take one yourself now.</MF_Learn_EmptyAuto>
+  <MF_Learn_EmptyManual>Automatic photos are off. Your manual photographs appear here. Use the camera tool and drag over the area you want to capture.</MF_Learn_EmptyManual>
+  <MF_Learn_Manual>Take a photo</MF_Learn_Manual>
+  <MF_Learn_Group>Prepare group photo</MF_Learn_Group>
+  <MF_Learn_Album>Open album</MF_Learn_Album>
+  <MF_Learn_Layout>Positions &amp; framing · {0} / {1}</MF_Learn_Layout>
+  <MF_Learn_ManualPositions>Custom positions</MF_Learn_ManualPositions>
+  <MF_Learn_AutoPositions>Automatic positions</MF_Learn_AutoPositions>
+  <MF_Learn_ExpressionsDefault>Faces &amp; emotes · Default / None</MF_Learn_ExpressionsDefault>
+  <MF_Learn_ExpressionsCount>Faces &amp; emotes · {0} faces / {1} emotes</MF_Learn_ExpressionsCount>
+  <MF_Learn_ExpressionsHelp>Faces change the face during capture. Emotes are pictures emitted above the head. You can shoot with the defaults. Face choices require Facial Animation support for that pawn.</MF_Learn_ExpressionsHelp>
+  <MF_Learn_Enlarge>Click to enlarge</MF_Learn_Enlarge>
+  <MF_Learn_ImageMissing>The image is unavailable. You can still read the instructions below.</MF_Learn_ImageMissing>
+  <MF_Learn_PhotoCaption>Example screen · Click to enlarge</MF_Learn_PhotoCaption>
+  <MF_Learn_Back>Back to instructions</MF_Learn_Back>
+  <MF_Learn_Return>Return to your previous screen</MF_Learn_Return>
+  <MF_Learn_Prev>Previous step</MF_Learn_Prev>
+  <MF_Learn_Next>Next step</MF_Learn_Next>
+  <MF_Learn_ChoosePlace>Use a built photo location</MF_Learn_ChoosePlace>
+  <MF_Learn_ChooseStudio>Change studio backdrop</MF_Learn_ChooseStudio>
+  <MF_Learn_SelectObject>Select furniture</MF_Learn_SelectObject>
+  <MF_Learn_NoPlace>No suitable place exists on this map. Check the guide for the required furniture and menu.</MF_Learn_NoPlace>
+  <MF_Learn_ExportEmpty>Take a photograph first. You can export the album once it contains photos.</MF_Learn_ExportEmpty>
+  <MF_Learn_Missing_family>There is no photo location on this map. Build a photo spot, studio backdrop or garden arch under Architect → Misc.</MF_Learn_Missing_family>
+  <MF_Learn_Missing_birthday>There is no photo location on this map. Architect → Misc contains photo spots and studios. The birthday prompt also offers a photo beside the child.</MF_Learn_Missing_birthday>
+  <MF_Learn_Missing_display>There is no photo display on this map. Craft a frame at the art bench, or build a slide projector under Architect → Misc.</MF_Learn_Missing_display>
+  <MF_Learn_Missing_background>There is no studio backdrop on this map. Build one under Architect → Misc. Garden arches use the surrounding scenery.</MF_Learn_Missing_background>
+  <MF_Learn_family>Family &amp; group portraits</MF_Learn_family>
+  <MF_Learn_family_0Title>Build a studio and open preparation</MF_Learn_family_0Title>
+  <MF_Learn_family_0>Close this guide and build a studio backdrop under Architect → Misc. You can reopen the guide from How to use at the top of the album.
+For a sofa, select Decorate studio → Family → Place furniture blueprints. After construction, click the backdrop and select Group photo preparation at the bottom of the screen.</MF_Learn_family_0>
+  <MF_Learn_family_1Title>Choose people, then gather them</MF_Learn_family_1Title>
+  <MF_Learn_family_1>Check the people to include, then choose Gather selected people at the bottom of the window. Family selection is also available. You can leave positions, faces and emotes at their defaults.</MF_Learn_family_1>
+  <MF_Learn_family_2Title>See the photo, then dismiss the group</MF_Learn_family_2Title>
+  <MF_Learn_family_2>Let the game run while everyone gathers. If nobody moves, check whether the game is paused. The photo is taken once everyone arrives. Choose Open album to see it.
+When finished, close the album, click the photo location or a participant, then select Dismiss at the bottom of the screen. Choose Take another for another photo.</MF_Learn_family_2>
+  <MF_Learn_birthday>Keep a birthday memory</MF_Learn_birthday>
+  <MF_Learn_birthday_0Title>Choose a birthday location</MF_Learn_birthday_0Title>
+  <MF_Learn_birthday_0>Select a photo spot, studio or garden arch and enable Default birthday spot. When a birthday prompt appears, choose Pick a place on the map.</MF_Learn_birthday_0>
+  <MF_Learn_birthday_1Title>Check the child and caregiver</MF_Learn_birthday_1Title>
+  <MF_Learn_birthday_1>The birthday child is always included. A caregiver can carry a baby to the spot. Expand Positions &amp; framing to change the location, or Faces &amp; emotes to choose expressions.</MF_Learn_birthday_1>
+  <MF_Learn_birthday_2Title>Keep the birthday moment</MF_Learn_birthday_2Title>
+  <MF_Learn_birthday_2>The photo is taken automatically after the group arrives. Preparation and participant status explain attendance problems. If the picture is hidden in the album, turn on Include birthdays in the filters.</MF_Learn_birthday_2>
+  <MF_Learn_display>Put memories on display</MF_Learn_display>
+  <MF_Learn_display_0Title>Put a photograph in a frame</MF_Learn_display_0Title>
+  <MF_Learn_display_0>Craft a photo frame at the art bench and install it where you like. Select the frame and choose a photograph from your album.</MF_Learn_display_0>
+  <MF_Learn_display_1Title>Build a projector for a larger display</MF_Learn_display_1Title>
+  <MF_Learn_display_1>Build a slide projector under Architect → Misc. Colonists deliver materials and complete construction. Use Choose film on the installed projector to select its photographs. Memory night, on the same bar, lets you choose the film, guests and viewing time, then gathers the colony to watch together.</MF_Learn_display_1>
+  <MF_Learn_display_2Title>Adjust size and layering</MF_Learn_display_2Title>
+  <MF_Learn_display_2>Enter the projection size in tiles. Draw order places it in front of or behind other things. You can also pin a photograph or advance to the next one from the selected projector.</MF_Learn_display_2>
+  <MF_Learn_background>Make the studio your own</MF_Learn_background>
+  <MF_Learn_background_0Title>Choose a studio set</MF_Learn_background_0Title>
+  <MF_Learn_background_0>Select a studio backdrop and choose a furnishing set. Chairs, sofas and lamps need materials and construction. Lamps need power. Garden arches use the actual surrounding scenery.</MF_Learn_background_0>
+  <MF_Learn_background_1Title>Choose an album photo or image file</MF_Learn_background_1Title>
+  <MF_Learn_background_1>Select the backdrop → Decorate studio → Use my own backdrop image. Choose from album or Choose image file. The Photo backdrop command also opens this window. PNG and JPG files work. The original stays unchanged.</MF_Learn_background_1>
+  <MF_Learn_background_2Title>Position the image and apply</MF_Learn_background_2Title>
+  <MF_Learn_background_2>Use the zoom slider and drag to position the image on the cloth. Apply includes it in photographs. Remove photo backdrop restores the cloth. When moving saves, also copy studio-backgrounds from the photo folder.</MF_Learn_background_2>
+  <MF_Learn_export>Take the album with you</MF_Learn_export>
+  <MF_Learn_export_0Title>Review the album</MF_Learn_export_0Title>
+  <MF_Learn_export_0>Open the album from the bottom bar. Mark favourites and use Edit for crop, filters and Icons in photo. Facial expressions and emitted emotes are chosen before capture in preparation.</MF_Learn_export_0>
+  <MF_Learn_export_1Title>Export HTML from Album tools</MF_Learn_export_1Title>
+  <MF_Learn_export_1>Choose Album tools → Export HTML at the top of the album. The completed album opens with photographs and descriptions. The button below starts the same export.</MF_Learn_export_1>
+  <MF_Learn_export_2Title>Keep the exported folder together</MF_Learn_export_2Title>
+  <MF_Learn_export_2>Keep or share the entire exported folder, including its HTML, photographs and other files. It is not published online automatically. You can revisit the photographs and records outside the game.</MF_Learn_export_2>
+  <MF_Learn_FirstTitle>The people who made this colony.</MF_Learn_FirstTitle>
+  <MF_Learn_FirstBody>Start with a family portrait.
+Choose the people and gather them. The photo is taken when everyone arrives.</MF_Learn_FirstBody>
+  <MF_Learn_FirstAction>Make a portrait like this</MF_Learn_FirstAction>
+  <MF_Learn_More>More moments to keep</MF_Learn_More>
+  <MF_Learn_ManualHint>Just want a view of your colony? Choose Take a photo below and drag over the area. No furniture needed.</MF_Learn_ManualHint>
+  <MF_Learn_EmoteChoice>Photo emote: {0}</MF_Learn_EmoteChoice>
+  <MF_Learn_None>None</MF_Learn_None>
+  <MF_Learn_StepTitle>Step {0} of 3: {1}</MF_Learn_StepTitle>
+</LanguageData>

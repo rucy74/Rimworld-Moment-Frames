@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>muistoilta</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Muistoilta</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} järjestää muistoillan projektorin äärellä. Kaikki paikalle tulevat katsovat yhdessä yhdyskunnan valokuvia, ja heidän mielialansa kohenee pitkäksi aikaa.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Muistoilta on peruttu.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Muistoilta on päättynyt.</MF_MemoryNight.finishedMessage>
+</LanguageData>

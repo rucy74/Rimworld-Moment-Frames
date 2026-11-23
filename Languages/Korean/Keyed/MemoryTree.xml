@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_TreeManage>사진 관리</MF_TreeManage>
+  <MF_TreeManageDesc>가지에 걸 사진을 고르고, 고정하거나 자동 사진의 종류를 정합니다.</MF_TreeManageDesc>
+  <MF_TreeInspect>사진 {0}/{1}장 · {2}</MF_TreeInspect>
+  <MF_TreeAutoOn>자동으로 채우기</MF_TreeAutoOn>
+  <MF_TreeAutoOff>직접 고르기</MF_TreeAutoOff>
+  <MF_Tree_Title>추억 나무의 사진</MF_Tree_Title>
+  <MF_Tree_Summary>{0} / 35장 · 고정 {1}장</MF_Tree_Summary>
+  <MF_Tree_AutoFill>새 사진 자동으로 걸기</MF_Tree_AutoFill>
+  <MF_Tree_AutoFillTip>빈 가지에 새 사진을 걸고, 가득 차면 고정하지 않은 가장 오래된 사진을 바꿉니다.</MF_Tree_AutoFillTip>
+  <MF_Tree_Filters>사진 종류: {0}</MF_Tree_Filters>
+  <MF_Tree_AllKinds>모든 종류</MF_Tree_AllKinds>
+  <MF_Tree_SelectedKinds>{0}종 선택</MF_Tree_SelectedKinds>
+  <MF_Tree_FilterTip>자동으로 걸 사진의 종류를 고릅니다. 직접 고정한 사진은 유지합니다.</MF_Tree_FilterTip>
+  <MF_Tree_Slot>사진 {0}</MF_Tree_Slot>
+  <MF_Tree_EmptySlot>빈 가지</MF_Tree_EmptySlot>
+  <MF_Tree_MissingPhoto>사진 파일 없음</MF_Tree_MissingPhoto>
+  <MF_Tree_NoPhotos>앨범의 사진을 골라 이 가지에 걸 수 있습니다.</MF_Tree_NoPhotos>
+  <MF_Tree_Choose>사진 고르기</MF_Tree_Choose>
+  <MF_Tree_Open>크게 보기</MF_Tree_Open>
+  <MF_Tree_Pin>고정하기</MF_Tree_Pin>
+  <MF_Tree_Unpin>고정 풀기</MF_Tree_Unpin>
+  <MF_Tree_Remove>떼어 두기</MF_Tree_Remove>
+  <MF_Tree_RemoveTip>이 나무에서만 뗍니다. 앨범의 원본 사진은 남습니다.</MF_Tree_RemoveTip>
+  <MF_Tree_FullPinned>모든 사진이 고정되어 있습니다. 새 사진을 걸려면 고정을 풀어 주세요.</MF_Tree_FullPinned>
+  <MF_Tree_Policy>사진을 직접 고르면 고정됩니다. 자동 사진은 새 사진이 쌓이면 바뀝니다.</MF_Tree_Policy>
+</LanguageData>

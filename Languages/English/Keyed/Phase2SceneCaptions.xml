@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Caption_scene_party_host_1>{6}'s party at {3}.</MF_Caption_scene_party_host_1>
+  <MF_Caption_scene_party_host_2>{6}, who hosted the party, was here too.</MF_Caption_scene_party_host_2>
+  <MF_Caption_scene_party_host_3>{6}'s gathering was under way at {3}.</MF_Caption_scene_party_host_3>
+  <MF_Caption_scene_party_host_4>{2}, a moment from {6}'s party.</MF_Caption_scene_party_host_4>
+  <MF_Caption_scene_party_group_1>Together at the party in {3}: {0}.</MF_Caption_scene_party_group_1>
+  <MF_Caption_scene_party_group_2>{0}, in the same moment of the party.</MF_Caption_scene_party_group_2>
+  <MF_Caption_scene_party_group_3>{2} at {3}, with party guests together in view.</MF_Caption_scene_party_group_3>
+  <MF_Caption_scene_party_group_4>{0} were here while the gathering continued at {3}.</MF_Caption_scene_party_group_4>
+  <MF_Caption_scene_party_solo_1>{1}, while a party was under way at {3}.</MF_Caption_scene_party_solo_1>
+  <MF_Caption_scene_party_solo_2>{1} at the place where the party was held.</MF_Caption_scene_party_solo_2>
+  <MF_Caption_scene_party_solo_3>A gathering in {2}, with {1} in view.</MF_Caption_scene_party_solo_3>
+  <MF_Caption_scene_party_solo_4>{1} was at {3}, where the party was held.</MF_Caption_scene_party_solo_4>
+  <MF_Caption_scene_party_scene_1>The setting of a party at {3}.</MF_Caption_scene_party_scene_1>
+  <MF_Caption_scene_party_scene_2>{3} in {2}, where a gathering took place.</MF_Caption_scene_party_scene_2>
+  <MF_Caption_scene_party_scene_3>A corner of {3} while the party continued.</MF_Caption_scene_party_scene_3>
+  <MF_Caption_scene_party_scene_4>The surroundings of the gathering at {3}.</MF_Caption_scene_party_scene_4>
+  <MF_Caption_scene_party_host_weather_1>The weather at {3} was {10}. {6}'s party was under way.</MF_Caption_scene_party_host_weather_1>
+  <MF_Caption_scene_party_host_weather_2>{6}'s party, with {10} outside.</MF_Caption_scene_party_host_weather_2>
+  <MF_Caption_scene_party_host_weather_3>{3} in {10}, with host {6} here as well.</MF_Caption_scene_party_host_weather_3>
+  <MF_Caption_scene_party_host_weather_4>{6}'s party at {3}. The surrounding weather was {10}.</MF_Caption_scene_party_host_weather_4>
+  <MF_Caption_scene_party_group_weather_1>{0} together at the party in {3}, in {10} weather.</MF_Caption_scene_party_group_weather_1>
+  <MF_Caption_scene_party_group_weather_2>The weather at {3} was {10}. {0} were together in this moment of the gathering.</MF_Caption_scene_party_group_weather_2>
+  <MF_Caption_scene_party_group_weather_3>The party continued in {10}, with {0} in the same view.</MF_Caption_scene_party_group_weather_3>
+  <MF_Caption_scene_party_group_weather_4>People at the party in {3}. The weather around them was {10}.</MF_Caption_scene_party_group_weather_4>
+  <MF_Caption_scene_party_solo_weather_1>{1} at the party in {3}, with {10} weather outside.</MF_Caption_scene_party_solo_weather_1>
+  <MF_Caption_scene_party_solo_weather_2>{1} was at {3}, where a party was held. The weather outside was {10}.</MF_Caption_scene_party_solo_weather_2>
+  <MF_Caption_scene_party_solo_weather_3>{1}, during a gathering in {10} weather.</MF_Caption_scene_party_solo_weather_3>
+  <MF_Caption_scene_party_solo_weather_4>The weather at {3} was {10}. {1} was in view as the party continued.</MF_Caption_scene_party_solo_weather_4>
+  <MF_Caption_scene_party_scene_weather_1>A party setting at {3}, in {10} weather.</MF_Caption_scene_party_scene_weather_1>
+  <MF_Caption_scene_party_scene_weather_2>The place where a party was held, with {10} weather outside.</MF_Caption_scene_party_scene_weather_2>
+  <MF_Caption_scene_party_scene_weather_3>The gathering place at {3}, and {10} weather.</MF_Caption_scene_party_scene_weather_3>
+  <MF_Caption_scene_party_scene_weather_4>{3}, where a party continued with {10} outside.</MF_Caption_scene_party_scene_weather_4>
+  <MF_Caption_scene_party_after_1>{3} after the party.</MF_Caption_scene_party_after_1>
+  <MF_Caption_scene_party_after_2>The gathering place after the event had ended.</MF_Caption_scene_party_after_2>
+  <MF_Caption_scene_party_after_3>{3}, once the party was over.</MF_Caption_scene_party_after_3>
+  <MF_Caption_scene_party_after_4>A later view of the place where the party had been held.</MF_Caption_scene_party_after_4>
+  <MF_Caption_scene_party_later_1>A later view of {3}, where the party had been held.</MF_Caption_scene_party_later_1>
+  <MF_Caption_scene_party_later_2>The gathering place, photographed some time after the event.</MF_Caption_scene_party_later_2>
+  <MF_Caption_scene_party_later_3>The party's venue at {3}, after time had passed.</MF_Caption_scene_party_later_3>
+  <MF_Caption_scene_party_later_4>{3} later on, rather than the moment of that party.</MF_Caption_scene_party_later_4>
+  <MF_Caption_scene_journey_group_1>The group arriving at {3}: {0}.</MF_Caption_scene_journey_group_1>
+  <MF_Caption_scene_journey_group_2>A visit to {3} with {0}.</MF_Caption_scene_journey_group_2>
+  <MF_Caption_scene_journey_group_3>{3} in {2}, with the travellers in view too.</MF_Caption_scene_journey_group_3>
+  <MF_Caption_scene_journey_group_4>{0} together at {3}, along their journey.</MF_Caption_scene_journey_group_4>
+  <MF_Caption_scene_journey_solo_1>{1}, arriving at {3}.</MF_Caption_scene_journey_solo_1>
+  <MF_Caption_scene_journey_solo_2>A moment with {1} at {3}, along the journey.</MF_Caption_scene_journey_solo_2>
+  <MF_Caption_scene_journey_solo_3>{3} in {2}, with {1} there.</MF_Caption_scene_journey_solo_3>
+  <MF_Caption_scene_journey_solo_4>A view of {3}, where {1} stopped.</MF_Caption_scene_journey_solo_4>
+  <MF_Caption_scene_journey_scene_1>A view of {3}, visited along the journey.</MF_Caption_scene_journey_scene_1>
+  <MF_Caption_scene_journey_scene_2>{3}, visited in {2}.</MF_Caption_scene_journey_scene_2>
+  <MF_Caption_scene_journey_scene_3>A corner of the visited place, {3}.</MF_Caption_scene_journey_scene_3>
+  <MF_Caption_scene_journey_scene_4>The place the travellers reached: {3}.</MF_Caption_scene_journey_scene_4>
+  <MF_Caption_scene_journey_group_weather_1>{0}, arriving at {3} in {10} weather.</MF_Caption_scene_journey_group_weather_1>
+  <MF_Caption_scene_journey_group_weather_2>A visit to {3} with {0}. The weather then was {10}.</MF_Caption_scene_journey_group_weather_2>
+  <MF_Caption_scene_journey_group_weather_3>The weather around {3} was {10} when the group was photographed.</MF_Caption_scene_journey_group_weather_3>
+  <MF_Caption_scene_journey_group_weather_4>{0} in {10} weather, at their stop in {3}.</MF_Caption_scene_journey_group_weather_4>
+  <MF_Caption_scene_journey_solo_weather_1>{1}, arriving at {3} in {10} weather.</MF_Caption_scene_journey_solo_weather_1>
+  <MF_Caption_scene_journey_solo_weather_2>The weather at {3}, where {1} stopped, was {10}.</MF_Caption_scene_journey_solo_weather_2>
+  <MF_Caption_scene_journey_solo_weather_3>{1} at {3}, with {10} weather outside the roofed areas.</MF_Caption_scene_journey_solo_weather_3>
+  <MF_Caption_scene_journey_solo_weather_4>{1}'s visit, photographed in {10} weather.</MF_Caption_scene_journey_solo_weather_4>
+  <MF_Caption_scene_journey_scene_weather_1>The weather at the visited place, {3}, was {10}.</MF_Caption_scene_journey_scene_weather_1>
+  <MF_Caption_scene_journey_scene_weather_2>A view of {3} in {10} weather.</MF_Caption_scene_journey_scene_weather_2>
+  <MF_Caption_scene_journey_scene_weather_3>{3}, where the travellers stopped, with {10} weather outside.</MF_Caption_scene_journey_scene_weather_3>
+  <MF_Caption_scene_journey_scene_weather_4>The {10} weather at {3} during the visit.</MF_Caption_scene_journey_scene_weather_4>
+  <MF_Caption_scene_journey_later_1>The visited place, {3}, photographed later.</MF_Caption_scene_journey_later_1>
+  <MF_Caption_scene_journey_later_2>{3}, photographed at a different time from the arrival.</MF_Caption_scene_journey_later_2>
+  <MF_Caption_scene_journey_later_3>{3}, where the travellers stopped. This view was taken later.</MF_Caption_scene_journey_later_3>
+  <MF_Caption_scene_journey_later_4>A view of {3}, after some time had passed since the visit.</MF_Caption_scene_journey_later_4>
+  <MF_Caption_fact_party_1>A party held at {3}.</MF_Caption_fact_party_1>
+  <MF_Caption_fact_party_2>{3} in {2}, when a party was held.</MF_Caption_fact_party_2>
+  <MF_Caption_fact_party_3>A gathering took place at {3}.</MF_Caption_fact_party_3>
+  <MF_Caption_fact_party_4>A moment of a party held in {2}.</MF_Caption_fact_party_4>
+  <MF_Caption_fact_journey_1>{3}, a stop along the journey.</MF_Caption_fact_journey_1>
+  <MF_Caption_fact_journey_2>{3}, visited in {2}.</MF_Caption_fact_journey_2>
+  <MF_Caption_fact_journey_3>A view of the visited place, {3}.</MF_Caption_fact_journey_3>
+  <MF_Caption_fact_journey_4>The place the travellers reached, {3}.</MF_Caption_fact_journey_4>
+  <MF_Caption_fact_journey_detail_1>A place visited along the journey, {4}.</MF_Caption_fact_journey_detail_1>
+  <MF_Caption_fact_journey_detail_2>On arriving at {4}.</MF_Caption_fact_journey_detail_2>
+  <MF_Caption_fact_journey_detail_3>{4}, visited in {2}.</MF_Caption_fact_journey_detail_3>
+  <MF_Caption_fact_journey_detail_4>A moment along the journey, with a view of {4}.</MF_Caption_fact_journey_detail_4>
+</LanguageData>

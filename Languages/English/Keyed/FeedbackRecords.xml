@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Records_On>On</MF_Records_On>
+  <MF_Records_Off>Off</MF_Records_Off>
+  <MF_Records_WorldDisplayHint>Moment Frames world display\nPhotos: {0} · First-visit order: {1}\nLines show discovery order across all parties, not actual travel routes.\nClick to switch each display separately. Visit history and automatic photography are retained.</MF_Records_WorldDisplayHint>
+  <MF_Records_AllPlaces>All places</MF_Records_AllPlaces>
+  <MF_Records_ThisPlace>This place only</MF_Records_ThisPlace>
+  <MF_Records_PlaceFilterHint>Show this place's photographs or photographs from all places in this period. The full-map view and four areas remain separate above.</MF_Records_PlaceFilterHint>
+  <MF_Records_PeriodScope>{0} · {1} · {2} photos</MF_Records_PeriodScope>
+  <MF_Records_UnnamedPlace>Place with no preserved name #{0}</MF_Records_UnnamedPlace>
+  <MF_Records_Library>Library</MF_Records_Library>
+</LanguageData>

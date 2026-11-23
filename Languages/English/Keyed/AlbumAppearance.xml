@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Appearance_Title>Album appearance</MF_Appearance_Title>
+  <MF_Appearance_Hint>Applies to the album, personal chronicle and annual review. Changing the theme keeps your font and text size.</MF_Appearance_Hint>
+  <MF_Appearance_Theme>Theme: {0}</MF_Appearance_Theme>
+  <MF_Appearance_Font>Font: {0}</MF_Appearance_Font>
+  <MF_Appearance_Size>Text size: {0}%</MF_Appearance_Size>
+  <MF_Appearance_Reset>Reset appearance</MF_Appearance_Reset>
+  <MF_Theme_leather>Leather album</MF_Theme_leather>
+  <MF_Theme_archive>Ivory archive</MF_Theme_archive>
+  <MF_Theme_darkroom>Night darkroom</MF_Theme_darkroom>
+  <MF_Theme_field>Field notebook</MF_Theme_field>
+  <MF_Theme_linen>Navy linen</MF_Theme_linen>
+  <MF_Theme_pencil>Pencil sketchbook</MF_Theme_pencil>
+  <MF_Theme_ink>Ink travel notebook</MF_Theme_ink>
+  <MF_Theme_crayon>Colored pencil memories</MF_Theme_crayon>
+  <MF_Theme_graphite>Pencil watercolor journal</MF_Theme_graphite>
+  <MF_Theme_watercolor>Watercolor scrapbook</MF_Theme_watercolor>
+  <MF_Theme_sepia>Traveler's journal</MF_Theme_sepia>
+  <MF_Font_original>Theme default</MF_Font_original>
+  <MF_Font_light>Light pencil</MF_Font_light>
+  <MF_Font_pencil>Pencil handwriting</MF_Font_pencil>
+  <MF_Font_pen>Pen handwriting</MF_Font_pen>
+  <MF_Font_brush>Brush handwriting</MF_Font_brush>
+  <MF_Font_system>Game default font</MF_Font_system>
+</LanguageData>

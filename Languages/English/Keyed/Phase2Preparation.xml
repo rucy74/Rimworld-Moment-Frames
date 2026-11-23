@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PreparationMedicalWarning>Resting for treatment · can be called</MF_PreparationMedicalWarning>
+  <MF_PreparationReaction>Reactions</MF_PreparationReaction>
+  <MF_PreparationReactionLive>Map only</MF_PreparationReactionLive>
+  <MF_PreparationReactionPhoto>In photo too</MF_PreparationReactionPhoto>
+  <MF_PreparationReactionOff>Off</MF_PreparationReactionOff>
+  <MF_PreparationRememberReaction>Remember this reaction choice for future photos</MF_PreparationRememberReaction>
+  <MF_PreparationReactionHelp>Brief reactions above colonists during this photo. 'In photo too' also keeps them in the saved image. Remember saves this as the default for the next preparation window. Existing photos stay unchanged.</MF_PreparationReactionHelp>
+  <MF_PreparationSearchHelp>{0} selected · {1} outside search. All and Random use the whole roster.</MF_PreparationSearchHelp>
+  <MF_PreparationNameSearch>Search names · existing selections are kept.</MF_PreparationNameSearch>
+  <MF_PreparationPeopleFocus>People first (zoom in)</MF_PreparationPeopleFocus>
+  <MF_PreparationScenery>Include scenery (zoom out)</MF_PreparationScenery>
+  <MF_PreparationFramingHelp>People first frames the participants more closely. Include scenery leaves more of their surroundings visible. A frame drawn for the photo spot or an original photo being recreated takes priority.</MF_PreparationFramingHelp>
+  <MF_PreparationSelectedSpot>{0} ({1}, {2})</MF_PreparationSelectedSpot>
+  <MF_PreparationChangeSpot>Choose photo spot</MF_PreparationChangeSpot>
+  <MF_PreparationSpotGone>The selected photo spot is gone. Choose another under Positions &amp; framing.</MF_PreparationSpotGone>
+  <MF_PreparationSpotPolicy>Group photos begin at the selected spot. Birthdays initially choose the map's first spot. Use Choose photo spot beside this to select another.</MF_PreparationSpotPolicy>
+</LanguageData>

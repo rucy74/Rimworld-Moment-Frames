@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<MF_Face0>기본</MF_Face0><MF_Face1>미소</MF_Face1><MF_Face2>눈웃음</MF_Face2><MF_Face3>놀람</MF_Face3><MF_Face4>슬픔</MF_Face4>
+<MF_FaceChoice>얼굴 표정: {0}</MF_FaceChoice><MF_FaceUnsupported>지원 안 됨</MF_FaceUnsupported>
+<MF_FaceHelp>실제 얼굴 표정을 촬영 순간에만 바꿔요. 이모티콘과 별개이며 기본은 원래 얼굴을 유지합니다. 얼굴 모드·종족·방향이 지원하는 표정만 적용하며, 다른 임시 표정이 재생 중이면 유지해요. 뒷모습에는 적용하지 않습니다. 설정 저장에는 표정도 함께 포함됩니다.</MF_FaceHelp>
+<MF_FacePreviewHelp>선택한 표정 미리보기 · 마우스를 올리면 크게 볼 수 있어요.</MF_FacePreviewHelp>
+<MF_FacePreviewBusy>다른 표정 재생 중</MF_FacePreviewBusy>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ConcertHost>Concert: {0} performing</MF_ConcertHost>
+  <MF_ConcertPlain>Concert</MF_ConcertPlain>
+  <MF_EventAfterward>Photographic record of {0}. Taken after the event; the scene may differ from the gathering.</MF_EventAfterward>
+  <MF_ConcertAfterwardInstrument>Concert record: {0}. The instrument observed was {1}. This photograph was taken afterward and may show a different scene.</MF_ConcertAfterwardInstrument>
+</LanguageData>

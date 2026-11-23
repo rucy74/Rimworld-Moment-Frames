@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Recreation: stand at a photo frame and look at the photo (same shape as viewing art). -->
+  <JobDef>
+    <defName>MF_ViewPhoto</defName>
+    <driverClass>MomentFrames.JobDriver_ViewPhoto</driverClass>
+    <reportString>looking at a photograph.</reportString>
+    <joyDuration>2500</joyDuration>
+    <joyKind>Meditative</joyKind>
+    <isCrawlingIfDowned>false</isCrawlingIfDowned>
+  </JobDef>
+
+  <!-- Group photo: stand on the assigned cell facing south (handed out by the MF_PoseForPhoto duty once the pawn has arrived). -->
+  <JobDef>
+    <defName>MF_Pose</defName>
+    <driverClass>MomentFrames.JobDriver_MFPose</driverClass>
+    <reportString>posing for a photograph.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <isCrawlingIfDowned>false</isCrawlingIfDowned>
+  </JobDef>
+
+  <JobDef>
+    <defName>MF_CarryBabyForPhoto</defName>
+    <driverClass>MomentFrames.JobDriver_MFCarryBaby</driverClass>
+    <reportString>holding a baby for a photograph.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <isCrawlingIfDowned>false</isCrawlingIfDowned>
+  </JobDef>
+</Defs>

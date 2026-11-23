@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_RememberWhen.label>추억 나누기</MF_RememberWhen.label>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]와(과) [RECIPIENT_nameDef]이(가) 벽에 걸린 사진을 보며 [reminisced].</MF_RememberWhen.logRulesInitiator.rulesStrings.0>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]이(가) 옛 사진을 가리키며 [RECIPIENT_nameDef]와(과) [reminisced].</MF_RememberWhen.logRulesInitiator.rulesStrings.1>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.2>reminisced(p=3)->추억에 잠겼다</MF_RememberWhen.logRulesInitiator.rulesStrings.2>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.3>reminisced->그 시절 이야기로 웃었다</MF_RememberWhen.logRulesInitiator.rulesStrings.3>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.4>reminisced->추억을 나눴다</MF_RememberWhen.logRulesInitiator.rulesStrings.4>
+  <MF_RememberWhen.logRulesInitiator.rulesStrings.5>reminisced->그날을 떠올렸다</MF_RememberWhen.logRulesInitiator.rulesStrings.5>
+</LanguageData>

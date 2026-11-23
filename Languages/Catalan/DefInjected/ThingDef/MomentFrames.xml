@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>marc de foto</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Un petit marc de paret per a una fotografia de la colònia. Seleccioneu-lo per triar o canviar la foto; la conserva quan es desinstal·la i es trasllada. S’ha de penjar en una paret. Es fa a la taula d’escultor; la qualitat en determina la bellesa.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>marc de foto ample</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Un marc de paret de dues caselles, més ample que el petit: fet per a fotografies amples. Només es penja en parets horitzontals. Conserva la foto quan es trasllada. Es fa a la taula d’escultor; la qualitat en determina la bellesa.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>cavallet de foto</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Un cavallet independent (2x2) que mostra una fotografia de la colònia prou gran per distingir-hi la gent. Es pot col·locar a qualsevol lloc i traslladar després sense perdre la foto. Es fa a la taula d’escultor; la qualitat en determina la bellesa.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>plafó de foto</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Un gran plafó independent (3x2) per a una fotografia de la colònia, la manera més gran de mostrar un moment. Es pot traslladar sense perdre la foto. Es fa a la taula d’escultor; la qualitat en determina la bellesa.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>plafó de collage</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Un plafó independent amb paspartú (3x2) i quatre finestres iguals per a fotografies de la colònia, cada foto retallada per omplir la seva finestra. Trieu una foto per a cada finestra; les buides queden en blanc. Es pot traslladar sense perdre les fotos. Es fa a la taula d’escultor.</MF_PhotoCollage.description>
+  <MF_Projector.label>projector de diapositives</MF_Projector.label>
+  <MF_Projector.description>Projecta fotografies de la colònia al davant. Trieu una fotografia fixa o una pel·lícula, i una amplada i alçada predefinides o personalitzades. El control d’ordre de dibuix posa la imatge darrere dels objectes o davant. Les pel·lícules normals canvien en temps real; les de la nit de records canvien amb el rellotge de joc de l’esdeveniment. Els colons la poden mirar com a entreteniment. No necessita electricitat. Col·loqueu-lo des d’Altres, al costat de les eines de foto; els colons el construeixen amb el material triat.</MF_Projector.description>
+  <MF_MemorialFrame.label>portafotos commemoratiu</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Un petit marc dret per posar al costat d’una tomba o un sarcòfag. Tot sol mostra l’última fotografia de la persona enterrada al costat; també podeu triar una foto a mà. Està buit fins que no té al costat una tomba amb un cos. Es fa a la taula d’escultor.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>punt de fotos</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Marca on es fan les fotos de grup. Seleccioneu-lo i premeu «Foto de grup»: tots els colons del mapa que estiguin desperts i lliures es posen en fila darrere seu (al nord, els més joves al davant), miren a la càmera i es fa la foto quan tothom està quiet. Deixeu terra lliure darrere del punt per a les files. Es col·loca a l’instant i no costa res.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>arbre dels records</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Un expositor de fusta per a 35 fotografies de la colònia. Les fotos noves omplen les branques buides i després substitueixen la foto més antiga no fixada. Trieu i fixeu les preferides, o filtreu les fotos automàtiques per tipus. Es fa a la taula d’escultor; conserva les fotografies quan es trasllada.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>fons d’estudi fotogràfic</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Un fons de tela per a retrats de família i de grup. Seleccioneu-lo per triar els participants. Tothom es reuneix davant del fons i es fa una fotografia automàticament. L’enquadrament automàtic inclou tant la gent com el fons. Fins a quinze participants drets; els nadons van als braços d’un tutor. Gireu-lo abans de construir-lo per definir la direcció de la pose.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>arc de jardí fotogràfic</MF_StudioArch.label>
+  <MF_StudioArch.description>Un arc circular per a retrats a l’aire lliure. Fa servir la mateixa selecció de participants i el mateix enquadrament automàtic que el fons d’estudi. Mantingueu lliure la zona de pose marcada. Els nadons van amb un tutor. Gireu-lo abans de construir-lo per definir la direcció de la pose.</MF_StudioArch.description>
+  <MF_StudioSofa.label>sofà d’estudi fotogràfic (accessori)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Un sofà de retrat de tres places. Col·loqueu-lo dins la zona de pose d’un estudi, orientat com el fons. Els participants ocupen aquestes places abans de les files dretes. Fa servir el dibuix habitual dels personatges, sense cap animació nova d’asseure’s. És un accessori per posar, no un seient per menjar ni per a l’entreteniment de cada dia.</MF_StudioSofa.description>
+  <MF_StudioBench.label>banc d’estudi fotogràfic (accessori)</MF_StudioBench.label>
+  <MF_StudioBench.description>Un banc encoixinat de tres places per a retrats. Col·loqueu-lo a la zona de pose, orientat com el fons. És un accessori per posar, no un seient per menjar ni per a l’entreteniment de cada dia.</MF_StudioBench.description>
+  <MF_StudioChair.label>butaca d’estudi fotogràfic (accessori)</MF_StudioChair.label>
+  <MF_StudioChair.description>Una butaca de retrat individual. Col·loqueu-la al centre, al davant, per a qui fa anys, o afegiu-la a la zona de pose de l’estudi. És un accessori per posar, no un seient per menjar ni per a l’entreteniment de cada dia.</MF_StudioChair.description>
+  <MF_StudioLamp.label>llum d’estudi fotogràfic</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Un llum de retrat amb electricitat. El mode automàtic l’encén mentre l’estudi més proper de la mateixa cambra (a menys de deu caselles) reuneix la gent o l’espera per repetir fotos. Dispersar el grup l’apaga. Els modes Encès i Apagat anul·len el control automàtic. Les fotografies d’estudi conserven aquesta il·luminació.</MF_StudioLamp.description>
+</LanguageData>

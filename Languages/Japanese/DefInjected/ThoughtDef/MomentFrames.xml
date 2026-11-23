@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>自分の写真を見た</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>自分が写っている写真の前に立って、あの日を思い出した。</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>{0}と思い出を語り合った</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>二人とも写っている古い写真を見て、あの日のことを話した。</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>思い出の夜</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>映写機に映るコロニーの写真をみんなで見て、ここまでの道のりを思い出した。</MF_MemoryNight.stages.0.description>
+</LanguageData>

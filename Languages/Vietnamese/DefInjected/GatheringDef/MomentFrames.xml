@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>đêm kỷ niệm</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Đêm kỷ niệm</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} đang tổ chức một đêm kỷ niệm bên máy chiếu. Ai đến dự sẽ cùng xem ảnh của khu định cư và có tâm trạng tốt lâu dài.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Đêm kỷ niệm đã bị hủy.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Đêm kỷ niệm đã kết thúc.</MF_MemoryNight.finishedMessage>
+</LanguageData>

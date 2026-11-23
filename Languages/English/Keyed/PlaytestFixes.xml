@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BirthdayShoot>Take birthday photo ({0})</MF_BirthdayShoot>
+  <MF_BirthdayShootDesc>Photograph the birthday subject and all selected guests once they are ready. The gathering ends after the photo is saved.</MF_BirthdayShootDesc>
+  <MF_BirthdayMoveAnchor>Choose another place</MF_BirthdayMoveAnchor>
+  <MF_RecordOnly>Event record\nNo photo</MF_RecordOnly>
+  <MF_Why_Asleep>Asleep</MF_Why_Asleep>
+  <MF_Why_Baby>Baby — cannot walk to a pose</MF_Why_Baby>
+  <MF_BirthdayReady>Everyone is in place. Taking the birthday photo automatically.</MF_BirthdayReady>
+  <MF_BirthdayWaitAll>Wait for every selected guest to arrive, or edit the guest list.</MF_BirthdayWaitAll>
+  <MF_BirthdaySubjectMissing>The birthday subject is missing. Prepare the photo with them in frame.</MF_BirthdaySubjectMissing>
+  <MF_BirthdayRetryCapture>The photo was not saved. Check the setup and try again.</MF_BirthdayRetryCapture>
+  <MF_BirthdayEditGuests>Edit birthday guests</MF_BirthdayEditGuests>
+  <MF_BirthdaySetupHelp>Choose guests and the formation direction. The photo is taken automatically once everyone arrives; guests leave after it is saved. Sleeping guests are woken when called. You can reopen the birthday letter after cancelling.</MF_BirthdaySetupHelp>
+  <MF_BirthdayAtBed>The subject stays at ({0}, {1}); guests gather around them.</MF_BirthdayAtBed>
+  <MF_BirthdayPlace>Formation anchor: ({0}, {1})</MF_BirthdayPlace>
+  <MF_BirthdayRecommended>Recommend close people</MF_BirthdayRecommended>
+  <MF_BirthdayAllGuests>All available colonists</MF_BirthdayAllGuests>
+  <MF_BirthdayOnlySelf>Subject only</MF_BirthdayOnlySelf>
+  <MF_DirectionNorth>Stand north</MF_DirectionNorth>
+  <MF_DirectionEast>Stand east</MF_DirectionEast>
+  <MF_DirectionSouth>Stand south</MF_DirectionSouth>
+  <MF_DirectionWest>Stand west</MF_DirectionWest>
+  <MF_BirthdaySubject>Birthday subject · required</MF_BirthdaySubject>
+  <MF_BirthdayCapacity>{0} selected · {1} spaces for {2} walking guests. Change direction or guests if there is not enough room.</MF_BirthdayCapacity>
+  <MF_BirthdayPreview>Preview positions</MF_BirthdayPreview>
+  <MF_BirthdayPreviewInfo>Blue cells show guest positions. Return to the guest window after checking them.</MF_BirthdayPreviewInfo>
+  <MF_BirthdayApplyGuests>Apply guests and positions</MF_BirthdayApplyGuests>
+  <MF_BirthdayStartGather>Gather selected people</MF_BirthdayStartGather>
+  <MF_BirthdayGuestsChanged>A selected guest is no longer available. Check the guest list again.</MF_BirthdayGuestsChanged>
+  <MF_BattleNoSubject>The threat subsided. No enemies or remains were left to photograph, so this entry has no photo.</MF_BattleNoSubject>
+  <MF_PhotoFactPeople>{0}. {1} people appear in this photo.</MF_PhotoFactPeople>
+  <MF_PhotoFactScene>{0}. This photo shows the place at that time.</MF_PhotoFactScene>
+  <MF_Adoption>Adoption: {0}</MF_Adoption>
+  <MF_BabyArrival>A child joins: {0}</MF_BabyArrival>
+  <MF_Kind_adoption>Adoption</MF_Kind_adoption>
+  <MF_Kind_babyarrival>Child arrival</MF_Kind_babyarrival>
+  <MF_Life_adopted>Adopted into the colony</MF_Life_adopted>
+  <MF_Caption_colonystart_1>Belongings claimed the ground before this place felt like a home.</MF_Caption_colonystart_1>
+  <MF_Caption_colonystart_2>The first faces of those who would live here.</MF_Caption_colonystart_2>
+  <MF_Caption_colonystart_3>A new life found room among the grass and stones.</MF_Caption_colonystart_3>
+  <MF_Caption_colonystart_4>The colony’s time began on this ground.</MF_Caption_colonystart_4>
+  <MF_Caption_colonystart_5>The place for a home was still an open choice.</MF_Caption_colonystart_5>
+  <MF_Caption_colonystart_6>The belongings set down together marked a small beginning.</MF_Caption_colonystart_6>
+  <MF_Caption_colonystart_7>This is how the land looked before it became familiar.</MF_Caption_colonystart_7>
+  <MF_Caption_colonystart_8>One image of the first day was kept.</MF_Caption_colonystart_8>
+  <MF_Caption_mechlink_1>A new connection made new work possible.</MF_Caption_mechlink_1>
+  <MF_Caption_mechlink_2>A moment of a life linked to machines.</MF_Caption_mechlink_2>
+  <MF_Caption_mechlink_3>The day a new connection was made.</MF_Caption_mechlink_3>
+  <MF_Caption_mechlink_4>A different set of possibilities quietly opened.</MF_Caption_mechlink_4>
+  <MF_Caption_mechlink_5>The photo shows where that change began.</MF_Caption_mechlink_5>
+  <MF_Caption_mechlink_6>A view after the mechlink was fitted.</MF_Caption_mechlink_6>
+  <MF_Caption_mechlink_7>Another ability became available that day.</MF_Caption_mechlink_7>
+  <MF_Caption_mechlink_8>The start of the connection belonged to one person’s life.</MF_Caption_mechlink_8>
+  <MF_Caption_ending_1>The colony’s history reached a turning point.</MF_Caption_ending_1>
+  <MF_Caption_ending_2>A choice beyond the life lived here came into view.</MF_Caption_ending_2>
+  <MF_Caption_ending_3>The days leading here extend beyond this image.</MF_Caption_ending_3>
+  <MF_Caption_ending_4>A view from the threshold of the next chapter.</MF_Caption_ending_4>
+  <MF_Caption_ending_5>A different time had gathered here since the beginning.</MF_Caption_ending_5>
+  <MF_Caption_ending_6>One photo kept the fact of having reached this point.</MF_Caption_ending_6>
+  <MF_Caption_ending_7>The scene carried traces of the days before it.</MF_Caption_ending_7>
+  <MF_Caption_ending_8>An edge of the long journey was kept in a photo.</MF_Caption_ending_8>
+  <MF_Caption_adoption_1>A new family member’s arrival.</MF_Caption_adoption_1>
+  <MF_Caption_adoption_2>From this day, life would be shared in this colony.</MF_Caption_adoption_2>
+  <MF_Caption_adoption_3>A view of the day the child was welcomed.</MF_Caption_adoption_3>
+  <MF_Caption_adoption_4>A new beginning for the family, kept in one image.</MF_Caption_adoption_4>
+  <MF_Caption_babyarrival_1>The day a child joined the colony.</MF_Caption_babyarrival_1>
+  <MF_Caption_babyarrival_2>The arriving child was added to the record.</MF_Caption_babyarrival_2>
+  <MF_Caption_babyarrival_3>The first place shared together.</MF_Caption_babyarrival_3>
+  <MF_Caption_babyarrival_4>One more person joined the colony.</MF_Caption_babyarrival_4>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>vaatasin fotot, kus olen ise peal</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Seisin foto ees, kus ma ise peal olen, ja meenutasin seda päeva.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>meenutasime koos: {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Vaatasime vana fotot, kus me mõlemad peal oleme, ja rääkisime sellest päevast.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>mälestuste õhtu</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Vaatasime projektorilt koos koloonia fotosid ja meenutasime, kuidas siia jõudsime.</MF_MemoryNight.stages.0.description>
+</LanguageData>

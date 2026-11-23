@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_PhotoFrame.label>fotorámeček</MF_PhotoFrame.label>
+  <MF_PhotoFrame.description>Malý rámeček na zeď pro jednu fotografii kolonie. Vyber ho a zvol nebo vyměň fotku; při odinstalování a přesunu si fotku ponechá. Musí viset na zdi. Vyrábí se u sochařského stolu; kvalita určuje jeho krásu.</MF_PhotoFrame.description>
+  <MF_PhotoFrameWide.label>široký fotorámeček</MF_PhotoFrameWide.label>
+  <MF_PhotoFrameWide.description>Rámeček na zeď přes dvě políčka, širší než ten malý: určený pro široké fotografie. Visí jen na vodorovných zdech. Při přesunu si fotku ponechá. Vyrábí se u sochařského stolu; kvalita určuje jeho krásu.</MF_PhotoFrameWide.description>
+  <MF_PhotoEasel.label>fotostojan</MF_PhotoEasel.label>
+  <MF_PhotoEasel.description>Volně stojící stojan (2x2) s fotografií kolonie tak velkou, že jsou na ní poznat lidé. Dá se postavit kamkoliv a později přesunout bez ztráty fotky. Vyrábí se u sochařského stolu; kvalita určuje jeho krásu.</MF_PhotoEasel.description>
+  <MF_PhotoBoard.label>výstavní fotopanel</MF_PhotoBoard.label>
+  <MF_PhotoBoard.description>Velký volně stojící výstavní panel (3x2) na fotografii kolonie, největší způsob, jak ukázat nějaký okamžik. Lze přesunout bez ztráty fotky. Vyrábí se u sochařského stolu; kvalita určuje jeho krásu.</MF_PhotoBoard.description>
+  <MF_PhotoCollage.label>panel s fotokoláží</MF_PhotoCollage.label>
+  <MF_PhotoCollage.description>Volně stojící panel s paspartou (3x2) se čtyřmi stejnými okénky pro fotografie kolonie; každá fotka se ořízne tak, aby okénko vyplnila. Pro každé okénko vyber fotku; prázdná okénka zůstanou prázdná. Lze přesunout bez ztráty fotek. Vyrábí se u sochařského stolu.</MF_PhotoCollage.description>
+  <MF_Projector.label>diaprojektor</MF_Projector.label>
+  <MF_Projector.description>Promítá fotografie kolonie před sebe. Zvol jednu pevnou fotografii nebo film a přednastavenou nebo vlastní šířku a výšku. Ovládání pořadí kreslení umístí obraz za objekty nebo před ně. Běžné filmy se mění v reálném čase; filmy pro večer vzpomínek se mění podle herního času události. Členové kolonie se na něj mohou dívat kvůli relaxaci. Nepotřebuje energii. Umisťuje se ze záložky Doplňky vedle fotonástrojů; členové kolonie ho postaví z vybraného materiálu.</MF_Projector.description>
+  <MF_MemorialFrame.label>pamětní fotostojánek</MF_MemorialFrame.label>
+  <MF_MemorialFrame.description>Malý stojací rámeček, který se staví vedle hrobu nebo sarkofágu. Sám ukazuje nejnovější fotografii osoby pohřbené vedle něj; fotku můžeš vybrat i ručně. Dokud vedle něj není hrob s tělem, zůstává prázdný. Vyrábí se u sochařského stolu.</MF_MemorialFrame.description>
+  <MF_PhotoSpot.label>místo pro focení</MF_PhotoSpot.label>
+  <MF_PhotoSpot.description>Označuje místo, kde se pořizují skupinové fotky. Vyber ho a stiskni „Skupinová fotka“: všichni členové kolonie na mapě, kteří jsou vzhůru a volní, se seřadí za ním (na sever, nejmladší vpředu), otočí se ke kameře a fotka se pořídí, jakmile všichni stojí v klidu. Za místem nech pro řady volnou podlahu. Umístí se okamžitě a nic nestojí.</MF_PhotoSpot.description>
+  <MF_MemoryTree.label>strom vzpomínek</MF_MemoryTree.label>
+  <MF_MemoryTree.description>Dřevěná expozice pro 35 fotografií kolonie. Nové fotky zaplní prázdné větve, potom nahrazují nejstarší nepřipnutou fotku. Vybírej a připínej oblíbené nebo filtruj automatické fotky podle druhu. Vyrábí se u sochařského stolu; při přesunu si fotografie ponechá.</MF_MemoryTree.description>
+  <MF_StudioBackdrop.label>pozadí fotoateliéru</MF_StudioBackdrop.label>
+  <MF_StudioBackdrop.description>Plátěné pozadí pro rodinné a skupinové portréty. Vyber ho a zvol účastníky. Všichni se shromáždí před pozadím a fotka se pořídí automaticky. Automatický záběr zahrnuje lidi i pozadí. Až patnáct stojících účastníků; novorozence nese v náručí opatrovník. Otočením před stavbou nastavíš směr pózování.</MF_StudioBackdrop.description>
+  <MF_StudioArch.label>zahradní fotooblouk</MF_StudioArch.label>
+  <MF_StudioArch.description>Kruhový oblouk pro portréty venku. Používá stejný výběr účastníků a automatický záběr jako pozadí fotoateliéru. Označenou plochu pro pózování nech volnou. Novorozence nese opatrovník. Otočením před stavbou nastavíš směr pózování.</MF_StudioArch.description>
+  <MF_StudioSofa.label>pohovka do fotoateliéru (rekvizita)</MF_StudioSofa.label>
+  <MF_StudioSofa.description>Třímístná portrétní pohovka. Umísti ji do plochy pro pózování v ateliéru, otočenou stejným směrem jako pozadí. Účastníci obsadí tato místa dříve než stojící řady. Používá se běžné vykreslení postav, bez nové animace sezení. Rekvizita k pózování, ne sedadlo pro každodenní jídlo nebo relaxaci.</MF_StudioSofa.description>
+  <MF_StudioBench.label>lavice do fotoateliéru (rekvizita)</MF_StudioBench.label>
+  <MF_StudioBench.description>Třímístná polstrovaná lavice pro portréty. Umísti ji do plochy pro pózování, otočenou stejným směrem jako pozadí. Rekvizita k pózování, ne sedadlo pro každodenní jídlo nebo relaxaci.</MF_StudioBench.description>
+  <MF_StudioChair.label>křeslo do fotoateliéru (rekvizita)</MF_StudioChair.label>
+  <MF_StudioChair.description>Jediné portrétní křeslo. Postav ho dopředu doprostřed pro oslavence, nebo ho přidej do plochy pro pózování v ateliéru. Rekvizita k pózování, ne sedadlo pro každodenní jídlo nebo relaxaci.</MF_StudioChair.description>
+  <MF_StudioLamp.label>světlo do fotoateliéru</MF_StudioLamp.label>
+  <MF_StudioLamp.description>Portrétní světlo na energii. V automatickém režimu se rozsvítí, když se nejbližší ateliér ve stejné místnosti (do deseti políček) schází nebo čeká na přefocení. Rozpuštěním skupiny zhasne. Režimy Zapnuto a Vypnuto mají přednost před automatikou. Ateliérové fotografie toto osvětlení zachovají.</MF_StudioLamp.description>
+</LanguageData>

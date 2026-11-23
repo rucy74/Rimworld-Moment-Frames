@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<MF_Face0>Default</MF_Face0><MF_Face1>Smile</MF_Face1><MF_Face2>Closed-eye smile</MF_Face2><MF_Face3>Surprise</MF_Face3><MF_Face4>Sad</MF_Face4>
+<MF_FaceChoice>Facial expression: {0}</MF_FaceChoice><MF_FaceUnsupported>Unavailable</MF_FaceUnsupported>
+<MF_FaceHelp>Changes the actual face only during capture, separately from reaction bubbles. Default preserves the usual face. Requires supported face textures for this pawn and direction. Existing temporary animations take priority; back-facing poses are unchanged. Saved presets include these choices.</MF_FaceHelp>
+<MF_FacePreviewHelp>Preview of the selected expression. Hover to enlarge.</MF_FacePreviewHelp>
+<MF_FacePreviewBusy>Another expression is playing</MF_FacePreviewBusy>
+</LanguageData>

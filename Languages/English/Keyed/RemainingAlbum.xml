@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Extras_Remembrance>Look back through photos</MF_Extras_Remembrance>
+  <MF_Extras_ColonyRemembrance>Moments we kept</MF_Extras_ColonyRemembrance>
+  <MF_Extras_PersonRemembrance>Moments with {0}</MF_Extras_PersonRemembrance>
+  <MF_Extras_ChooseRemembrance>Choose colony or person</MF_Extras_ChooseRemembrance>
+  <MF_Extras_RemembranceHint>Up to 5 actual photos are chosen by event type and time between moments. Press play to view each for 12 seconds. Your game speed stays yours.</MF_Extras_RemembranceHint>
+  <MF_Extras_NoRemembrance>There are no photos to look back on yet.</MF_Extras_NoRemembrance>
+  <MF_Extras_StopSlides>Pause slideshow</MF_Extras_StopSlides>
+  <MF_Extras_PlaySlides>View one at a time</MF_Extras_PlaySlides>
+  <MF_Extras_OpenInAlbum>View in album</MF_Extras_OpenInAlbum>
+  <MF_Extras_OtherDays>Photos from other days</MF_Extras_OtherDays>
+  <MF_Extras_RefreshFolder>Look through the photo folder again</MF_Extras_RefreshFolder>
+  <MF_Extras_ScanHint>Compare this colony's folder with the current save's photo list. Preview photos and import only those you check. Externally changed images are copied into new edited versions; originals are never removed or overwritten. For older photos the baseline is their first observed file state, so changes made before then cannot be identified.</MF_Extras_ScanHint>
+  <MF_Extras_OtherDay>Photo absent from the current save's list</MF_Extras_OtherDay>
+  <MF_Extras_NewImage>Newly found image</MF_Extras_NewImage>
+  <MF_Extras_ChangedImage>Externally changed image · import as new edit</MF_Extras_ChangedImage>
+  <MF_Extras_MissingImage>Missing from folder · record retained</MF_Extras_MissingImage>
+  <MF_Extras_Duplicate>Identical content is already registered</MF_Extras_Duplicate>
+  <MF_Extras_KnownHistory>This mod previously stored photo information. It cannot tell why the current save lacks this photo or whether it belongs to another timeline.</MF_Extras_KnownHistory>
+  <MF_Extras_UncertainHistory>The capture date and event cannot be verified. Any information recovered from a filename is a clue, not confirmed history.</MF_Extras_UncertainHistory>
+  <MF_Extras_NoCandidates>There are no photos to import. Original files and existing records remain stored.</MF_Extras_NoCandidates>
+  <MF_Extras_SelectPreview>Click a photo on the left to preview it.</MF_Extras_SelectPreview>
+  <MF_Extras_Rescan>Read again</MF_Extras_Rescan>
+  <MF_Extras_ImportSelected>Import {0} selected photos</MF_Extras_ImportSelected>
+  <MF_Extras_ImportResult>{0} imported · {1} could not be imported</MF_Extras_ImportResult>
+  <MF_Extras_ImportUnavailable>This photo cannot be imported into the current colony.</MF_Extras_ImportUnavailable>
+  <MF_Extras_ImageTooLarge>Photos can be up to 64MB and 8192px on each side. The original was not changed.</MF_Extras_ImageTooLarge>
+  <MF_Extras_ImageChanged>The file changed while you were reviewing it. Read again and select it anew.</MF_Extras_ImageChanged>
+  <MF_Extras_InvalidPng>The PNG could not be read. Check that it opens in an image editor. The original was not changed.</MF_Extras_InvalidPng>
+  <MF_Extras_ImportedNote>A photo explicitly imported by the user; its event cannot be verified in the current save.</MF_Extras_ImportedNote>
+  <MF_Extras_UnknownDate>Capture date unverified</MF_Extras_UnknownDate>
+  <MF_Extras_EventPeople>People in the event at that time: {0}</MF_Extras_EventPeople>
+  <MF_Kind_otherday>Photos from other days</MF_Kind_otherday>
+  <MF_Kind_external>Imported photo</MF_Kind_external>
+</LanguageData>

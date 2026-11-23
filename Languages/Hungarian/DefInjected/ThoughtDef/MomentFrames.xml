@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>megnéztem egy fényképet magamról</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Megálltam egy fénykép előtt, amelyen rajta vagyok, és eszembe jutott az a nap.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>{0} társaságában emlékeztem</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Megnéztünk egy régi fényképet, amelyen mindketten rajta vagyunk, és arról a napról beszélgettünk.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>emlékest</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Együtt néztük a kolónia fényképeit a vetítőn, és felidéztük, hogyan jutottunk idáig.</MF_MemoryNight.stages.0.description>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>anı gecesi</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Anı gecesi</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} projektörün başında bir anı gecesi düzenliyor. Gelen herkes koloninin fotoğraflarını birlikte izleyecek ve kalıcı bir iyi ruh hâli kazanacak.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Anı gecesi iptal edildi.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Anı gecesi sona erdi.</MF_MemoryNight.finishedMessage>
+</LanguageData>

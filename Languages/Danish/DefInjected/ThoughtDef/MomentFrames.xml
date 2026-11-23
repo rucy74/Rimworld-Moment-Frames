@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_ViewedOwnPhoto.stages.0.label>så på et foto af mig selv</MF_ViewedOwnPhoto.stages.0.label>
+  <MF_ViewedOwnPhoto.stages.0.description>Jeg stod foran et foto, jeg selv er med på, og tænkte tilbage på den dag.</MF_ViewedOwnPhoto.stages.0.description>
+  <MF_RememberedTogether.stages.0.label>mindedes gamle dage med {0}</MF_RememberedTogether.stages.0.label>
+  <MF_RememberedTogether.stages.0.description>Vi så på et gammelt foto, vi begge er med på, og snakkede om den dag.</MF_RememberedTogether.stages.0.description>
+  <MF_MemoryNight.stages.0.label>mindeaften</MF_MemoryNight.stages.0.label>
+  <MF_MemoryNight.stages.0.description>Vi så koloniens fotos sammen på projektoren og tænkte tilbage på, hvordan vi nåede hertil.</MF_MemoryNight.stages.0.description>
+</LanguageData>

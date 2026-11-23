@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- "Remember when?" — between two pawns who are both in a photo hung on their map. The worker decides when it can happen. -->
+  <InteractionDef>
+    <defName>MF_RememberWhen</defName>
+    <label>reminiscing</label>
+    <workerClass>MomentFrames.InteractionWorker_RememberWhen</workerClass>
+    <symbol>UI/MomentFrames/Camera</symbol>
+    <initiatorXpGainSkill>Social</initiatorXpGainSkill>
+    <initiatorXpGainAmount>8</initiatorXpGainAmount>
+    <logRulesInitiator>
+      <rulesStrings>
+        <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [reminisced] over a photograph on the wall.</li>
+        <li>r_logentry->[INITIATOR_nameDef] pointed at an old photograph and [reminisced] with [RECIPIENT_nameDef].</li>
+        <li>reminisced(p=3)->reminisced</li>
+        <li>reminisced->laughed about old times</li>
+        <li>reminisced->traded memories</li>
+        <li>reminisced->remembered that day</li>
+      </rulesStrings>
+    </logRulesInitiator>
+  </InteractionDef>
+
+</Defs>

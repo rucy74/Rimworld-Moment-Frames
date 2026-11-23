@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_MF_Projector.label>Diaprojektor herstellen</Make_MF_Projector.label>
+  <Make_MF_Projector.description>Stelle einen Diaprojektor her. Dieses alte Rezept bleibt für bestehende gespeicherte Aufträge erhalten; neue Projektoren werden über Diverses gebaut.</Make_MF_Projector.description>
+  <Make_MF_Projector.jobString>Stellt Diaprojektor her.</Make_MF_Projector.jobString>
+</LanguageData>

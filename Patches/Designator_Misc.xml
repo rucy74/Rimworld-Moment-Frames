@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/DesignationCategoryDef[defName="Misc"]/specialDesignatorClasses</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/DesignationCategoryDef[defName="Misc"]/specialDesignatorClasses</xpath>
+      <value>
+        <li>MomentFrames.Designator_TakePhoto</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/DesignationCategoryDef[defName="Misc"]</xpath>
+      <value>
+        <specialDesignatorClasses>
+          <li>MomentFrames.Designator_TakePhoto</li>
+        </specialDesignatorClasses>
+      </value>
+    </nomatch>
+  </Operation>
+</Patch>

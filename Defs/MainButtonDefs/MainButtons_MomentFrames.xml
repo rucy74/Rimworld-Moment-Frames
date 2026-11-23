@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Bottom-bar tab: the colony photo album (photos + chronicle). -->
+  <MainButtonDef>
+    <defName>MF_Album</defName>
+    <label>album</label>
+    <description>Colony photo album: every photograph taken so far, by kind, person and year, and the chronicle of milestones.</description>
+    <tabWindowClass>MomentFrames.MainTabWindow_Album</tabWindowClass>
+    <order>78</order>
+    <validWithoutMap>false</validWithoutMap>
+    <!-- Icon-only, half-width tab (like the other icon tabs when the bar is crowded). The label shows as the tooltip. -->
+    <iconPath>UI/MomentFrames/AlbumTab</iconPath>
+    <minimized>true</minimized>
+  </MainButtonDef>
+
+</Defs>

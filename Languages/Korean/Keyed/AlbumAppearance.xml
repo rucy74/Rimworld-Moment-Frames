@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Appearance_Title>앨범의 모양</MF_Appearance_Title>
+  <MF_Appearance_Hint>앨범, 인물 연대기와 한 해 회고에 함께 적용합니다. 테마를 바꿔도 글꼴과 크기는 유지됩니다.</MF_Appearance_Hint>
+  <MF_Appearance_Theme>테마: {0}</MF_Appearance_Theme>
+  <MF_Appearance_Font>글꼴: {0}</MF_Appearance_Font>
+  <MF_Appearance_Size>글자 크기: {0}%</MF_Appearance_Size>
+  <MF_Appearance_Reset>모양 기본값으로 되돌리기</MF_Appearance_Reset>
+  <MF_Theme_leather>가죽 앨범</MF_Theme_leather>
+  <MF_Theme_archive>아이보리 기록실</MF_Theme_archive>
+  <MF_Theme_darkroom>야간 암실</MF_Theme_darkroom>
+  <MF_Theme_field>필드노트</MF_Theme_field>
+  <MF_Theme_linen>남색 리넨</MF_Theme_linen>
+  <MF_Theme_pencil>연필 스케치북</MF_Theme_pencil>
+  <MF_Theme_ink>잉크 여행노트</MF_Theme_ink>
+  <MF_Theme_crayon>색연필 기억장</MF_Theme_crayon>
+  <MF_Theme_graphite>연필 수채 일지</MF_Theme_graphite>
+  <MF_Theme_watercolor>수채 스크랩북</MF_Theme_watercolor>
+  <MF_Theme_sepia>여행자의 기록장</MF_Theme_sepia>
+  <MF_Font_original>테마 기본</MF_Font_original>
+  <MF_Font_light>가는 연필</MF_Font_light>
+  <MF_Font_pencil>연필 손글씨</MF_Font_pencil>
+  <MF_Font_pen>펜 손글씨</MF_Font_pen>
+  <MF_Font_brush>붓 손글씨</MF_Font_brush>
+  <MF_Font_system>게임 기본 고딕</MF_Font_system>
+</LanguageData>

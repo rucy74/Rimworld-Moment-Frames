@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Feedback_SurveyResolution>정착지 전경 화질</MF_Feedback_SurveyResolution>
+  <MF_Feedback_SurveyResolutionHelp>앞으로 찍는 전체 지도와 네 구역에 적용해요. 325칸 지도에서 기본 16px/칸은 전체 5200 × 5200px예요. 높은 화질은 촬영 순간과 저장 시간이 늘고 임시 메모리를 더 써요. 게임 배속은 바꾸지 않아요. 기존 사진의 화질은 바뀌지 않아요.</MF_Feedback_SurveyResolutionHelp>
+  <MF_Feedback_Survey8>가볍게 · 8px/칸</MF_Feedback_Survey8>
+  <MF_Feedback_Survey12>보통 · 12px/칸</MF_Feedback_Survey12>
+  <MF_Feedback_Survey16>선명하게 · 16px/칸 (기본)</MF_Feedback_Survey16>
+  <MF_Feedback_Survey24>아주 선명하게 · 24px/칸</MF_Feedback_Survey24>
+  <MF_Caption_scene_wedding_pair_1>{6}와(과) {7}의 결혼식. 두 사람의 모습이 한 장에 함께 남았다.</MF_Caption_scene_wedding_pair_1>
+  <MF_Caption_scene_wedding_pair_2>결혼식 사진에 {6}와(과) {7}의 모습이 나란히 담겼다.</MF_Caption_scene_wedding_pair_2>
+  <MF_Caption_scene_wedding_pair_3>{6}와(과) {7}, 결혼식 날 함께 찍힌 모습.</MF_Caption_scene_wedding_pair_3>
+  <MF_Caption_scene_wedding_scene_1>결혼식이 열린 곳의 모습을 사진으로 남겼다.</MF_Caption_scene_wedding_scene_1>
+  <MF_Caption_scene_wedding_scene_group_1>결혼식 장소에서 함께 찍힌 사람들의 모습을 남겼다.</MF_Caption_scene_wedding_scene_group_1>
+  <MF_Caption_scene_wedding_later_1>결혼식 뒤 다시 본 장소의 모습이다. 그날의 행사 기록과 함께 남겼다.</MF_Caption_scene_wedding_later_1>
+  <MF_CaptureRememberShort>기본으로 기억</MF_CaptureRememberShort>
+</LanguageData>

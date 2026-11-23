@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_MemoryNight.label>mälestuste õhtu</MF_MemoryNight.label>
+  <MF_MemoryNight.letterTitle>Mälestuste õhtu</MF_MemoryNight.letterTitle>
+  <MF_MemoryNight.letterText>{ORGANIZER_labelShort} korraldab projektori juures mälestuste õhtu. Kõik, kes tulevad, vaatavad koos koloonia fotosid ja saavad kauaks hea tuju.</MF_MemoryNight.letterText>
+  <MF_MemoryNight.calledOffMessage>Mälestuste õhtu jäeti ära.</MF_MemoryNight.calledOffMessage>
+  <MF_MemoryNight.finishedMessage>Mälestuste õhtu on läbi.</MF_MemoryNight.finishedMessage>
+</LanguageData>

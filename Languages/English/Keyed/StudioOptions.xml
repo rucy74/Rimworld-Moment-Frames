@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_BirthdayDefaultSpot>Default birthday spot</MF_BirthdayDefaultSpot>
+  <MF_BirthdayDefaultSpotHelp>Prefer this location for birthdays on this map. You can change it in preparation. Choose again if the designated spot is removed.</MF_BirthdayDefaultSpotHelp>
+  <MF_Positions>Arrange positions</MF_Positions>
+  <MF_PositionsHelp>Drag a portrait, or click a person then a slot. Occupied slots swap. The top is the backdrop; the bottom is the front row. Carried babies share their guardian’s slot.</MF_PositionsHelp>
+  <MF_PositionsBack>Backdrop / back row</MF_PositionsBack>
+  <MF_PositionsAuto>Reset to automatic</MF_PositionsAuto>
+  <MF_PositionsApply>Apply</MF_PositionsApply>
+  <MF_PositionsInvalid>An assigned slot is unavailable. Adjust positions or reset to automatic.</MF_PositionsInvalid>
+  <MF_Sessions>Save / load photo setup</MF_Sessions>
+  <MF_SessionSave>Save current configuration…</MF_SessionSave>
+  <MF_SessionLoad>Load {0}</MF_SessionLoad>
+  <MF_SessionDelete>Delete configuration…</MF_SessionDelete>
+  <MF_SessionDeleteConfirm>Delete shooting configuration “{0}”?</MF_SessionDeleteConfirm>
+  <MF_SessionHelp>Saves people, positions, location, guardians, expressions, emotes and framing choices in this save. The birthday subject remains the current subject.</MF_SessionHelp>
+  <MF_SessionReplace>Replace configuration “{0}”?</MF_SessionReplace>
+  <MF_SessionMissingSpot>The saved location is not available on this map. Select a location and save a new configuration.</MF_SessionMissingSpot>
+  <MF_SessionMissingPeople>Excluded {0} unavailable participants. Review the roster before gathering.</MF_SessionMissingPeople>
+  <MF_Background>Photo backdrop</MF_Background>
+  <MF_BackgroundAlbum>Choose from album</MF_BackgroundAlbum>
+  <MF_BackgroundFile>Choose image file</MF_BackgroundFile>
+  <MF_BackgroundReset>Reset crop</MF_BackgroundReset>
+  <MF_BackgroundClear>Remove photo backdrop</MF_BackgroundClear>
+  <MF_BackgroundClearConfirm>Remove the photo backdrop? The photo itself stays, but the position and zoom you set are lost.</MF_BackgroundClearConfirm>
+  <MF_BackgroundZoom>Zoom {0}×</MF_BackgroundZoom>
+  <MF_BackgroundHelp>Drag the image to position it. Only the upright cloth is filled. Apply stores a dedicated copy without changing the original image.</MF_BackgroundHelp>
+  <MF_BackgroundOpen>Open</MF_BackgroundOpen>
+  <MF_BackgroundParent>Parent folder</MF_BackgroundParent>
+  <MF_BackgroundMissing>Background file missing. Choose the image again.</MF_BackgroundMissing>
+  <MF_BackgroundTooLarge>Choose an image no larger than 32 MB.</MF_BackgroundTooLarge>
+  <MF_BackgroundFormat>Choose a PNG/JPG image up to 40 megapixels and 16384 pixels per side.</MF_BackgroundFormat>
+  <MF_BackgroundCurrent>Current photo backdrop</MF_BackgroundCurrent>
+</LanguageData>

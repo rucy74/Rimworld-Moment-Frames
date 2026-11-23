@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_LocationChoose>Choose a photo location</MF_LocationChoose>
+  <MF_LocationChange>Change location</MF_LocationChange>
+  <MF_LocationPreview>View on map</MF_LocationPreview>
+  <MF_LocationFree>Location chosen on the map</MF_LocationFree>
+  <MF_LocationNumbered>{0} {1}</MF_LocationNumbered>
+  <MF_LocationOutdoors>Outdoors</MF_LocationOutdoors>
+  <MF_LocationCoordinates>Map coordinates: ({0}, {1})</MF_LocationCoordinates>
+  <MF_LocationHelp>Choose a location, or inspect it on the map and return to preparation. Give places names to find them easily next time.</MF_LocationHelp>
+  <MF_LocationSelect>Use this location</MF_LocationSelect>
+  <MF_LocationSelectPreview>Choose and view on map</MF_LocationSelectPreview>
+  <MF_LocationRename>Rename</MF_LocationRename>
+  <MF_LocationRenameHelp>For example: Dining room portraits, Garden birthday spot. Leave blank to use the furniture's default name.</MF_LocationRenameHelp>
+  <MF_LocationSaveName>Save name</MF_LocationSaveName>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_DesignAlbum_NoMatches>No photos match this view.</MF_DesignAlbum_NoMatches>
+  <MF_DesignAlbum_NoMatchesHint>Try different filters or clear them.\nClearing also shows personal photos such as birthdays.</MF_DesignAlbum_NoMatchesHint>
+  <MF_DesignAlbum_ClearFilters>Clear filters</MF_DesignAlbum_ClearFilters>
+  <MF_DesignAlbum_VersionStatus>Viewing: {0}  ·  Used in album and frames: {1}</MF_DesignAlbum_VersionStatus>
+  <MF_DesignAlbum_ViewingVersion>Viewing: {0}</MF_DesignAlbum_ViewingVersion>
+  <MF_DesignAlbum_UsedVersion>Used in album and frames: {0}</MF_DesignAlbum_UsedVersion>
+  <MF_DesignAlbum_VersionHint>Thumbnails change only the viewing version. Use the apply button to choose the album and frame version.</MF_DesignAlbum_VersionHint>
+  <MF_DesignAlbum_Viewing>Viewing this version</MF_DesignAlbum_Viewing>
+  <MF_DesignAlbum_Used>Used in album and frames</MF_DesignAlbum_Used>
+  <MF_DesignAlbum_More>More</MF_DesignAlbum_More>
+  <MF_DesignAlbum_MoreHint>Change the title or note, choose the version used in the album and frames, follow linked photos, delete an edit, or open the folder.</MF_DesignAlbum_MoreHint>
+  <MF_DesignAlbum_UseVersion>Use this version in album and frames</MF_DesignAlbum_UseVersion>
+</LanguageData>
